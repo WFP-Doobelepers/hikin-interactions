@@ -1,0 +1,42 @@
+embeds:
+  - title: Dehya
+    color: 12784917
+    thumbnail:
+      url: "https://wangshengfp.org/_nuxt/img/Dehya.2a7023d.png"
+    description: |-
+      **A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.**
+
+
+options: #dropdown
+    
+  - label: Overview
+    value: characters/pyro/dehya/overview
+    description: WFP resources for Dehya FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Talents
+    value: characters/pyro/dehya/talents
+    description: WFP resources for Dehya FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Constellations
+    value: characters/pyro/dehya/constellations
+    description: WFP resources for Dehya FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Weapons
+    value: characters/pyro/dehya/weapons
+    description: WFP resources for Dehya FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+  - label: Teambuilding
+    value: characters/pyro/dehya/teambuilding1
+    description: WFP resources for Dehya FAQ.
+    emoji: ${EMOJIS.ELEMENT_PYRO }
+
+buttons:
+
+  - label: "WFP Website"
+    url: "https://wangshengfp.org/faq/dehya"
+    emoji: ${ EMOJIS.LOGO }
+    style: "LINK"
