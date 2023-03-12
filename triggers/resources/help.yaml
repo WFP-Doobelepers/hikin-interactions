@@ -1,0 +1,4 @@
+interaction: help/_main
+description: Keqing Bot Help
+match: ${ TRIGGER_PREFIX }(help|commands)(?:\s|$)
+ignoreCase: true
