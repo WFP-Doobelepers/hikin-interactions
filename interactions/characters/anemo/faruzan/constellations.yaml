@@ -1,0 +1,58 @@
+{
+  "embeds": [
+    {
+      "title": "__CONSTELLATIONS__\n\n**C1 - Truth By Any Means**",
+      "description": "Gives her the ability to fire two Hurricane Arrows when you use fully charged aimed shots, but only after you use her Skill, *Wind Realm of Nasamjnin*. Normally, you do not want to fire both of them twice due to energy ICD, which will not generate another instance of Energy with the second consecutive second shot; rather than that, the second Arrow should only be used when you miss the first shot. Rating: 1/5",
+      "color": null,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/c_761.webp"
+      }
+    },
+    {
+      "title": "**C2 - Overzealous Intellect**",
+      "description": "The polyhedron that is created during her burst stays for 6 seconds more on the field. A moderate constellation which can extend the rotation to around 22 seconds without losing its uptime. Rating: 2/5",
+      "color": null,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/c_762.webp"
+      }
+    },
+    {
+      "title": "**C3 - Spirit Orchard Stroll**",
+      "description": "Adds 3 more levels to her E skill. A minuscule damage buff, become better with her Constellation 6. Rating: 1/5",
+      "color": null,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/c_763.webp"
+      }
+    },
+    {
+      "title": "**C4 - Divine Comprehension**",
+      "description": "The vortex that is created by pressurized collapse gives her energy particles based on how many opponents it hits, minimum of 2 energy and 0.5 per extra enemy, up to 4. This Constellation alone does not solve her energy problem, but combined with C6 will. Rating: 2/5",
+      "color": null,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/c_764.webp"
+      }
+    },
+    {
+      "title": "**C5 - Wonderland of Rumination **",
+      "description": "Adds 3 more levels to her burst. Increase both the main Anemo carry and her own damage. Rating: 2.5/5",
+      "color": null,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/c_765.webp"
+      }
+    },
+    {
+      "title": "**C6 - The Wondrous Path of Truth **",
+      "description": "Characters that are in her burst’s field and obtain the Prayerful Wind’s Benefit will have their crit damage increase by 40% if they happen to deal Anemo damage, while also apply Pressurized Collapsed to the enemy. Not only does it improve the main Anemo carry damage, it also lowers both of their energy issues by triggering Pressurized Collapsed that deals more damage from C3, restore energies to Faruzan with C4 and generate Anemo particles overtime.  Rating: 6/5",
+      "color": null,
+      "footer": {
+        "text": "(section authored by Chaos)\n\nCredits to Athena, Akane, Gerry, and Chaos for the Faruzan FAQ! || WFP Theorycrafting"
+      },
+      "image": {
+        "url": "https://media.discordapp.net/attachments/957846543011024929/1046666109513895936/yi.png"
+      },
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/c_766.webp"
+      }
+    }
+  ],
+}

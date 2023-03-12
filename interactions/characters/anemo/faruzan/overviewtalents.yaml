@@ -1,0 +1,32 @@
+{
+  "content": "Faruzan Pre-TC FAQ by <@366206663533002774> (Team Lead, Author, Calcs), <@604540951708565515> (Author, Calcs, Consultant), <@178766970450214912> (Contributor), <@778698226252644412> (Contributor)\n\nFor all Faruzan Calcs you can reference: [Faruzan Mastersheet](https://docs.google.com/spreadsheets/d/1BCq5SuCjEjOWvzuH3piwwJx4EIAVvOTak2yEXwmvClk/edit#gid=0) by <@366206663533002774> and <@604540951708565515>, and [Faruzan Frames Mastersheet](https://docs.google.com/spreadsheets/d/1hibtmTzgvtgXJcu-6q1Zb9dPuVO8GC52AL7DkyeeFxI/edit?usp=sharing ) by <@367160010335191054>\n\nPre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this",
+  "embeds": [
+    {
+      "title": "__**CHARACTER OVERVIEW**__",
+      "description": "Faruzan is a 4* Anemo bow user whose kit revolves around buffing her team's Anemo damage while decreasing the enemies Anemo resistance. This allows her to serve as the staple support for a team with an Anemo DPS. \n\nFor stats, Energy Recharge is the most important stat on her. With her 80 energy cost, her ER requirements on her teams can reach extremely high levels. As her Energy requirements are quite high, Favonius Warbow is often recommended to be able to use her Elemental Burst off cooldown and continually support the Anemo DPS. ER sands, Anemo DMG% Goblet and CRIT% circlet can be used, CRIT Rate% becoming even more important with Favonius Warbow as her weapon.\n\nWhile her Elemental Skill can provide light crowd control for small enemies, the main part of her kit is her Elemental Burst, which provides the buffs for her Anemo DPS teammate. At C0 she is a serviceable Anemo DPS support that can be used. Her C1 allows her to use a second charged arrow after using her Skill. C2 increases her Burst length by 6 seconds to a total of 18. C4 allows her to gain more energy for the amount of characters hit by her Elemental Skill’s Charge Attack. C5 is notable since it adds 3 levels to her Elemental Burst, which boosts the Anemo damage bonus she gives. While her C2, C4 and C5 are decent, her C6 drastically improves her. Her C6 both adds CRIT Damage to Anemo attacks and significantly boosts her support capabilities for the team and herself, while reducing her ER% requirements for herself.",
+      "color": null,
+      "footer": {
+        "text": "(section authored by Gerry)"
+      },
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/faruzan_076_icon.webp"
+      }
+    },
+    {
+      "title": "__TALENT__",
+      "description": "**Leveling Priority: Burst > Skill > Normal Attack**",
+      "color": null,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/957846543011024929/1046663300496248842/Untitled75_20221128134548.png"
+      }
+    },
+    {
+      "title": "Analysis:",
+      "description": "Part of Faruzan’s kit increases Anemo damage by 32% of her base attack, so leveling her to at least 80/90 is recommended. Leveling her to 90 would maximize this buff that is based off her base attack, which is only increased by level and weapon. \n\nFaruzan’s Normal Attacks do not deal a great amount of damage and her Charge Attack damage mainly comes from her Elemental Skill. Most of her kit is focused around her Elemental Skill and Elemental Burst.\n\nWhen pressing her Elemental Skill, she will deal AOE Anemo Damage to nearby opponents and enter her Manifest Gale state. When in this state, her next fully charged arrow will apply Pressurized Collapse to enemies hit by the AOE. It causes light CC to nearby enemies, provides a fixed 30% Anemo RES decrease to enemies from her A1 and deals Anemo damage to enemies hit. This part of her kit provides decent grouping for small enemies that can make it easier for your Anemo DPS to target them. \n\nFaruzan’s Elemental Burst releases an Anemo Shape that moves in a triangular path on the field. When used, it reduces enemies Anemo RES by 30% while also boosting Anemo damage of nearby party members by 30.6% at Talent level 9. This is the most important part of her kit, providing herself and the Anemo DPS on the team with pretty good buffs. Recommend leveling this talent first over any of the others. \n\nHer 1st Ascension Talent reduces the time taken to charge a shot by 60% for her Charge Attack of her arrow after using her elemental skill. Also reducing enemies with the 30% Anemo RES on enemies hit by the Charge Attack’s AOE. Think of it like Sara’s A1 and Charge Attack after using her Elemental Skill. Decent A1 which helps boost her team’s damage outside of her burst. \n\nFaruzan’s 4th Ascension is when your characters deal Anemo damage while under the effects of Faruzan’s Elemental Burst, their Anemo damage is boosted by 32% of Faruzan’s Base Attack. While this isn’t the biggest damage increase (Especially if already pairing your Anemo DPS with an external attack buff like Bennett), it does still help overall. Leveling your weapon to 90 and leveling Faruzan to at least 80/90 should maximize this A4. \n\nLastly, her overworld Passive Talent is the basic expedition talent which gains an extra 25% of materials when dispatched in Sumeru for 20 hours.",
+      "color": null,
+      "footer": {
+        "text": "(section authored by Gerry)"
+      }
+    }
+  ],
+}
