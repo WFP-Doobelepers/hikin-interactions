@@ -1,42 +1,65 @@
-embeds:
-  - title: Dehya
-    color: 12784917
-    thumbnail:
-      url: "https://wangshengfp.org/_nuxt/img/Dehya.2a7023d.png"
-    description: |-
-      **A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.**
+{
+  "embeds": [
+    {
+      "title": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites.",
+      "color": 12784917,
+      "fields": [
+        {
+          "name": "Dehya Mastersheet by \nEmiliabyss#1641, Athena#2444, NatC#9175, Snowy#4028 and Sew#2409:",
+          "value": "[Google Sheet](https://docs.google.com/spreadsheets/d/18M33RAuZaLmD3a_MqA3LLPhE2WkO7EqlDIQW8jhFldw/edit#gid=981902297)"
+        },
+        {
+          "name": "Dehya Frames Mastersheet by jrm.spirit#2671:",
+          "value": "[Google Sheet](https://docs.google.com/spreadsheets/d/1LQaFUjHkniXZoT7nPztVlYZZC8FY6WxPm54LmLfXux4/edit#gid=0)"
+        }
+      ],
+      "author": {
+        "name": "Dehya FAQ"
+      },
+      "image": {
+        "url": "https://genshin.honeyhunterworld.com/img/dehya_079_gacha_splash.webp"
+      }
+    }
+  ],
 
-
-options: #dropdown
-    
-  - label: Overview
-    value: characters/pyro/dehya/overview
-    description: WFP resources for Dehya FAQ.
-    emoji: :Pyro:925598875853668353
-
-  - label: Talents
-    value: characters/pyro/dehya/talents
-    description: WFP resources for Dehya FAQ.
-    emoji: :Pyro:925598875853668353
-
-  - label: Constellations
-    value: characters/pyro/dehya/constellations
-    description: WFP resources for Dehya FAQ.
-    emoji: :Pyro:925598875853668353
-
-  - label: Weapons
-    value: characters/pyro/dehya/weapons
-    description: WFP resources for Dehya FAQ.
-    emoji: :Pyro:925598875853668353
-
-  - label: Teambuilding
-    value: characters/pyro/dehya/teambuilding1
-    description: WFP resources for Dehya FAQ.
-    emoji: :Pyro:925598875853668353
-
-buttons:
-
-  - label: "WFP Website"
-    url: "https://wangshengfp.org/faq/dehya"
-    emoji: :Pyro:925598875853668353
-    style: "LINK"
+  "options": [
+    {
+      "label": "Overview",
+      "value": "characters/pyro/dehya/overview",
+      "description": "WFP resources for Dehya FAQ.",
+      "emoji": "Pyro:925598875853668353"
+    },
+    {
+      "label": "Talents",
+      "value": "characters/pyro/dehya/talents",
+      "description": "WFP resources for Dehya FAQ.",
+      "emoji": "Pyro:925598875853668353"
+    },
+    {
+      "label": "Constellations",
+      "value": "characters/pyro/dehya/constellations",
+      "description": "WFP resources for Dehya FAQ.",
+      "emoji": "Pyro:925598875853668353"
+    },
+    {
+      "label": "Weapons",
+      "value": "characters/pyro/dehya/weapons",
+      "description": "WFP resources for Dehya FAQ.",
+      "emoji": "Pyro:925598875853668353"
+    },
+    {
+      "label": "Teambuilding",
+      "value": "characters/pyro/dehya/teambuilding1",
+      "description": "WFP resources for Dehya FAQ.",
+      "emoji": "Pyro:925598875853668353"
+    }
+  ],
+  "buttons": [
+    {
+      "label": "WFP Website",
+      "url": "https://wangshengfp.org/faq/dehya",
+      "emoji": "Pyro:925598875853668353",
+      "style": "LINK"
+    }
+  ]
+}
