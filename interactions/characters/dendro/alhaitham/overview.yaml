@@ -1,0 +1,37 @@
+---
+content:
+embeds:
+- title: __CREDITS__
+  color: 3439221
+  fields:
+  - name: 'Leads:'
+    value: "<@939432470384894007>, <@658190638008893461>"
+  - name: 'Authors:'
+    value: "<@939432470384894007>, <@658190638008893461>, <@510286757879742474>, <@178199901769826304>,
+      <@651556217315000360>, <@302626385803870218>"
+  - name: 'Calculations:'
+    value: "<@658190638008893461>, <@510286757879742474>"
+  - name: 'Framecounts:'
+    value: "<@367160010335191054>"
+  - name: 'Resources:'
+    value: |-
+      [Alhaitham Mastersheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=0)
+      [Ahaitham Frames Mastersheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
+  - name: DISCLAIMER
+    value: "*Pre-TC is volatile and subject to change. Everything described in this
+      FAQ is a good faith analysis based on the limited information we have. Team
+      calcs are not established yet, and as with everything in TC, the content in
+      this FAQ should be taken with a grain of salt.*"
+  image:
+    url: https://media.discordapp.net/attachments/914949813525696533/1064444028172632144/Haitham_BG.png
+- title: __OVERVIEW__
+  description: |-
+    Alhaitham is a Dendro on-field DPS with a stacking mechanic that allows him a fairly flexible field time. His kit revolves around his Chisel-Light Mirrors, which convert his basic attacks to Dendro and provide him with additional damage and Dendro application based on the number of Mirrors he has.
+
+    Alhaitham relies on Dendro Elemental Reactions to deal respectable damage, most notably through Spread. This means that his teammates will usually consist of at least one Electro character, and Alhaitham will build stats as expected of a Spread DPS: EM, DMG% and CRIT. This **doesn’t** mean that Spread teams are his only viable teams, though. In fact, as one of the only Dendro characters currently able to apply sustained Dendro on-field, Alhaitham can also be played as an on-field Dendro enabler in Bloom, Burgeon and Hyperbloom teams.
+  color: 3439221
+  footer:
+    text: 'Authored by: Lati'
+    icon_url: https://images-ext-1.discordapp.net/external/Hf31dqHw72Rt6U3aL_VZJlN_mWFPbGGt5akE7GoJ-7k/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/178199901769826304/94946822347dbce265652b0093a94173.png
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/alhatham_078_icon.webp

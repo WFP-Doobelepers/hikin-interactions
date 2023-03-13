@@ -1,0 +1,29 @@
+---
+content:
+embeds:
+- title: "__TALENTS__\n\n**Talent Priority:** \nElemental Skill > Normal Attack =
+    Elemental Burst"
+  color: 3439221
+  image:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064087983176831006/Untitled92_20230115154451.png
+- description: |-
+    Players should prioritize getting Alhaitham to level 90 over getting high Talent Levels. In Quicken and Quickbloom teams, a significant chunk of Alhaitham’s damage comes from the Spread reaction, which is independent of Talent Levels but scales well with character levels. This means leveling his Talents doesn't yield as much of a DPS gain as it would on most characters, but it is nonetheless beneficial.
+
+    Out of Alhaitham’s three Talents, his Elemental Skill comprises the biggest portion of his non-Spread damage, so prioritize that first. If Bursting every *other* rotation, prioritize his Normal Attacks over his Elemental Burst. If Bursting every rotation, level them both equally.
+  color: 3439221
+- title: __TALENT OVERVIEW__
+  description: |-
+    When Alhaitham has at least one Mirror, his basic attacks are converted to Dendro. Mirrors can be generated via his A1, Skill and Burst. He can have a maximum of 3 Mirrors at a time and they disappear if he goes off-field. One Mirror will expire every 4s, so players must manage them carefully to maximize Alhaitham’s potential. Note that gaining a new Mirror specifically while having 3 Mirrors will refresh the current Mirror's duration to 4s, though this duration refresh does not happen if he only has 1-2 Mirrors.
+
+    It is technically possible to maintain an infinite Dendro Conversion even at C0, though this isn't recommended outside of overworld and co-op.
+
+    Upon hitting opponents with his Dendro-converted attacks or Elemental Skill, Alhaitham can trigger a Projection Attack every 1.6s, which deals instances of AoE Dendro DMG based on the number of Mirrors he has. Projection Attacks are triggered on hit, so in practice, the interval between Projection Attacks may be longer than 1.6s. It’s important to note that his Projection Attacks are tied to his Mirrors, which can also be gained through A1 and Burst. As a result, he can gain Mirrors and trigger Projection Attacks without ever using his Skill.
+
+    Each Projection Attack inflicts a separate hit for each Mirror currently present, which means that having more Mirrors increases the damage and Dendro application of his Projection Attacks. Due to their 2-hit ICD, every other wave of 3-Mirror Projection Attacks will apply Dendro twice, which markedly increases Alhaitham’s Dendro application rate.
+
+    Alhaitham's Burst is a flexible Talent that can be used either as a utility tool to generate Mirrors or as a nuke. His Burst deals additional hits based on how many Mirrors it consumes, and refunds Mirrors equal to 3 minus the number of Mirrors consumed (e.g. consuming 1 Mirror generates 2 Mirrors). Note that Mirrors generated from his Burst are only granted 2 seconds *after* Alhaitham's Burst animation finishes.
+
+    It is generally more optimal to use his Burst with zero Mirrors to generate 3 Mirrors, as using his Burst as a nuke prematurely terminates his DPS uptime pre-C6. This can be useful for frontloading damage or quickly clearing a wave of mobs, but is otherwise generally a suboptimal use of his Burst.
+  color: 3439221
+  footer:
+    text: 'Authored by: redd, Lati and mien'
