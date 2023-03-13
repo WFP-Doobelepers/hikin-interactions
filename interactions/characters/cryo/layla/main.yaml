@@ -50,7 +50,7 @@ options: #dropdown
     emoji: :Cryo:925598873731334175
 
   - label: Artifacts
-    value: characters/cryLaylao/layla/artifacts
+    value: characters/cryo/layla/artifacts
     description: "WFP resources for Layla FAQ."
     emoji: :Cryo:925598873731334175
 
