@@ -36,5 +36,5 @@ options:
 buttons:
 - label: WFP Website
   url: https://wangshengfp.org/faq/dehya
-  emoji: Pyro:925598875853668353
+  emoji: :wfp_logo:1084805098561085512
   style: LINK
