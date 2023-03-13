@@ -1,13 +1,13 @@
 # override permissions for any command
 permissions:
   liveinteraction:
-    whitelist: ${ [ ROLES.PILLAR_STAFF, ...getValuesRecursive(ROLES.ADMIN) ] }
+    whitelist: ${ [ 1084778349542518805, ...getValuesRecursive(ROLES.ADMIN) ] }
 
   livecommand:
-    whitelist: ${ [ ROLES.PILLAR_STAFF, ...getValuesRecursive(ROLES.ADMIN) ] }
+    whitelist: ${ [ 1084778349542518805, ...getValuesRecursive(ROLES.ADMIN) ] }
 
 activityStatus:
-  message: To ALl Your Queries!
+  message: To All Your Queries!
 
   # PLAYING = 0
   # STREAMING = 1
