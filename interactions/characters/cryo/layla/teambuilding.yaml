@@ -13,6 +13,7 @@ embeds:
       might interfere with Elemental application, such as in Melt Ganyu. This
       can be mitigated by not casting your Burst.
     color: 10470888
+  
   - title: '**Freeze**'
     description: >-
       -Layla/Cryo/Hydro/Anemo
@@ -31,6 +32,7 @@ embeds:
       get more value out of Layla by playing in a quickswap combat style,
       getting more skill casts for Layla’s Shooting Stars.
     color: 10470888
+    image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813687488938014/Untitled85_20221029150928.png
   
