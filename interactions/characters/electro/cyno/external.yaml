@@ -13,10 +13,9 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text:         Credits to Akane for the Cyno FAQ! || WFP and KQM Theorycrafting
-
-      url: https://genshin.honeyhunterworld.com/img/c_756.webp
+    text:  Credits to Akane for the Cyno FAQ! || WFP and KQM Theorycrafting
       
     icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
+    
   image:
     url: https://media.discordapp.net/attachments/957846543011024929/1046390844594335886/nerd.png
