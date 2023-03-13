@@ -1,76 +1,74 @@
 content: null
 embeds:
-    - title: >-
-      A Rtawahist student who specializes in Theoretical Astrology. Heavily
-      prone to somnambulism and locked in a grinding war with sleep deprivation,
-      the problem of restful slumber is a most troubling one to her.
-    color: 10470888
+  - title: >-
+      The current scribe of the Sumeru Akademiya, endowed with extraordinary
+      intelligence and talent. A man of freedom, people usually can’t find him,
+      unless he wants to be found.
+    color: 3439221
     fields:
-      - name: |-
-          Layla Mastersheet by Athena#2444
-           and EduLis#2176:
+      - name: 'Althaitham Mastersheet by Latiwings#3308, mien#8650 and ඞඞ#1984:'
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1YVVuaGUm22HEvRsogcR6lTQOIT0A5quafmH5PjODsds/edit#gid=0)
-      - name: 'Layla Frames Mastersheet by Sir Von | Skill Deficiency Cult#7672:'
+          Sheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959)
+      - name: Althaitham Frames Mastersheet by jrm.spirit#2671
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1SpwBPRc0kuUEFsLpgLu0fDzYkCoqN5yuXNCG1vp96_8/edit?usp=sharing)
+          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
     author:
-      name: Layla FAQ
-      icon_url: https://genshin.honeyhunterworld.com/img/layla_074_side_icon.webp
+      name: Althaitham FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/alhatham_078_side_icon.webp
     image:
-      url: https://genshin.honeyhunterworld.com/img/layla_074_gacha_splash.webp
+      url: https://genshin.honeyhunterworld.com/img/alhatham_078_gacha_splash.webp
 
 options: #dropdown
     
   - label: Overview
-    value: characters/cryo/layla/overview
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/overview
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
 
   - label: Talents
-    value: characters/cryo/layla/talents
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/talents
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
   
   - label: Constellations
-    value: characters/cryo/layla/constellations
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/constellations
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
 
   - label: Combos
-    value: characters/cryo/layla/combos
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/combos
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
     
   - label: ER Requirements
-    value: characters/cryo/layla/errequire
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/errequire
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
 
   - label: Artifacts
-    value: characters/cryLaylao/layla/artifacts
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/artifacts
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
 
   - label: Weapons
-    value: characters/cryo/layla/weapons
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/weapons
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
 
   - label: Teambuilding
-    value: characters/cryo/layla/teambuilding
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/teambuilding
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
 
   - label: External Credits
-    value: characters/cryo/layla/external
-    description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    value: characters/dendro/alhaitham/external
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
 
 buttons:
   - label: WFP Website
-    url: https://wangshengfp.org/faq/layla
+    url: https://wangshengfp.org/faq/alhaitham
     emoji: :wfp_logo:1084805098561085512
     style: LINK
