@@ -107,12 +107,13 @@ embeds:
       url: https://genshin.honeyhunterworld.com/img/sayu_053_icon.webp
 
 buttons:
-- customId: liveInteraction#characters/electro/cyno/teambuildingpt3
-  label: Next
-  style: PRIMARY
-  emoji: "▶️"
 
 - customId: liveInteraction#characters/electro/cyno/teambuildingpt1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
+
+- customId: liveInteraction#characters/electro/cyno/teambuildingpt3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
