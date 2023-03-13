@@ -1,7 +1,7 @@
 ---
 content:
 embeds:
-- title: __**TALENT PRIORITY**__
+  - title: __**TALENT PRIORITY**__
     description: '**E (Skill) = Q (Burst) > NA (Normal ATK)**'
     color: null
     image:
