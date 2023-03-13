@@ -12,7 +12,7 @@ embeds:
       Elemental Skill. Do note that in some teams, Layla’s Cryo application
       might interfere with Elemental application, such as in Melt Ganyu. This
       can be mitigated by not casting your Burst.
-    color: 3439221
+    color: 10470888
   - title: '**Freeze**'
     description: >-
       -Layla/Cryo/Hydro/Anemo
@@ -30,7 +30,7 @@ embeds:
       you can run a unit like Rosaria or Kaeya as a budget alternative that can
       get more value out of Layla by playing in a quickswap combat style,
       getting more skill casts for Layla’s Shooting Stars.
-    color: 3439221
+    color: 10470888
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813687488938014/Untitled85_20221029150928.png
   - title: '**Mono-Cryo**'
@@ -50,7 +50,7 @@ embeds:
       Though not recommended, players without Shenhe can opt to run Rosaria
       and/or Kaeya instead as a budget alternative, which synergizes well with
       Layla due to their low cooldown Elemental Skills.
-    color: 3439221
+    color: 10470888
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035833167115997194/Untitled85_20221029163047.png
@@ -70,7 +70,7 @@ embeds:
       unit that will not interfere with the Cryo application needed for forward
       Melts, but a second Cryo unit is recommended for the increased Cryo
       application.
-    color: 3439221
+    color: 10470888
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813689879691284/Untitled85_20221029151001.png
@@ -86,7 +86,7 @@ embeds:
       upfront energy generation. The two last slots in the team are very
       flexible, though it is generally recommended to bring an Electro unit to
       trigger Superconduct for the Physical Resistance Shred.
-    color: 3439221
+    color: 10470888
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813690278154280/Untitled85_20221029151025.png
@@ -98,7 +98,7 @@ embeds:
       Layla can be added as the flex slot in the National core to hold support
       sets like 4ToTM or 4Instructor and let Xiangling melt instead of vaping
       some of her Pyronado hits.
-    color: 3439221
+    color: 10470888
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813690756300850/Untitled85_20221029151051.png
@@ -119,7 +119,7 @@ embeds:
       However, this can be mitigated by using an Electro character to trigger
       Hyperbloom with the seeds, as Hyperbloomed seeds are less likely to damage
       your shield.
-    color: 3439221
+    color: 10470888
     footer:
       text: (section authored by Tabbune)
     image:

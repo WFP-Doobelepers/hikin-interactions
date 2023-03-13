@@ -33,7 +33,7 @@ embeds:
       stronger shield and Crit one is more offensive. Substats will play an
       important role here, where Crit Circlet only leads by ~10% if both
       circlets have similar amounts of useful substats.
-    color: 3439221
+    color: 10470888
   - title: '**Sets**'
     description: >-
       With how her Elemental Skill works, her best-ins-lot artifact set is
@@ -55,7 +55,7 @@ embeds:
 
       > Substats priority: ER% (until meet requirement) > CR (for Favonius proc)
       > CD = HP% > Flat HP > ATK%
-    color: 3439221
+    color: 10470888
     footer:
       text: (section authored by Athena)
     image:
