@@ -1,7 +1,7 @@
 ---
 content:
 embeds:
-- title: __**COMBOS AND ROTATION**__
+  - title: __**COMBOS AND ROTATION**__
     description: >-
       Nahida’s combos will differ depending on if you’re playing her on or
       off-field.
