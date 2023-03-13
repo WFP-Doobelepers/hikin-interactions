@@ -24,45 +24,45 @@ options: #dropdown
     
   - label: Overview
     value: characters/dendro/alhaitham/overview
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
 
   - label: Talents
     value: characters/dendro/alhaitham/talents
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
   
   - label: Constellations
     value: characters/dendro/alhaitham/constellations
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
 
   - label: Combos
     value: characters/dendro/alhaitham/combos
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
     
   - label: ER Requirements
     value: characters/dendro/alhaitham/errequire
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
 
   - label: Artifacts
     value: characters/dendro/alhaitham/artifacts
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
 
   - label: Weapons
     value: characters/dendro/alhaitham/weapons
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
 
   - label: Teambuilding
     value: characters/dendro/alhaitham/teambuilding
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
 
   - label: External Credits
     value: characters/dendro/alhaitham/external
-    description: "WFP resources for Alhaitham FAQ.",
+    description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
