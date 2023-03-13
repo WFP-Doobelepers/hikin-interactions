@@ -1,20 +1,24 @@
----
-content:
+content: null
 embeds:
-  - title: The current scribe of the Sumeru Akademiya, endowed with extraordinary intelligence
-    and talent. A man of freedom, people usually can’t find him, unless he wants to
-    be found.
-  color: 3439221
-  fields:
-  - name: 'Althaitham Mastersheet by Latiwings#3308, mien#8650 and ඞඞ#1984:'
-    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959)"
-  - name: Althaitham Frames Mastersheet by jrm.spirit#2671
-    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)"
-  author:
-    name: Althaitham FAQ
-    icon_url: https://genshin.honeyhunterworld.com/img/alhatham_078_side_icon.webp
-  image:
-    url: https://genshin.honeyhunterworld.com/img/alhatham_078_gacha_splash.webp
+  - title: >-
+      The current scribe of the Sumeru Akademiya, endowed with extraordinary
+      intelligence and talent. A man of freedom, people usually can’t find him,
+      unless he wants to be found.
+    color: 3439221
+    fields:
+      - name: 'Althaitham Mastersheet by Latiwings#3308, mien#8650 and ඞඞ#1984:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959)
+      - name: Althaitham Frames Mastersheet by jrm.spirit#2671
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
+    author:
+      name: Althaitham FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/alhatham_078_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/alhatham_078_gacha_splash.webp
 
 options: #dropdown
     
