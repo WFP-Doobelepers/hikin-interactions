@@ -53,3 +53,9 @@ embeds:
       Wanderer’s A1. Unfortunately, her Omen debuff has low uptime, so she will
       fall behind other buffers.
     color: null
+
+buttons:
+- customId: liveInteraction#characters/anemo/wanderer/teambuildingpt2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

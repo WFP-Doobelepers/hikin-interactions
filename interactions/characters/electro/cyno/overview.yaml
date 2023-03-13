@@ -1,69 +1,107 @@
 content: >-
-  Wanderer Pre-TC FAQ by <@293169816741740556> (Team Lead, Author, Calcs),
-  <@209617229216612352> (Consultant, Author, Calcs), <@370761744789798912>
-  (Author, Calcs), <@367160010335191054> (Framecounts), <@510286757879742474>
-  (Contributor)
+  Cyno Pre-TC FAQ by <@604540951708565515> (Author, Calcs),
+  <@209617229216612352> (Consulting, Mapping), <@367160010335191054> (Mapping),
+  <@280016643558604800> (Mapping), <@651556217315000360> (Consulting), and
+  <@265126444894650369> (Proofreading)
 
 
-  For all Wanderer Calcs you can reference: [Wanderer
-  Mastersheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390)
-  by <@293169816741740556>, <@209617229216612352> and <@370761744789798912>, and
-  Wanderer Frames by <@367160010335191054>
+  For all Cyno Calcs you can reference: [Cyno
+  Mastersheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
+  by <@604540951708565515> and [Cyno Frames
+  Mastesheet](https://docs.google.com/spreadsheets/d/1GY-1jiq1JTJ5YLIrEIjLDpTPWqeMBfZ1qX1cND4iiq8/edit#gid=377494852)
+  by <@367160010335191054>
 
 
-  Pre-TC is volatile and, as always, perpetually subject to change until release
-  (and sometimes later!). Please note that these are theoretical suggestions.
-  Everything described in this FAQ is a good faith analysis based on the little
-  information about the character’s kit that we know. Team calcs, additionally,
-  are not established yet, and as with everything in TC, the content in this FAQ
-  should be taken with a grain of salt.
+  **DISCLAIMER:** *Everything on the FAQ and Mastersheet is Pre-TC, which means
+  information gathered here is __**SUBJECT TO CHANGE (STC)**__ until release
+  comes. Pre-TC is really volatile as things could change on a snap on release
+  and numbers could change drastically on that point so take every content on
+  this FAQ and Mastersheet with a grain of salt. Thank you and much love*
 embeds:
-  - title: CHARACTER OVERVIEW
-    description: >-
-      Wanderer is an Anemo catalyst user who takes up the majority of the team’s
-      field time in order to dish out high amounts of damage. This means that
-      Wanderer teams will focus on having teammates that increase Wanderer’s
-      damage values while taking little field time. 
+  - title: __**TLDR**__
+    description: |-
+      **Role:** Hypercarry
 
+      **Talent Priority:** 
+      Q (Burst) = E (Skill) > NA (Normal ATK)
 
-      As for stats, Wanderer is a pretty standard unit to build, focusing on the
-      traditional ATK, DMG%, and CRIT stats. While his ER needs are quite high,
-      even with his dedicated support, Faruzan, and a Favonius weapon on the
-      team, Wanderer can instead Burst every other rotation in order to put all
-      of his artifact stats into offensive capabilities. In fact, this is his
-      strongest option until constellations are added to him. Otherwise,
-      Wanderer needs somewhere around 170% ER when C6 Faruzan is not included in
-      the team – however, we do not expect players to have a new 4-star at C6
-      the same patch they are released.
+      __Combos:__ 
+      (C0)
+      Non-TF
+      EQ N3E N5E N5N2E N5N2E
 
+      TF
+      EQ N3E N5E N4E N4E N4E N4E
 
-      When played as an Anemo DPS, he is heavily dependent on the new Anemo
-      support, Faruzan, who brings Anemo resistance-shredding to the team, much
-      like Viridescent Venerer does for Pyro, Electro, Cryo, and Hydro
-      characters. Additionally, with constellations, she skyrockets the damage
-      potential of teams focusing on Anemo DPS units like Wanderer and Xiao.
+      (C1)
+      Non-TF
+      EQ N4E N5E N5N3E N5N3E N3 - First N5 E CD is on 0.5-0.7 waiting time
 
+      TF
+      EQE N4E N4E N4E N4E N4E N4E N4E
 
-      Being an Anemo unit, some people may consider him another Viridescent
-      Venerer driver for teams including characters like Fischl, Beidou, and
-      Xingqiu. Additionally, focusing on Elemental Mastery for Swirls makes him
-      comparable to Sucrose in some cases, but Wanderer lacks the utility in
-      EM-sharing and crowd control that Sucrose has.
+      __Artifacts:__
+      ● 4PC Thundering Fury
+      ● 4PC Gilded Dreams
+      ● 4PC Gladiator’s Finale
+      ● 2PC Thundering Fury, 2PC EM
 
+      __Weapons:__
+      ● Staff of the Scarlet Sands
+      ● Primordial Jade Winged Spear
+      ● Staff of Homa
+      ● Deathmatch
+      ● White Tassel
 
-      One of the main highlights of Wanderer’s kit is that he can fly in mid-air
-      while attacking enemies while also absorbing up to two elements for
-      various buffs. Hovering in mid-air leaves Wanderer vulnerable to being
-      knocked down and staggered by enemy attacks, so a shield may be desirable
-      in some cases. Additionally, dodging when his A4 cannot trigger
-      significantly reduces his air-time and thus his DPS. With regards to
-      elemental buffs, they are quite hard to control, though the absorption
-      priority is the same as Kazuha. If Bennett is on your team, Wanderer will
-      almost always be able to absorb Pyro for a 30% ATK bonus. The other
-      elements offer comparable damage increases, and so building your team
-      around the infusions is (typically) not recommended.
+      __Constellations:__ 
+      C2 > C6 > C1 > C3 > C5 
+      C4 ranking is based on his team composition
+
+      __Team Compositions:__
+      Aggravate Team
+      *(Cyno, Electro, Dendro, Anemo/Zhongli/Dendro)*
+      Hyperbloom Team
+      *(Cyno, Hydro, Dendro, Zhongli/Dendro/Electro)*
+      Electro-Charged Team
+      *(Cyno, Hydro, Anemo, Flex)*
+      Overvape Team
+      *(Cyno, Xingqiu, Off-field Pyro, Flex)*
+      Mono-Electro Team
+      *(Cyno, Electro, Electro, Anemo/Zhongli/Dendro)*
+      Hyper Team
+      *(Cyno, Fischl, Zhongli, Geo)*
     color: null
     footer:
-      text: (section authored by Emiliabyss)
+      text: (section authored by Akane)
+      
+  - title: __**CHARACTER OVERVIEW**__
+    description: >-
+      Cyno is a 5* Electro Main DPS, and is considered to be an Electro
+      Hypercarry. He relies on his teammates giving him buffs throughout his
+      Elemental Burst duration, which is where the majority of his damage comes
+      from, with both his A1 and A4 passive focusing on specific mechanics tied
+      to his Elemental Burst. However, this comes at a cost: Cyno needs to spend
+      a large amount of time on the field to maximize his damage potential,
+      making his supports take a toll in terms of the requirements such as their
+      ER requirement and overall damage.. Nevertheless, his needs are super
+      accessible to anyone with White Tassel, a 3* weapon, which is competitive
+      even with some of his 4* options, and when it comes to his team
+      compositions, Cyno’s ideal teams lean primarily towards Aggravate Teams or
+      Transformative Teams.
+
+
+      Cyno’s kit gets the most utility out of the 4PC Thundering Fury set, as
+      this set makes great use of Cyno’s overall playstyle. This set heavily
+      affects his short Elemental Skill cooldown on his Elemental Burst duration
+      along with timing TF Procs with a specific combo that you should run on
+      him. However, the A1 passive poses a challenge to some of Cyno’s combos,
+      as it has a specific timing regarding its procs and it is not tied to
+      anything, only on specific intervals. This makes Cyno a hard challenge to
+      TC as mapping out TF procs, ICD procs, and A1 procs along with the
+      rotation time is quite hard due to many reasons such as MV/s, ICD procs,
+      etc.
+    color: null
+    footer:
+      text: (section authored by Akane)
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/wanderer_075_icon.webp
+      url: https://genshin.honeyhunterworld.com/img/cyno_071_icon.webp

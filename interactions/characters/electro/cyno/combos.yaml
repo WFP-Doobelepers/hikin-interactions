@@ -1,53 +1,69 @@
 content: null
 embeds:
-  - title: __**COMBOS**__
+  - title: __**COMBOS/MECHANIC**__
     description: >-
-      Wanderer’s combos are fairly difficult to precisely pin down. His kit is
-      designed with Normal Attacks in mind, so any weapon that benefits Normal
-      Attacks excels. However, with many weapons that don’t fit this criteria,
-      N2C helps squeeze around. 
+      **DISCLAIMER:** *COMBOS WILL BE DETERMINED ON RELEASE IF THEY ARE CORRECT
+      OR NOT. TAKE ALL OF THIS COMBO WITH A GRAIN OF SALT WHEN PASSING DOWN THE
+      INFORMATION*
 
 
-      We calculated based on the following assumptions, but the number of
-      attacks are conservative estimates. You may get more than what we’ve
-      assumed.
+      **EQ Mechanic**
 
 
-      Tullaytullah’s Remembrance + 4pc Desert Pavilion - (Q), E, CA, N3x6
-
-      (N2C Version) Most weapons on Desert Pavilion - (Q), E, C, N2C (x5) + N2
-
-      (N2C Version) Most weapons with NO ATK SPD buffs - (Q), E, N2C (x5) + N1
-
-      (N3 Version) Most weapons on Desert Pavilion - (Q), E, CA, N3x5 + N2
-
-      (N3 Version) Most weapons with NO ATK SPD buffs - (Q), E, CA, N3x5 + N1
-
-      Dodoco Tales CA Spam on Desert Pavilion - (Q), E, N1, CAx6, N1, CAx6 
+      With his Elemental Skill CD outside of Pactsworn Pathclearer being 7.5s,
+      casting Elemental Burst after it decrease said CD by 4.5s, allowing Cyno
+      to funnel particles while not worrying for his Elemental Skill CD and will
+      able to cast a few seconds after entering Pactsworn Pathclearer. 
 
 
-      Based on these calculations, N2C can squeeze out more damage. However,
-      this is mostly for players using low ATK SPD, non-Yunjin teams. Newer info
-      that is being released leans towards this being more of a sidegrade, so
-      calcs may not perfectly reflect this. That said, N2C is *not* always a
-      strict upgrade.
+      __*Combos will be differentiated with Non-TF Combo and TF Combo*__
 
 
-      N2D, when controlled, might deal even more, provided you ***only*** dash
-      when A4 activates - learning to master the dash timing will take time,
-      rewarding the player for going the extra mile, but not dealing *so* much
-      more damage that it’s mandatory to get down (about 10%). Dashing too
-      early, however, will tank the damage in your rotation.
+      __***Non-TF Combo***__
 
 
-      Even further, Wanderer’s A4 has a visual indicator for when you can dash
-      without stamina consumption to unleash bonus attacks. You can increase
-      your damage even further by dash-cancelling N2 or N3 once you know for
-      sure you can trigger the A4 passive.
+      **EQ N3E N5E N5N2E N5N2E**
 
 
-      **Again, we urge you to take this with a grain of salt - research on these
-      combos is ongoing.**
+      This combo provides the highest MV/s that also gives a decent amount of
+      ICD procs that can be used for Aggravates and other reactions. It also
+      aligns well with his A1 passive as some of the Endseer procs will either
+      pop early than casting the Elemental Skill but all of the A1 buffs are
+      triggered nonetheless. 
+
+
+      **EQ N4E N5E N5N3E N5N3E N3 - C1**
+
+
+      This combo is only viable if you have Cyno at C1. Adding extra NA’s with
+      the same allotted time compared to his C0 non-TF combo provide a greater
+      damage comparison to the its C0 combo variant. Although it produces more
+      NA’s, the timing of his Elemental Skill CD will not line up on the first
+      N5E as you have to wait 0.5-0.7s for the Elemental Skill CD to reset.
+
+
+      __***TF Combo***__
+
+
+      **EQ N3E N5E N4E N4E N4E N4E**
+
+
+      This combo is perfect for such an easy TF Combo that maps out A1 passive
+      and TF CD procs. It also provides a good amount of ICD procs that he can
+      utilize for reactions. However, the Endseer procs are quite tight to cast
+      as 1 of it will pop early depending on the hitlag that Cyno provides on
+      your end.
+
+
+      **EQE N4E N4E N4E N4E N4E N4E N4E - C1**
+
+
+      This combo is only viable if you have Cyno at C1. Casting the Elemental
+      Skill after Elemental Burst leaves a 0.3s waiting time before casting it
+      but the time wasted is mitigated by the ATK SPD Buff C1 provides, allowing
+      him to get away with casting the Elemental Skill itself + the time waited
+      for its CD to be 0s. Combo is pretty straightforward of casting N4E until
+      you cast 7 portions of it.
     color: null
     footer:
-      text: (section authored by Emiliabyss)
+      text: (section authored by Akane)

@@ -131,3 +131,14 @@ embeds:
       his burst deals a good amount of damage and should be used if possible, it
       is not the main feature of his kit.
     color: null
+
+buttons:
+- customId: liveInteraction#characters/anemo/wanderer/teambuildingpt1
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#characters/anemo/wanderer/teambuildingpt3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

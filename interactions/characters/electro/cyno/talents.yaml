@@ -1,68 +1,38 @@
----
-content:
+content: null
 embeds:
-  - title: TALENTS
-    description: '__**Leveling priority: Normal Attack > Skill = Burst**__'
+  - title: __**TALENTS**__
+    description: |-
+      **Leveling Priority:
+      Q (Burst) = E (Skill) > NA (Normal ATK)**
     color: null
     image:
       url: >-
-        https://media.discordapp.net/attachments/957846543011024929/1046327966256349274/Untitled75_20221127153254.png
-  - title: 'Analysis:'
-    description: >-
-      Since Wanderer only focuses on ATK, there is no necessity to level him to
-      90. Level 80 is fine, if you’re saving on resources. However, incidental
-      low-EM swirls will still be beneficial, so there are still some benefits
-      to leveling to 90.
+        https://media.discordapp.net/attachments/957846543011024929/1020127850931691530/Untitled75_20220916082333.png
+  - description: >-
+      Cyno’s Elemental Burst is his main source of damage, providing Normal,
+      Charged, and Plunging ATK MVs separate from those of his NA MVs. It also
+      provides Cyno an additional 100 EM upon entering Pactsworn Pathclearer,
+      and converts his NA from Physical to Electro DMG. In corresponding to his
+      Elemental Burst, his Elemental Skill should be the same level as it has
+      two multipliers: one from outside of Pactsworn Pathclearer and one when he
+      is in the Pactsworn Pathclearer state. The CD of the Elemental Skill
+      outside of Pactsworn Pathclearer state is longer compared to the one when
+      Cyno is in Pactsworn Pathclearer.
 
 
-      Most of the damage Wanderer dishes out comes from Normal Attacks, which
-      fire arcs of blade-like Anemo energy at opponents. Naturally, this is the
-      first choice. However, his Normal Attacks are not nearly as strong unless
-      he is benefitting from his Skill, which provides a valuable damage bonus
-      akin to Yoimiya’s Skill to his attacks.
-
-
-      Upon using his Skill, Wanderer will stay in air and will have an
-      alternative stamina bar to for show how long he can stay in mid-air.
-      Moving and sprinting will deplete the bar quickly, so often it is best to
-      stay still in mid-air and unleash ranged attacks.
-
-
-      Finally, while his Burst is not terrible, we *are* usually Bursting every
-      other rotation, so this becomes the lowest priority. However, all talents
-      should be leveled as high as possible, since he is responsible for the
-      vast majority of your team’s damage. Wanderer’s Burst is pure damage, with
-      no special effects, and hits opponents within its range five times in
-      quick succession. 
-
-
-      For Ascension Talents, A1 offers Wanderer up to two buffs based on
-      elemental infusion with his Skill, depending on the elements absorbed. The
-      priority is the same as Kazuha, making Pyro (+30% ATK) one of the two
-      buffs most frequently. With Electro infused as well, Wanderer gains enough
-      energy that, in some cases, Bursting off-cooldown becomes possible. Cryo
-      gives 20% CRIT Rate, and Hydro increases the maximum amount of time he can
-      spend in mid air (though keep in mind this could extend rotations
-      depending on team composition). 
-
-
-      None of the elements provide a buff greater than 10% of each other, and
-      controlling the elemental infusion, aside from Pyro with Bennett’s Burst
-      circle (and Hydro due to it being second-priority), is difficult, and so
-      building a team around certain infusions is not always advised. For Hydro,
-      Xingqiu’s orbiting Rain Swords can help with interruption resistance and
-      Hydro infusion.
-
-
-      Wanderer’s A4 allows *some* dashes to not consume this alternate flight
-      stamina during the duration of his Skill; when this happens (based on RNG,
-      increasing the odds with each failure like Royal weapons), a brief flurry
-      of Anemo attacks will occur automatically, which can provide a valuable
-      DPS boost. However, without testing, the fact dashes can still consume
-      this alternate stamina and shorten the airborne state is often too large
-      of a sacrifice to risk it, unless you *must* dash to avoid knockdown.
-      **This, however, is subject to change with constellations and once actual
-      testing can be done.**
+      Cyno’s A1 is the most tricky part of his kit, as it forces him to play a
+      specific attack combo based on which artifact set he has equipped. This
+      passive summons Endseers on the screen, allowing him to buff his Elemental
+      Skill by 35% and is considered DMG%, and triggers three Duststalker Bolt
+      per Endseer Proc. Its biggest caveat, however, is that it’s hindered by an
+      interval that is not linked to anything on his kit, which makes counting
+      frames of each of his MVs all the more important to how to maximize
+      Endseer procs in his combos while still maintaining the highest MV/s, low
+      field time, and TF CD time when running 4PC Thundering Fury set, and
+      maintaining the buff timer up until he can cast his Elemental Skill to
+      trigger the said buffs. Cyno’s A4 buffs his Elemental Burst NA by 150% and
+      his A1 Duskstalker Bolts by 250%, both based on his Elemental Mastery.
+      Combined with the Aggravate reaction that also relies on the stat to
+      increase its value, this makes Elemental Mastery a very powerful stat for
+      Cyno.
     color: null
-    footer:
-      text: (section authored by Emiliabyss)

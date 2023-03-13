@@ -63,3 +63,9 @@ embeds:
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388347926478879/wanda_national.png
+
+buttons:
+- customId: liveInteraction#characters/anemo/wanderer/teambuildingpt2
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"
