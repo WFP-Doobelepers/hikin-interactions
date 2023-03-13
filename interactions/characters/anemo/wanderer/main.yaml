@@ -54,8 +54,23 @@ options: #dropdown
     description: "WFP resources for Wanderer FAQ."
     emoji: :Anemo:925598874779910215
 
-  - label: Teambuilding
-    value: characters/anemo/wanderer/teambuilding
+  - label: Teambuilding (Part 1)
+    value: characters/anemo/wanderer/teambuildingpt1
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Teambuilding (Part 2)
+    value: characters/anemo/wanderer/teambuildingpt2
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Teambuilding (Part 3)
+    value: characters/anemo/wanderer/teambuildingpt3
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Teambuilding (Part 4)
+    value: characters/anemo/wanderer/teambuildingpt4
     description: "WFP resources for Wanderer FAQ."
     emoji: :Anemo:925598874779910215
 
