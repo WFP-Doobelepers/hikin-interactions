@@ -1,0 +1,63 @@
+content: null
+embeds:
+  - title: __**ARTIFACTS**__
+    description: >-
+      ***Main Stats***
+
+
+      Layla’s main role in a team is to provide a shield with her Skill as well
+      as some off-field Cryo damage. With her shield being the main attracting
+      point, the artifact main stats choices are quite straightforward.
+
+
+      **Sands of Eon:** HP% or ER%
+
+
+      Depending on team composition, ER% Sands can be used if you want to Burst
+      off cooldown when Layla is the only Cryo character in the team. In other
+      scenarios, HP% Sands is preferred to maximize her shield and damage from
+      her Ascension 4.
+
+
+      **Goblet of Eonothem:** HP% or Cryo DMG%
+
+
+      Using a Cryo DMG% Goblet will let Layla deal 20% more damage at the cost
+      of a 10% thinner shield. 
+
+
+      **Circlet of Logos:** HP% or Crit
+
+
+      Both HP% and Crit circlet will perform comparably, while HP% allow a
+      stronger shield and Crit one is more offensive. Substats will play an
+      important role here, where Crit Circlet only leads by ~10% if both
+      circlets have similar amounts of useful substats.
+    color: 3439221
+  - title: '**Sets**'
+    description: >-
+      With how her Elemental Skill works, her best-ins-lot artifact set is
+      arguably  **4-piece Tenacity of the Millelith** (TotM), providing ATK% and
+      Shield Strength% to her team with a relatively high uptime. **4-pieces
+      Noblesse Oblige** is comparably effective if there are better units in the
+      team that  already utilize  4-piece TotM. Personal damage wise, **4-piece
+      Blizzard Strayer** and **4-piece Emblem of Severed Fate** are the best
+      choices, but considering her lackluster damage output, it is best to use
+      the supportive options above.
+
+
+      You can consider **4-piece Instructor** when using her in a team utilizing
+      amplifying reactions like Vaporize and Melt to further buff the damage.
+      Note  that when using a 4 star artifact set, shield strength will be much
+      lower compared to 5 star options, therefore a 5 star piece (preferably
+      Sands) is much recommended. 
+
+
+      > Substats priority: ER% (until meet requirement) > CR (for Favonius proc)
+      > CD = HP% > Flat HP > ATK%
+    color: 3439221
+    footer:
+      text: (section authored by Athena)
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035806568815529986/Portraits_Tenacity_of_the_Millelith_-_Noblesse_Oblige_-_Blizzard_Strayer_-_Emblem_of_Severed_Fate_-_Instructor.png?width=1440&height=266

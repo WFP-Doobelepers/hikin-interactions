@@ -1,0 +1,127 @@
+content: null
+embeds:
+  - title: __**TEAMBUILDING**__
+    description: >-
+      **General Shielder**
+
+
+      Layla can be a shielder in various comps with on-field characters that
+      want the Interrupt Resistance (Melt Ganyu, Yoimiya, Cyno). On-field units
+      that perform more skill casts can get more value out of Layla, as Layla
+      gains 2 Shooting Star stacks every time your on-field character casts an
+      Elemental Skill. Do note that in some teams, Layla’s Cryo application
+      might interfere with Elemental application, such as in Melt Ganyu. This
+      can be mitigated by not casting your Burst.
+    color: 3439221
+  - title: '**Freeze**'
+    description: >-
+      -Layla/Cryo/Hydro/Anemo
+
+
+      Layla can be a more offensive alternative for Diona in Freeze teams where
+      you want Diona’s battery capabilities and shielding. Layla provides
+      defensive utility, Cryo energy generation, and the ability to hold support
+      sets like 4ToTM, which is more valuable in teams that use 4BS. Freeze
+      teams also help preserve Layla’s shield by making enemies unable to attack
+      to break it, which allows you to get more Shooting Star triggers.
+
+
+      The main Cryo DPS in this team will generally be Ayaka or Ganyu, although
+      you can run a unit like Rosaria or Kaeya as a budget alternative that can
+      get more value out of Layla by playing in a quickswap combat style,
+      getting more skill casts for Layla’s Shooting Stars.
+    color: 3439221
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035813687488938014/Untitled85_20221029150928.png
+  - title: '**Mono-Cryo**'
+    description: >-
+      -Layla/Cryo/Cryo/Anemo
+
+
+      An alternative to freeze teams for enemies that cannot be frozen.
+      Mono-Cryo teams work by stacking more Cryo units to synergize with each
+      other by generating more Cryo particles, benefitting from the first half
+      of the 4-piece Blizzard Strayer set bonus, and gaining more value out of
+      Shenhe’s *Icy Quills*, which incentivizes you to run as many Cryo units as
+      you can. Layla works well with Shenhe as she can use up the Icy Quill
+      stacks quickly due to her multi-hit nature.
+
+
+      Though not recommended, players without Shenhe can opt to run Rosaria
+      and/or Kaeya instead as a budget alternative, which synergizes well with
+      Layla due to their low cooldown Elemental Skills.
+    color: 3439221
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035833167115997194/Untitled85_20221029163047.png
+  - title: '**Forward Melt**'
+    description: >-
+      -Bennett/Layla/Anemo/Cryo, Anemo or Hydro
+
+
+      Layla’s Shooting Star mechanic rewards you for spamming Elemental Skills,
+      and applies Cryo for Bennett to Melt his Elemental Skill. Using Bennett’s
+      low-cooldown E allows Layla to get more Shooting Star stacks than normal,
+      which improves Layla’s energy generation and personal damage. 
+
+
+      An Anemo grouping unit is preferred for the third slot to provide VV and
+      other team buffs and utility, while the last unit can be any off-field
+      unit that will not interfere with the Cryo application needed for forward
+      Melts, but a second Cryo unit is recommended for the increased Cryo
+      application.
+    color: 3439221
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035813689879691284/Untitled85_20221029151001.png
+  - title: '**Eula**'
+    description: >-
+      -Eula/Layla/Electro/Flex
+
+
+      Layla can be a defensive option in Eula teams, and still give offensive
+      utility through her good uptime on 4TotM and a bit of personal damage. Due
+      to Eula’s energy consumption timing, Layla can be a better battery for
+      Eula because she generates her energy over time, instead of Diona’s
+      upfront energy generation. The two last slots in the team are very
+      flexible, though it is generally recommended to bring an Electro unit to
+      trigger Superconduct for the Physical Resistance Shred.
+    color: 3439221
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035813690278154280/Untitled85_20221029151025.png
+  - title: '**Laylational**'
+    description: >-
+      -Layla/Bennett/Xingqiu/Xiangling
+
+
+      Layla can be added as the flex slot in the National core to hold support
+      sets like 4ToTM or 4Instructor and let Xiangling melt instead of vaping
+      some of her Pyronado hits.
+    color: 3439221
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035813690756300850/Untitled85_20221029151051.png
+  - title: '**Fridge**'
+    description: >-
+      Fridge teams are teams that use the interaction between Dendro and Cryo
+      where both of them can co-exist on a target so applying Hydro onto the
+      enemy will reduce the amount of Dendro consumed when triggering Bloom
+      reactions while also keeping them frozen. These teams focus on increasing
+      the amount of Blooms that you can trigger, which gives you more seeds that
+      you can further react with by adding a Pyro or Electro character, or just
+      using Bloom by itself, since Bloom will automatically explode when there
+      are more than five on the field.
+
+
+      Layla is not recommended for some Fridge teams as Bloom damage will break
+      her shield and stop her Cryo application, rendering her ineffective.
+      However, this can be mitigated by using an Electro character to trigger
+      Hyperbloom with the seeds, as Hyperbloomed seeds are less likely to damage
+      your shield.
+    color: 3439221
+    footer:
+      text: (section authored by Tabbune)
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035813691427393587/Untitled85_20221029151108.png
