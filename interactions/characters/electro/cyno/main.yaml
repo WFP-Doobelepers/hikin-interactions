@@ -64,13 +64,7 @@ options: #dropdown
     description: "WFP resources for Cyno FAQ."
     emoji: :Electro:925598875174199327
 
-  - label: External Credits
+  - label: External Links
     value: characters/electro/cyno/external
     description: "WFP resources for Cyno FAQ."
     emoji: :Electro:925598875174199327
-
-buttons:
-  - label: WFP Website
-    url: https://wangshengfp.org/faq/cyno
-    emoji: :wfp_logo:1084805098561085512
-    style: LINK

@@ -63,7 +63,7 @@ options: #dropdown
     description: "WFP resources for Layla FAQ."
     emoji: :Cryo:925598873731334175
 
-  - label: External Credits
+  - label: External Links
     value: characters/cryo/layla/external
     description: "WFP resources for Layla FAQ."
     emoji: :Cryo:925598873731334175

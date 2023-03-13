@@ -13,8 +13,9 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text: Credits to Lofty, mien, redd, Lati, snowy and juko for the Althaitham FAQ!
-      || WFP Theorycrafting
+    text: Credits to Lofty, mien, redd, Lati, snowy and juko for the Althaitham FAQ! || WFP Theorycrafting
+  
     icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
+  
   image:
     url: https://media.discordapp.net/attachments/964616918336159814/1064077375295475722/FjgjNorXkAI9Ko0.jpeg
