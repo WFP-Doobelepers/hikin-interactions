@@ -1,0 +1,70 @@
+---
+content:
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    **Sands:** EM > ATK%
+    **Goblet:** Dendro DMG% > EM
+    **Circlet:** CRIT Rate or CRIT DMG > EM
+
+    **Substats:** EM (~250-300) > CRIT% > EM > ATK% > Flat ATK
+
+    With EM scaling on his Talents, a Passive that gives DMG% based on EM, and teams built around reactions, it’s no surprise that EM is a valuable stat on Alhaitham that will almost always be better than ATK. If using his signature weapon *Light of Foliar Incision*, EM becomes even more important. The 250-300 EM threshold is recommended on Quicken/Quickbloom builds before building CRIT substats, but with an EM Sands, external EM buffs, EM artifact sets, etc. there should be little issue reaching this range.
+  color: 3439221
+- title: "*What about ER?*"
+  description: At higher ER requirements, building ER to Burst every rotation can
+    be a DPS loss. Bursting every rotation at 130-140% ER requirements is roughly
+    equivalent to Bursting every other rotation at 100% ER. Whichever option players
+    go for depends on Alhaitham’s ER requirements, what artifacts they already have,
+    and their playstyle preference.
+  color: 3439221
+- title: |-
+    __Artifact Sets__
+
+    4PC Gilded Dreams
+  description: Alhaitham’s BiS set, provided that another character can hold 4pc Deepwood
+    Memories. This set gives him a hefty amount of EM, a stat he greatly appreciates.
+    Although it has a bit of downtime, its 4pc effect is relatively easy to trigger.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n400214.webp
+- title: 2PC EM/EM/Deepwood Memories
+  description: Only slightly weaker than 4pc Gilded Dreams. If players have high substat
+    quality on their 2pc sets (which they likely do), it is possible that this combination
+    of artifacts will overtake 4pc Gilded Dreams.
+  color: 3439221
+  thumbnail:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064081273645174844/wuUR6IwNigXzAAAAABJRU5ErkJggg.png
+- title: 4PC Deepwood Memories
+  description: This is technically Alhaitham’s BiS set if no other character can hold
+    it to proc the 4pc effect. However, Alhaitham typically deals the most damage
+    in his teams, so it is advised to have another support unit hold 4pc Deepwood
+    and him hold another artifact set instead. In this way, he can benefit from both
+    artifact sets at the same time.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n400209.webp
+- title: 2PC Emblem of Severed Fate/EM/Deepwood Memories
+  description: When Bursting every rotation, 2pc Emblem is a very competitive 2pc
+    option and comes close to 4 Gilded Dreams, allowing players to build offensive
+    substats instead of ER. Of course, at lower requirements, it is relatively less
+    powerful.
+  color: 3439221
+  thumbnail:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064081504810045472/hATv7HTC0pIwAAAABJRU5ErkJggg.png
+- title: 2PC ATK%/ATK%
+  description: A weaker 2pc variation than 2pc 80 EM/15% DMG. Not recommended, but
+    technically better than having no set.
+  color: 3439221
+  thumbnail:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064081783462821999/HlUPzkkzIksAAAAABJRU5ErkJggg.png
+- title: 4PC Gladiator's Finale/Emblem of Severed Fate/etc.
+  description: Not recommended. Alhaitham’s damage is distributed throughout his kit.
+    Hence, it is counterproductive to use sets that focus on a singular aspect of
+    his kit.
+  color: 3439221
+  footer:
+    text: 'Authored by: redd'
+    icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png
+  thumbnail:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064082119573372948/uNAhGCQFIEMhUM5JJU2lAOCOggkJlgIBcdDQJRgkCSBDIRDOSSZMpQFgjoIZC6YCAXPY0BkYJA0gRSFQzkknS6UB4I6CKQmmAgF10NAdGCQBoEUhEM5JJGqlAmCOgjkLhgIBd9jQARg0BaBBIVDOSSVppQLgjoJJCYYCAXnQ0AUYNAmgQSEQzkkmaKUDYI6CUQWzCQi97kI3IQSJtALMFALmmnBWDgG4CkQUDuehOPKIHgSwIxBHMR0R0CcKziJNeA8Q0EkgsmC4umEYsmQue56HB9HrzDiBoFUCcQSTKqRoXAQAAH1BCAY9SlEBUDAXQIQjLu5QWQgoJ4ABKMhagACLhLAIJxNzeIDATUE4Bg1KcQFQABdwlAMO7mBpGBgHoCEIz6FKICIOAuAQjG3dwgMhBQTwCCUZ9CVAAE3CUAwbibG0QGAuoJQDDqU4gKgIC7BCAYd3ODyEBAPQEIRn0KUQEQcJfAf3tZb0lPPZDAAAAAElFTkSuQmCC.png
