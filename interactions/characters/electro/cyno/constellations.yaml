@@ -1,131 +1,110 @@
 content: null
 embeds:
   - title: |-
-      __**CONSTELLATIONS**__
+      __**CONSTELLATION**__
 
-      **C1 - Shoban: Ostentatious Plumage**
+      **C1**
     description: >-
-      Increases NA/CA ATK SPD by 10% and increases the total damage of A4 Procs
-      from 140% ATK to 240% ATK.
+      *After using Sacred Rite: Wolf's Swiftness, Cyno's Normal Attack SPD will
+      be increased by 20% for 10s. If the Judication effect of his Passive
+      Talent Featherfall Judgment is triggered during Secret Rite: Chasmic
+      Soulfarer, the duration of this increase will be refreshed. You need to
+      unlock the Passive Talent "Featherfall Judgment."*
 
 
-      Allows Wanderer to fit 1-3 NAs more into a DPS Window. Increasing total
-      DPS by 6-11%.
+      This constellation allows Cyno to deal more on-field damage due to the ATK
+      SPD given upon casting Elemental Burst or triggering A1 through his
+      Elemental Skill. Combos for this constellation are posted in the Combo
+      Section of this FAQ. Overall, a decent constellation to acquire. 
 
-      Value can vary based on how much ATK SPD Wanderer already has.
-
-      The increased A4 damage can further increase the value of this
-      Constellation if Wanderer
-
-      has to dodge frequently or can utilize A4 Dash Cancels for a DPS gain.
-
-
-      *Individual Increase: 6-11%*
-
-      *Total Increase from C0: 8.5%*
+      **From last constellation: 14-16% || From C0: 14-16%**
     color: null
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/c_751.webp
-  - title: '**C2 - Niban: Moonlit Isle Amidst White Waves**'
+      url: https://genshin.honeyhunterworld.com/img/c_711.webp
+  - title: '**C2**'
     description: >-
-      Grants Wanderer increased Q DMG% based on Kuugoryoku Points spent while in
-      his Skill State, up to 200% after 50 points spent.
+      *When Cyno's Normal Attacks hit opponents, he gains 10% Electro DMG
+      respectively for 4s. This effect can be triggered once every 0.1s. Max 5
+      stacks. Each stack's duration is counted independently.*
 
 
-      Grants Wanderer a powerful nuke option but also forces him to use his
-      Burst as a finisher at the end of his DPS window. Generally yields around
-      15% more total DPS, which isn’t impressive for a C2. The effective value
-      of this Cons however can be higher due to the practical advantages of
-      powerful nuking abilities.
+      A strong point in his constellations. Able to provide a huge amount of
+      Electro DMG with ease makes this constellation of value quite high and a
+      good stop point for people who would want to get Cyno Constellations. 
 
-      Only major stopping point for Wanderer Constellations prior to C6.
-
-
-      *Individual Increase: 14-17%*
-
-      *Total Increase from C0: 25%*
+      **From last constellation: 23-25% || From C0: 41-45%**
     color: null
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/c_752.webp
-  - title: '**C3 - Sanban: Moonflower Kusemai**'
+      url: https://genshin.honeyhunterworld.com/img/c_712.webp
+  - title: '**C3**'
     description: >-
-      Increases the Wanderer’s Elemental Burst Talent Level by 3.
+      *Increases the Level of Sacred Rite: Wolf's Swiftness by 3. Maximum
+      upgrade level is 15.*
 
 
-      Further build upon the nuking power of his Burst after C2, but nothing to
-      write home about in terms of value. Usually around 5% more DPS.
+      Standard +3 Constellation. Increase Elemental Burst MVs, which means
+      stronger damage outputted by his Elemental Burst Normal Attacks.
 
-
-      *Individual Increase: 5%*
-
-      *Total Increase from C0: 32%*
+      **From last Constellation: 6-7% || From C0: 49-55%**
     color: null
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/c_753.webp
-  - title: '**C4: Yonban: Set Adrift Into Spring**'
+      url: https://genshin.honeyhunterworld.com/img/c_713.webp
+  - title: '**C4**'
     description: >-
-      Grants Wanderer an additional Elemental Absorption Buff he doesn't already
-      have at random, when he is absorbing an Element with his Skill and
-      increases the cap of Buffs to 3.
-
-      Can provide 0%-15% more damage. The randomness makes these Buffs difficult
-      to use consistently, as they may require you to adjust your Stats, are
-      devalued in some Teams or require changes in your rotation.
-
-      Hence a pessimistic evaluation at 0%.
+      *When Cyno is in the Pactsworn Pathclearer state triggered by Sacred Rite:
+      Wolf's Swiftness, after he triggers Electro-Charged, Superconduct,
+      Overloaded, Quicken, Aggravate, Hyperbloom, an Electro Swirl or an Electro
+      Crystallization reaction, he will restore 3 Elemental Energy for all
+      nearby party members (except himself.). This effect can occur 5 times
+      within one use of Sacred Rite: Wolf's Swiftness.*
 
 
-      Generally: Cryo > Pyro > Electro/Hydro  
+      This constellation turns Cyno into a semi-battery for his party members.
+      Granting a 15 energy that would make his support’s ER requirement lower
+      with his current rotation time. Overall, not a bad constellation on teams
+      that are suffering in ER requirements due to Cyno’s long field-time
 
-
-      *Individual Increase: 0% (up to 15% at the mercy of RNG)*
-
-      *Total Increase from C0: 32%*
+      **From last Constellation: 0% || From C0: 49-55%**
     color: null
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/c_754.webp
-  - title: '**C5 - Matsuban: Ancient Illuminator From Abroad**'
+      url: https://genshin.honeyhunterworld.com/img/c_714.webp
+  - title: '**C5**'
     description: >-
-      Increases the Wanderer’s Elemental Skill Talent Level by 3.
+      *Increases the Level of Secret Rite: Chasmic Soulfarer by 3. Maximum
+      upgrade level is 15.*
 
 
-      The value of Skill Talent Levels on Wanderer is generally pretty awful,
-      making this his arguably weakest Constellation at around 3% more total
-      damage.
+      Standard +3 Constellation. Increase Elemental Skill MVs, which means
+      stronger damage outputted by his Elemental Skill outside of Pactsworn
+      Pathclearer and when in Pactsworn Pathclearer state.
 
-
-      *Individual Increase: 3%*
-
-      *Total Increase from C0: 36%*
+      **From last Constellation: 1-2% || From C0: 52-57%**
     color: null
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/c_755.webp
-  - title: '**C6 - Shugen: The Curtains’ Melancholic Sway**'
+      url: https://genshin.honeyhunterworld.com/img/c_715.webp
+  - title: '**C6**'
     description: >-
-      Causes the Wanderer to shoot a second Kuugo:Fushoudan (Skill State Normal
-      Attack) whenever he uses a Normal Attack in his Skill State.
-
-      This second attack deals 40% of the original Normal Attack and also counts
-      as a Normal Attack.
-
-      Additionally when Wanderer drops below 40 Kuugoryoku Points, his Normal
-      Attacks will restore 4 such Points with a 0.2s CD, up to 5 times in total
-      per Skill use.
-
-
-      The additional Normal Attacks are the primary value of this Constellation,
-      effectively increasing his Normal Attack dmg by a total 40% or about 25%
-      more total damage. A notable synergy is being able to rapidly fire the
-      added Bonus Damage Stacks granted by Yun Jin’s Elemental Burst.
-
-      The additional Skill State duration is mostly QoL and isn’t used for the
-      numerical evaluation of this Constellation.
+      *After using Sacred Rite: Wolf's Swiftness or triggering the Judication
+      effect of the Passive Talent "Featherfall Judgment," Cyno will gain 4
+      stacks of the "Day of the Jackal" effect. When he hits opponents with
+      Normal Attacks, he will consume 1 stack of "Day of the Jackal" to fire off
+      one Duststalker Bolt. "Day of the Jackal" lasts for 8s. Max 8 stacks. It
+      will be cancelled once Pactsworn Pathclearer ends. A maximum of 1
+      Duststalker Bolt can be unleashed this way every 0.4s. You must first
+      unlock the Passive Talent "Featherfall Judgment."*
 
 
-      *Individual Increase: 25%*
+      This constellation provides more A1 Bolt when hitting enemies with Normal
+      Attack in Pactsworn Pathclearer state and having Day of the Jackal effect
+      active. A total of 15-20 bolts can be achieved depending on how much field
+      time Cyno will take throughout his rotation. This constellation ICD is
+      separated with his A1 ICD so it does not mess up ICD procs of A1.
 
-      *Total Increase from C0: 70%*
+      **From last Constellation: 25% || From C0: 89-96%**
     color: null
     footer:
-      text: >-
-        (section authored by Raikh)
+      text: |-
+        (section authored by Akane)
+        
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_716.webp
