@@ -50,27 +50,12 @@ options: #dropdown
     emoji: :Electro:925598875174199327
 
   - label: Weapons
-    value: characters/electro/cyno/weapons
+    value: characters/electro/cyno/weapons1
     description: "WFP resources for Cyno FAQ."
     emoji: :Electro:925598875174199327
 
-  - label: Teambuilding (Part 1)
+  - label: Teambuilding
     value: characters/electro/cyno/teambuildingpt1
-    description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
-
-  - label: Teambuilding (Part 2)
-    value: characters/electro/cyno/teambuildingpt2
-    description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
-
-  - label: Teambuilding (Part 3)
-    value: characters/electro/cyno/teambuildingpt3
-    description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
-
-  - label: Teambuilding (Part 4)
-    value: characters/electro/cyno/teambuildingpt4
     description: "WFP resources for Cyno FAQ."
     emoji: :Electro:925598875174199327
 
