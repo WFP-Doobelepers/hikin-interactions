@@ -1,35 +1,71 @@
-{
-  "embeds": [
-    {
-      "title": "__TALENTS__\n\nLeveling priority (on-field): Burst > Skill > Normal Attack",
-      "color": 12784917,
-      "image": {
-        "url": "https://media.discordapp.net/attachments/914675194939969587/1079617710335463424/dehya_talents_proper_2.png"
-      }
-    },
-    {
-      "title": "Leveling priority (off-field): Skill > Burst > Normal Attack",
-      "color": 12784917,
-      "footer": {
-        "text": "Authored by: Emiliabyss",
-        "icon_url": "https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png"
-      },
-      "image": {
-        "url": "https://media.discordapp.net/attachments/914675194939969587/1079617710574542868/dehya_talents_proper.png"
-      }
-    },
-    {
-      "description": "**Analysis:**\n\nSome, but not much, of Dehya’s scaling includes HP, and since Dehya needs all the stats she can get, it may be advised to level her to 90.\n\nDehya’s multipliers on her Normal Attacks are lower than Xinyan’s (a 4-star Pyro Claymore wielder), with the same number of hits. Knowing this, it is not advised to use Dehya’s Normal Attacks at all. Instead, decide whether you will play Dehya on-field or off-field, and then level the corresponding Talents as listed above.\n\nDehya’s Skill has two uses that deal different amounts of damage. The first Skill use deals damage and creates a “Fiery Sanctum,” a field that attacks in coordination with your teammates, similar to Albedo’s Skill. The rate of coordinated attacks is once every 2.5 seconds, and while slow Pyro application is good to ensure you Burgeon instead of trigger Burning, 2.5 seconds is too slow and offers too few instances of Pyro application to be exploitable. The second Skill use deals more damage and can move the Fiery Sanctum to a new location without affecting its total 12s field time. This is what makes Burgeon Dehya viable. While her Skill is active, she also acts as a true bodyguard, taking a portion (from 30-50%) of her teammates’ damage across ten seconds.\n\nDehya’s Burst lasts about four seconds, though with the initial cast animation and the finishing blow animation, it’s more like eight or nine. Dehya throws aside her Claymore in order to bludgeon enemies with her fists. By mashing the attack button, you can get up to ten punches within the Burst’s duration. The finishing attack is not particularly strong, so in tight rotations, it may be beneficial to swap out of Dehya before the final attack to save two seconds of field time. There are no other special effects on Dehya’s Burst: just damage. \n\nWith a 70 Cost Burst and 18s CD, Dehya’s Energy Recharge requirements are massive at 200% or more *with* a Favonius weapon on the team *and* multiple Pyro teammates, and without exceptional payoff.\n\nDehya’s First Ascension Passive reduces the damage she *actually* takes (which is good!) and offers limited Interruption Resistance to her teammates, ensuring they can use their Talents quickly and swap off without much worry.\n\nFor her Fourth Ascension Passive, once Dehya is at 40% HP or lower, she will instantly recover 20% of her HP, and then another 6% of her HP at 2s intervals, up to a maximum of 10 seconds (five 6% HP healing bursts, for a total of 30%). The Passive can activate once every 20 seconds, and it ensures Dehya can continue mitigating her team’s damage in subsequent rotations.\n\nFinally, her Utility Passive grants the team 10% Movement Speed in the overworld during daytime.",
-      "color": 12784917
-    },
-    {
-      "title": "__COMBOS__",
-      "description": "Dehya’s combos are straightforward, regardless of whether you are playing her on-field or off-field.\n\n**On-Field:**\n- Use Dehya’s Skill and create a Fiery Sanctum.\n- Swap to teammates to lay down their buffs and activate their Skills/Bursts.\n- Swap back to Dehya and use her Skill again, if not at least to move the Fiery Sanctum somewhere more convenient.\n- Deploy Dehya’s Burst and button mash either until the Burst ends on its own, or swap before the long wind-up for her finishing attack.\n\n**Off-Field:**\n- Set up Dendro Cores with teammates (Dendro and Hydro teammates required)\n- Use Dehya’s Skill to apply Pyro and set up a Fiery Sanctum.\n- Swap to teammates and use their abilities to ensure Dendro Cores are made between coordinated attacks.\n- Use Dehya’s Skill a second time to reposition the Sanctum as needed and get another instance of Pyro application.\n\nThe off-field rotation can be re-arranged according to the team composition; just make sure to get as many Burgeon reactions as possible with her.",
-      "color": 12784917,
-      "footer": {
-        "text": "Authored by: Emiliabyss",
-        "icon_url": "https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png"
-      }
-    }
-  ],
-}
+embeds:
+- title: |-
+    __TALENTS__
+
+    Leveling priority (on-field): Burst > Skill > Normal Attack
+  color: 12784917
+  image:
+    url: https://media.discordapp.net/attachments/914675194939969587/1079617710335463424/dehya_talents_proper_2.png
+- title: 'Leveling priority (off-field): Skill > Burst > Normal Attack'
+  color: 12784917
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
+  image:
+    url: https://media.discordapp.net/attachments/914675194939969587/1079617710574542868/dehya_talents_proper.png
+- description: "**Analysis:**\n\nSome, but not much, of Dehya’s scaling includes HP,
+    and since Dehya needs all the stats she can get, it may be advised to level her
+    to 90.\n\nDehya’s multipliers on her Normal Attacks are lower than Xinyan’s (a
+    4-star Pyro Claymore wielder), with the same number of hits. Knowing this, it
+    is not advised to use Dehya’s Normal Attacks at all. Instead, decide whether you
+    will play Dehya on-field or off-field, and then level the corresponding Talents
+    as listed above.\n\nDehya’s Skill has two uses that deal different amounts of
+    damage. The first Skill use deals damage and creates a “Fiery Sanctum,” a field
+    that attacks in coordination with your teammates, similar to Albedo’s Skill. The
+    rate of coordinated attacks is once every 2.5 seconds, and while slow Pyro application
+    is good to ensure you Burgeon instead of trigger Burning, 2.5 seconds is too slow
+    and offers too few instances of Pyro application to be exploitable. The second
+    Skill use deals more damage and can move the Fiery Sanctum to a new location without
+    affecting its total 12s field time. This is what makes Burgeon Dehya viable. While
+    her Skill is active, she also acts as a true bodyguard, taking a portion (from
+    30-50%) of her teammates’ damage across ten seconds.\n\nDehya’s Burst lasts about
+    four seconds, though with the initial cast animation and the finishing blow animation,
+    it’s more like eight or nine. Dehya throws aside her Claymore in order to bludgeon
+    enemies with her fists. By mashing the attack button, you can get up to ten punches
+    within the Burst’s duration. The finishing attack is not particularly strong,
+    so in tight rotations, it may be beneficial to swap out of Dehya before the final
+    attack to save two seconds of field time. There are no other special effects on
+    Dehya’s Burst: just damage. \n\nWith a 70 Cost Burst and 18s CD, Dehya’s Energy
+    Recharge requirements are massive at 200% or more *with* a Favonius weapon on
+    the team *and* multiple Pyro teammates, and without exceptional payoff.\n\nDehya’s
+    First Ascension Passive reduces the damage she *actually* takes (which is good!)
+    and offers limited Interruption Resistance to her teammates, ensuring they can
+    use their Talents quickly and swap off without much worry.\n\nFor her Fourth Ascension
+    Passive, once Dehya is at 40% HP or lower, she will instantly recover 20% of her
+    HP, and then another 6% of her HP at 2s intervals, up to a maximum of 10 seconds
+    (five 6% HP healing bursts, for a total of 30%). The Passive can activate once
+    every 20 seconds, and it ensures Dehya can continue mitigating her team’s damage
+    in subsequent rotations.\n\nFinally, her Utility Passive grants the team 10% Movement
+    Speed in the overworld during daytime."
+  color: 12784917
+- title: __COMBOS__
+  description: |-
+    Dehya’s combos are straightforward, regardless of whether you are playing her on-field or off-field.
+
+    **On-Field:**
+    - Use Dehya’s Skill and create a Fiery Sanctum.
+    - Swap to teammates to lay down their buffs and activate their Skills/Bursts.
+    - Swap back to Dehya and use her Skill again, if not at least to move the Fiery Sanctum somewhere more convenient.
+    - Deploy Dehya’s Burst and button mash either until the Burst ends on its own, or swap before the long wind-up for her finishing attack.
+
+    **Off-Field:**
+    - Set up Dendro Cores with teammates (Dendro and Hydro teammates required)
+    - Use Dehya’s Skill to apply Pyro and set up a Fiery Sanctum.
+    - Swap to teammates and use their abilities to ensure Dendro Cores are made between coordinated attacks.
+    - Use Dehya’s Skill a second time to reposition the Sanctum as needed and get another instance of Pyro application.
+
+    The off-field rotation can be re-arranged according to the team composition; just make sure to get as many Burgeon reactions as possible with her.
+  color: 12784917
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png

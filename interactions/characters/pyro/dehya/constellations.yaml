@@ -1,58 +1,85 @@
-{
-  "embeds": [
-    {
-      "title": "__**CONSTELLATIONS**__\n\n**C1 - The Flame Incandescent**",
-      "description": "> *Dehya's Max HP is increased by 20%, and she deals bonus DMG based on her Max HP when using the following attacks:\n> - **Molten Inferno's DMG** will be increased by 3.6% of her Max HP.\n> - **Leonine Bite's DMG** will be increased by 6% of her Max HP.*\n\nThis Constellation gives Dehya more HP as well as additional HP scaling to her Skill and Burst, greatly increasing Dehya’s on-field damage output. In addition, the value of HP% becomes similar to ATK%, which allows players to slot in HP% Sands to gain survivability without losing damage. Overall a great stopping point for anyone who plans to use Dehya on-field. The bonus HP is also helpful for Dehya’s tanking ability from Redmane’s Blood.\n\nOn-field DPS Increase from C0: 35%\nRating: 4/5",
-      "color": 12784917,
-      "thumbnail": {
-        "url": "https://genshin.honeyhunterworld.com/img/c_791.webp"
-      }
-    },
-    {
-      "title": "**C2 - The Sand-Blades Glittering**",
-      "description": "> *When Dehya uses **Molten Inferno: Raging Flame**, the duration of the recreated Fiery Sanctum field will be increased by 6s.\n> Additionally, when a Fiery Sanctum exists on the field, DMG dealt by its next coordinated attack will be increased by 50% when active character(s) within the Fiery Sanctum field are attacked.*\n\nA very situational (iffy) Constellation, encouraging your on-field character to take damage in order to increase **Molten Inferno** damage. This, however, may put your on-field character in danger even with Dehya’s damage mitigation. Additionally, it may be hard to guarantee that your characters will be attacked constantly to proc the bonus damage without forcefully extending your rotation.\n\nThe bonus duration is a decent quality of life bonus that adds 2 more coordinated attacks that deal damage, create more Pyro particles and gives her practically 100% uptime on her damage mitigation if played on-field. Do note that this Constellation does not increase the Interruption Resistance duration from her Ascension 1 Passive. \n\nOn-field DPS Increase from C0: 62%\nOn-field DPS Increase from C1: 20%\nRating: 3/5",
-      "color": 12784917,
-      "thumbnail": {
-        "url": "https://genshin.honeyhunterworld.com/img/c_792.webp"
-      }
-    },
-    {
-      "title": "**C3 - A Rage Swift as Fire**",
-      "description": "> *Increases the **Level of Leonine Bite** by 3.\n> Maximum upgrade level is 15.*\n\nA nice bonus if you prefer using Dehya on-field. \n\nOn-field DPS Increase from C0: 77%\nOn-field DPS Increase from C2: 9%\nRating: 3/5",
-      "color": 12784917,
-      "thumbnail": {
-        "url": "https://api.ambr.top/assets/UI/UI_Talent_U_Dehya_01.png"
-      }
-    },
-    {
-      "title": "**C4 - An Oath Abiding**",
-      "description": "> *When **Flame-Mane's Fist** and **Incineration Drive** attacks unleashed during Leonine Bite hit opponents, they will restore 1.5 Energy for Dehya and 2.5% of her Max HP. This effect can be triggered once every 0.2s.*\n\nDecreases Dehya’s Energy requirements by approximately 20% (30% at C6), which allows for more offensive substats. It also keeps Dehya healthy by healing her while she is on-field punching her enemies. \n\nNote: Due to how KQMC works, C4 is a lot less impactful on paper than in actual practice.\n\nOn-field DPS Increase from C0: 83%\nOn-field DPS Increase from C3: 3%\nRating: 2/5",
-      "color": 12784917,
-      "thumbnail": {
-        "url": "https://genshin.honeyhunterworld.com/img/c_794.webp"
-      }
-    },
-    {
-      "title": "**C5 - The Alpha Unleashed**",
-      "description": "> *Increases the **Level of Molten Inferno** by 3.\n> Maximum upgrade level is 15.*\n\nDehya’s weakest Constellation by far. It boosts her Skill Talent levels, which is practically useless since Dehya’s Skill does miniscule damage for on-field Dehya, and her Talent level is irrelevant in Burgeon teams.\n\nOn-field DPS Increase from C0: 91%\nOn-field DPS Increase from C4: 4%\nRating: 1/5",
-      "color": 12784917,
-      "thumbnail": {
-        "url": "https://genshin.honeyhunterworld.com/img/c_795.webp"
-      }
-    },
-    {
-      "title": "**C6 - The Burning Claws Cleaving**",
-      "description": "> *The CRIT Rate of Leonine Bite is increased by 10%.\n> Additionally, after a Flame-Mane's Fist attack hits an opponent and deals CRIT Hits during a single Blazing Lioness state, it will cause the CRIT DMG of Leonine Bite to increase by 15% for the rest of Blazing Lioness's duration and extend that duration by 0.5s. This effect can be triggered every 0.2s. The duration can be extended for a maximum of 2s and CRIT DMG can be increased by a maximum of 60% this way.*\n\nHer best Constellation by a mile. Even with just a moderate amount of CRIT Rate, you should be able to proc the maximum number (5) of additional Flame-Mane’s Fists. However, this does not justify lowering CRIT Rate for more CRIT Damage, because not only do you want more CRIT Rate for consistency, but also the sooner you get your CRIT Damage procs, the larger your overall damage increase will be. Building more CRIT Rate instead of CRIT Damage till 90% CRIT Rate gives positive returns since the constellation provides a 10% CRIT Rate Buff. Keep in mind that her Burst does not snapshot; therefore, some buffs may run out before she finishes her punch, and a proper setup is recommended. For more in-depth numbers with regards to Dehya’s C6, please refer to the mastersheet.\n\nOn-field DPS Increase from C0: 196%\nOn-field DPS Increase from C5: 55%\nRating 5/5",
-      "color": 12784917,
-      "footer": {
-        "text": "Authored by: Athena and NatC"
-      },
-      "image": {
-        "url": "https://cdn.discordapp.com/attachments/964616918336159814/1079363599660757032/image.png"
-      },
-      "thumbnail": {
-        "url": "https://genshin.honeyhunterworld.com/img/c_796.webp"
-      }
-    }
-  ],
-}
+embeds:
+- title: |-
+    __**CONSTELLATIONS**__
+
+    **C1 - The Flame Incandescent**
+  description: |-
+    > *Dehya's Max HP is increased by 20%, and she deals bonus DMG based on her Max HP when using the following attacks:
+    > - **Molten Inferno's DMG** will be increased by 3.6% of her Max HP.
+    > - **Leonine Bite's DMG** will be increased by 6% of her Max HP.*
+
+    This Constellation gives Dehya more HP as well as additional HP scaling to her Skill and Burst, greatly increasing Dehya’s on-field damage output. In addition, the value of HP% becomes similar to ATK%, which allows players to slot in HP% Sands to gain survivability without losing damage. Overall a great stopping point for anyone who plans to use Dehya on-field. The bonus HP is also helpful for Dehya’s tanking ability from Redmane’s Blood.
+
+    On-field DPS Increase from C0: 35%
+    Rating: 4/5
+  color: 12784917
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_791.webp
+- title: "**C2 - The Sand-Blades Glittering**"
+  description: "> *When Dehya uses **Molten Inferno: Raging Flame**, the duration
+    of the recreated Fiery Sanctum field will be increased by 6s.\n> Additionally,
+    when a Fiery Sanctum exists on the field, DMG dealt by its next coordinated attack
+    will be increased by 50% when active character(s) within the Fiery Sanctum field
+    are attacked.*\n\nA very situational (iffy) Constellation, encouraging your on-field
+    character to take damage in order to increase **Molten Inferno** damage. This,
+    however, may put your on-field character in danger even with Dehya’s damage mitigation.
+    Additionally, it may be hard to guarantee that your characters will be attacked
+    constantly to proc the bonus damage without forcefully extending your rotation.\n\nThe
+    bonus duration is a decent quality of life bonus that adds 2 more coordinated
+    attacks that deal damage, create more Pyro particles and gives her practically
+    100% uptime on her damage mitigation if played on-field. Do note that this Constellation
+    does not increase the Interruption Resistance duration from her Ascension 1 Passive.
+    \n\nOn-field DPS Increase from C0: 62%\nOn-field DPS Increase from C1: 20%\nRating:
+    3/5"
+  color: 12784917
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_792.webp
+- title: "**C3 - A Rage Swift as Fire**"
+  description: "> *Increases the **Level of Leonine Bite** by 3.\n> Maximum upgrade
+    level is 15.*\n\nA nice bonus if you prefer using Dehya on-field. \n\nOn-field
+    DPS Increase from C0: 77%\nOn-field DPS Increase from C2: 9%\nRating: 3/5"
+  color: 12784917
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Dehya_01.png
+- title: "**C4 - An Oath Abiding**"
+  description: "> *When **Flame-Mane's Fist** and **Incineration Drive** attacks unleashed
+    during Leonine Bite hit opponents, they will restore 1.5 Energy for Dehya and
+    2.5% of her Max HP. This effect can be triggered once every 0.2s.*\n\nDecreases
+    Dehya’s Energy requirements by approximately 20% (30% at C6), which allows for
+    more offensive substats. It also keeps Dehya healthy by healing her while she
+    is on-field punching her enemies. \n\nNote: Due to how KQMC works, C4 is a lot
+    less impactful on paper than in actual practice.\n\nOn-field DPS Increase from
+    C0: 83%\nOn-field DPS Increase from C3: 3%\nRating: 2/5"
+  color: 12784917
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_794.webp
+- title: "**C5 - The Alpha Unleashed**"
+  description: |-
+    > *Increases the **Level of Molten Inferno** by 3.
+    > Maximum upgrade level is 15.*
+
+    Dehya’s weakest Constellation by far. It boosts her Skill Talent levels, which is practically useless since Dehya’s Skill does miniscule damage for on-field Dehya, and her Talent level is irrelevant in Burgeon teams.
+
+    On-field DPS Increase from C0: 91%
+    On-field DPS Increase from C4: 4%
+    Rating: 1/5
+  color: 12784917
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_795.webp
+- title: "**C6 - The Burning Claws Cleaving**"
+  description: |-
+    > *The CRIT Rate of Leonine Bite is increased by 10%.
+    > Additionally, after a Flame-Mane's Fist attack hits an opponent and deals CRIT Hits during a single Blazing Lioness state, it will cause the CRIT DMG of Leonine Bite to increase by 15% for the rest of Blazing Lioness's duration and extend that duration by 0.5s. This effect can be triggered every 0.2s. The duration can be extended for a maximum of 2s and CRIT DMG can be increased by a maximum of 60% this way.*
+
+    Her best Constellation by a mile. Even with just a moderate amount of CRIT Rate, you should be able to proc the maximum number (5) of additional Flame-Mane’s Fists. However, this does not justify lowering CRIT Rate for more CRIT Damage, because not only do you want more CRIT Rate for consistency, but also the sooner you get your CRIT Damage procs, the larger your overall damage increase will be. Building more CRIT Rate instead of CRIT Damage till 90% CRIT Rate gives positive returns since the constellation provides a 10% CRIT Rate Buff. Keep in mind that her Burst does not snapshot; therefore, some buffs may run out before she finishes her punch, and a proper setup is recommended. For more in-depth numbers with regards to Dehya’s C6, please refer to the mastersheet.
+
+    On-field DPS Increase from C0: 196%
+    On-field DPS Increase from C5: 55%
+    Rating 5/5
+  color: 12784917
+  footer:
+    text: 'Authored by: Athena and NatC'
+  image:
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1079363599660757032/image.png
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_796.webp

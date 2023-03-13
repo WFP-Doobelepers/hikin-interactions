@@ -1,49 +1,71 @@
-{
-  "embeds": [
-    {
-      "title": "__CREDITS__",
-      "color": 12784917,
-      "fields": [
-        {
-          "name": "Lead:",
-          "value": "<@293169816741740556>"
-        },
-        {
-          "name": "Authors:",
-          "value": "<@293169816741740556>, <@908531619655188512>,  <@148100838861176832>, <@366206663533002774>, <@280016643558604800>"
-        },
-        {
-          "name": "Calculations:",
-          "value": "<@293169816741740556>, <@148100838861176832>, <@366206663533002774>, <@360467745743175698>, <@651556217315000360>"
-        },
-        {
-          "name": "Consultation:",
-          "value": "<@463998487067885600>"
-        },
-        {
-          "name": "Resources:",
-          "value": "[Dehya Mastersheet](https://docs.google.com/spreadsheets/d/18M33RAuZaLmD3a_MqA3LLPhE2WkO7EqlDIQW8jhFldw/edit?usp=sharing)\n[Dehya C6 Calculations](https://colab.research.google.com/drive/1198q70t4pgpEfI2nP3wFSHw7uIyMbAXk?usp=sharing#scrollTo=3470f8ac)\n[Dehya Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LQaFUjHkniXZoT7nPztVlYZZC8FY6WxPm54LmLfXux4/edit?usp=sharing)"
-        },
-        {
-          "name": "DISCLAIMER:",
-          "value": "*Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.discordapp.com/attachments/964616918336159814/1079284548065574953/dehyaintro.png"
-      }
-    },
-    {
-      "title": "__OVERVIEW__",
-      "description": "Dehya is a Pyro Claymore wielder who can play two main roles: an on-field DPS alongside Bennett, Kazuha, and Xiangling, or an off-field Burgeon reaction DPS, similar to Thoma. \n\nAs an on-field DPS, Dehya’s team compositions are fairly strict, and she needs lots of Energy Recharge — at least 200% ER — in order to deal adequate damage. She is heavily dependent on buffs from teammates in order to deal comparable damage to other Pyro on-field DPSs. Klee is a good comparison, though Dehya also has utility in the form of off-field damage mitigation and Pyro application. Dehya takes between 8 and 11 seconds on-field. \n\nAs an off-field reaction DPS, Dehya ignores her Burst completely and instead focuses purely on Elemental Mastery and her Skill in order to deal damage through Burgeon. The Burgeon playstyle deals comparable damage to the on-field DPS alternative, assuming you can trigger at least eight Burgeon reactions across a maximum of seven instances of Pyro application. The benefit of this is that Dehya does not need to level her Talents at all, and she spends very little time on-field (~2 seconds). The drawback, however, is that she is currently outmatched by Thoma, a 4-star character.\n\nThe main reason to use on-field Dehya over off-field Dehya is her scaling with Constellations. Off-field Dehya does not benefit nearly as much from them. Regardless of which playstyle you choose, you can expect, in ideal team, buff, and gear arrangements (according to KQM standards), roughly 13,000 damage-per-second from Dehya. For context, an entire team needs to deal at (the very) least 40,000 damage-per-second in order to clear Spiral Abyss. This means your other three characters need to deal the remaining 60-70% of the required damage, and with such restricted compositions, you are limited to supporting teammates that also have exceptional damage output.\n\nUnfortunately, there are many restrictions to Dehya’s kit that leave much to be desired. One reason that other Elemental Reactions such as Vaporize and Melt are not mentioned is because Dehya, during her Burst, cannot trigger Burst waves from characters like Xingqiu, Yelan, or Beidou, and she has no single “nuke” attack that can take advantage of Melt. This confines her to either Burgeon or no reactions at all (Mono-Pyro teams with an Anemo character).\n\nIn Dehya’s current state, there are no aspects of her kit that are either unique in effects (Xingqiu and Beidou also have DMG Reduction and Interruption Resistance, and shields are often just better) or the best in effectiveness (strictly outclassed in Burgeon teams thanks to Thoma), with the exception of modest off-field self-healing. In terms of meta, it is ill-advised to spend Primogems on Dehya. However, pulling for Dehya because you like her design, personality, or some other non-meta conditions is perfectly fine.",
-      "color": 12784917,
-      "footer": {
-        "text": "Authored by: Emiliabyss",
-        "icon_url": "https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png"
-      },
-      "thumbnail": {
-        "url": "https://genshin.honeyhunterworld.com/img/dehya_079_icon.webp"
-      }
-    }
-  ],
-}
+embeds:
+- title: __CREDITS__
+  color: 12784917
+  fields:
+  - name: 'Lead:'
+    value: "<@293169816741740556>"
+  - name: 'Authors:'
+    value: "<@293169816741740556>, <@908531619655188512>,  <@148100838861176832>,
+      <@366206663533002774>, <@280016643558604800>"
+  - name: 'Calculations:'
+    value: "<@293169816741740556>, <@148100838861176832>, <@366206663533002774>, <@360467745743175698>,
+      <@651556217315000360>"
+  - name: 'Consultation:'
+    value: "<@463998487067885600>"
+  - name: 'Resources:'
+    value: |-
+      [Dehya Mastersheet](https://docs.google.com/spreadsheets/d/18M33RAuZaLmD3a_MqA3LLPhE2WkO7EqlDIQW8jhFldw/edit?usp=sharing)
+      [Dehya C6 Calculations](https://colab.research.google.com/drive/1198q70t4pgpEfI2nP3wFSHw7uIyMbAXk?usp=sharing#scrollTo=3470f8ac)
+      [Dehya Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LQaFUjHkniXZoT7nPztVlYZZC8FY6WxPm54LmLfXux4/edit?usp=sharing)
+  - name: 'DISCLAIMER:'
+    value: "*Pre-TC is volatile and, as always, perpetually subject to change until
+      release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little
+      information about the character’s kit that we know. Team calcs, additionally,
+      are not established yet, and as with everything in TC, the content in this FAQ
+      should be taken with a grain of salt.*"
+  image:
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1079284548065574953/dehyaintro.png
+- title: __OVERVIEW__
+  description: "Dehya is a Pyro Claymore wielder who can play two main roles: an on-field
+    DPS alongside Bennett, Kazuha, and Xiangling, or an off-field Burgeon reaction
+    DPS, similar to Thoma. \n\nAs an on-field DPS, Dehya’s team compositions are fairly
+    strict, and she needs lots of Energy Recharge — at least 200% ER — in order to
+    deal adequate damage. She is heavily dependent on buffs from teammates in order
+    to deal comparable damage to other Pyro on-field DPSs. Klee is a good comparison,
+    though Dehya also has utility in the form of off-field damage mitigation and Pyro
+    application. Dehya takes between 8 and 11 seconds on-field. \n\nAs an off-field
+    reaction DPS, Dehya ignores her Burst completely and instead focuses purely on
+    Elemental Mastery and her Skill in order to deal damage through Burgeon. The Burgeon
+    playstyle deals comparable damage to the on-field DPS alternative, assuming you
+    can trigger at least eight Burgeon reactions across a maximum of seven instances
+    of Pyro application. The benefit of this is that Dehya does not need to level
+    her Talents at all, and she spends very little time on-field (~2 seconds). The
+    drawback, however, is that she is currently outmatched by Thoma, a 4-star character.\n\nThe
+    main reason to use on-field Dehya over off-field Dehya is her scaling with Constellations.
+    Off-field Dehya does not benefit nearly as much from them. Regardless of which
+    playstyle you choose, you can expect, in ideal team, buff, and gear arrangements
+    (according to KQM standards), roughly 13,000 damage-per-second from Dehya. For
+    context, an entire team needs to deal at (the very) least 40,000 damage-per-second
+    in order to clear Spiral Abyss. This means your other three characters need to
+    deal the remaining 60-70% of the required damage, and with such restricted compositions,
+    you are limited to supporting teammates that also have exceptional damage output.\n\nUnfortunately,
+    there are many restrictions to Dehya’s kit that leave much to be desired. One
+    reason that other Elemental Reactions such as Vaporize and Melt are not mentioned
+    is because Dehya, during her Burst, cannot trigger Burst waves from characters
+    like Xingqiu, Yelan, or Beidou, and she has no single “nuke” attack that can take
+    advantage of Melt. This confines her to either Burgeon or no reactions at all
+    (Mono-Pyro teams with an Anemo character).\n\nIn Dehya’s current state, there
+    are no aspects of her kit that are either unique in effects (Xingqiu and Beidou
+    also have DMG Reduction and Interruption Resistance, and shields are often just
+    better) or the best in effectiveness (strictly outclassed in Burgeon teams thanks
+    to Thoma), with the exception of modest off-field self-healing. In terms of meta,
+    it is ill-advised to spend Primogems on Dehya. However, pulling for Dehya because
+    you like her design, personality, or some other non-meta conditions is perfectly
+    fine."
+  color: 12784917
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/dehya_079_icon.webp
