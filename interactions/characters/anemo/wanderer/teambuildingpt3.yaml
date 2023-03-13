@@ -142,7 +142,7 @@ embeds:
 
 buttons:
 - customId: liveInteraction#characters/anemo/wanderer/teambuildingpt2
-  label: Next
+  label: Previous
   style: PRIMARY
   emoji: "◀️"
   
