@@ -1,0 +1,21 @@
+---
+content:
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 3439221
+  fields:
+  - name: 'Project Amber:'
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000074/layla)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credits to Edulis, Athena, Tabunne, and Emiliabyss for the Layla FAQ! || WFP and KQM Theorycrafting
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035809798094061608/DN2.jpeg?width=1038&height=701
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_746.webp
