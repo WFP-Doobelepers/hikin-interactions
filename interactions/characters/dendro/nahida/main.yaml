@@ -21,8 +21,7 @@ embeds:
       name: Nahida FAQ
       icon_url: https://genshin.honeyhunterworld.com/img/nahida_073_side_icon.webp
     image:
-      url: https://genshin.honeyhunterworld.com/img/nahida_073_gacha_splash.webp
-
+      url: https://media.discordapp.net/attachments/964616918336159814/1035131681436344370/dn.jpeg
 options: #dropdown
     
   - label: Overview

@@ -13,8 +13,10 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text: Credits to Leifa, Kuro_Kami, Sir Von, redd, Raikh, sigurd, jrm.spirit, akane, Emiliabyss, Reens for the Althaitham FAQ!
-      || WFP Theorycrafting
+    text: 
+
+        Credits to Leifa, Apollo, Von, and redd for the Nahida FAQ! || WFP and KQM Theorycrafting
+        
     icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
   image:
     url: https://genshin.honeyhunterworld.com/img/nahida_073_gacha_splash.webp
