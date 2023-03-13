@@ -1,21 +1,23 @@
-content: null
-embeds:
-  - title: >-
-      A wayfaring figure whose identity is a mystery. He dresses like a mountain
-      ascetic, but he certainly does not act the part.
-    color: 7321031
-    fields:
-      - name: >-
-          Cyno Mastersheet by Emiliabyss#1641, Raikh / Valien#8564,
-          EduLis#2176, and ඞඞ#6874
-        value: >-
-          [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390)
-    author:
-      name: Cyno FAQ
-      icon_url: https://genshin.honeyhunterworld.com/img/cyno_075_side_icon.webp
-    image:
-      url: https://genshin.honeyhunterworld.com/img/cyno_071_gacha_splash.webp
+content: >-
+  Cyno Pre-TC FAQ by <@604540951708565515> (Author, Calcs),
+  <@209617229216612352> (Consulting, Mapping), <@367160010335191054> (Mapping),
+  <@280016643558604800> (Mapping), <@651556217315000360> (Consulting), and
+  <@265126444894650369> (Proofreading)
+
+
+  For all Cyno Calcs you can reference: [Cyno
+  Mastersheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
+  by <@604540951708565515> and [Cyno Frames
+  Mastesheet](https://docs.google.com/spreadsheets/d/1GY-1jiq1JTJ5YLIrEIjLDpTPWqeMBfZ1qX1cND4iiq8/edit#gid=377494852)
+  by <@367160010335191054>
+
+
+  **DISCLAIMER:** *Everything on the FAQ and Mastersheet is Pre-TC, which means
+  information gathered here is __**SUBJECT TO CHANGE (STC)**__ until release
+  comes. Pre-TC is really volatile as things could change on a snap on release
+  and numbers could change drastically on that point so take every content on
+  this FAQ and Mastersheet with a grain of salt. Thank you and much love*
+
       
 options: #dropdown
     

@@ -36,3 +36,5 @@ embeds:
       increase its value, this makes Elemental Mastery a very powerful stat for
       Cyno.
     color: null
+    footer:
+      text: (section authored by Akane)
