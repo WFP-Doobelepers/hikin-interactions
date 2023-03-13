@@ -130,6 +130,6 @@ embeds:
 
 buttons:
 - customId: liveInteraction#characters/electro/cyno/teambuildingpt2
-  label: Next
+  label: Previous
   style: PRIMARY
   emoji: "◀️"
