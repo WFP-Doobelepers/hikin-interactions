@@ -1,0 +1,96 @@
+---
+content:
+embeds:
+- title: __WEAPONS__
+  description: Alhaitham has a variety of weapon options at his disposal thanks to
+    his flexible scaling taking advantage of a wide number of stats. Thanks to his
+    reliance on EM over ATK making low Base ATK relatively inconsequential, he has
+    many powerful free options. You can view the full weapon ranking in the [WFP Alhaitham
+    Mastersheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959).
+  color: 3439221
+- title: |-
+    __Signature Weapon__
+
+    Light of Foliar Incision
+  description: Alhaitham’s signature weapon gives a hefty 88.2% CRIT DMG and provides
+    an EM-scaling buff to his Normal Attacks and Projection Attacks. It is approximately
+    8% stronger than the next best option, although its effectiveness is impacted
+    in AoE situations where Alhaitham can use up its buff stacks prematurely on lower-scaling
+    Normal Attacks rather than on Projection Attacks that benefit from A4. Foliar’s
+    passive does, however, synergize well with EM buffs and makes him strongly favor
+    EM in his build. Note that due to his lack of CRIT Rate ascension, it can be difficult
+    to get a 1:2 crit ratio with Foliar.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11512.webp
+- title: |-
+    __5★ Options__
+
+    Primordial Jade Cutter
+  description: The evergreen stat stick, Primordial Jade Cutter is the 2nd-best option
+    for Alhaitham after his signature weapon, thanks to its CRIT Rate stat and unconditional
+    ATK bonus passive, both of which Alhaitham can take advantage of.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11505_awaken_icon.webp
+- title: Haran Geppaku Futsu
+  description: Tied for 3rd place with Mistsplitter. Alhaitham enjoys its CRIT Rate
+    and Elemental DMG Bonus buff. In order to make full use of its Normal Attack DMG
+    buff, he should use N3D combos.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11510_awaken_icon.webp
+- title: Mistsplitter Reforged
+  description: Tied for 3rd place with Haran. Alhaitham can make good use of Mistsplitter’s
+    Elemental DMG Bonus passive, and he’s able to reliably maintain 3 stacks in most
+    rotations.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11509_awaken_icon.webp
+- title: |-
+    __4★ Options__
+
+    Toukabou Shigure/Iron Sting
+  description: |-
+    His best 4-star options, Toukabou Shigure and Iron Sting perform similarly. Between their Elemental Mastery and passive buffs, they both provide everything Alhaitham values in a weapon.
+
+    Due to their differing passives, Toukabou Shigure will perform better in single-target scenarios, while Iron Sting will pull ahead in AoE situations.
+  color: 3439221
+  thumbnail:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064083847274303508/gfuRgXpGlcj4gAAAABJRU5ErkJggg.png
+- title: Festering Desire
+  description: A respectable option for Alhaitham that provides useful DMG% and CRIT
+    Rate buffs for his Mirror Projection Attacks. Festering Desire is competitive
+    with Iron Sting and Toukabou Shigure in teams where he can take full advantage
+    of its Energy Recharge stat, but sees worse performance if he does not Burst every
+    rotation.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11413_awaken_icon.webp
+- title: Xiphos' Moonlight
+  description: Alhaitham values all the stats given by this weapon, which also reduces
+    team Energy needs. However, Xiphos’ passive does not work with many EM buffs,
+    lowering its overall effectiveness.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11418_awaken_icon.webp
+- title: Sacrificial Sword
+  description: Sacrificial Sword offers Alhaitham the luxury of starting rotations
+    with his Elemental Skill prior to Elemental Burst (changing his rotation to E
+    > N1 > Q > E), allowing him to Burst with 2 Mirrors for additional damage. His
+    typical rotations require R4 minimum to trigger consistently.
+  color: 3439221
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11403_awaken_icon.webp
+- title: Harbinger of Dawn
+  description: Not to be discounted. With its passive up, Harbinger of Dawn competes
+    with his 5-star weapon options, performing similarly to Haran and Mistsplitter
+    thanks to its CRIT Rate and CRIT DMG buffs. However, given Alhaitham’s role as
+    an on-field character, a shielder is mandatory to realistically take advantage
+    of this weapon.
+  color: 3439221
+  footer:
+    text: 'Authored by: Lofty'
+    icon_url: https://images-ext-2.discordapp.net/external/BQnUK9NrYoD5_DDqOfbcCLvuX6RrdzQbkjWcOPhlJLU/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/939432470384894007/9f7965b28fc6c208586bf122ffaa3b37.png
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n11302_awaken_icon.webp

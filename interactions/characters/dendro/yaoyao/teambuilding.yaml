@@ -1,0 +1,76 @@
+---
+content:
+embeds:
+- title: __TEAM BUILDING__
+  description: "Early potential teams for Alhaitham primarily focus on **Spread**
+    for his personal damage. Additionally, he may be used as a driver in **Bloom**,
+    **Hyperbloom** and **Burgeon** comps. **Quickbloom** teams—teams that allow for
+    both Hyperbloom and Quicken to coexist through slow Hydro application—have also
+    shown great promise. These teams should have similar Quicken uptime to Spread
+    teams, with additional Hyperbloom DMG. \n\nNote that in Burgeon, Nilou Bloom and
+    Hyperbloom teams where Alhaitham does not get many Spreads, his personal damage
+    will be underwhelming. It would thus be more useful for him to Burst every rotation
+    for better Mirror uptime and higher Dendro application. To reach his ER requirements,
+    particularly when he is the solo Dendro unit, it is likely better to gear him
+    with supportive ER weapons like Favonius Sword."
+  color: 3439221
+- title: __Quicken Teams__
+  description: "Example Team: Alhaitham/Nahida/Fischl/Kuki Shinobu\nExample Team 2:
+    Alhaitham/Yae Miko/Fischl/Zhongli \n\nWith his high Dendro application and EM
+    to DMG% conversion on his A4, it’s no surprise that Spread is a massive boon to
+    Alhaitham’s DPS output. Additionally, there are multiple Electro units that can
+    contribute substantial off-field damage via Aggravate. A secondary Dendro unit
+    can also be slotted in for extra Spread procs and Dendro Resonance. \n\n**Electro
+    Units:** Fischl, Yae Miko, Kuki Shinobu, Beidou, Kujou Sara, Raiden Shogun\n**Dendro
+    Units:** Nahida, Collei, Dendro MC, Yaoyao\n**Flex Units:** Zhongli, Kazuha, Sucrose,
+    Albedo"
+  color: 3439221
+  image:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064085355713810472/QGbxAEx3OqbDrkpcODb98MtcW6JHqmukQK3XKqzox7AIvNStXHn3b6ntFl7oZ6oloBrYBWQCugFdAKaAW0AloBrYBWQCvQJRXQD6pdctv0pLUCWgGtgFZAK6AV0ApoBbQCWgGtgFZAK6AV0ApoBUQBDbf0daAV0ApoBbQCWgGtgFZAK6AV0ApoBbQCWgGtgFZAK9BlFdBwq8tunZ64VkAroBXQCmgFtAJaAa2AVkAroBXQCmgFtAJaAa2Ahlv6GtAKaAW0AloBrYBWQCugFdAKaAW0AloBrYBWQCugFeiyCmi41WW3Tk9cK6AV0ApoBbQCWgGtgFZAK6AV0ApoBbQCWgGtgFZAwy19DWgFtAJaAa2AVkAroBXQCmgFtAJaAa2AVkAroBXQCnRZBTTc6rJbpyeuFdAKaAW0AloBrYBWQCugFdAKaAW0AloBrYBWQCug4ZaBrQCWgGtgFZAK6AV0ApoBbQCWgGtgFZAK6AV0ApoBbqsAhpuddmt0xP..png
+- title: __Hyperbloom/Quickbloom Teams__
+  description: "Example Team: Alhaitham/Kuki Shinobu/Xingqiu/Nahida\nExample Team
+    2: Alhaitham/Raiden Shogun/Xingqiu/Yelan\n\nQuickbloom teams utilize a lower amount
+    of Hydro application compared to Dendro application, so as to allow for high to
+    full Quicken uptime with additional Hyperbloom DMG from Electro character(s).
+    Quickbloom teams focus more on Alhaitham’s on-field Spread DMG and the Electro
+    character’s Aggravate DMG, though units with EM-scaling such as Kuki can also
+    build full EM to maximize Hyperbloom DMG. Alhaitham should stick with his normal
+    EM/DMG/CRIT build. \n\nNote that due to Alhaitham’s high Dendro application and
+    tendency to run with Nahida as a second Dendro, you should still get decent Quicken
+    uptime even with a unit like Xingqiu.\n\nHyperbloom teams utilize more abundant
+    Hydro application, resulting in notably lower Quicken uptime and a much greater
+    portion of team damage coming from Hyperblooms. Alhaitham serves more of an on-field
+    driver role in such teams. It may be beneficial to run two Hydro units to keep
+    up with Alhaitham’s on-field Dendro application.\n\n**Electro Units:** Kuki Shinobu,
+    Raiden Shogun, Yae Miko, Fischl, Lisa, Beidou\n**Hydro Units:** Xingqiu, Yelan,
+    Kokomi, Barbara\n**Flex Units:** Zhongli, Kazuha, Sucrose, Dendro units"
+  color: 3439221
+  image:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064085654520221706/D83ojTjNr0ZZAAAAAElFTkSuQmCC.png
+- title: __Burgeon Teams__
+  description: |-
+    Example Team: Alhaitham/Thoma/Kokomi/Xingqiu
+
+    With his high, consistent Dendro application, Alhaitham can be used as an on-field unit to enable Burgeon teams. However, such teams have delicate setups, as triggering Burning can easily lose Blooms. Running a defensive unit such as a healer/shielder is also necessary due to Burgeon self-damage.
+
+    **Pyro Unit:** Thoma
+    **Hydro Units:** Xingqiu, Yelan
+    **Flex Units:** Zhongli, Fischl, Kokomi, Kazuha, Sucrose, Diona, Kaeya, Rosaria, Yaoyao
+  color: 3439221
+  image:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064085743238119514/mtj0WSQggaNLYG1Pzzmu41Sv2LJFrYhH16nVp5GABCQggXcR0IOqLg8JSEACEpCABCQgAQlIQAISkIAEJCCBihVQuFWxp04Ll4AEJCABCUhAAhKQgAQkIAEJSEACElC4pWtAAhKQgAQkIAEJSEACEpCABCQgAQlIoGIFFG5V7KnTwiUgAQlIQAISkIAEJCABCUhAAhKQgAQUbukakIAEJCABCUhAAhKQgAQkIAEJSEACEqhYAYVbFXvqtHAJSEACEpCABCQgAQlIQAISkIAEJCABhVu6BiQgAQlIQAISkIAEJCABCUhAAhKQgAQqVkDhVsWeOi1cAhKQgAQkIAEJSEACEpCABCQgAQlIQOGWrgEJSEACEpCABCQgAQlIQAISkIAEJCCBihVQuFWxp04Ll4AEJCABCUhAAhKQgAQkIAEJSEACElC4pWtAAhKQgAQkIAEJSEACEpCABCQgAQlIoGIFFG5V7KnTwiUgAQlIQAISkIAEJCABCUhAAhKQ..png
+- title: __Bloom Teams__
+  description: "Example Team: Alhaitham/Nilou/Kokomi/Nahida\nExample Team 2: Alhaitham/Nilou/Kokomi/Xingqiu\n\nAlhaitham
+    can also be used as an on-field Dendro enabler in Nilou teams.  Unfortunately,
+    he has little utility, and his personal damage will be lower than usual as he
+    has little reaction ownership unless all three of his teammates are Hydro units.
+    It is strongly recommended to bring a healer, or Alhaitham will not survive the
+    Bloom self-damage. Swapping him out midway is punishing, as his Elemental Skill
+    has a 18s CD while his Burst costs 70 Energy, and he has no off-field Dendro application
+    to compensate. \n\n**Hydro Units:** Nilou, Kokomi, Xingqiu, Yelan, Barbara\n**Dendro
+    Units:** Nahida, Collei, Dendro MC, Yaoyao"
+  color: 3439221
+  footer:
+    text: 'Authored by: juko, redd and mien'
+  image:
+    url: https://media.discordapp.net/attachments/957846543011024929/1064085880748396634/wd6yZpSCiXltQAAAABJRU5ErkJggg.png

@@ -70,5 +70,5 @@ options: #dropdown
 buttons:
   - label: WFP Website
     url: https://wangshengfp.org/faq/alhaitham
-    emoji: :wfp_logo:1084805710812024894
+    emoji: :wfp_logo:1084805098561085512
     style: LINK

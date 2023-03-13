@@ -1,0 +1,74 @@
+content: null
+embeds:
+  - title: >-
+      Streetward Rambler’s youngest disciple. 
+      A gentle and caring “little adult.
+
+    color: 3439221
+    fields:
+      - name: 'Yaoyao Mastersheet by Latiwings#3308, mien#8650 and ඞඞ#1984:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959)
+      - name: Yaoyao Frames Mastersheet by jrm.spirit#2671
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
+    author:
+      name: Yaoyao FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/alhatham_078_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/alhatham_078_gacha_splash.webp
+
+options: #dropdown
+    
+  - label: Overview
+    value: characters/dendro/yaoyao/overview
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Talents
+    value: characters/dendro/yaoyao/talents
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+  
+  - label: Constellations
+    value: characters/dendro/yaoyao/constellations
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Combos
+    value: characters/dendro/yaoyao/combos
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+    
+  - label: ER Requirements
+    value: characters/dendro/yaoyao/errequire
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Artifacts
+    value: characters/dendro/yaoyao/artifacts
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Weapons
+    value: characters/dendro/yaoyao/weapons
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Teambuilding
+    value: characters/dendro/yaoyao/teambuilding
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: External Credits
+    value: characters/dendro/yaoyao/external
+    description: "WFP resources for Yaoyao FAQ."
+    emoji: :Dendro:925598874532479076
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/yaoyao
+    emoji: :wfp_logo:1084805098561085512
+    style: LINK
