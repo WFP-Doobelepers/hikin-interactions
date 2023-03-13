@@ -1,0 +1,18 @@
+---
+content:
+embeds:
+- title: __**TALENT PRIORITY**__
+    description: '**E (Skill) = Q (Burst) > NA (Normal ATK)**'
+    color: null
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/914675194939969587/1035186727083581460/Untitled75_20221027214140.png
+  - description: >-
+      The majority of Nahida’s damage comes from her Elemental Skill, but her
+      Elemental Burst buffs increase with talent levels so it’s important to
+      level both. Nahida’s Normal Attacks don’t have impressive scaling and are
+      mainly for applying Dendro so they aren’t as necessary. It’s  worth
+      leveling if you’re playing her on-field.
+    color: null
+    footer:
+      text: (section authored by Leifa)

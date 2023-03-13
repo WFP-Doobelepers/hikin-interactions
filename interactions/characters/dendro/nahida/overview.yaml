@@ -1,0 +1,111 @@
+content: >-
+  Nahida Pre-TC FAQ by <@280016643558604800> (Author), <@908531619655188512>
+  (Co-Author, Mapping), <@377496350155079690> (Writing), <@510286757879742474>
+  (Calcs, Writing), <@209617229216612352> and <@463998487067885600> (Calcs),
+  <@367160010335191054> (Framecounts), <@604540951708565515>,
+  <@293169816741740556>, and <@147571130943799296> (Consulting)
+
+
+  For all Nahida Calcs you can reference: [Nahida Artifact Sheet
+  Compilation](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5)
+  by <@510286757879742474>, [Nahida Weapon
+  Ranking](https://docs.google.com/spreadsheets/d/1QQD3olhkT-MoUbNwfYaTFwlemUOkDBXfMEMy90xXaAw/edit#gid=1297758557)
+  by <@209617229216612352>,  and [Nahida Frames
+  Mastersheet](https://docs.google.com/spreadsheets/d/1LepBLdPrNIXCZmGHQYmboqPAS3h8TNAJMsZaSpXgBeY/edit?usp=sharing)
+  by <@367160010335191054>
+
+
+  **DISCLAIMER** *Everything in this FAQ is Pre-TC, meaning any information is
+  __**SUBJECT TO CHANGE (STC)**__ until release. To our knowledge there is only
+  one version of Nahida and no proof has been given to show otherwise. Anything
+  can change at any time before the official release but this is meant to help
+  give our current understanding of the character. And with that, enjoy reading
+  and happy birthday Nahida!*
+embeds:
+  - title: __**TLDR**__
+    description: |-
+      **Role:** On-field Driver / Sub DPS
+
+      __Talent Priority__
+      E (Skill) = Q (Burst) > NA (Normal ATK) 
+
+      __Constellations__
+      C2 > C6 > C4 > C3 > C5
+      C1 ranking depends on team compositions
+
+      __Artifacts__
+      4pc Deepwood (preferred)
+      4pc Gilded Dreams
+      2pc GD / 2pc WT / 2pc DW
+
+      __Weapons__
+      *Weapons can change depending on team compositions* 
+      A Thousand Floating Dreams
+      Kagura’s Verity
+      The Widsith
+      Solar Pearl
+      Wandering Evenstar
+      Sacrificial Fragments
+      Magic Guide
+    color: null
+  - title: __**CHARACTER OVERVIEW**__
+    description: >-
+      Nahida is a 5* Dendro character who can be played as an on-field driver or
+      off-field buffer. The majority of her damage comes from the mark applied
+      by her Elemental Skill, which is further buffed from her A4 passive.
+      Nahida’s Elemental Burst also gives different effects to her Skill
+      depending on the amount of Pyro, Hydro or Electro members in her party, as
+      well as granting an EM buff that reaches up to 250 EM to the on-field
+      character through her A1 passive.
+
+
+      Her Normal / Charged Attacks have a high frequency of application, making
+      her a great on-field driver / enabler for many team compositions. Her
+      Charged Attack can also be canceled very quickly, although at the cost of
+      stamina.
+
+
+      Nahida’s Elemental Skill has both a press and a hold form and applies 1U
+      Dendro with no ICD. Pressing her Elemental Skill does a quick AoE hit of
+      Dendro DMG and marks enemies with the **Seed of Skandha**. Holding her
+      Elemental Skill allows Nahida to enter an aiming mode, which will mark up
+      to a maximum of 8 enemies when aimed at. During this time, Nahida’s
+      interruption resistance will also be increased.
+
+
+      Enemies marked by the Seed of Skandha will be linked to one another,
+      signified by green chains between enemies. Triggering an Elemental
+      Reaction or dealing damage with Bloom Cores to marked enemies will trigger
+      **Tri-Karma Purification** on all marked enemies, dealing single target
+      Dendro DMG which scales off both ATK and Elemental Mastery. Tri-Karma
+      Purification can be triggered every 2.5 seconds and applies 1.5U Dendro to
+      enemies with no ICD. This will also generally apply as an aura in a lot of
+      cases due to being procced after a reaction takes place. Three particles
+      are generated from Tri-Karma Purification when it procs and can happen
+      once every 8 seconds.
+
+
+      Nahida’s Elemental Burst creates a very large AoE field and grants buffs
+      to Nahida’s Tri-Karma Purification and the Burst itself depending on the
+      current elements in the party. Pyro party members grant Tri-Karma
+      Purification extra DMG%, Electro party members shorten the time between
+      Tri-Karma Purification procs and Hydro party members increase the duration
+      of her Elemental Burst. This Elemental Burst is a 50 cost Burst with a
+      13.5s CD and 15s duration, allowing for 100% uptime if needed. 
+
+
+      Nahida’s A1 passive grants up to 250 Elemental Mastery to the on-field
+      character inside of her Burst based on 25% of the Elemental Mastery of the
+      party member with the highest Elemental Mastery. This can be a sizable
+      buff to characters who appreciate EM and also affects Nahida’s A4 as well.
+
+
+      Nahida’s A4 passive gives her Tri-Karma Purification bonus DMG% and Crit
+      Rate based on the amount of EM she has that exceeds above 200 EM, maxing
+      out at 80% DMG bonus and 24% Crit Rate. A very nice amount of stats to her
+      main damage source, which emphasizes building EM on Nahida.
+    color: null
+    footer:
+      text: (section authored by Leifa)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/nahida_073_icon.webp

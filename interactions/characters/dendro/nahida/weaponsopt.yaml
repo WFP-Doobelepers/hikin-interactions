@@ -1,0 +1,85 @@
+content: null
+embeds:
+  - title: |-
+      __Options__
+
+      Lost Prayers to the Sacred Winds
+    description: >-
+      A 5* option, providing 33.1% CR and a stacking Elemental DMG buff whilst
+      on-field. Unfortunately, these stacks disappear when swapping between
+      characters, meaning it's generally a CR stat stick but they’re a nice
+      bonus when playing comps that play Nahida on-field.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14502.webp
+  - title: Skyward Atlas
+    description: >-
+      Another 5* option with a high Base ATK and a 33.1% ATK substat, as well as
+      providing 12% Elemental DMG bonus and an extra portion of DMG from the
+      clouds it creates. This ATK% can be valuable in places where Nahida is
+      on-field but doesn’t have ownership on reactions but can leave her
+      struggling for other more important stats overall.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14501.webp
+  - title: Mappa Mare
+    description: >-
+      A F2P craftable Catalyst, providing 110 EM as well as an Elemental DMG
+      Bonus buff upon triggering Elemental Reactions. Can be a very good option
+      specifically for on-field Spread teams where Nahida has a lot of reaction
+      ownership. However, for other scenarios, Nahida can struggle to trigger
+      its passive due to how her Elemental Skill applies Dendro as well as her
+      own reaction ownership in Bloom reaction teams.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14407.webp
+  - title: Fruit of Fulfillment
+    description: >-
+      Another craftable Catalyst, providing 45.9% ER and an EM buff at the cost
+      of ATK. Generally, the passive isn’t enough stats to make this weapon
+      worth crafting over other options and the large amount of stats from the
+      substat aren’t as useful although it can mean you can focus on more
+      offensive substats in artifacts.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14417.webp
+  - title: Blackcliff Agate
+    description: >-
+      A 4* option which can be bought from the Starglitter store, providing
+      55.1% CDMG as well as ATK% when defeating an enemy. Unfortunately, ATK%
+      does very little for Nahida and she can struggle to gain stacks at all,
+      especially off-field, due to the enemy needing to die to her damage.
+      Basically just a CDMG stat stick if you don’t have other options.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14408.webp
+  - title: Hakushin Ring
+    description: >-
+      A more supportive craftable Catalyst, providing 30.6% ER and an Elemental
+      DMG Bonus to Dendro and Electro when Nahida triggers Quicken. This weapon
+      sacrifices Nahida’s personal damage a bit in return for buffing the rest
+      of the party, allowing more of the team’s damage to come from her
+      teammates instead.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14414.webp
+  - title: Prototype Amber
+    description: >-
+      Another more supportive craftable Catalyst, which sacrifices Nahida’s
+      personal damage a lot in exchange for healing the party upon casting her
+      Elemental Burst. If you need some role consolidation in a Dendro healer,
+      it’s an option you can use although may not be enough to survive on for
+      some players.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14406.webp
+  - title: Thrilling Tales of Dragon Slayers
+    description: >-
+      A 3* F2P Catalyst that utterly butchers Nahida’s personal damage in
+      exchange for its 48% ATK buff. Generally not recommended, unless you
+      intend for Nahida to be a pure support.
+    color: null
+    footer:
+      text: (section authored by Leifa)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14302.webp
