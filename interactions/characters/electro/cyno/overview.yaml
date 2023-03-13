@@ -1,0 +1,69 @@
+content: >-
+  Wanderer Pre-TC FAQ by <@293169816741740556> (Team Lead, Author, Calcs),
+  <@209617229216612352> (Consultant, Author, Calcs), <@370761744789798912>
+  (Author, Calcs), <@367160010335191054> (Framecounts), <@510286757879742474>
+  (Contributor)
+
+
+  For all Wanderer Calcs you can reference: [Wanderer
+  Mastersheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390)
+  by <@293169816741740556>, <@209617229216612352> and <@370761744789798912>, and
+  Wanderer Frames by <@367160010335191054>
+
+
+  Pre-TC is volatile and, as always, perpetually subject to change until release
+  (and sometimes later!). Please note that these are theoretical suggestions.
+  Everything described in this FAQ is a good faith analysis based on the little
+  information about the character’s kit that we know. Team calcs, additionally,
+  are not established yet, and as with everything in TC, the content in this FAQ
+  should be taken with a grain of salt.
+embeds:
+  - title: CHARACTER OVERVIEW
+    description: >-
+      Wanderer is an Anemo catalyst user who takes up the majority of the team’s
+      field time in order to dish out high amounts of damage. This means that
+      Wanderer teams will focus on having teammates that increase Wanderer’s
+      damage values while taking little field time. 
+
+
+      As for stats, Wanderer is a pretty standard unit to build, focusing on the
+      traditional ATK, DMG%, and CRIT stats. While his ER needs are quite high,
+      even with his dedicated support, Faruzan, and a Favonius weapon on the
+      team, Wanderer can instead Burst every other rotation in order to put all
+      of his artifact stats into offensive capabilities. In fact, this is his
+      strongest option until constellations are added to him. Otherwise,
+      Wanderer needs somewhere around 170% ER when C6 Faruzan is not included in
+      the team – however, we do not expect players to have a new 4-star at C6
+      the same patch they are released.
+
+
+      When played as an Anemo DPS, he is heavily dependent on the new Anemo
+      support, Faruzan, who brings Anemo resistance-shredding to the team, much
+      like Viridescent Venerer does for Pyro, Electro, Cryo, and Hydro
+      characters. Additionally, with constellations, she skyrockets the damage
+      potential of teams focusing on Anemo DPS units like Wanderer and Xiao.
+
+
+      Being an Anemo unit, some people may consider him another Viridescent
+      Venerer driver for teams including characters like Fischl, Beidou, and
+      Xingqiu. Additionally, focusing on Elemental Mastery for Swirls makes him
+      comparable to Sucrose in some cases, but Wanderer lacks the utility in
+      EM-sharing and crowd control that Sucrose has.
+
+
+      One of the main highlights of Wanderer’s kit is that he can fly in mid-air
+      while attacking enemies while also absorbing up to two elements for
+      various buffs. Hovering in mid-air leaves Wanderer vulnerable to being
+      knocked down and staggered by enemy attacks, so a shield may be desirable
+      in some cases. Additionally, dodging when his A4 cannot trigger
+      significantly reduces his air-time and thus his DPS. With regards to
+      elemental buffs, they are quite hard to control, though the absorption
+      priority is the same as Kazuha. If Bennett is on your team, Wanderer will
+      almost always be able to absorb Pyro for a 30% ATK bonus. The other
+      elements offer comparable damage increases, and so building your team
+      around the infusions is (typically) not recommended.
+    color: null
+    footer:
+      text: (section authored by Emiliabyss)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/wanderer_075_icon.webp
