@@ -66,3 +66,9 @@ options: #dropdown
     value: characters/dendro/alhaitham/external
     description: "WFP resources for Alhaitham FAQ."
     emoji: :Dendro:925598874532479076
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/alhaitham
+    emoji: :wfp_logo:1084805710812024894
+    style: LINK
