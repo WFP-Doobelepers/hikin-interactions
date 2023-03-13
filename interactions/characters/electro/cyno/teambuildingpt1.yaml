@@ -1,55 +1,99 @@
 content: null
 embeds:
-  - title: __**TEAMBUILDING**__
+  - title: |-
+      __**TEAM BUILDING**__
+
+      __***Electro***__
+      **Fischl**
     description: >-
-      Wanderer is an ATK and CRIT based Anemo DPS, and is therefore not reliant
-      on reactions to deal most of his damage, unless you intend to use an
-      EM-based build. While he’ll likely trigger swirls and possibly chain
-      reactions in his teams, they’re not pivotal to his damage. That being
-      said, his A1 incentivizes players to bring Pyro/Hydro/Cryo/Electro units
-      to the team to obtain additional buffs. Each A1 buff is close to each
-      other in strength, except for Electro which is volatile in value.
-      Otherwise, Wanderer does not strongly prefer a specific element and is
-      quite flexible with his team compositions. His teammates will either be a
-      buffer, an off-field DPS, or a defensive option.
+      Super strong unit that makes Cyno’s ER requirement lower to non-existent
+      depends on whether you have her on C6 or not and is able to provide a good
+      amount of damage coming from her versatile kit ranging from her Elemental
+      Skill to her C6. Her only caveat is Oz is mostly Single Target (ST) so in
+      scenarios where 2 or more targets are present, she will fall behind in
+      damage.
     color: null
-  - title: '**Buffers**'
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/fischl_031_icon.webp
+  - title: '**Beidou**'
     description: >-
-      More often than not, Wanderer will be dealing the majority of his team’s
-      damage. It is never a bad idea to buff his personal damage, especially if
-      your Wanderer is highly invested. 
-
-
-      __**Faruzan**__: Faruzan is a new 4 star Anemo unit launching with
-      Wanderer in 3.3, commonly dubbed as Wanderer’s dedicated support. Her kit
-      revolves around buffing Anemo damage: she provides Anemo DMG% bonus,
-      shreds Anemo resistance, CRIT DMG% at C6, and can group enemies. Anemo
-      buffs and debuffs are extremely rare in the game, making Faruzan all the
-      more valuable.  Needless to say, Faruzan is an integral part of Wanderer’s
-      teams where his personal damage is the focal point. Additionally, if
-      played with other off-field damage dealers, she can hold the 4 Viridescent
-      Venerer (VV) set to debuff enemy and boost damage.  
-
-
-      __**Bennett**__: Gives a massive ATK buff second to none, on top of 20%
-      ATK from Noblesse Oblige, 30% through Wanderer’s A1, and another 25% if
-      played with Pyro resonance. Also doubles as a defensive option by healing
-      the team. Unquestionably a powerful support for not only Wanderer, but
-      possibly his teammates if they benefit from his ATK buff.  
-
-
-      __**Yun Jin**__: As Wanderer’s damage mostly comes from his Normal
-      Attacks, Yun Jin is naturally one of the first picks that come to mind.
-      Her burst grants a flat DMG buff to all Normal Attacks for up to 30
-      stacks. At C2 and C6 respectively, she additionally provides 15% DMG to
-      Normal Attacks and 12% ATK Speed. Wanderer’s N3 is multi-hit and his kit
-      lends itself towards ATK speed, meaning Yun Jin’s stacks will be consumed
-      faster–in other words, Wanderer gets even more mileage off Yun Jin.
-      Unfortunately, she is not as strong in AoE situations. 
-
-
-      __**Mona**__: With Thrilling Tales of Dragon Slayers and her Omen debuff,
-      Mona grants a 48% ATK, around 50% DMG bonus, and Hydro absorption for
-      Wanderer’s A1. Unfortunately, her Omen debuff has low uptime, so she will
-      fall behind other buffers.
+      Super reliable at 2 or more target scenarios due to her Elemental Burst
+      functionality and her constellation improves her team composition along
+      with Cyno’s overall damage. However, she suffers being on Cyno’s team due
+      to both having a high energy Elemental Burst cost and both has weak
+      particle generation, which means their ER requirements will be quite high.
     color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/beidou_024_icon.webp
+  - title: '**Yae**'
+    description: >-
+      Can act as a dual carry but suffers the same reason as Beidou with ER
+      requirements being high but that can be negated with casting Elemental
+      Burst every other rotation to suffice for the ER requirement. Overall, she
+      is a solid unit to substitute to Fischl when she is on another team
+      composition.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/yae_058_icon.webp
+  - title: '**Kuki Shinobu**'
+    description: >-
+      Works really well with Cyno as her Elemental Skill follows the character
+      itself, which means he is not locked into a certain field where he has to
+      stay to either get buffs or heal. She can also carry Favonius Sword or
+      Xiphos’ Moonlight for helping party members ER requirements. However, when
+      she carries Tenacity of the Millelith, she can’t quite buff Cyno’s whole
+      field time, due to her Elemental Skill having a 12s duration.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/shinobu_065_icon.webp
+  - title: '**Dori**'
+    description: >-
+      A substitute if Kuki Shinobu is not available to your party. However, in
+      order for her to provide healing, she needs to cast her Elemental Burst
+      unlike Shinobu. Her only potential in Cyno team composition is her C4
+      providing a stronger heal when Cyno is below 30% HP and ER% when Cyno’s
+      Elemental Burst energy is below 30, which makes Cyno’s ER requirement
+      non-existent in team compositions that are quite low on particle
+      generation.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/dori_068_icon.webp
+  - title: |-
+      __***Dendro***__
+      **Dendro MC**
+    description: >-
+      The only Dendro unit that can keep up with Cyno’s long-field time with
+      their C2 due to how their Elemental Burst interacts with Electro as it
+      increases the Elemental Burst ATK SPD, which allows it to bypass its
+      Standard ICD. With their A4 providing EM as well throughout the duration
+      of their Elemental Burst, Half of Cyno’s rotation will get buff with that
+      passive and helps increase Cyno’s A4 and Aggravate DMG.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/playerboy_005_icon.webp
+  - title: '**Collei**'
+    description: >-
+      The second Dendro unit in the game that currently can keep up with Cyno’s
+      long-field time but is outperformed by Dendro MC due to how her burst
+      functions with its ICD. Even at C6, she struggles to keep up with Dendro
+      MC’s Dendro application with her 2.5s ICD on her Elemental Burst.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/collei_067_icon.webp
+  - title: '**Tighnari**'
+    description: >-
+      Can act as a dual carry and provides good damage output with his low-field
+      time requirement. However, most of this time Cyno’s field-time is cut off
+      in order to fill Tighnari’s full combo in the rotation which would hurt
+      Cyno’s overall damage as he needs a certain amount of time on-field as
+      well as Tighnari’s overall damage as he usually needs a short team
+      rotation.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/tighnari_069_icon.webp
+
+buttons:
+- customId: liveInteraction#characters/electro/cyno/teambuildingpt2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

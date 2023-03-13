@@ -5,7 +5,7 @@ embeds:
   color: 3439221
   fields:
   - name: 'Project Amber:'
-    value: "[Character Database](https://ambr.top/en/archive/avatar/10000078/alhaitham?mode=profile)"
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000071/cyno)"
   - name: Honey Hunter World
     value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
   - name: Genshin Impact JP Twitter
@@ -13,9 +13,8 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text: Credits to Emiliabyss, Raikh, Edulis, and Redd for the Wanderer FAQ! || WFP Theorycrafting
+    text:         Credits to Akane for the Cyno FAQ! || WFP and KQM Theorycrafting
 
-    thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_756.webp
       
     icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif

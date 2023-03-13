@@ -22,62 +22,62 @@ options: #dropdown
   - label: Overview and TLDR
     value: characters/electro/cyno/overview
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Talents
     value: characters/electro/cyno/talents
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
   
   - label: Constellations
     value: characters/electro/cyno/constellations
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Combos
     value: characters/electro/cyno/combos
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
     
   - label: ER Requirements
     value: characters/electro/cyno/errequire
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Artifacts
     value: characters/electro/cyno/artifacts
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Weapons
     value: characters/electro/cyno/weapons
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Teambuilding (Part 1)
     value: characters/electro/cyno/teambuildingpt1
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Teambuilding (Part 2)
     value: characters/electro/cyno/teambuildingpt2
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Teambuilding (Part 3)
     value: characters/electro/cyno/teambuildingpt3
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: Teambuilding (Part 4)
     value: characters/electro/cyno/teambuildingpt4
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
   - label: External Credits
     value: characters/electro/cyno/external
     description: "WFP resources for Cyno FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: :Electro:925598875174199327
 
 buttons:
   - label: WFP Website

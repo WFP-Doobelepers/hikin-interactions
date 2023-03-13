@@ -1,93 +1,70 @@
----
-content:
+content: null
 embeds:
   - title: __**ARTIFACTS**__
     description: |-
-      *Sands of Eon:* ATK%
+      **Mainstats:
+      Timepiece - EM/ATK%
+      Goblet - Electro DMG%
+      Circlet - CR%/CDMG%**
 
-      *Goblet of Eonothem:* Anemo DMG Bonus
-
-      *Circlet of Logos:* Crit Rate/Crit Damage
-
-      *Substats:* CR%=CDMG% > ATK% > ATK
+      **Substats:
+      ER (When ER Requirements are met) > CR% = CDMG% > EM = ATK%**
     color: null
-  - title: __*4PC Desert Pavilion Chronicle*__
+  - title: |-
+      __***Recommended***__
+      **4PC Thundering Fury**
     description: >-
-      His BiS artifact. The 4 piece effect is tailor made for Wanderer’s normal
-      attack heavy playstyle. Being a catalyst character he does not suffer hit
-      lag therefore attack speed is especially valuable for him. 10% attack
-      speed from the set allows him to squeeze in an extra charged attack per
-      rotation which is perfect for triggering the set effect, and it lasts his
-      entire on-field time.
-    color: null
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/i_n400220.webp
-  - title: __*4PC Shimenawa’s Reminiscence*__
-    description: >-
-      A strong but slightly polarizing set. The extra attack is very appreciated
-      by him. When bursting every *other* rotation this would be his second best
-      choice. However when attempting to burst every rotation this set will
-      suffer and be one of the worst, due to it making Wanderer more ER hungry
-      and requiring extra ER subs.
+      His optimal artifact set to run with a TF Combo. Giving him 15% Electro
+      DMG, 40% Transformative DMG, 20% Aggravated DMG, and CD Reduction of 1s
+      per Elemental Reaction proc that he can utilize when he is on Pactsworn
+      Pathclearer. This set fits his playstyle well as a hypercarry that is able
+      to bring out more damage over time with his required field-time.
     color: null
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/i_n400178.webp
-  - title: __*2PC ATK/2PC Anemo DMG mix and match*__
+      url: https://genshin.honeyhunterworld.com/img/i_n400109.webp
+  - title: '**4PC Gilded Dreams**'
     description: >-
-      *Please checkout the mastersheet for detailed assumptions*
-
-
-      Generally, the three combos are ranked in this order:
-
-      **2PC Anemo DMG + 2PC Anemo DMG > 2PC Anemo DMG + 2PC ATK > 2PC ATK+2PC
-      ATK**
-
-
-      The difference between each combo is minimal, at most at around 4%. So if
-      running one of these sets simply choose whichever has the better substats.
+      His optimal artifact set to run with a Non-TF Combo. Providing him ATK%
+      and EM based on his team composition benefits his whole kit compared to
+      Gladiator’s Finale. Solo Electro grants him 150 EM only, Double Electro
+      grants him 14% ATK and 100 EM, and Mono-Electro with Dendro grants him 28%
+      ATK and 50 EM. Realistically, this set buff uptime would be cut midway on
+      his field-time and need to trigger another Elemental Reaction again to get
+      said buffs.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400214.webp
+  - title: '**4PC Gladiator’s Finale**'
+    description: >-
+      Able to provide 18% ATK and 35% Normal ATK DMG Bonus when the user is a
+      Sword, Polearm, or Claymore wielder. This set is quite a good substitute
+      for Gilded Dreams when it has better substats than the current pieces you
+      have. Generally would run as Gilded Dream set is new to the game and
+      getting the exact pieces on it are quite hard as of now unless one is
+      lucky enough to already have it or resin refresh their way to getting it.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400089.webp
+  - title: '**2PC Thundering Fury, 2PC EM**'
+    description: >-
+      Also contesting between Gladiator’s Finale and Gilded Dreams as their
+      differences aren’t exactly that high. Granting Cyno 15% Electro DMG and 80
+      EM without any requirements is easily an option for him to use these
+      specific mixed sets.
     color: null
     thumbnail:
       url: >-
-        https://media.discordapp.net/attachments/957846543011024929/1046394078176231544/l.png
-  - title: __*4PC Echoes of an Offering*__
-    description: >-
-      A mediocre set for Wanderer. Depending if an attack speed buff is present
-      or not, he is projected to proc the 4 piece effect for 5-6 times per
-      rotation. This is not enough procs to contribute a significant amount to
-      his overall damage per rotation.
-    color: null
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/i_n400203.webp
+        https://media.discordapp.net/attachments/957846543011024929/1020130093449879693/Untitled82_20220916083236.png
   - title: |-
-      __**Circumstantial Sets**__
-
-      __*4PC Viridescent Venerer*__
+      __***Questionable***__
+      **4PC Thundersoother**
     description: >-
-      The set of choice when running him as a driver for reaction teams. However
-      due to the reasons mentioned above he is not the most naturally suited
-      character played as a driver. His personal damage with the 4 piece is
-      decent, about 4-6% worse than 2PC ATK + 2PC ATK.
-    color: null
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/i_n400093.webp
-  - title: __*4PC Lavawalker*__
-    description: >-
-      A choice based on his great synergy with Bennett. With Bennett on the team
-      the enemy is very likely to have pyro applied onto them, hence proccing
-      the 4 piece’s set effect. The effect itself is comparable to 2PC Anemo DMG
-      and 2PC Anemo DMG, winning over that combo by 5% extra DMG Bonus.
-    color: null
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/i_n400078.webp
-  - title: __*4PC Blizzard Strayer*__
-    description: >-
-      An interesting set to use in freeze teams. Although given Wanderer is a
-      Crit Rate ascending character, he is very likely to over-cap on that with
-      the set’s 4 piece effect. And equipping 4 piece VV will be more beneficial
-      for the overall team’s damage. Switch over to this set over 4 piece VV
-      will only gain him marginal personal damage.
+      This set provides 35% DMG Bonus when enemy is affected by Electro which
+      sounds good on Cyno but in terms of its uptime, it will not be consistent
+      due to Aggravate needing to remove the Electro aura to refresh Quicken
+      again and leave no Electro aura for Cyno to proc the 4PC passive.
     color: null
     footer:
-      text: (section authored by Edulis)
+      text: (sectioned authored by Akane)
     thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/i_n400068.webp
+      url: https://genshin.honeyhunterworld.com/img/i_n400074.webp
