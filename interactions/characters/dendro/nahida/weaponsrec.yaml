@@ -1,0 +1,89 @@
+content: null
+embeds:
+  - title: __**WEAPONS**__
+    description: >-
+      *Due to Nahida being played both on and off-field as well as having high
+      or low reaction ownership depending on the team composition, weapon
+      rankings can vary drastically. Because of this, recommended weapons will
+      be options which performed well across all scenarios. Please see the full
+      weapon calcs for specifics.*
+    color: null
+  - title: |-
+      __Recommended__
+
+      A Thousand Floating Dreams
+    description: >-
+      Nahida’s BiS weapon, providing 265 EM base as well as extra EM/DMG% to
+      Nahida depending on the elements of her party members. Generally will be
+      given a 30% DMG Bonus due to her being played as solo Dendro in a lot of
+      teams. On top of that, it also grants 40 EM to other party members, a
+      small but nice unconditional buff for the rest of the team.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14511.webp
+  - title: Kagura’s Verity
+    description: >-
+      Another 5* weapon option which synergises with Nahida very well, providing
+      66.2% CDMG as well as Elemental Skill DMG and DMG Bonus. Her short
+      Elemental Skill cooldown allows for her to stack it quite easily when
+      played on-field but even with one stack performs very well. However, due
+      to the substat being CDMG%, you may need to run an EM Goblet / Circlet to
+      make up for the lack of an EM substat.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14509.webp
+  - title: The Widsith
+    description: >-
+      An amazing 4* option for Nahida, providing 55.1% CDMG as well as a large
+      random buff for a short amount of time. Contrasting Kagura’s, Widsith
+      excels when being able to kill enemies in one rotation and lowers in value
+      for extended rotations due to the long cooldown on its buff but again,
+      still performs well overall.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14402.webp
+  - title: Solar Pearl
+    description: >-
+      The battle pass exclusive Catalyst, providing 27.6% CR and an Elemental
+      Skill and NA DMG% buff. This weapon buffs all sources of Nahida’s damage,
+      even beating out 5* options in some on-field situations due to the short
+      but easily refreshable duration on its buff. If you have this weapon,
+      especially at high refines, it’s worth considering but don’t feel
+      pressured to buy the battle pass just for this weapon.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14405.webp
+  - title: Wandering Evenstar
+    description: >-
+      The new Catalyst option on the current weapon banner, providing 165 EM and
+      a flat ATK buff based on EM to Nahida and 30% of that to her teammates.
+      The buff given to teammates is around 50-75 ATK at R1 and around 100-150
+      ATK at R5. Due to Nahida wanting to build EM by default, this weapon is a
+      good all-rounder option for both her personal and team damage, if you have
+      it. Similarly to Solar Pearl, this weapon has only just released so don’t
+      feel pressured to pull on the weapon banner right now just for a chance at
+      getting it.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14416.webp
+  - title: Sacrificial Fragments
+    description: >-
+      Another 4* option with a high 221 EM substat, which Nahida likes. The
+      extra Dendro application from another Skill cast can be valuable for
+      damage in comps where she has reaction ownership but generally won’t be
+      too useful at low refines due to the small proc chance and long cooldown.
+      Either way, just being a large EM stat stick is good.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14403.webp
+  - title: Magic Guide
+    description: >-
+      Surprisingly, a really good option for Nahida, providing 187 EM as well as
+      DMG% to opponents affected by Hydro or Electro. Due to her EM scalings on
+      her Elemental Skill and ATK subs being less valuable, the base ATK doesn’t
+      affect her too much and can even beat out 4* and 5* weapon options in
+      certain scenarios. Refines are also easy to get due to it being a 3*
+      weapon. Overall, an amazing F2P option considering its rarity.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n14301.webp

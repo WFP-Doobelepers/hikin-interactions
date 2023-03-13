@@ -1,0 +1,145 @@
+content: null
+embeds:
+  - title: __**TEAMBUILDING**__
+    description: >-
+      *Nahida is a very versatile character, able to be played in almost every
+      Dendro composition, on and off-field, with an EM sharing passive boot. Her
+      Elemental Skill has high uptime, and her Dendro application is not
+      constrained by energy. Rotations will change depending on what teammates
+      you use just like artifact stats and weapons.*
+    color: null
+  - title: |-
+      __Bloom Teams__
+
+      **Nilou Bloom**
+    description: >-
+      Nahida / Nilou / Kokomi / Hydro 
+
+
+      Hydro options: Xingqiu / Yelan / Barbara / Ayato
+
+
+      Due to the way Nahida applies Dendro with her Elemental Skill, she
+      unfortunately can’t be used as solo Dendro off-field for Nilou Bloom
+      teams. However, her on-field application is strong enough that she can
+      keep a Dendro aura on the enemy, allowing for your Hydro teammates to
+      trigger a lot more Blooms. Although Nahida can still get some ownership on
+      Blooms, building Elemental Mastery on your Hydro teammates is still
+      recommended. If Kokomi or someone else on the team is built for full EM,
+      Nahida’s A1 passive can end up using their EM rather than her own,
+      allowing for a larger EM buff whilst on-field.
+    color: null
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035154548009996348/Untitled84_20221027193233.png
+  - title: '**Hyperbloom**'
+    description: >-
+      Nahida / Hydro / Electro / Flex
+
+
+      Hydro options: Xingqiu / Yelan / Kokomi / Ayato
+
+      Electro options: Electro DPS / Kuki / Fischl / Yae
+
+      Flex options: Anemo / Beidou / DMC / Collei / Any above teammate
+
+
+      Nahida's Dendro application is capable of allowing an Electro unit to
+      build EM to deal large amounts of DMG with Hyperbloom. This composition
+      also allows for Quicken, Aggravate and Spread to be triggered
+      (Quickbloom), further increasing overall team damage. Due to Nahida’s high
+      amount of Dendro application, the last slot can be used to fill any
+      necessary roles such as healing, shielding or buffing.
+    color: null
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035200153818243082/Untitled84_20221027223539.png
+  - title: '**Burgeon**'
+    description: >-
+      Nahida / Hydro / Pyro / Flex
+
+
+      Hydro options: Ayato / Kokomi / Xingqiu / Yelan
+
+      Pyro options: Thoma / Xiangling / Xinyan 
+
+      Flex options: Anemo / Bennett / Any above teammate
+
+
+      Nahida's Dendro application allows for a Pyro unit to build full EM to
+      maximize the DMG dealt by Burgeon. This team has one large caveat and
+      that's its very delicate setup. If Burning is triggered, you may lose out
+      on potential Burgeon procs due to having to overtake the Pyro application
+      from Burning with your Hydro character.
+    color: null
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035154548756578304/Untitled84_20221027193325.png
+  - title: __Quicken Teams__
+    description: >-
+      Nahida / Electro / Flex / Flex
+
+
+      Electro options: Electro DPS / Yae / Fischl / Kuki 
+
+      Flex options: Anemo / Dendro / Zhongli / Beidou / Any above teammate
+
+
+      Quicken teams are very flexible, allowing Nahida to maximize Spread
+      reactions by driving, or just provide enough off-field Dendro whilst an
+      on-field Electro prioritizes their own Aggravates. Her A1 Passive is also
+      helpful for providing more EM to your on-field character, further
+      increasing the DMG output of your Spreads and Aggravates.
+    color: null
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035154549163429928/Untitled84_20221027193342.png
+  - title: |-
+      __Burning Teams__
+
+      **Burnmelt**
+    description: >-
+      Nahida / Cyro / Pyro / Flex
+
+
+      Cyro options: Ganyu / Ayaka / Kaeya / Rosaria
+
+      Pyro options: Bennett / Xiangling / Thoma
+
+      Flex options: Anemo / Pyro / Diona / Zhongli / Shenhe / Layla 
+
+
+      Burning has been seen as a largely underwhelming reaction since Dendro's
+      official launch in 3.0, the reduction to its Pyro application has
+      effectively reduced its viability significantly. With the release of
+      Nahida, Burning can now be used to enable Melt teams. However, with the
+      setup being rather delicate, characters such as Ayaka may not make much
+      use of Burning compared to someone like Ganyu due to the reaction being
+      more susceptible to being ruined by additional Cryo applications.
+    color: null
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035154549595455529/Untitled84_20221027193402.png
+  - title: '**Pure Burning**'
+    description: >-
+      Nahida / Pyro / Flex / Flex
+
+
+      Pyro options: Xiangling / Bennett / Klee / Thoma 
+
+      Flex options: Anemo / Zhongli / Any above teammate
+
+
+      Outside of using Burning to enable a Cryo character to trigger Melt, there
+      is also the option of running full Burning based teams as it allows the
+      use of 4PC Lavawalker for 35% DMG to opponents affected by Pyro. One flaw
+      with this team is that Nahida doesn't really provide much other than
+      fueling Burning. Also, Burning ticks are unable to proc Tri-Karma
+      Purification, meaning Nahida ultimately ends up being reliant on Swirls
+      from an Anemo character to deal damage with her Skill.
+    color: null
+    footer:
+      text: (section authored by Leifa, Apollo, and Von)
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1035154550044229663/Untitled84_20221027193418.png

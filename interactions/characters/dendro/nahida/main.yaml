@@ -1,0 +1,82 @@
+content: null
+embeds:
+  - title: >-
+      A caged bird secluded within the confines of the Sanctuary of Surasthana
+      who can only see the world in her dreams.
+    color: 3450963
+    fields:
+      - name: 'Nahida Artifact Sheet Compilation by ඞඞ#6874:'
+        value: >-
+          [Google
+          Drive](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5)
+      - name: 'Nahida Weapon Ranking Sheet by Raikh / Vailen#8564:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1QQD3olhkT-MoUbNwfYaTFwlemUOkDBXfMEMy90xXaAw/edit#gid=1297758557)
+      - name: 'Nahida Frames Mastersheet by jrm.spirit#2671:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1LepBLdPrNIXCZmGHQYmboqPAS3h8TNAJMsZaSpXgBeY/edit?usp=sharing)
+    author:
+      name: Nahida FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/nahida_073_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/nahida_073_gacha_splash.webp
+
+options: #dropdown
+    
+  - label: Overview
+    value: characters/dendro/nahida/overview
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Talents
+    value: characters/dendro/nahida/talents
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+  
+  - label: Constellations
+    value: characters/dendro/nahida/constellations
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Combos
+    value: characters/dendro/nahida/combos
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+    
+  - label: ER Requirements
+    value: characters/dendro/nahida/errequire
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Artifacts
+    value: characters/dendro/nahida/artifacts
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Weapons (Recommended)
+    value: characters/dendro/nahida/weaponsrec
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Weapons (Optional)
+    value: characters/dendro/nahida/weaponsopt
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Teambuilding
+    value: characters/dendro/nahida/teambuilding
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: External Credits
+    value: characters/dendro/nahida/external
+    description: "WFP resources for Nahida FAQ."
+    emoji: :Dendro:925598874532479076
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/nahida
+    emoji: :wfp_logo:1084805710812024894
+    style: LINK

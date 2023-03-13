@@ -1,0 +1,27 @@
+---
+content:
+embeds:
+- title: __**COMBOS AND ROTATION**__
+    description: >-
+      Nahida’s combos will differ depending on if you’re playing her on or
+      off-field.
+
+
+      **On-field:** 
+
+      Nahida’s main goal whilst on-field is to apply as much Dendro as possible
+      through her Normal Attacks whilst also driving the rest of the team. Her
+      Elemental Skill can also be used to add extra Dendro applications during
+      her field time. Her Charged Attack can be canceled extremely early,
+      allowing for even more Dendro, however, due to being a Catalyst user, this
+      can cause you to run out of stamina very quickly. 
+
+
+      **Off-field:** 
+
+      E, Q is recommended over Q, E due to her E being cancellable slightly
+      early and also allows funneling particles to Nahida if Tri-Karma
+      Purification procs during her Burst animation.
+    color: null
+    footer:
+      text: (section authored by Leifa)

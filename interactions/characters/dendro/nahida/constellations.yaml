@@ -1,0 +1,117 @@
+content: null
+embeds:
+  - title: __**CONSTELLATIONS**__
+    description: >-
+      *Due to Nahida being played both on and off-field as well as having high
+      or low reaction ownership depending on the team composition, the value of
+      each constellation can vary drastically. DPS increases assume a
+      reactionless, off-field Nahida.*
+    color: null
+  - title: '**C1**'
+    description: >-
+      A nice QoL constellation, providing one level of each Elemental Burst buff
+      without needing specific teammates and has a good chance of adding another
+      Tri-Karma Purification proc due to Electro reducing the cooldown between
+      procs as well as the Hydro effect increasing Burst uptime. This can lead
+      to a longer burst duration, more damage and Dendro application. Also adds
+      25% DMG to her skill, assuming there is no Pyro character. Mileage depends
+      on teams, whether you can get another Tri-Karma Purification proc or not,
+      and whether or not Nahida's Elemental Burst is activated every rotation.
+      (3/5)
+
+      DPS increase: ~5-29%
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_731.webp
+  - title: '**C2**'
+    description: >-
+      An outstanding constellation. It is a straight-up 16-20% DPS increase to
+      not only Nahida but the entire team, given they utilize Dendro reactions.
+      It is roughly equivalent or stronger than giving every party member their
+      BiS 5* weapon thus, making Nahida an even more exceptional support for
+      practically every team that wants a Dendro character. (5/5)
+
+      DPS increase: ~18% in Quicken teams, ~14-16% in Bloom teams
+
+      DPS increase over C0: 5-29% 
+
+      (The effect of C2 is not included in this figure because the assumption is
+      a reactionless Nahida)
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_732.webp
+  - title: '**C3**'
+    description: >-
+      +3 talent levels to Elemental Skill. Given that most of Nahida's damage
+      comes from her Elemental Skill, C3 is a fairly good buff to her DPS
+      output, although nothing spectacular. However, on teams where Nahida
+      triggers Spread or Blooms, MVs aren't as important and the value of C3
+      diminishes. Still, it is a decent constellation. (3/5)
+
+      DPS increase: ~17% (Less valuable in both Spread and Bloom teams,
+      especially the latter).
+
+      DPS increase over C0: 51%
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_733.webp
+  - title: '**C4**'
+    description: >-
+      Grants a sizable amount of EM for Nahida, a stat she greatly appreciates
+      for both offense and support. This constellation makes it easier for
+      Nahida to reach the 1000 EM benchmark, or allows her to drop some EM
+      mainstats/substats for better stats such as CRIT or a DMG% goblet. (3.5/5)
+
+      DPS increase: ~8-16% (Slightly more valuable in Spread teams, and less
+      valuable in Bloom teams where Nahida has some ownership).
+
+      DPS increase over C0: 69%
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_734.webp
+  - title: '**C5**'
+    description: >-
+      +3 talent levels to Elemental Burst. Levels on Nahida's Burst are not
+      particularly impressive: the extra DMG% bonus is quite small, and the CD
+      reduction and Burst extension are also rather minor. It is unlikely to
+      grant another Tri-Karma Purification proc, but in certain scenarios it may
+      give you the push needed. (2/5) 
+
+      DPS increase: 1-15% (15% is very optimistic)
+
+      DPS increase over C0: 72%
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_735.webp
+  - title: '**C6**'
+    description: >-
+      Like most C6s in the game, Nahida's final constellation is a remarkable
+      one. It gives her a frontloaded AoE nuke after using her Burst when she
+      attacks marked enemies and can be triggered up to 6 times, significantly
+      boosting her damage at the cost of field time. While it is an absurd
+      constellation for her personal damage, Nahida is usually not the one doing
+      majority of her team's damage, so the actual team DPS increase is not
+      stellar, especially as she is taking field time to properly utilize this
+      constellation. Hence, it is crucial to form teams around Nahida and even
+      change her entire playstyle in order for her C6 to truly shine. (4.5/5)
+
+      DPS increase: ~77%
+
+      DPS increase over C0: 204%
+
+      *Note that while this seems like a massive % increase, since Nahida takes
+      field time and you may be playing her in a Bloom or Spread team, the
+      actual % increase is actually lower.*
+    color: null
+    footer:
+      text: >-
+        (section authored by redd)
+
+
+        Credits to Leifa, Apollo, Von, and redd for the Nahida FAQ! || WFP and
+        KQM Theorycrafting
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/964616918336159814/1035131681436344370/dn.jpeg
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_736.webp

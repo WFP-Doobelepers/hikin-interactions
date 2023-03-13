@@ -1,0 +1,135 @@
+content: null
+embeds:
+  - title: __**ARTIFACTS**__
+    description: >-
+      __Mainstats__
+
+
+      **Sands** - EM > ATK%
+
+      **Goblet** - Dendro% / EM 
+
+      **Circlet** - Crit / EM
+
+
+      EM mainstats are favoured if using a non-EM weapon and if Nahida is
+      off-field. An ATK% sands is typically subpar to its EM counterpart,
+      especially if you intend to maximize Nahida’s A1, but the gap can be
+      closed if:
+
+      1.) The ATK% sands has good substat quality
+
+      2.) Nahida is being played on-field and performing Normal or Charged
+      Attacks
+
+      3.) Nahida does not trigger any reactions
+
+
+      __Substats__
+
+
+      ER (120-150% depending on team) > EM (~900-1000) >= CRIT > ATK%
+
+      *In Bloom teams where Nahida can get some ownership of Blooms, EM becomes
+      more valuable over CRIT and ATK stats.*
+
+
+      Generally, it is recommended to reach **~900-1000 EM** on Nahida even if
+      she is not triggering any reactions. This range is typically optimal for
+      her damage output, whilst also maximizing her A1 passive. Going beyond
+      1000 EM is not usually recommended, unless she is on a Bloom team where
+      she has high ownership of Blooms. In that case, reaction damage becomes a
+      huge portion of her damage and CRIT becomes less relevant. 
+
+
+      **TLDR:** Triple EM is the easiest way to get near 1000 EM, but if you can
+      pass that threshold, other mainstats start becoming better (except in
+      Bloom teams where Nahida gets some ownership). 
+
+
+      1. For Spread teams and teams where Nahida has little reaction ownership,
+      aim for artifacts that get you closest to the 900-1000 EM range (factoring
+      in external buffs) while also meeting your ER needs of **120% ER** for
+      Spread and **140-150% ER** for teams such as Hyperbloom or Burgeon. After
+      that, start prioritizing CRIT substats. ATK substats do increase Nahida’s
+      damage output, but are low priority.
+
+
+      a. On-field Nahida gets the benefit of her A1, so typically triple EM will
+      cause her to go beyond 1000 EM. In this case, it is recommended to use a
+      Dendro Goblet and/or CRIT Circlet. 
+
+
+      b. For teams where Nahida is specifically on-field but has low reaction
+      ownership, 1000 EM is less important to aim for and CRIT substats become
+      more valuable. 
+
+
+      2. For Bloom teams where Nahida gets a significant amount of Blooms: Run
+      triple EM mainstats while also meeting your ER needs of **130% ER**. EM
+      substats take precedence, even if you go beyond 1000 EM. CRIT substats are
+      fine, but not as important.
+    color: null
+  - title: |-
+      __**Recommended**__
+
+      **4PC Deepwood Memories**
+    description: >-
+      Proccing on Elemental Skill hits, this set is practically made for Nahida,
+      allowing for 30% Dendro RES shred 100% of the time, increasing not only
+      her damage but also other Dendro party members and Bloom reactions. Fits
+      her very well whether she’s on-field driving or off-field and will
+      generally be preferred if she’s the only Dendro in a team.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n20543.webp
+  - title: '**4PC Gilded Dreams**'
+    description: >-
+      If another character is already holding Deepwood, Nahida can benefit more
+      from running Gilded Dreams, providing ATK% and EM depending on the
+      teammates in the party. Generally will be giving 14% ATK and 180 EM with
+      double Dendro or 230 EM as the only Dendro although she needs to proc a
+      reaction to gain the effect which, due to how her Elemental Skill applies
+      Dendro, may be hard to do from off-field only. Thus, it is not recommended
+      in scenarios where Nahida does not trigger reactions very often (for
+      example, off-field Nahida in Bloom teams).
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400214.webp
+  - title: '**2PC WT / 2PC GD / 2PC DW**'
+    description: >-
+      A consistent source of stats which isn’t reliant on Nahida proccing
+      reactions, allowing her to make more use of the sets whilst off-field.
+      Either 160 EM or 80 EM + 15% Dendro DMG%, both work for unconditional
+      sets.
+    color: null
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/964616918336159814/1035136154128896000/Portraits_Wanderers_TroupeDeepwood_MemoriesGilded_Dreams_1.png
+  - title: '**2PC ATK**'
+    description: An OK option, but is worse than the 2PC above.
+    color: null
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/964616918336159814/1035136488972754966/Portraits_Wanderers_TroupeDeepwood_MemoriesGilded_DreamsGladiators_Finale.png
+  - title: '**4PC Tenacity of the Millelith**'
+    description: >-
+      An uncommon option that trades Nahida’s personal damage for a more
+      supportive role, providing 20% ATK to the party. It can be quite powerful
+      or even BiS if your damage dealers are disproportionately stronger than
+      Nahida. With another party member running Deepwood, this can be a usable
+      option in some situations or whilst farming for a dedicated set for
+      Nahida.
+    color: null
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400169.webp
+  - title: '**4PC Noblesse Oblige**'
+    description: >-
+      It has the same 20% ATK buff as 4PC Tenacity of the Millelith, but with
+      worse uptime. It may be situationally better if you want to buff multiple
+      party members.
+    color: null
+    footer:
+      text: (section authored by Lefia and redd)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400119.webp
