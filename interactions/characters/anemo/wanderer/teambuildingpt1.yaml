@@ -178,14 +178,14 @@ embeds:
       Tenacity of the Millelith for a total of a 68% ATK buff, and also gives
       Hydro absorption for Wanderer’s A1.
     color: null
+
   - title: __**Do I need a battery for Wanderer?**__
     description: >-
       No. Most of Wanderer’s damage output comes from his Normal Attacks. While
       his burst deals a good amount of damage and should be used if possible, it
       is not the main feature of his kit.
     color: null
-  content: null
-embeds:
+    
   - title: '**Hyper Wanderer**'
     description: >-
       **Wanderer/Faruzan//Bennett/Flex**
@@ -325,8 +325,8 @@ embeds:
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388348266238002/double_electro.png
-content: null
-embeds:
+
+
   - title: '*What about Wanderer teams without Faruzan?*'
     description: >-
       Not playing Wanderer with Faruzan will of course cause his DPS to drop. As
