@@ -33,6 +33,7 @@ embeds:
     color: 10470888
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813687488938014/Untitled85_20221029150928.png
+  
   - title: '**Mono-Cryo**'
     description: >-
       -Layla/Cryo/Cryo/Anemo
@@ -54,6 +55,7 @@ embeds:
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035833167115997194/Untitled85_20221029163047.png
+  
   - title: '**Forward Melt**'
     description: >-
       -Bennett/Layla/Anemo/Cryo, Anemo or Hydro
@@ -74,6 +76,7 @@ embeds:
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813689879691284/Untitled85_20221029151001.png
+  
   - title: '**Eula**'
     description: >-
       -Eula/Layla/Electro/Flex
@@ -90,6 +93,7 @@ embeds:
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813690278154280/Untitled85_20221029151025.png
+  
   - title: '**Laylational**'
     description: >-
       -Layla/Bennett/Xingqiu/Xiangling
@@ -102,6 +106,7 @@ embeds:
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813690756300850/Untitled85_20221029151051.png
+  
   - title: '**Fridge**'
     description: >-
       Fridge teams are teams that use the interaction between Dendro and Cryo
