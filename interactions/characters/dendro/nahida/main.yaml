@@ -70,7 +70,7 @@ options: #dropdown
     description: "WFP resources for Nahida FAQ."
     emoji: :Dendro:925598874532479076
 
-  - label: External Credits
+  - label: External Links
     value: characters/dendro/nahida/external
     description: "WFP resources for Nahida FAQ."
     emoji: :Dendro:925598874532479076
