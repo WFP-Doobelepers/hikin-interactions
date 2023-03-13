@@ -33,6 +33,10 @@ options:
   value: characters/pyro/dehya/teambuilding1
   description: WFP resources for Dehya FAQ.
   emoji: Pyro:925598875853668353
+- label: External Links
+  value: characters/pyro/dehya/external
+  description: WFP resources for Dehya FAQ.
+  emoji: Pyro:925598875853668353
 buttons:
 - label: WFP Website
   url: https://wangshengfp.org/faq/dehya
