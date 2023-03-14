@@ -8,11 +8,15 @@ embeds:
   - name: 'Authors:'
     value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
   - name: 'Calculations:'
-    value: "<@293169816741740556>, <@143615626785587200>"
+    value: "<@604540951708565515> "
   - name: 'Framecounting:'
-    value: "<@377496350155079690>"
-  - name: Consultation
+    value: "<@367160010335191054>"
+  - name: 'Consultation'
     value: "<@209617229216612352>, <@651556217315000360>"
+  - name: 'Mapping'
+    value: "<@367160010335191054>, <@280016643558604800>, <@209617229216612352>"
+  - name: 'Proofreading'
+    value: "<@265126444894650369>"
   - name: 'Resources:'
     value: |-
       [Cyno  Mastersheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
@@ -27,90 +31,90 @@ embeds:
   image:
     url: https://media.discordapp.net/attachments/1084456231432892501/1085182171687436329/image.png?width=1358&height=662
 
-  - title: __**TLDR**__
-    description: |-
-      **Role:** Hypercarry
+- title: __**TLDR**__
+  description: |-
+    **Role:** Hypercarry
 
-      **Talent Priority:** 
-      Q (Burst) = E (Skill) > NA (Normal ATK)
+    **Talent Priority:** 
+    Q (Burst) = E (Skill) > NA (Normal ATK)
 
-      __Combos:__ 
-      (C0)
-      Non-TF
-      EQ N3E N5E N5N2E N5N2E
+    __Combos:__ 
+    (C0)
+    Non-TF
+    EQ N3E N5E N5N2E N5N2E
 
-      TF
-      EQ N3E N5E N4E N4E N4E N4E
+    TF
+    EQ N3E N5E N4E N4E N4E N4E
 
-      (C1)
-      Non-TF
-      EQ N4E N5E N5N3E N5N3E N3 - First N5 E CD is on 0.5-0.7 waiting time
+    (C1)
+    Non-TF
+    EQ N4E N5E N5N3E N5N3E N3 - First N5 E CD is on 0.5-0.7 waiting time
 
-      TF
-      EQE N4E N4E N4E N4E N4E N4E N4E
+    TF
+    EQE N4E N4E N4E N4E N4E N4E N4E
 
-      __Artifacts:__
-      ● 4PC Thundering Fury
-      ● 4PC Gilded Dreams
-      ● 4PC Gladiator’s Finale
-      ● 2PC Thundering Fury, 2PC EM
+    __Artifacts:__
+    ● 4PC Thundering Fury
+    ● 4PC Gilded Dreams
+    ● 4PC Gladiator’s Finale
+    ● 2PC Thundering Fury, 2PC EM
 
-      __Weapons:__
-      ● Staff of the Scarlet Sands
-      ● Primordial Jade Winged Spear
-      ● Staff of Homa
-      ● Deathmatch
-      ● White Tassel
+    __Weapons:__
+    ● Staff of the Scarlet Sands
+    ● Primordial Jade Winged Spear
+    ● Staff of Homa
+    ● Deathmatch
+    ● White Tassel
 
-      __Constellations:__ 
-      C2 > C6 > C1 > C3 > C5 
-      C4 ranking is based on his team composition
+    __Constellations:__ 
+    C2 > C6 > C1 > C3 > C5 
+    C4 ranking is based on his team composition
 
-      __Team Compositions:__
-      Aggravate Team
-      *(Cyno, Electro, Dendro, Anemo/Zhongli/Dendro)*
-      Hyperbloom Team
-      *(Cyno, Hydro, Dendro, Zhongli/Dendro/Electro)*
-      Electro-Charged Team
-      *(Cyno, Hydro, Anemo, Flex)*
-      Overvape Team
-      *(Cyno, Xingqiu, Off-field Pyro, Flex)*
-      Mono-Electro Team
-      *(Cyno, Electro, Electro, Anemo/Zhongli/Dendro)*
-      Hyper Team
-      *(Cyno, Fischl, Zhongli, Geo)*
-    color: 9338051
-    footer:
-      text: (section authored by Akane)
-      
-  - title: __**CHARACTER OVERVIEW**__
-    description: >-
-      Cyno is a 5* Electro Main DPS, and is considered to be an Electro
-      Hypercarry. He relies on his teammates giving him buffs throughout his
-      Elemental Burst duration, which is where the majority of his damage comes
-      from, with both his A1 and A4 passive focusing on specific mechanics tied
-      to his Elemental Burst. However, this comes at a cost: Cyno needs to spend
-      a large amount of time on the field to maximize his damage potential,
-      making his supports take a toll in terms of the requirements such as their
-      ER requirement and overall damage.. Nevertheless, his needs are super
-      accessible to anyone with White Tassel, a 3* weapon, which is competitive
-      even with some of his 4* options, and when it comes to his team
-      compositions, Cyno’s ideal teams lean primarily towards Aggravate Teams or
-      Transformative Teams.
+    __Team Compositions:__
+    Aggravate Team
+    *(Cyno, Electro, Dendro, Anemo/Zhongli/Dendro)*
+    Hyperbloom Team
+    *(Cyno, Hydro, Dendro, Zhongli/Dendro/Electro)*
+    Electro-Charged Team
+    *(Cyno, Hydro, Anemo, Flex)*
+    Overvape Team
+    *(Cyno, Xingqiu, Off-field Pyro, Flex)*
+    Mono-Electro Team
+    *(Cyno, Electro, Electro, Anemo/Zhongli/Dendro)*
+    Hyper Team
+    *(Cyno, Fischl, Zhongli, Geo)*
+  color: 9338051
+  footer:
+    text: (section authored by Akane)
+    
+- title: __**CHARACTER OVERVIEW**__
+  description: >-
+    Cyno is a 5* Electro Main DPS, and is considered to be an Electro
+    Hypercarry. He relies on his teammates giving him buffs throughout his
+    Elemental Burst duration, which is where the majority of his damage comes
+    from, with both his A1 and A4 passive focusing on specific mechanics tied
+    to his Elemental Burst. However, this comes at a cost: Cyno needs to spend
+    a large amount of time on the field to maximize his damage potential,
+    making his supports take a toll in terms of the requirements such as their
+    ER requirement and overall damage.. Nevertheless, his needs are super
+    accessible to anyone with White Tassel, a 3* weapon, which is competitive
+    even with some of his 4* options, and when it comes to his team
+    compositions, Cyno’s ideal teams lean primarily towards Aggravate Teams or
+    Transformative Teams.
 
 
-      Cyno’s kit gets the most utility out of the 4PC Thundering Fury set, as
-      this set makes great use of Cyno’s overall playstyle. This set heavily
-      affects his short Elemental Skill cooldown on his Elemental Burst duration
-      along with timing TF Procs with a specific combo that you should run on
-      him. However, the A1 passive poses a challenge to some of Cyno’s combos,
-      as it has a specific timing regarding its procs and it is not tied to
-      anything, only on specific intervals. This makes Cyno a hard challenge to
-      TC as mapping out TF procs, ICD procs, and A1 procs along with the
-      rotation time is quite hard due to many reasons such as MV/s, ICD procs,
-      etc.
-    color: 9338051
-    footer:
-      text: (section authored by Akane)
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/cyno_071_icon.webp
+    Cyno’s kit gets the most utility out of the 4PC Thundering Fury set, as
+    this set makes great use of Cyno’s overall playstyle. This set heavily
+    affects his short Elemental Skill cooldown on his Elemental Burst duration
+    along with timing TF Procs with a specific combo that you should run on
+    him. However, the A1 passive poses a challenge to some of Cyno’s combos,
+    as it has a specific timing regarding its procs and it is not tied to
+    anything, only on specific intervals. This makes Cyno a hard challenge to
+    TC as mapping out TF procs, ICD procs, and A1 procs along with the
+    rotation time is quite hard due to many reasons such as MV/s, ICD procs,
+    etc.
+  color: 9338051
+  footer:
+    text: (section authored by Akane)
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/cyno_071_icon.webp
