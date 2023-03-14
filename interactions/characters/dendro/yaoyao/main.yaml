@@ -56,7 +56,7 @@ options: #dropdown
     description: "WFP resources for Yaoyao FAQ."
     emoji: :Dendro:925598874532479076
 
-  - label: External Credits
+  - label: External Links
     value: characters/dendro/yaoyao/external
     description: "WFP resources for Yaoyao FAQ."
     emoji: :Dendro:925598874532479076
