@@ -8,7 +8,7 @@ embeds:
       alive on the field longer. Preferably would run with Cyno on Hyperbloom
       team compositions as she fills in the roles mentioned before and she does
       not need any investment apart from HP% and HB% on this team composition.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/kokomi_054_icon.webp
   - title: '**Yelan**'
@@ -18,7 +18,7 @@ embeds:
       is active. Provides consistent Hydro application and paired with Xingqiu
       activates Hydro Resonance, which buffs her Elemental Skill and Elemental
       Burst damage up as they scale with HP%
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/yelan_060_icon.webp
   - title: '**Xingqiu**'
@@ -26,7 +26,7 @@ embeds:
       Currently provides the fastest Hydro application in the game. Along with
       this, he provides DMG Reduction and healing with his Rainswords and can
       burst out quite a ton of damage with his off-field Elemental Burst DMG.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/xingqiu_025_icon.webp
   - title: '**Bennett**'
@@ -37,7 +37,7 @@ embeds:
       roles that he can fill in but with Aggravate being lived, Bennett’s rate
       on pick lowered on Electro DPSs that relies on his said roles so his
       synergy with Cyno is overall decent.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/bennett_032_icon.webp
   - title: '**Xiangling**'
@@ -47,7 +47,7 @@ embeds:
       team composition that has Cyno or the secondary Electro unit providing
       Electro for these two setups. However, her ER requirements will skyrocket
       without any Pyro battery so be wary of that.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/xiangling_023_icon.webp
   - title: '**Thoma**'
@@ -57,7 +57,7 @@ embeds:
       refreshing shield each time Fiery Collapse is triggered and along with his
       A1 passive that gives him Shield Strength each time the character obtains
       or refreshes the shield and this can stack up to 5 times.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/tohma_050_icon.webp
   - title: '**Kazuha**'
@@ -68,7 +68,7 @@ embeds:
       said element that is going to receive the Elemental DMG% buff however with
       Cyno, his buff and Viridescent Venerer shred would not last until his
       duration end and will cut out on the middle of his combo.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/kazuha_047_icon.webp
   - title: '**Sucrose**'
@@ -82,7 +82,7 @@ embeds:
       while providing a team wide heal which will lower her EM and her buffing
       potentiality. Suffers the same issue as Kazuha when holding Viridescent
       Venerer set as the RES Shred does not reach Cyno’s full field time.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/sucrose_043_icon.webp
   - title: '**Jean**'
@@ -93,7 +93,7 @@ embeds:
       can drastically change Cyno’s rotation as the ATK SPD will affect his
       timing with his A1 Endseer procs but will yield in more damage as extra
       NA’s are being added.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/qin_003_icon.webp
   - title: '**Sayu**'
@@ -102,7 +102,7 @@ embeds:
       available. Her role in this team composition is just to provide heals and
       carry Viridescent Venerer, in accordance with the same consensus with the
       other Anemo units in terms of its RES Shred on Cyno.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/sayu_053_icon.webp
 

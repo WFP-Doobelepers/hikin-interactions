@@ -7,7 +7,7 @@ embeds:
       Elemental Skill has high uptime, and her Dendro application is not
       constrained by energy. Rotations will change depending on what teammates
       you use just like artifact stats and weapons.*
-    color: null
+    color: 3450963
   - title: |-
       __Bloom Teams__
 
@@ -28,7 +28,7 @@ embeds:
       recommended. If Kokomi or someone else on the team is built for full EM,
       Nahida’s A1 passive can end up using their EM rather than her own,
       allowing for a larger EM buff whilst on-field.
-    color: null
+    color: 3450963
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035154548009996348/Untitled84_20221027193233.png
@@ -50,7 +50,7 @@ embeds:
       (Quickbloom), further increasing overall team damage. Due to Nahida’s high
       amount of Dendro application, the last slot can be used to fill any
       necessary roles such as healing, shielding or buffing.
-    color: null
+    color: 3450963
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035200153818243082/Untitled84_20221027223539.png
@@ -71,7 +71,7 @@ embeds:
       that's its very delicate setup. If Burning is triggered, you may lose out
       on potential Burgeon procs due to having to overtake the Pyro application
       from Burning with your Hydro character.
-    color: null
+    color: 3450963
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035154548756578304/Untitled84_20221027193325.png
@@ -90,7 +90,7 @@ embeds:
       on-field Electro prioritizes their own Aggravates. Her A1 Passive is also
       helpful for providing more EM to your on-field character, further
       increasing the DMG output of your Spreads and Aggravates.
-    color: null
+    color: 3450963
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035154549163429928/Untitled84_20221027193342.png
@@ -116,7 +116,7 @@ embeds:
       setup being rather delicate, characters such as Ayaka may not make much
       use of Burning compared to someone like Ganyu due to the reaction being
       more susceptible to being ruined by additional Cryo applications.
-    color: null
+    color: 3450963
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035154549595455529/Untitled84_20221027193402.png
@@ -137,7 +137,7 @@ embeds:
       fueling Burning. Also, Burning ticks are unable to proc Tri-Karma
       Purification, meaning Nahida ultimately ends up being reliant on Swirls
       from an Anemo character to deal damage with her Skill.
-    color: null
+    color: 3450963
     footer:
       text: (section authored by Leifa, Apollo, and Von)
     image:

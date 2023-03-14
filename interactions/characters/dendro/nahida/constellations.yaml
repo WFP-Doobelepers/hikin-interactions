@@ -6,7 +6,7 @@ embeds:
       or low reaction ownership depending on the team composition, the value of
       each constellation can vary drastically. DPS increases assume a
       reactionless, off-field Nahida.*
-    color: null
+    color: 3450963
   - title: '**C1**'
     description: >-
       A nice QoL constellation, providing one level of each Elemental Burst buff
@@ -20,7 +20,7 @@ embeds:
       (3/5)
 
       DPS increase: ~5-29%
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_731.webp
   - title: '**C2**'
@@ -37,7 +37,7 @@ embeds:
 
       (The effect of C2 is not included in this figure because the assumption is
       a reactionless Nahida)
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_732.webp
   - title: '**C3**'
@@ -52,7 +52,7 @@ embeds:
       especially the latter).
 
       DPS increase over C0: 51%
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_733.webp
   - title: '**C4**'
@@ -66,7 +66,7 @@ embeds:
       valuable in Bloom teams where Nahida has some ownership).
 
       DPS increase over C0: 69%
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_734.webp
   - title: '**C5**'
@@ -80,7 +80,7 @@ embeds:
       DPS increase: 1-15% (15% is very optimistic)
 
       DPS increase over C0: 72%
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_735.webp
   - title: '**C6**'
@@ -102,7 +102,7 @@ embeds:
       *Note that while this seems like a massive % increase, since Nahida takes
       field time and you may be playing her in a Bloom or Spread team, the
       actual % increase is actually lower.*
-    color: null
+    color: 3450963
     footer:
       text: >-
         (section authored by redd)

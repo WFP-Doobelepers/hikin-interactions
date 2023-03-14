@@ -3,7 +3,7 @@ content:
 embeds:
   - title: __**TALENT PRIORITY**__
     description: '**E (Skill) = Q (Burst) > NA (Normal ATK)**'
-    color: null
+    color: 3450963
     image:
       url: >-
         https://media.discordapp.net/attachments/914675194939969587/1035186727083581460/Untitled75_20221027214140.png
@@ -13,6 +13,6 @@ embeds:
       level both. Nahida’s Normal Attacks don’t have impressive scaling and are
       mainly for applying Dendro so they aren’t as necessary. It’s  worth
       leveling if you’re playing her on-field.
-    color: null
+    color: 3450963
     footer:
       text: (section authored by Leifa)

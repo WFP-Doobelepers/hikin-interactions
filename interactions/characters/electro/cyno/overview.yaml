@@ -70,7 +70,7 @@ embeds:
       *(Cyno, Electro, Electro, Anemo/Zhongli/Dendro)*
       Hyper Team
       *(Cyno, Fischl, Zhongli, Geo)*
-    color: null
+    color: 9338051
     footer:
       text: (section authored by Akane)
       
@@ -100,7 +100,7 @@ embeds:
       TC as mapping out TF procs, ICD procs, and A1 procs along with the
       rotation time is quite hard due to many reasons such as MV/s, ICD procs,
       etc.
-    color: null
+    color: 9338051
     footer:
       text: (section authored by Akane)
     thumbnail:

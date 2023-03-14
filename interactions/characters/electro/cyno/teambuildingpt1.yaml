@@ -12,7 +12,7 @@ embeds:
       Skill to her C6. Her only caveat is Oz is mostly Single Target (ST) so in
       scenarios where 2 or more targets are present, she will fall behind in
       damage.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/fischl_031_icon.webp
   - title: '**Beidou**'
@@ -22,7 +22,7 @@ embeds:
       with Cyno’s overall damage. However, she suffers being on Cyno’s team due
       to both having a high energy Elemental Burst cost and both has weak
       particle generation, which means their ER requirements will be quite high.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/beidou_024_icon.webp
   - title: '**Yae**'
@@ -32,7 +32,7 @@ embeds:
       Burst every other rotation to suffice for the ER requirement. Overall, she
       is a solid unit to substitute to Fischl when she is on another team
       composition.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/yae_058_icon.webp
   - title: '**Kuki Shinobu**'
@@ -43,7 +43,7 @@ embeds:
       Xiphos’ Moonlight for helping party members ER requirements. However, when
       she carries Tenacity of the Millelith, she can’t quite buff Cyno’s whole
       field time, due to her Elemental Skill having a 12s duration.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/shinobu_065_icon.webp
   - title: '**Dori**'
@@ -55,7 +55,7 @@ embeds:
       Elemental Burst energy is below 30, which makes Cyno’s ER requirement
       non-existent in team compositions that are quite low on particle
       generation.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/dori_068_icon.webp
   - title: |-
@@ -68,7 +68,7 @@ embeds:
       Standard ICD. With their A4 providing EM as well throughout the duration
       of their Elemental Burst, Half of Cyno’s rotation will get buff with that
       passive and helps increase Cyno’s A4 and Aggravate DMG.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/playerboy_005_icon.webp
   - title: '**Collei**'
@@ -77,7 +77,7 @@ embeds:
       long-field time but is outperformed by Dendro MC due to how her burst
       functions with its ICD. Even at C6, she struggles to keep up with Dendro
       MC’s Dendro application with her 2.5s ICD on her Elemental Burst.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/collei_067_icon.webp
   - title: '**Tighnari**'
@@ -88,7 +88,7 @@ embeds:
       Cyno’s overall damage as he needs a certain amount of time on-field as
       well as Tighnari’s overall damage as he usually needs a short team
       rotation.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/tighnari_069_icon.webp
 

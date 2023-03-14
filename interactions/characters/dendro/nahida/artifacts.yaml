@@ -1,4 +1,4 @@
-content: null
+content: 3450963
 embeds:
   - title: __**ARTIFACTS**__
     description: >-
@@ -69,7 +69,7 @@ embeds:
       triple EM mainstats while also meeting your ER needs of **130% ER**. EM
       substats take precedence, even if you go beyond 1000 EM. CRIT substats are
       fine, but not as important.
-    color: null
+    color: 3450963
   - title: |-
       __**Recommended**__
 
@@ -80,7 +80,7 @@ embeds:
       her damage but also other Dendro party members and Bloom reactions. Fits
       her very well whether she’s on-field driving or off-field and will
       generally be preferred if she’s the only Dendro in a team.
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n20543.webp
   - title: '**4PC Gilded Dreams**'
@@ -93,7 +93,7 @@ embeds:
       Dendro, may be hard to do from off-field only. Thus, it is not recommended
       in scenarios where Nahida does not trigger reactions very often (for
       example, off-field Nahida in Bloom teams).
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400214.webp
   - title: '**2PC WT / 2PC GD / 2PC DW**'
@@ -102,13 +102,13 @@ embeds:
       reactions, allowing her to make more use of the sets whilst off-field.
       Either 160 EM or 80 EM + 15% Dendro DMG%, both work for unconditional
       sets.
-    color: null
+    color: 3450963
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/964616918336159814/1035136154128896000/Portraits_Wanderers_TroupeDeepwood_MemoriesGilded_Dreams_1.png
   - title: '**2PC ATK**'
     description: An OK option, but is worse than the 2PC above.
-    color: null
+    color: 3450963
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/964616918336159814/1035136488972754966/Portraits_Wanderers_TroupeDeepwood_MemoriesGilded_DreamsGladiators_Finale.png
@@ -120,7 +120,7 @@ embeds:
       Nahida. With another party member running Deepwood, this can be a usable
       option in some situations or whilst farming for a dedicated set for
       Nahida.
-    color: null
+    color: 3450963
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400169.webp
   - title: '**4PC Noblesse Oblige**'
@@ -128,7 +128,7 @@ embeds:
       It has the same 20% ATK buff as 4PC Tenacity of the Millelith, but with
       worse uptime. It may be situationally better if you want to buff multiple
       party members.
-    color: null
+    color: 3450963
     footer:
       text: (section authored by Lefia and redd)
     thumbnail:

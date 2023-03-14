@@ -9,7 +9,7 @@ embeds:
 
       **Substats:
       ER (When ER Requirements are met) > CR% = CDMG% > EM = ATK%**
-    color: null
+    color: 9338051
   - title: |-
       __***Recommended***__
       **4PC Thundering Fury**
@@ -19,7 +19,7 @@ embeds:
       per Elemental Reaction proc that he can utilize when he is on Pactsworn
       Pathclearer. This set fits his playstyle well as a hypercarry that is able
       to bring out more damage over time with his required field-time.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400109.webp
   - title: '**4PC Gilded Dreams**'
@@ -31,7 +31,7 @@ embeds:
       ATK and 50 EM. Realistically, this set buff uptime would be cut midway on
       his field-time and need to trigger another Elemental Reaction again to get
       said buffs.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400214.webp
   - title: '**4PC Gladiator’s Finale**'
@@ -42,7 +42,7 @@ embeds:
       have. Generally would run as Gilded Dream set is new to the game and
       getting the exact pieces on it are quite hard as of now unless one is
       lucky enough to already have it or resin refresh their way to getting it.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400089.webp
   - title: '**2PC Thundering Fury, 2PC EM**'
@@ -51,7 +51,7 @@ embeds:
       differences aren’t exactly that high. Granting Cyno 15% Electro DMG and 80
       EM without any requirements is easily an option for him to use these
       specific mixed sets.
-    color: null
+    color: 9338051
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1020130093449879693/Untitled82_20220916083236.png
@@ -63,7 +63,7 @@ embeds:
       sounds good on Cyno but in terms of its uptime, it will not be consistent
       due to Aggravate needing to remove the Electro aura to refresh Quicken
       again and leave no Electro aura for Cyno to proc the 4PC passive.
-    color: null
+    color: 9338051
     footer:
       text: (sectioned authored by Akane)
     thumbnail:

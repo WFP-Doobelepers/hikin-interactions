@@ -4,7 +4,7 @@ embeds:
     description: |-
       **Leveling Priority:
       Q (Burst) = E (Skill) > NA (Normal ATK)**
-    color: null
+    color: 9338051
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1020127850931691530/Untitled75_20220916082333.png
@@ -35,6 +35,6 @@ embeds:
       Combined with the Aggravate reaction that also relies on the stat to
       increase its value, this makes Elemental Mastery a very powerful stat for
       Cyno.
-    color: null
+    color: 9338051
     footer:
       text: (section authored by Akane)

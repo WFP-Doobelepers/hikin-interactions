@@ -7,7 +7,7 @@ embeds:
       Cyno can hit enemies when his Elemental Burst is active on the field and
       that will need testing on live. Suffers the same result as every other
       Anemo unit in terms of carrying Viridescent Venerer.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/venti_022_icon.webp
   - title: '**Zhongli**'
@@ -18,7 +18,7 @@ embeds:
       shred with his kit. However, his damage will be lacklustered if built
       specifically for the shield itself so carrying Favonius Lance and having
       CR% substats would be wise to run on him to help Cyno’s ER requirement.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/zhongli_030_icon.webp
   - title: '**Albedo**'
@@ -29,7 +29,7 @@ embeds:
       when the active character is shielded. With his Elemental Skill being proc
       on enemies taking DMG, Cyno can carry 4PC Archaic Petra to be able to proc
       the 35% Elemental DMG buff while on-field
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/albedo_038_icon.webp
   - title: '**Yunjin**'
@@ -39,7 +39,7 @@ embeds:
       when the active character is shielded. She can buff Cyno’s Normal Attack
       with her Elemental Burst but it will be cut midway unto his rotation due
       to only having a 12s duration.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/yunjin_064_icon.webp
   - title: |-
@@ -54,7 +54,7 @@ embeds:
       be be able to proc Aggravate with his NA and Elemental Skill. Note that he
       needs to have a Dendro unit that can match his fast Electro application
       and currently, only Dendro MC suffices for this role.
-    color: null
+    color: 9338051
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1020126124132536361/Untitled80_20220916080702.png
@@ -68,7 +68,7 @@ embeds:
       team composition is that it locks 3 spots on the team which means the last
       spot will have to flex out into options on whether you want RES Shed, EM
       buff, or batterying Cyno etc.
-    color: null
+    color: 9338051
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1020126124484866048/Untitled80_20220916080829.png
@@ -81,7 +81,7 @@ embeds:
       mechanic in which it consumes Electro and Hydro aura while maintaining
       both aura on the enemy, which means ownership of this team composition
       will need live testing and counting.
-    color: null
+    color: 9338051
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1020126124845584505/Untitled80_20220916081113.png
@@ -95,7 +95,7 @@ embeds:
       Xiangling or Thoma can trigger Vape and Overload off-field with their
       Elemental Burst. Xingqiu was locked in here as he provides fast Hydro
       application that can keep up with Cyno's field time.
-    color: null
+    color: 9338051
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1020126125193695312/Untitled80_20220916081244.png
@@ -109,7 +109,7 @@ embeds:
       loses out 50 EM for 28% ATK and is also locked into 3 Electro and 1 Dendro
       unit to be able to proc a reaction compared to 2 Electro which gives 100
       EM and 14% ATK.
-    color: null
+    color: 9338051
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1020126125583773746/Untitled80_20220916081438.png
@@ -121,7 +121,7 @@ embeds:
       straightforward one as the goal is to buff Cyno drastically. With Fischl
       on this team, Cyno would not have an issue with his ER Requirement and
       Zhongli provides comfort to his long field time.
-    color: null
+    color: 9338051
     footer:
       text: (section authored by Akane)
     image:

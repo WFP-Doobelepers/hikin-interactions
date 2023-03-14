@@ -11,7 +11,7 @@ embeds:
       it already provides a good amount of damage with Aggravate as the reaction
       is an additive reaction damage, which counts final ATK, DMG%, and CRIT to
       its formula.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n13511_awaken_icon.webp
   - title: '**Primordial Jade Winged-Spear**'
@@ -20,7 +20,7 @@ embeds:
       are fast to hit to trigger the weapons passive. Giving him 22.1% CR,
       stackable ATK%, and DMG% once stacks are maxed, this weapon is a great
       option to put on him as a 5* polearm
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n13505_awaken_icon.webp
   - title: '**Staff of Homa**'
@@ -31,7 +31,7 @@ embeds:
       last passive which increases the conversion value of the final HP to flat
       ATK passive. Overall, slightly under White Tassel on Non-TF sets and under
       Primordial Jade Winged-Spear on TF set.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n13501_awaken_icon.webp
   - title: '**Deathmatch**'
@@ -43,7 +43,7 @@ embeds:
       gains DEF% on that end. Nevertheless, this weapon is pretty much a good
       weapon to get due to its high CR% value for a 4* weapon but it is locked
       via the Battlepass.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n13405_awaken_icon.webp
   - title: '**White Tassel**'
@@ -53,7 +53,7 @@ embeds:
       value quite high. Being a 3* polearm, it is easily refinable to R5 due to
       it being obtainable through chests, and is an outstanding weapon to put on
       him as a F2P option.
-    color: null
+    color: 9338051
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n13301_awaken_icon.webp
 

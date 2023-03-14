@@ -47,7 +47,7 @@ embeds:
       Wandering Evenstar
       Sacrificial Fragments
       Magic Guide
-    color: null
+    color: 3450963
   - title: __**CHARACTER OVERVIEW**__
     description: >-
       Nahida is a 5* Dendro character who can be played as an on-field driver or
@@ -104,7 +104,7 @@ embeds:
       Rate based on the amount of EM she has that exceeds above 200 EM, maxing
       out at 80% DMG bonus and 24% Crit Rate. A very nice amount of stats to her
       main damage source, which emphasizes building EM on Nahida.
-    color: null
+    color: 3450963
     footer:
       text: (section authored by Leifa)
     thumbnail:
