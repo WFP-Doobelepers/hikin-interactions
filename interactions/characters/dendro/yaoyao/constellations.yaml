@@ -4,111 +4,78 @@ embeds:
 - title: |-
     __CONSTELLATIONS__
 
-    C1 - Intuition
+    C1 - Adeptus’ Tutelage
   description: |-
-    *When a Projection Attack hits an opponent, **Universality: An Elaboration on Form's** CD is decreased by 1.2s. This effect can be triggered once every 1s.*
+    *When White Jade Radishes explode, active characters within their AoE will gain 15% Dendro DMG Bonus for 8s and have 15 Stamina restored to them. This form of Stamina Restoration can only be triggered every 5s.*
 
-    Practically useless. This Constellation allows Alhaitham to use his Elemental Skill again faster when attacking on-field. However, this has no significant effect on gameplay, because Alhaitham’s long cooldown on his Elemental Skill doesn’t allow him to use his Skill twice in most rotations even with this Constellation. Using a second Skill during Alhaitham’s field time also brings the massive drawback of generally having its cooldown not ready in time for the next rotation, as the cooldown on the second Skill will not be sufficiently reduced with his C1. The best use case for this Constellation may be enabling rotations shorter than 18s, using one Skill per rotation. But as of now, this Constellation only has value in overworld/co-op and is otherwise merely a stepping-stone to other Constellations.
-  color: 3439221
+    This Constellation provides a decent boost for Yaoyao’s Dendro teammate’s damage output, making it a decent Constellation in teams where Yaoyao is the 2nd Dendro on the team. The 15 Stamina restoration is also a quality of life in her teams as well.
+  color: 10403358
   fields:
-  - name: "*DPS Increase from C0:*"
-    value: 0%
-  - name: "*Rating:*"
-    value: 0/5
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_781.webp
-- title: C2 - Debate
-  description: |-
-    *When Alhaitham generates a Chisel-Light Mirror, his Elemental Mastery will be increased by 50 for 8 seconds, max 4 stacks. Each stack's duration is counted independently. This effect can be triggered even when the maximum number of Chisel-Light Mirrors has been reached.*
-
-    C2 can be regarded as Alhaitham’s overall second-best Constellation after his C6, providing players with a significant 200 EM boost at maximum stacks. However, if players possess Nahida, it is advised to get her C2 instead, which offers better value in increasing Alhaitham’s personal DPS than his own C2.
-  color: 3439221
-  fields:
-  - name: "*DPS Increase from C0:*"
-    value: 14%
-  - name: "*DPS Increase from C1:*"
-    value: 14%
-  - name: "*Rating:*"
+  - name: 'Rating:'
     value: 3/5
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_782.webp
-- title: C3 - Negation
+    url: https://genshin.honeyhunterworld.com/img/c_771.webp
+- title: C2 - Innocent
   description: |-
-    *Increases the Level of Universality: An Elaboration on Form by 3.*
+    *While affected by the Adeptal Legacy state caused by Moonjade Descent, if White Jade Radish explosions damage opponents, 3 Energy will be restored to Yaoyao. This form of Energy regeneration can occur once every 0.8s.*
 
-    Given that most of Alhaitham’s damage comes from Spread, which is independent of Talent Levels, C3 provides only a modest ~5% boost. However, players should note that C3 still provides a greater damage boost than C5.
-  color: 3439221
+    After using her Burst, while Yaoyao is on-field, Jade Radishes that hit opponents refund 3 Energy to Yaoyao with a cooldown of 0.8 seconds. This Constellation helps with some Energy because she has an 80 Energy Cost on her Burst, but it could be inconsistent. This Constellation only is accounted for when Yaoyao is on-field while her Burst is active. In teams where she spends a significant time on-field during her Burst, this can be a pretty decent Constellation for reducing her Energy Cost. If used to its full extent, this can essentially reduce her Burst from an 80 Energy Cost to a 62 Energy Cost.
+  color: 10403358
   fields:
-  - name: "*DPS Increase from C0:*"
-    value: 19%
-  - name: "*DPS Increase from C2:*"
-    value: 5%
-  - name: "*Rating:*"
-    value: 1.5/5
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_783.webp
-- title: C4 - Elucidation
-  description: |-
-    *When Particular Field: Fetters of Phenomena is unleashed, the following effects will become active based on the number of Chisel-Light Mirrors consumed and created this time around:
-
-    ·Each Mirror consumed will increase the Elemental Mastery of all other nearby party members by 30 for 15s.
-    ·Each Mirror generated will grant Alhaitham a 10% Dendro DMG Bonus for 15s.
-
-    The pre-existing duration of the aforementioned effects will be cleared if you use Particular Field: Fetters of Phenomena again while they are in effect.*
-
-    C4 allows Alhaitham to give his teammates an Elemental Mastery buff when he consumes Mirrors, and also gives Alhaitham a Dendro DMG Bonus when he generates them. Since Alhaitham typically starts his rotations with no Mirrors, he usually only benefits from the personal Dendro DMG Bonus. C4 becomes more valuable when C6 is activated, because the latter allows you to consume Mirrors for the team buff while always receiving max Dendro DMG Bonus on Alhaitham. Overall a decent Constellation, and better with C6.
-  color: 3439221
-  fields:
-  - name: "*DPS Increase from C0:*"
-    value: 31%
-  - name: "*DPS Increase from C3:*"
-    value: 10%
-  - name: "*Rating:*"
+  - name: 'Rating:'
     value: 3/5
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_784.webp
-- title: C5 - Sagacity
+    url: https://genshin.honeyhunterworld.com/img/c_772.webp
+- title: C3 - Loyal and Kind
   description: |-
-    *Increases the Level of Particular Field: Fetters of Phenomena by 3.*
+    *Increases the Level of Raphanus Sky Cluster by 3.
+    Maximum upgrade level is 15.*
 
-    C5 provides a negligible damage increase in standard rotations where his Burst is used with zero Mirrors, though it has slightly more value in Burst nuke setups. As mentioned previously, most of Alhaitham’s damage comes from Spread, which is unaffected by Talent Levels. This Constellation is only worth getting if you are going for C6 anyway.
-  color: 3439221
+    Adds 3 levels to her Elemental Skill. Not much to say about this Constellation; it just increases the healing and damage of her Elemental Skill slightly. The healing portion can be somewhat relevant, since it can allow her to rely a bit more on her Skill for healing.
+  color: 10403358
   fields:
-  - name: "*DPS Increase from C0:*"
-    value: 32%
-  - name: "*DPS Increase from C4:*"
-    value: 1%
-  - name: "*Rating:*"
-    value: 1/5
+  - name: 'Rating:'
+    value: 2/5
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_785.webp
-- title: C6 - Structuration
-  description: "*Alhaitham gains the following effects:\n· 2 seconds after Particular
-    Field: Fetters of Phenomena is unleashed, he will generate 3 Chisel-Light Mirrors
-    regardless of the number of mirrors consumed.\n· If Alhaitham generates Chisel-Light
-    Mirrors when their numbers have already maxed out, his CRIT Rate and CRIT DMG
-    will increase by 10% and 70% respectively for 6s. \n\nIf this effect is triggered
-    again during its initial duration, the duration remaining will be increased by
-    6s.*\n\nLike many characters, Alhaitham’s best Constellation is C6. It ensures
-    that his Burst always grants the maximum number of Mirrors, along with a potential
-    CRIT Rate and CRIT DMG buff. However, it comes with its own caveats—if you try
-    to get some stacks on Burst to take advantage of the guaranteed 3-Mirror refund,
-    you need to save either Skill or A1 to activate the C6 buff by overcapping with
-    the Burst-generated Mirrors. This limits the damage potential of his field time
-    before Burst and also shortens the maximum 3-Mirror uptime he can get after Burst.
-    Players willing to unlock his sixth Constellation are still advised to open with
-    the QE rotation, which should provide a 12s C6 buff from the start as the second
-    Mirror overcap also triggers the duration extension."
-  color: 3439221
+    url: https://genshin.honeyhunterworld.com/img/c_773.webp
+- title: C4 - Winsome
+  description: |-
+    *After using Raphanus Sky Cluster or Moonjade Descent, Yaoyao’s Elemental Mastery will be increased based on 0.3% of her Max HP for 8s. The maximum Elemental Mastery she can gain this way is 120.*
+
+    After using her Elemental Skill or Elemental Burst, Yaoyao’s Elemental Mastery will be increased by 0.3% of her maximum HP. This bonus is capped at 120 Elemental Mastery. This Constellation can be good depending on the team you are playing. In Bloom teams such as Nilou’s with Candace, the EM bonus can help with your Bloom DMG. If you want to max this bonus out, it caps at 40,000 HP, which is easily achievable without having to go HP/HP/HP + Black Tassel .
+  color: 10403358
   fields:
-  - name: "*DPS Increase from C0:*"
-    value: 66%
-  - name: "*DPS Increase from C5:*"
-    value: 25%
-  - name: "*Rating:*"
-    value: 4/5
+  - name: 'Rating:'
+    value: 3/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_774.webp
+- title: C5 - Compassionate
+  description: |-
+    *Increases the Level of Moonjade Descent by 3.
+    Maximum upgrade level is 15.*
+
+    Adds 3 levels to her Elemental Burst. Just like her skill, this Constellation just increases her healing and damage output slightly. As with her C3, the healing portion can be somewhat relevant as it allows you to gain more healing in Bloom teams if needed.
+  color: 10403358
+  fields:
+  - name: 'Rating:'
+    value: 2/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_775.webp
+- title: C6 - Beneficient
+  description: |-
+    *For every 2 White Jade Radishes Yuegui: Throwing Mode throws out, it will also throw a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:
+    ·Deals AoE Dendro DMG based on 75% of Yaoyao’s ATK.
+    ·Restores HP for the active character based on 7.5% of Yaoyao’s Max HP.
+    Every Yuegei: Throwing Mode can throw out a maximum of 2 Mega Radishes.*
+
+    For every 2 White Jade Radishes Yuegui: Throwing Mode throws out, it will also throw a Mega Radish. This Constellation increases Yaoyao’s healing and damage output. The Mega Radish not only heals, but can also provide more Dendro applications for your team. Depending on the team, this can be a decent boost for her supporting capabilities. In Nilou Bloom, this allows her to build more EM assuming the Radish hits more than one enemy at the same time.
+  color: 10403358
+  fields:
+  - name: 'Rating:'
+    value: 3/5
   footer:
-    text: 'Authored by: snowy'
-    icon_url: https://images-ext-2.discordapp.net/external/Fs1l36PV1QF39jD8coCS8CgXxLxIGXbvSQ9mcxxx2QA/%3Fsize%3D4096/https/cdn.discordapp.com/guilds/791074691841523742/users/651556217315000360/avatars/ceb6b9d77062b154d35c7458cdfcd1da.png
+    text: 'Authored by: gerryoat'
+    icon_url: https://images-ext-1.discordapp.net/external/KeKetA5X3TnuCqaHFC4YlPWd_akYzE9YD_Xf1x28FpU/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/178766970450214912/2777746df3b047d06bee92400eaa9f9c.png
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_786.webp
+    url: https://genshin.honeyhunterworld.com/img/c_776.webp
+attachments: []

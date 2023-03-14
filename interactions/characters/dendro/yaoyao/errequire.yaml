@@ -1,18 +1,15 @@
 ---
 content:
 embeds:
-- title: __ER REQUIREMENT__
-  description: "Every time a Projection Attack is unleashed, Alhaitham creates one
-    Dendro particle, which can occur once every 1.6s (in practice, this interval is
-    a bit higher). In other words, Alhaitham must take field time to generate Energy.
-    He can be expected to generate 5-6 particles every rotation. \n\nWith a 70 Energy
-    Cost, Bursting every rotation with Alhaitham can be challenging. Bursting every
-    other rotation is fortunately a viable playstyle—in that case, Alhaitham’s ER
-    requirement is usually only 100%. Otherwise, it is rarely viable to Burst every
-    rotation without building some ER."
-  color: 3439221
+- title: __ER REQUIRMENTS__
+  description: The table assumes Yaoyao Bursting every rotation. If she is Bursting
+    every other rotation instead, she would not need to specifically build ER; in
+    the worst case scenario she would need around 150% ER. C2 gives her 18 Flat Energy,
+    which lowers her ER requirement by 30-40%.
+  color: 10403358
   footer:
-    text: 'Authored by: redd'
-    icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png
+    text: 'Authored by: EduLis'
+    icon_url: https://images-ext-1.discordapp.net/external/8IpjlYZC1wHZPyRr2TX4Mv0uNzca9-NlnmjG20BB_yA/%3Fsize%3D4096/https/cdn.discordapp.com/guilds/791074691841523742/users/370761744789798912/avatars/0de2b5fcadf03a1602ab52c418c4ad92.png?width=701&height=701
   image:
-    url: https://media.discordapp.net/attachments/957846543011024929/1064065926095441940/image.png
+    url: https://media.discordapp.net/attachments/1050681428200927252/1063738879968022568/image.png?width=1440&height=302
+attachments: []

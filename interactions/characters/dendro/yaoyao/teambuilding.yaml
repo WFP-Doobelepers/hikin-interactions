@@ -1,76 +1,62 @@
 ---
 content:
 embeds:
-- title: __TEAM BUILDING__
-  description: "Early potential teams for Alhaitham primarily focus on **Spread**
-    for his personal damage. Additionally, he may be used as a driver in **Bloom**,
-    **Hyperbloom** and **Burgeon** comps. **Quickbloom** teams—teams that allow for
-    both Hyperbloom and Quicken to coexist through slow Hydro application—have also
-    shown great promise. These teams should have similar Quicken uptime to Spread
-    teams, with additional Hyperbloom DMG. \n\nNote that in Burgeon, Nilou Bloom and
-    Hyperbloom teams where Alhaitham does not get many Spreads, his personal damage
-    will be underwhelming. It would thus be more useful for him to Burst every rotation
-    for better Mirror uptime and higher Dendro application. To reach his ER requirements,
-    particularly when he is the solo Dendro unit, it is likely better to gear him
-    with supportive ER weapons like Favonius Sword."
-  color: 3439221
-- title: __Quicken Teams__
-  description: "Example Team: Alhaitham/Nahida/Fischl/Kuki Shinobu\nExample Team 2:
-    Alhaitham/Yae Miko/Fischl/Zhongli \n\nWith his high Dendro application and EM
-    to DMG% conversion on his A4, it’s no surprise that Spread is a massive boon to
-    Alhaitham’s DPS output. Additionally, there are multiple Electro units that can
-    contribute substantial off-field damage via Aggravate. A secondary Dendro unit
-    can also be slotted in for extra Spread procs and Dendro Resonance. \n\n**Electro
-    Units:** Fischl, Yae Miko, Kuki Shinobu, Beidou, Kujou Sara, Raiden Shogun\n**Dendro
-    Units:** Nahida, Collei, Dendro MC, Yaoyao\n**Flex Units:** Zhongli, Kazuha, Sucrose,
-    Albedo"
-  color: 3439221
-  image:
-    url: https://media.discordapp.net/attachments/957846543011024929/1064085355713810472/QGbxAEx3OqbDrkpcODb98MtcW6JHqmukQK3XKqzox7AIvNStXHn3b6ntFl7oZ6oloBrYBWQCugFdAKaAW0AloBrYBWQCvQJRXQD6pdctv0pLUCWgGtgFZAK6AV0ApoBbQCWgGtgFZAK6AV0ApoBUQBDbf0daAV0ApoBbQCWgGtgFZAK6AV0ApoBbQCWgGtgFZAK9BlFdBwq8tunZ64VkAroBXQCmgFtAJaAa2AVkAroBXQCmgFtAJaAa2Ahlv6GtAKaAW0AloBrYBWQCugFdAKaAW0AloBrYBWQCugFeiyCmi41WW3Tk9cK6AV0ApoBbQCWgGtgFZAK6AV0ApoBbQCWgGtgFZAwy19DWgFtAJaAa2AVkAroBXQCmgFtAJaAa2AVkAroBXQCnRZBTTc6rJbpyeuFdAKaAW0AloBrYBWQCugFdAKaAW0AloBrYBWQCug4ZaBrQCWgGtgFZAK6AV0ApoBbQCWgGtgFZAK6AV0ApoBbqsAhpuddmt0xP..png
-- title: __Hyperbloom/Quickbloom Teams__
-  description: "Example Team: Alhaitham/Kuki Shinobu/Xingqiu/Nahida\nExample Team
-    2: Alhaitham/Raiden Shogun/Xingqiu/Yelan\n\nQuickbloom teams utilize a lower amount
-    of Hydro application compared to Dendro application, so as to allow for high to
-    full Quicken uptime with additional Hyperbloom DMG from Electro character(s).
-    Quickbloom teams focus more on Alhaitham’s on-field Spread DMG and the Electro
-    character’s Aggravate DMG, though units with EM-scaling such as Kuki can also
-    build full EM to maximize Hyperbloom DMG. Alhaitham should stick with his normal
-    EM/DMG/CRIT build. \n\nNote that due to Alhaitham’s high Dendro application and
-    tendency to run with Nahida as a second Dendro, you should still get decent Quicken
-    uptime even with a unit like Xingqiu.\n\nHyperbloom teams utilize more abundant
-    Hydro application, resulting in notably lower Quicken uptime and a much greater
-    portion of team damage coming from Hyperblooms. Alhaitham serves more of an on-field
-    driver role in such teams. It may be beneficial to run two Hydro units to keep
-    up with Alhaitham’s on-field Dendro application.\n\n**Electro Units:** Kuki Shinobu,
-    Raiden Shogun, Yae Miko, Fischl, Lisa, Beidou\n**Hydro Units:** Xingqiu, Yelan,
-    Kokomi, Barbara\n**Flex Units:** Zhongli, Kazuha, Sucrose, Dendro units"
-  color: 3439221
-  image:
-    url: https://media.discordapp.net/attachments/957846543011024929/1064085654520221706/D83ojTjNr0ZZAAAAAElFTkSuQmCC.png
-- title: __Burgeon Teams__
+- title: |-
+    __TEAMBUILDING__
+
+    *General Healer*
   description: |-
-    Example Team: Alhaitham/Thoma/Kokomi/Xingqiu
+    Yaoyao’s unique disposition as a Dendro healer lets her play an important role in practically any Dendro-related teams or in teams where her Dendro application does not interfere with their intended reactions. Subsequently, as Yaoyao’s raw healing output is sufficient in most cases, her primary role will always be the healer of her teams—even when built offensively.
 
-    With his high, consistent Dendro application, Alhaitham can be used as an on-field unit to enable Burgeon teams. However, such teams have delicate setups, as triggering Burning can easily lose Blooms. Running a defensive unit such as a healer/shielder is also necessary due to Burgeon self-damage.
+    Yaoyao’s Burst significance will shift as her teams’ healing needs change. There are a few factors that affect this:
 
-    **Pyro Unit:** Thoma
-    **Hydro Units:** Xingqiu, Yelan
-    **Flex Units:** Zhongli, Fischl, Kokomi, Kazuha, Sucrose, Diona, Kaeya, Rosaria, Yaoyao
-  color: 3439221
+    Team’s field-time distribution.
+    Enemies’ team-wide DoT effects (e.g. Corrosion, Brand of the Abyssal Flame, etc.) or highly-damaging enemies like some bosses.
+    Self-damaging effects from Dendro Cores (i.e. Nilou’s Bountiful Core, Hyperbloom, Burgeon).
+  color: 10403358
   image:
-    url: https://media.discordapp.net/attachments/957846543011024929/1064085743238119514/mtj0WSQggaNLYG1Pzzmu41Sv2LJFrYhH16nVp5GABCQggXcR0IOqLg8JSEACEpCABCQgAQlIQAISkIAEJCCBihVQuFWxp04Ll4AEJCABCUhAAhKQgAQkIAEJSEACElC4pWtAAhKQgAQkIAEJSEACEpCABCQgAQlIoGIFFG5V7KnTwiUgAQlIQAISkIAEJCABCUhAAhKQgAQUbukakIAEJCABCUhAAhKQgAQkIAEJSEACEqhYAYVbFXvqtHAJSEACEpCABCQgAQlIQAISkIAEJCABhVu6BiQgAQlIQAISkIAEJCABCUhAAhKQgAQqVkDhVsWeOi1cAhKQgAQkIAEJSEACEpCABCQgAQlIQOGWrgEJSEACEpCABCQgAQlIQAISkIAEJCCBihVQuFWxp04Ll4AEJCABCUhAAhKQgAQkIAEJSEACElC4pWtAAhKQgAQkIAEJSEACEpCABCQgAQlIoGIFFG5V7KnTwiUgAQlIQAISkIAEJCABCUhAAhKQ..png
-- title: __Bloom Teams__
-  description: "Example Team: Alhaitham/Nilou/Kokomi/Nahida\nExample Team 2: Alhaitham/Nilou/Kokomi/Xingqiu\n\nAlhaitham
-    can also be used as an on-field Dendro enabler in Nilou teams.  Unfortunately,
-    he has little utility, and his personal damage will be lower than usual as he
-    has little reaction ownership unless all three of his teammates are Hydro units.
-    It is strongly recommended to bring a healer, or Alhaitham will not survive the
-    Bloom self-damage. Swapping him out midway is punishing, as his Elemental Skill
-    has a 18s CD while his Burst costs 70 Energy, and he has no off-field Dendro application
-    to compensate. \n\n**Hydro Units:** Nilou, Kokomi, Xingqiu, Yelan, Barbara\n**Dendro
-    Units:** Nahida, Collei, Dendro MC, Yaoyao"
-  color: 3439221
+    url: https://media.discordapp.net/attachments/957846543011024929/1063752316144062494/wEuRUhH6gCW7gAAAABJRU5ErkJggg.png
+- title: |-
+    *Dendro Support*
+
+    **Quicken Teams**
+  description: |-
+    Yaoyao as a solo-Dendro support in Aggravate teams provides rotation-tight Quicken aura uptime as well as her own damage through Spread, however insignificant it is. Her being the healer of said team will free up a slot for competitive Electro or Anemo picks—such as Yae, Kazuha, Sucrose, etc—which will naturally boost the Electro DPS slots’ performance.
+
+    With that said, in Spread-centric teams, she has various utilities: Dendro Resonance, C1’s Dendro DMG% buff and some minor battery capabilities. More importantly, in the same vein as Aggravate teams, Yaoyao as the healer opens up her teams’ potential—giving leeway for Electro Resonance, supporting Energy-hungry characters (e.g. Alhaitham, Yae, Beidou, etc). Not just that, she also has indirect synergy with ranged teams like Tighnari’s or Nahida’s teams, as Kuki’s or Dori’s Electro application is largely limited by range/placement.
+
+    *Character Options*
+    **Dendro: Alhaitham, Collei, DMC, Nahida, Tighnari
+    Electro: Beidou, Cyno, Fischl, Keqing, Lisa, Raiden, Sara, Yae
+    Flex: (another Dendro/Electro unit) or Kazuha, Sucrose, Venti, Zhongli**
+  color: 10403358
+  image:
+    url: https://media.discordapp.net/attachments/957846543011024929/1063752033351499776/8ywGGD7v2M0AAAAASUVORK5CYII.png
+- title: "**Nilou Bloom**"
+  description: |-
+    Since Nilou’s Bountiful Cores explode immediately and can deal lethal damage in their damage window, Yaoyao is one of Nilou’s teams’ essential picks with her Skill’s Yuegui off-field heals, A4 healing effect and on-field team-wide healing from her Burst (the personal Dendro RES will also help her survive during this phase). As such, Yaoyao when played in a Nilou Bloom team should be built with enough ER to consistently Burst every rotation for the teamwide healing and to lessen others’ burden by taking on some Bloom DMG herself. Artifacts featuring HP and Healing Bonus from a healing-centric set like 4pc Maiden are generally recommended unless there isn’t already a better holder of 4DW, in which case Yaoyao will use it herself instead.
+
+    With that said, since Yuegui’s priority switches to healing (as opposed to attacking) when the on-field character’s health goes under 70%, it is still recommended to use another Dendro character alongside Yaoyao, as her own Dendro application proves to be insufficient for creating enough Bountiful Cores to comfortably clear higher Abyss Chambers. In Nahida’s case, Yaoyao’s Dendro application triggers her Tri-Karma Purification and allows her to be used off-field so that another on-field Hydro DPS (Ayato or Tartaglia) can take the reins instead, reinforcing the team’s AoE potential. Furthermore, with Yaoyao as the main healer of the team, this lets Kokomi (with her high Bloom ownership) be built with full EM on 4OHC and become the team’s consistent source of Core generation. At the same time, having Kokomi in the team will help with team’s survivability against the high Bloom count, in which case Yaoyao’s own healing output won’t be enough without sacrificing team’s rotation time to Burst. Barbara using the same build instead of Kokomi will largely serve the same function but as a less effective substitute with her overall lower Bloom count and restrictive range.
+
+    *Character Options*
+    **Dendro: Alhaitham, Collei, DMC, Nahida
+    Hydro: Ayato, Barbara, Candace, Kokomi, Tartaglia, Xingqiu, Yelan**
+  color: 10403358
+  image:
+    url: https://media.discordapp.net/attachments/957846543011024929/1063752629798326272/DnE9DErTfqbZEjYBGQCOgEdAIaAQ0AhoBjYBGQCOgEdAIaAQ0AhqB60RAE7euE2htNRoBjYBGQCOgEdAIaAQ0AhoBjYBGQCOgEdAIaAQ0An8AU3cvOZakvUCGgENAIaAY2ARkAjoBHQCGgENAIaAY2ARkAjoBG4TgQ0ces6gdZWoxHQCGgENAIaAY2ARkAjoBHQCGgENAIaAY2ARkAj8OcT0MStP5ptkSNgEZAI6AR0AhoBDQCGgGNgEZAI6AR0AhoBDQCGoHrREATt64TaG01GgGNgEZAI6AR0AhoBDQCGgGNgEZAI6AR0AhoBDQCfz4BTdz685lqS9QIaAQ0AhoBjYBGQCOgEdAIaAQ0AhoBjYBGQCOgEbhOBP4PRxtQ0hAdFHcAAAAASUVORK5CYII.png
+- title: "**Hyperbloom/Burgeon Teams**"
+  description: |-
+    Although not as a crucial slot, Yaoyao serves as a perfectly viable healer for Hyperbloom and Burgeon teams. Her main advantages (aside from healing) are Dendro Resonance and the ability to open up space for other characters, increasing options and flexibility when choosing teams. Something to note when fitting Yaoyao into these teams is that her Dendro application will likely not be enough for Burgeon teams, as Burning may interfere with Dendro Core generation. As such, slotting in another Dendro character with a strong Hydro applier will help solve this problem.
+
+    *Character Options*
+    **Hydro: Ayato, Candace, Kokomi, Tartaglia, Xingqiu, Yelan
+    Electro/Pyro: Dori (C6), Fischl, Kuki, Raiden, Yae, Amber, Thoma, Yanfei
+    (Fischl will need an Anemo trigger)
+    Flex: Alhaitham, Collei, DMC, Nahida, Sucrose, Heizou**
+  color: 10403358
   footer:
-    text: 'Authored by: juko, redd and mien'
+    text: 'Authored by: Seima'
+    icon_url: https://images-ext-2.discordapp.net/external/Wmp5nAE7LkZP67_fx6MN-TgyyoU1w5lIe9ViWXS-VTk/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/186163908938039296/fb052ae8e9971de6f1e730f58babae31.png?width=701&height=701
   image:
-    url: https://media.discordapp.net/attachments/957846543011024929/1064085880748396634/wd6yZpSCiXltQAAAABJRU5ErkJggg.png
+    url: https://media.discordapp.net/attachments/957846543011024929/1063753047165124628/wPgLbknRPpdxQAAAABJRU5ErkJggg.png
+attachments: []

@@ -3,22 +3,21 @@ embeds:
   - title: >-
       Streetward Rambler’s youngest disciple. 
       A gentle and caring “little adult.
-
     color: 3439221
     fields:
-      - name: 'Yaoyao Mastersheet by Latiwings#3308, mien#8650 and ඞඞ#1984:'
+      - name: 'Yaoyao Mastersheet by EduLis#2176, Leifa#1359 and Luna#0188:'
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959)
-      - name: Yaoyao Frames Mastersheet by jrm.spirit#2671
+          Sheet](https://docs.google.com/spreadsheets/d/1W-LbV4b5QZ_n7aVZjsR3s_GFEfdmP64lx-bcWwvU8Oo/edit?usp=sharing)
+      - name: Yaoyao Frames Mastersheet by Sir Von | Skill Deficiency Cult#7672 and gellagella#6999
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
+          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharinghttps://docs.google.com/spreadsheets/d/12RHJ2isdlQpbhfhUpXmG0OSIpkyGba-4jJlFQqJbEWE/edit?usp=sharing)
     author:
       name: Yaoyao FAQ
-      icon_url: https://genshin.honeyhunterworld.com/img/alhatham_078_side_icon.webp
+      icon_url: https://genshin.honeyhunterworld.com/img/yaoyao_077_side_icon.webp
     image:
-      url: https://genshin.honeyhunterworld.com/img/alhatham_078_gacha_splash.webp
+      url: https://genshin.honeyhunterworld.com/img/yaoyao_077_gacha_splash.webp
 
 options: #dropdown
     
@@ -34,11 +33,6 @@ options: #dropdown
   
   - label: Constellations
     value: characters/dendro/yaoyao/constellations
-    description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
-
-  - label: Combos
-    value: characters/dendro/yaoyao/combos
     description: "WFP resources for Yaoyao FAQ."
     emoji: :Dendro:925598874532479076
     
