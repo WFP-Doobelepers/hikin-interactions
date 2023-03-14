@@ -1,0 +1,51 @@
+content: null
+embeds:
+  - title: __**ARTIFACTS**__
+    description: >-
+      **Artifact Main Stats**
+
+
+      Generally, Nilou will want to use either triple HP% main stat gear (when
+      bursting every second rotation), or ER/HP/HP gear with enough ER% substats
+      to reach 180% (when bursting every rotation). Both combinations are
+      generally equivalent to each other as long as the extra Hydro application
+      from using the Burst off cooldown doesn’t help you get more Blooms for
+      your team. Focusing on HP% gear makes Nilou very easy to farm for and to
+      build (as you don’t worry about crit) and gives her the highest possible
+      team-wide boost to Bloom damage through her A4 passive.
+
+
+      Crit DPS builds are possible and viable, and dare I say, ***fun***, but
+      are not recommended, and will generally perform worse than HP% focused
+      builds.
+
+
+      **Artifact Sets**
+
+
+      Nilou’s Artifact set options are fairly flexible. In general the best
+      option is  2-PC Tenacity of the Milleleth for the 20 HP%, with any of the
+      following 2-sets: 2-PC Gilded Dreams, 2-PC Heart of Depth, 2-PC Noblesse,
+      with 2-PC Heart of Depth/2-PC Gilded Dreams also performing well as a
+      combo. Just use whichever combo of these 2 piece sets gives better
+      substats, prioritizing HP%, ER% (if bursting every rotation) and EM.
+
+
+      Note that for Sword Stance, where Nilou is on field, 2-PC Tenacity of the
+      Milleleth/2-PC Heart of Depth will start to outperform other 2-PC
+      combinations.
+
+
+      You may also consider using 4-PC Deepwood Memories on Nilou in the event
+      that your other teammates have more optimal sets that they would rather
+      run, as the Dendro RES Shred is very important for Nilou’s teams due to
+      the general focus on Bloom damage. However, this may be unlikely as most
+      Dendro units will be able to synergize well with the set better, and will
+      be able to maintain the Shred uptime more easily from off field, as
+      Nilou’s Whirl stance Tranquility Aura will not refresh the Shred.
+    color: 7184107
+    footer:
+      text: (section authored by XenoVX)
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1019388949527019550/unknown.png

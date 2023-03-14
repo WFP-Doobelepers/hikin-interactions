@@ -1,0 +1,63 @@
+content: null
+embeds:
+  - title: __**TALENTS**__
+    description: 'Leveling priority: **Skill > Burst >> Normal Attack**'
+    color: 7184107
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1019387905111765092/Untitled75_20220914072326.png
+  - description: >-
+      Analysis:
+
+
+      It is highly recommended to get Nilou to level 90 to boost her base HP
+      pool as high as possible, as well as to enable her Blooms to have the
+      highest possible level scaling for base damage.
+
+
+      Nilou lives and dies by her Skill, as the Burst can be neglected entirely
+      and her Normal Attacks are the only talents that use her ATK stat.
+
+
+      When using Nilou’s skill, she can then do a 3-hit combo in any combination
+      of Normal Attack and Skill button presses, all dealing Hydro damage based
+      on Max HP. Depending on whether you use a Normal Attack (changed to
+      “Swords Dance”) or Skill (changed to “Whirling Steps”), Nilou enters one
+      of two stances she can take, “Luminous Illusion” (Normal Attack) and
+      “Water Wheel” (Skill).
+
+
+      Luminous Illusion continuously converts her Normal Attacks to Swords Dance
+      moves for 8 seconds. This is Nilou’s DPS stance, and should be used when
+      you want her to spend as much time on-field as possible. 
+
+
+      Water Wheel creates a ring around the active character that continuously
+      applies Wet to enemies. The ICD on her Wheel is 2 seconds, but will tick
+      every half-second checking for new enemies to affect. This is Nilou’s
+      support stance, and although it doesn’t deal damage, it allows her to
+      apply Hydro from off-field.
+
+
+      Nilou’s Burst is simply a modest instance of Hydro damage based on Max HP
+      that marks enemies affected. These marked enemies will then suffer a
+      second delayed hit of comparable strength. There are no other effects for
+      this talent. The Elemental Burst should be used if you need two more
+      applications of Hydro to generate more Blooms for your team.
+
+
+      Nilou’s passive talents depend on the team consisting only of Hydro and
+      Dendro characters, with at least one of each of the two elements. These
+      passives buff Bloom damage for the whole team by up to 400% based on
+      Nilou’s Max HP, and can give Nilou and her teammates 100 EM to further
+      boost Bloom damage. Blooms will become “Bountiful Cores”. which also
+      explode almost immediately upon creation and damage enemies in a greater
+      AoE range. The radius of the AoE hitbox of the Bountiful Cores is slightly
+      bigger than the radius of Kokomi’s Jellyfish, which can damage groups of
+      enemies without the need for significant grouping. The HP scaling boost to
+      Bloom damage and her signature elemental reaction is the Crux of Nilou’s
+      kit and enables Bloom to function as the main source of damage for Nilou’s
+      teams.
+    color: 7184107
+    footer:
+      text: (section authored by Emiliabyss)

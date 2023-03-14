@@ -1,0 +1,60 @@
+content: null
+embeds:
+  - title: __**TEAMBUILDING**__
+    description: >-
+      **Bloom Teams**
+
+
+      Bloom teams focus more on making as many Blooms as possible, since one
+      Bloom will automatically detonate when there are more than five on the
+      field. Otherwise, Dendro Cores take about five seconds to occur without
+      elemental interference, dealing damage to everyone caught in the blast
+      (you only take a very small fraction of this).
+
+
+      Nilou’s passive allows Blooms to explode almost immediately, deal more
+      damage, and expand the range of Bloom explosions. She is a must-have for
+      Bloom teams that can afford to commit to her, but cannot compete in other
+      roles in other types of teams.
+
+      There are three options for team structures: 
+
+
+      Double Resonance (2 Hydro 2 Dendro) is the most chaotic when trying to
+      control Bloom ownership unless you run a character with very minimal Hydro
+      application like Barbara. If you struggle controlling Bloom ownership, the
+      power of teamwide EM buffs like Instructor and Elegy for the End increase.
+      In these teams, consider building EM on units that do not have high
+      personal damage with standard DPS builds (for example DMC), but running
+      standard DPS builds on units that do have decent personal damage (such
+      Ocean-Hued-Clam Kokomi or Yelan). Nilou can still more than double the
+      Bloom damage of teammates that build low to no EM, even with F2P builds.
+
+
+      Your double resonance team will basically be restricted to **Nilou, Dendro
+      Traveler, Collei, and Kokomi or Barbara.** A healer is (basically)
+      mandatory, since Blooms also eat away at your characters’ health. Sadly
+      the only options for healers are a limited 5-star and… well, Barbara, who
+      also can’t generate energy for the team. A dendro healer is sorely needed,
+      but does not exist in the current game state. Unfortunately, Prototype
+      Amber or Xingqiu rain sword heals are not enough to heal through teamwide
+      Bloom damage, especially in multitarget scenarios.
+
+
+      Triple Hydro teams focus on rapid Hydro application in order to ensure a
+      Dendro character building full EM takes full ownership of Bloom reactions.
+      The Yelan + Xingqiu off-field DPS combo can certainly carry nearly any
+      combination of other characters, so the last piece of the team is a Dendro
+      unit with healing. 
+
+
+      Lastly, when another Dendro character is released, Triple Dendro can
+      ensure Nilou has full ownership of the Blooms she buffs. However,
+      sacrificing the new Hydro resonance HP boost is a huge detriment, so the
+      bar for Dendro performance must be high enough to compensate.
+    color: 7184107
+    footer:
+      text: (section authored by Emiliabyss)
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1019527904847212614/Untitled80_20220914163824.png

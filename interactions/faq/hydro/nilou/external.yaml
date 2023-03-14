@@ -2,10 +2,10 @@
 content:
 embeds:
 - title: __EXTERNAL LINKS__
-  color: 7321031
+  color: 3439221
   fields:
   - name: 'Project Amber:'
-    value: "[Character Database](https://ambr.top/en/archive/avatar/10000078/alhaitham?mode=profile)"
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000070/nilou)"
   - name: Honey Hunter World
     value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
   - name: Genshin Impact JP Twitter
@@ -13,11 +13,10 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text: Credits to Emiliabyss, Raikh, EduLis, and redd for the Wanderer FAQ! || WFP Theorycrafting
-
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/c_756.webp
-      
+    text: Credits to Emiliabyss, XenoVX, xf3, and Leifa for the Nilou FAQ! || WFP and KQM Theorycrafting
+    
     icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
   image:
-    url: https://media.discordapp.net/attachments/957846543011024929/1046390844594335886/nerd.png
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1019707089288970280/nilou.png
+  
+    

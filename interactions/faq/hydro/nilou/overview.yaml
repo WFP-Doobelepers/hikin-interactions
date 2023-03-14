@@ -1,0 +1,77 @@
+embeds:
+- title: __CREDITS__
+  color: 7184107
+  fields:
+  - name: 'Lead:'
+    value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
+  - name: 'Authors:'
+    value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
+  - name: 'Calculations:'
+    value: "<@293169816741740556>, <@143615626785587200>"
+  - name: 'Framecounting:'
+    value: "<@377496350155079690>"
+  - name: Consultation
+    value: "<@280016643558604800>"
+  - name: 'Resources:'
+    value: |-
+      [Nilou Mastersheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing)
+      [Nilou Frames Mastersheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)
+  - name: 'DISCLAIMER:'
+    value: "*Pre-TC is volatile and, as always, perpetually subject to change until
+      release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little
+      information about the character’s kit that we know. Team calcs, additionally,
+      are not established yet, and as with everything in TC, the content in this FAQ
+      should be taken with a grain of salt.*"
+  image:
+    url: https://media.discordapp.net/attachments/1084456231432892501/1085168005115285585/image.png?width=926&height=662
+
+  - title: __**CHARACTER OVERVIEW**__
+    description: >-
+      Nilou is a Hydro sword-user who can play both DPS and support roles on
+      Bloom teams specifically, thanks to her unique Skill that allows for
+      varying playstyles. She is hyper specialized for teams utilizing the Bloom
+      reaction. The majority of her team benefits depend on her teams consisting
+      only of Hydro and Dendro characters, meaning that while fulfilling her
+      designed role, she cannot benefit from other types of reactions. Aside
+      from this, her Hydro application is consistent and/or rapid, depending on
+      what “stance” she takes with her Skill.
+
+
+      In most cases where Nilou may want to use her Burst off cooldown, Nilou
+      needs 180% Energy Recharge. ***Players who pick up Nilou do not need to
+      prioritize using her Burst off-cooldown*** unless the  equipment she
+      carries depends on its use, or if the extra Hydro application helps her
+      team produce more Blooms per rotation. The damage in the end is usually
+      comparable or better when forsaking Energy Recharge altogether.
+
+
+      Nilou cares ***exclusively*** about three stats: HP, Elemental Mastery,
+      and sometimes Energy Recharge. This trivializes many weapons that only
+      grant ATK bonuses, since Nilou’s talents scale purely off HP. Bloom
+      reactions scale purely with Elemental Mastery, and ATK is not needed there
+      either.
+
+
+      That said, Nilou has exactly one use case: Bloom teams. While she can play
+      any role on these teams, and she is the undisputed best character for
+      these teams with her incredibly efficient passive talents, this means that
+      often Nilou will require other limited 5-star characters or
+      high-constellation 4-stars to function. In these teams, one can safely and
+      conservatively estimate 8 blooms per 20-second rotation, but can reach
+      upwards of 10 Blooms with the current options for Dendro supports. The
+      greatest challenge to piloting Nilou in-practice will be controlling the
+      ownership of Bloom reactions so the character with the greatest Elemental
+      Mastery gets to deal the damage.
+
+
+      Nilou’s greatest weakness, even beyond that, is that her ideal teammates
+      are not currently available in-game. A Dendro healer, or a unit with
+      faster Dendro application (whether off-field or on-field) would greatly
+      enhance Nilou teams’ potential.
+    color: 7184107
+    footer:
+      text: (section authored by Emiliabyss)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/nilou_070_icon.webp
+attachments: []

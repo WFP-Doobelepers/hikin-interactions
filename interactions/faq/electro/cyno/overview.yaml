@@ -1,23 +1,32 @@
-content: >-
-  Cyno Pre-TC FAQ by <@604540951708565515> (Author, Calcs),
-  <@209617229216612352> (Consulting, Mapping), <@367160010335191054> (Mapping),
-  <@280016643558604800> (Mapping), <@651556217315000360> (Consulting), and
-  <@265126444894650369> (Proofreading)
-
-
-  For all Cyno Calcs you can reference: [Cyno
-  Mastersheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
-  by <@604540951708565515> and [Cyno Frames
-  Mastesheet](https://docs.google.com/spreadsheets/d/1GY-1jiq1JTJ5YLIrEIjLDpTPWqeMBfZ1qX1cND4iiq8/edit#gid=377494852)
-  by <@367160010335191054>
-
-
-  **DISCLAIMER:** *Everything on the FAQ and Mastersheet is Pre-TC, which means
-  information gathered here is __**SUBJECT TO CHANGE (STC)**__ until release
-  comes. Pre-TC is really volatile as things could change on a snap on release
-  and numbers could change drastically on that point so take every content on
-  this FAQ and Mastersheet with a grain of salt. Thank you and much love*
+content: null
 embeds:
+- title: __CREDITS__
+  color: 7184107
+  fields:
+  - name: 'Lead:'
+    value: "<@604540951708565515>"
+  - name: 'Authors:'
+    value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
+  - name: 'Calculations:'
+    value: "<@293169816741740556>, <@143615626785587200>"
+  - name: 'Framecounting:'
+    value: "<@377496350155079690>"
+  - name: Consultation
+    value: "<@209617229216612352>, <@651556217315000360>"
+  - name: 'Resources:'
+    value: |-
+      [Cyno  Mastersheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
+      [Cyno Frames Mastesheet](https://docs.google.com/spreadsheets/d/1GY-1jiq1JTJ5YLIrEIjLDpTPWqeMBfZ1qX1cND4iiq8/edit#gid=377494852)
+  - name: 'DISCLAIMER:'
+    value: "*Pre-TC is volatile and, as always, perpetually subject to change until
+      release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little
+      information about the character’s kit that we know. Team calcs, additionally,
+      are not established yet, and as with everything in TC, the content in this FAQ
+      should be taken with a grain of salt.*"
+  image:
+    url: https://media.discordapp.net/attachments/1084456231432892501/1085182171687436329/image.png?width=1358&height=662
+
   - title: __**TLDR**__
     description: |-
       **Role:** Hypercarry

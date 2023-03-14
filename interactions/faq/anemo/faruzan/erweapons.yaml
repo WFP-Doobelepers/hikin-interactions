@@ -1,0 +1,57 @@
+{
+  "embeds": [
+    {
+      "title": "__**ER REQUIREMENT**__",
+      "description": "Faruzan’s particle generation relies on her hitting her Hurricane Arrow to the enemies and waiting for Pressurized Collapse to trigger, meaning she will rely on a specific combo of E CA Q to funnel the particle to herself or E Q CA to funnel the energy to the Anemo DPS. Generally, funneling energy to another party member is not ideal for Faruzan due to her particles generation being 2 per CA so her ER Requirement would be high. Typically, __**220%+ ER Requirement**__ solidifies her need to cast Burst every rotation with Favonius Warbow and without it, her ER skyrockets to a degree in which the KQMC distributed subs cannot reach.",
+      "color": 3634295,
+      "footer": {
+        "text": "(section authored by Akane)"
+      }
+    },
+    {
+      "title": "__**WEAPONS**__",
+      "description": "Due to her enormously high ER requirement before C6, the weapon options are quite limited here; some of them make 2pc Emblem/Exile mandatory on her, thus may reduce team’s damage without 4pc Viridescent Venerer effect. At C6, she can choose more offensive options to increase her personal damage without worrying too much about her energy problem\n\n*For more explicit number and ranking, please check out the mastersheet*",
+      "color": 3634295
+    },
+    {
+      "title": "Favonius Warbow",
+      "description": "Arguably her Best-in-Slot 4* weapon; it lowers her ER requirement with the particles provided by its passive. Also allow her to use 4pc Viridescent Venerer without compromising the ER needed.",
+      "color": 3634295,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/i_n15401.webp"
+      }
+    },
+    {
+      "title": "Elegy of the End",
+      "description": "Also an amazing choice that both give ER% needed and team-wide buff.",
+      "color": 3634295,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/i_n15503.webp"
+      }
+    },
+    {
+      "title": "End of the Line",
+      "description": "An acceptable F2P weapon that gives moderate ER% if Favonius Warbow has been occupied.",
+      "color": 3634295,
+      "thumbnail": {
+        "url": "https://genshin.honeyhunterworld.com/img/i_n15418.webp"
+      }
+    },
+    {
+      "title": "Other ER Weapons",
+      "description": "They can be used if all the options above are not available.",
+      "color": 3634295,
+      "thumbnail": {
+        "url": "https://media.discordapp.net/attachments/957846543011024929/1046664448103952394/as.png"
+      }
+    },
+    {
+      "title": "Offensive Options",
+      "description": "Only use them if you have Faruzan at Constellation 6, where her ER requirements are much more acceptable. All of them are pretty similar in strength therefore any option will do.",
+      "color": 3634295,
+      "footer": {
+        "text": "(section authored by Athena)"
+      }
+    }
+  ],
+}

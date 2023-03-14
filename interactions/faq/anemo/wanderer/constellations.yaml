@@ -23,7 +23,7 @@ embeds:
       *Individual Increase: 6-11%*
 
       *Total Increase from C0: 8.5%*
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_751.webp
   - title: '**C2 - Niban: Moonlit Isle Amidst White Waves**'
@@ -44,7 +44,7 @@ embeds:
       *Individual Increase: 14-17%*
 
       *Total Increase from C0: 25%*
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_752.webp
   - title: '**C3 - Sanban: Moonflower Kusemai**'
@@ -59,7 +59,7 @@ embeds:
       *Individual Increase: 5%*
 
       *Total Increase from C0: 32%*
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_753.webp
   - title: '**C4: Yonban: Set Adrift Into Spring**'
@@ -81,7 +81,7 @@ embeds:
       *Individual Increase: 0% (up to 15% at the mercy of RNG)*
 
       *Total Increase from C0: 32%*
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_754.webp
   - title: '**C5 - Matsuban: Ancient Illuminator From Abroad**'
@@ -97,7 +97,7 @@ embeds:
       *Individual Increase: 3%*
 
       *Total Increase from C0: 36%*
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_755.webp
   - title: '**C6 - Shugen: The Curtains’ Melancholic Sway**'
@@ -125,7 +125,9 @@ embeds:
       *Individual Increase: 25%*
 
       *Total Increase from C0: 70%*
-    color: null
+    color: 7321031
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_756.webp
     footer:
       text: >-
         (section authored by Raikh)

@@ -1,0 +1,82 @@
+content: null
+embeds:
+  - title: __**CONSTELLATIONS**__
+    description: >-
+      DISCLAIMER: For explicit numbers on DPS increases, please refer to our
+      linked Mastersheet for up-to-date numbers. Changing numbers in the sheet
+      is much faster/easier than editing an embed.
+    color: 7184107
+  - title: C1
+    description: >-
+      Gives Nilou 6 more seconds of Tranquility Aura uptime in Whirl stance, or
+      65% DMG bonus to the last chain of Nilou’s auto attack string in Sword
+      Stance. Specifically, if the 3 more instances of Hydro application result
+      in Nilou triggering 3 more blooms owned by her (which is unlikely with
+      current Dendro supports),  then this constellation can add around 40% more
+      damage to Nilou in single target scenarios, and possibly twice as much
+      more damage against 2 targets, and the value of this constellation may be
+      slightly less if your team can already generate a higher number of blooms
+      than our somewhat conservative assumption. However for sword stance this
+      constellation only adds around 7% more damage due her raw Hydro damage
+      being less significant compared to her Blooms. Rating: 4/5 if you can get
+      3 more blooms per rotation, 1/5 if no extra blooms can be produced, and
+      2/5 for Sword Stance.
+    color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_701.webp
+  - title: C2
+    description: >-
+      Provides 35% RES Shred for both Hydro and Dendro DMG for the entire team.
+      This constellation is a solid increase by virtue of increasing team-wide
+      Bloom damage alone, and may become more 
+
+      valuable in the future if Nilou can run Dendro and Hydro teammates with
+      higher personal damage contributions outside of Bloom. Rating: 3/5.
+    color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_702.webp
+  - title: C3
+    description: >-
+      Increased multipliers for her Elemental Burst do very little for Nilou
+      overall. Rating: 1/5.
+    color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_703.webp
+  - title: C4
+    description: >-
+      Makes Nilou’s Elemental Skill grant her 15 energy, and 50% Elemental Burst
+      DMG bonus if used within 8 seconds of her Elemental Skill. Given the
+      supportive nature of Nilou’s kit, this constellation sounds like it
+      doesn’t do much, but it is actually relatively impactful because it lowers
+      Nilou’s ER% requirements to around 140% when bursting every rotation. This
+      allows you to drop ER% sands when bursting every rotation and run HP%
+      sands instead with a few more ER% subs, which results in a significant
+      gain alongside the Elemental Burst DMG bonus. Rating: 3/5
+    color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_704.webp
+  - title: C5
+    description: >-
+      Nilou gains multipliers for her Elemental Skill. This does very little for
+      Whirl Stance but is a small boost to Sword Stance. Rating: 1/5 for Whirl
+      Stance, 2/5 for Sword Stance.
+    color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_705.webp
+  - title: C6
+    description: >-
+      Gives Nilou .6% Crit Rate % and 1.2% Crit Damage % for every 1000 HP she
+      has to a cap of 30% and 60% respectively. With 50,000 HP, Nilou can easily
+      hit this cap. This constellation is quite powerful and allows Nilou to be
+      able to attain a decent Crit Ratio without compromising the HP% she needs
+      to amplify team-wide Bloom damage, and truly takes her personal damage to
+      the next level, though its effects are less impactful for Whirl Stance. It
+      may open up the viability of more crit focused builds, but this will have
+      to be explored upon release Rating: 3/5 for Whirl Stance, 5/5 for Sword
+      Stance.
+    color: 7184107
+    footer:
+      text: >-
+        (section authored by XenoVX)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_706.webp

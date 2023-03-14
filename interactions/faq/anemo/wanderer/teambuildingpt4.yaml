@@ -1,4 +1,4 @@
-content: null
+content:
 embeds:
   - title: '*What about Wanderer teams without Faruzan?*'
     description: >-
@@ -29,7 +29,7 @@ embeds:
       Alternatively, if you still want to build around Wanderer’s personal
       damage, you can form a three member core with Wanderer/Bennett/Yun Jin and
       add in an off-field DPS or utility support in the fourth slot.
-    color: null
+    color: 7321031
   - title: '**EM Driver Wanderer**'
     description: >-
       A common trend among Anemo units is their synergy with EM and their
@@ -42,7 +42,7 @@ embeds:
       both conditions and offer additional utility such as grouping and EM
       share. Nonetheless, he can still perform the role of an EM driver just
       fine.
-    color: null
+    color: 7321031
   - title: '**Wanderer National**'
     description: >-
       **Wanderer/Bennett/Xiangling/Xingqiu**
@@ -57,7 +57,7 @@ embeds:
       and grouping. Wanderers regular field time demands also make funneling
       Xiangling more troublesome. Usable, but nothing special even among
       National variants.
-    color: null
+    color: 7321031
     footer:
       text: (sectioned authored by redd)
     image:

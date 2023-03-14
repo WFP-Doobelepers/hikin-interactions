@@ -1,4 +1,4 @@
-content: null
+content:
 embeds:
   - title: __**TEAMBUILDING**__
     description: >-
@@ -12,7 +12,7 @@ embeds:
       Otherwise, Wanderer does not strongly prefer a specific element and is
       quite flexible with his team compositions. His teammates will either be a
       buffer, an off-field DPS, or a defensive option.
-    color: null
+    color: 7321031
   - title: '**Buffers**'
     description: >-
       More often than not, Wanderer will be dealing the majority of his team’s
@@ -52,7 +52,7 @@ embeds:
       Mona grants a 48% ATK, around 50% DMG bonus, and Hydro absorption for
       Wanderer’s A1. Unfortunately, her Omen debuff has low uptime, so she will
       fall behind other buffers.
-    color: null
+    color: 7321031
 
 buttons:
 - customId: liveInteraction#faq/anemo/wanderer/teambuildingpt2
