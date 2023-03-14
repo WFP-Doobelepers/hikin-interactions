@@ -1,4 +1,4 @@
-content: null
+content:
 embeds:
   - title: '**Hyper Wanderer**'
     description: >-
@@ -18,7 +18,7 @@ embeds:
       scales with Faruzan’s buffs and debuffs. At C6, she will also give 12% ATK
       speed, another stat Wanderer greatly appreciates. Overall a potent team
       that scales well the more invested Wanderer is.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388351122559066/hyper.png
@@ -35,7 +35,7 @@ embeds:
       utilities on top of their high single target damage. Faruzan carries a VV
       set to lower Hydro resistance, and can use Favonius Warbow to reduce
       energy requirements.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388350694727731/double_hydro.png
@@ -49,7 +49,7 @@ embeds:
       well as another 15% via Cryo resonance. He can run two offensive Cryo
       units such as Ganyu, Rosaria, and Ayaka, but can also run an offensive
       option plus a defensive option.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388350292086834/double_cryo.png
@@ -66,7 +66,7 @@ embeds:
       don’t provide utilities relevant to Wanderer, so they only function as a
       subdps. For example, Venti’s grouping is redundant since Faruzan already
       has some, and Kazuha’s A4 DMG bonus is straight-up useless for Wanderer.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388349834895441/triple_anemo.png
@@ -81,7 +81,7 @@ embeds:
       benefiting from Faruzan and Bennett’s buffing. Aside from that, this team
       does not particularly stand out until Jean gains constellations, most
       noticeably at C2 and C4.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388349495148595/sunfire.png
@@ -95,7 +95,7 @@ embeds:
       although it is slightly offset with Geo resonance. Nonetheless, he will
       still have decent baseline damage due to Faruzan and Yun Jin supporting
       him along with minor buffs from Zhongli.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388349063155855/double_geo.png
@@ -113,7 +113,7 @@ embeds:
        
       Thoma can also be traded in for Xiangling. While his damage is not as
       impressive, he brings a shield for Wanderer.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388348610150480/double_pyro.png
@@ -135,7 +135,7 @@ embeds:
 
       Kuki can be played as a defensive option, but team output will
       significantly tank.
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046388348266238002/double_electro.png

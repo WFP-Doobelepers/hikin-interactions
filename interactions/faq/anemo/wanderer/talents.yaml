@@ -3,7 +3,7 @@ content:
 embeds:
   - title: TALENTS
     description: '__**Leveling priority: Normal Attack > Skill = Burst**__'
-    color: null
+    color: 7321031
     image:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046327966256349274/Untitled75_20221127153254.png
@@ -63,6 +63,6 @@ embeds:
       of a sacrifice to risk it, unless you *must* dash to avoid knockdown.
       **This, however, is subject to change with constellations and once actual
       testing can be done.**
-    color: null
+    color: 7321031
     footer:
       text: (section authored by Emiliabyss)

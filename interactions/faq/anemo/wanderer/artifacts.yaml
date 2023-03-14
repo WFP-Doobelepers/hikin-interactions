@@ -10,7 +10,7 @@ embeds:
       *Circlet of Logos:* Crit Rate/Crit Damage
 
       *Substats:* CR%=CDMG% > ATK% > ATK
-    color: null
+    color: 7321031
   - title: __*4PC Desert Pavilion Chronicle*__
     description: >-
       His BiS artifact. The 4 piece effect is tailor made for Wanderer’s normal
@@ -19,7 +19,7 @@ embeds:
       speed from the set allows him to squeeze in an extra charged attack per
       rotation which is perfect for triggering the set effect, and it lasts his
       entire on-field time.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400220.webp
   - title: __*4PC Shimenawa’s Reminiscence*__
@@ -29,7 +29,7 @@ embeds:
       choice. However when attempting to burst every rotation this set will
       suffer and be one of the worst, due to it making Wanderer more ER hungry
       and requiring extra ER subs.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400178.webp
   - title: __*2PC ATK/2PC Anemo DMG mix and match*__
@@ -45,7 +45,7 @@ embeds:
 
       The difference between each combo is minimal, at most at around 4%. So if
       running one of these sets simply choose whichever has the better substats.
-    color: null
+    color: 7321031
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046394078176231544/l.png
@@ -55,7 +55,7 @@ embeds:
       or not, he is projected to proc the 4 piece effect for 5-6 times per
       rotation. This is not enough procs to contribute a significant amount to
       his overall damage per rotation.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400203.webp
   - title: |-
@@ -67,7 +67,7 @@ embeds:
       due to the reasons mentioned above he is not the most naturally suited
       character played as a driver. His personal damage with the 4 piece is
       decent, about 4-6% worse than 2PC ATK + 2PC ATK.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400093.webp
   - title: __*4PC Lavawalker*__
@@ -76,7 +76,7 @@ embeds:
       the enemy is very likely to have pyro applied onto them, hence proccing
       the 4 piece’s set effect. The effect itself is comparable to 2PC Anemo DMG
       and 2PC Anemo DMG, winning over that combo by 5% extra DMG Bonus.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n400078.webp
   - title: __*4PC Blizzard Strayer*__
@@ -86,7 +86,7 @@ embeds:
       the set’s 4 piece effect. And equipping 4 piece VV will be more beneficial
       for the overall team’s damage. Switch over to this set over 4 piece VV
       will only gain him marginal personal damage.
-    color: null
+    color: 7321031
     footer:
       text: (section authored by Edulis)
     thumbnail:
