@@ -8,11 +8,15 @@ embeds:
   - name: 'Authors:'
     value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
   - name: 'Calculations:'
-    value: "<@293169816741740556>, <@143615626785587200>"
+    value: "<@604540951708565515> "
   - name: 'Framecounting:'
-    value: "<@377496350155079690>"
-  - name: Consultation
+    value: "<@367160010335191054>"
+  - name: 'Consultation'
     value: "<@209617229216612352>, <@651556217315000360>"
+  - name: 'Mapping'
+    value: "<@367160010335191054>, <@280016643558604800>, <@209617229216612352>"
+  - name: 'Proofreading'
+    value: "<@265126444894650369>"
   - name: 'Resources:'
     value: |-
       [Cyno  Mastersheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
