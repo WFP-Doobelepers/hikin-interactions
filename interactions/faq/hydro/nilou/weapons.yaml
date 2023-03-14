@@ -20,7 +20,8 @@ embeds:
       the team. Allows Nilou to double dip by getting high EM while building
       full HP%, which both empower her Blooms.
     color: 7184107
-    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Key_of_Khaj-Nisut.png
+    thumbnail: 
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Key_of_Khaj-Nisut.png
 
   - title: |-
       4★ Options
@@ -31,7 +32,8 @@ embeds:
       cooldown, which allows Nilou to use Sword stance attacks while her
       Tranquility Aura is active
     color: 7184107
-    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Sacrificial_Sword.png
+    thumbnail: 
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Sacrificial_Sword.png
 
   - title: |-
       R5 Xiphos’ Moonlight 
@@ -39,14 +41,16 @@ embeds:
       Good stat stick and benefits team, but depends on
       refinements
     color: 7184107
-    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Xiphos_Moonlight.png
+    thumbnail: 
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Xiphos_Moonlight.png
 
   - title: |-
       Freedom-Sworn / Primordial Jade Cutter 
     description:
       Just for the stats.
     color: 7184107
-    thumbnail: https://discord.com/channels/1084456230833102968/1084456231432892501/1085227022772621422
+    thumbnail: 
+      url: https://discord.com/channels/1084456230833102968/1084456231432892501/1085227022772621422
 
   - title: |-
       Iron Sting 
@@ -54,7 +58,8 @@ embeds:
       Craftable EM stat stick; R5 is competitive with and sometimes
       bests other options here.
     color: 7184107
-    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Iron_Sting.png
+    thumbnail: 
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Iron_Sting.png
 
   - title: |-
       Sapwood Blade
@@ -63,7 +68,8 @@ embeds:
       an ally.
 
     color: 7184107
-    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Sapwood_Blade.png
+    thumbnail: 
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Sapwood_Blade.png
 
   - title: |-
 
