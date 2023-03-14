@@ -10,40 +10,68 @@ embeds:
 
 
       In all other cases, these weapons are your go-to.
+  - title: |-
+      __Signature Weapon__
 
-
-      Key of Khaj-Nisut - Limited Signature Weapon; gives lots of HP% and allows
+      Key of Khaj-Nisut 
+    description: >-
+      Gives lots of HP% and allows
       Nilou to convert her max HP to an EM buff for herself and for the rest of
       the team. Allows Nilou to double dip by getting high EM while building
-      full HP%, which both empower her Blooms. 
+      full HP%, which both empower her Blooms.
+    color: 7184107
+    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Key_of_Khaj-Nisut.png
 
+  - title: |-
+      4★ Options
 
-      R5 Sacrificial Sword - *Any* hit from Sword stance can reset the skill
+      R5 Sacrificial Sword 
+    description: >-
+      *Any* hit from Sword stance can reset the skill
       cooldown, which allows Nilou to use Sword stance attacks while her
       Tranquility Aura is active
+    color: 7184107
+    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Sacrificial_Sword.png
 
-
-      R5 Xiphos’ Moonlight - good stat stick and benefits team, but depends on
+  - title: |-
+      R5 Xiphos’ Moonlight 
+    description: >-
+      Good stat stick and benefits team, but depends on
       refinements
+    color: 7184107
+    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Xiphos_Moonlight.png
 
+  - title: |-
+      Freedom-Sworn / Primordial Jade Cutter 
+    description:
+      Just for the stats.
+    color: 7184107
+    thumbnail: https://discord.com/channels/1084456230833102968/1084456231432892501/1085227022772621422
 
-      Freedom-Sworn / Primordial Jade Cutter – just for the stats.
-
-
-      Iron Sting - Craftable EM stat stick; R5 is competitive with and sometimes
+  - title: |-
+      Iron Sting 
+    description:
+      Craftable EM stat stick; R5 is competitive with and sometimes
       bests other options here.
+    color: 7184107
+    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Iron_Sting.png
 
-
-      Sapwood Blade - Craftable option to provide a small bonus amount of EM to
+  - title: |-
+      Sapwood Blade
+    description:
+      Craftable option to provide a small bonus amount of EM to
       an ally.
 
+    color: 7184107
+    thumbnail: https://library.keqingmains.com/img/weapons/icon_ascended/Sapwood_Blade.png
 
+  - title: |-
+
+      Final Thoughts on Weapons
+    description:
       Options change orders based on how many Blooms Nilou is able to trigger
       and whether Nilou opts to Burst off cooldown or not. Because of this, a
       clear hierarchy is nearly impossible, but unsurprisingly, her signature
       weapon stays head-and-shoulders above the competition in every possible
       circumstance.
     color: 7184107
-    image:
-      url: >-
-        https://media.discordapp.net/attachments/957846543011024929/1019526428301213788/Untitled81_20220914163332.png
