@@ -1,4 +1,4 @@
-content: null
+content:
 embeds:
   - title: __**WEAPONS**__
     description: >-
@@ -12,7 +12,7 @@ embeds:
       of weapon rankings, please refer to the mastersheet included here, make a
       copy of it, and play with the filters to examine the relationships with
       buffs in more detail.
-    color: null
+    color: 7321031
   - title: 1. Tullaytullah’s Remembrance - Limited Signature Weapon
     description: >-
       It gives CRIT DMG and ATK SPD, which makes it a good stat stick by itself
@@ -21,7 +21,7 @@ embeds:
       quickly ramp the buff to its maximum potential. It is consistently between
       10-15% stronger than the next best option, but declines with buffs
       compared to N2C weapons.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n14512.webp
   - title: >-
@@ -36,7 +36,7 @@ embeds:
       b. Lost Prayer to the Sacred Winds finally has a home; we have not yet had
       a catalyst-wielding DPS who values CRIT and spends lots of time on-field.
       Wanderer fits the bill.
-    color: null
+    color: 7321031
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046391638865485914/ah.png
@@ -50,7 +50,7 @@ embeds:
       b. Kagura’s Verity was calced without regard for the passive, due to
       Wanderer only using his Skill one per rotation. It ranks this high purely
       because of its CRIT DMG stat and high ATK.
-    color: null
+    color: 7321031
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046392037114658836/y.png
@@ -62,7 +62,7 @@ embeds:
       does not quite benefit from the Elemental Mastery buff, often feeling
       close-to-wasted on him and leading to Abyss floor resets. Solar Pearl is
       the consistent option for lower damage.
-    color: null
+    color: 7321031
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1046392361355321414/god.png
@@ -73,7 +73,7 @@ embeds:
       he spam them while only Normal Attacking once every few seconds to
       maintain the buff. Without Benny, this weapon on its specialized rotation
       surpasses the weapons in “Tier 3” of this section.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n14413.webp
   - title: Blackcliff Agate (Paimon’s Bargains)
@@ -83,7 +83,7 @@ embeds:
       of the ATK bonus as just an occasional buff to an OK weapon, since some
       floors of Spiral Abyss only have one enemy, making it impossible to
       trigger.
-    color: null
+    color: 7321031
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n14408.webp
   - title: Frostbearer (Craftable)
@@ -91,7 +91,7 @@ embeds:
       Frostbearer is a generic ATK%-scaling weapon that is best when Bennett is
       not on the team. For Bennett teams, Mappa Mare at high refinement offers a
       desirable damage bonus.
-    color: null
+    color: 7321031
     footer:
       text: (section authored by Emiliabyss)
     thumbnail:

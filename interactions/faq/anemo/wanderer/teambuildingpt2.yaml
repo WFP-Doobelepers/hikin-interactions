@@ -1,4 +1,4 @@
-content: null
+content:
 embeds:
   - title: '**Off-field DPS**'
     description: >-
@@ -80,7 +80,7 @@ embeds:
       Wanderer wants to run Faruzan and Bennett, this means Venti or Kazuha will
       also benefit from their buffs, producing noticeable damage. In teams with
       Wanderer, they will function closer to a subdps than a support.
-    color: null
+    color: 7321031
   - title: '**Defensive Options**'
     description: >-
       Wanderer prefers having a shielder support over a healer, if possible.
@@ -124,13 +124,13 @@ embeds:
       __**Kokomi**__: Heals while holding Thrilling Tales of Dragon Slayers and
       Tenacity of the Millelith for a total of a 68% ATK buff, and also gives
       Hydro absorption for Wanderer’s A1.
-    color: null
+    color: 7321031
   - title: __**Do I need a battery for Wanderer?**__
     description: >-
       No. Most of Wanderer’s damage output comes from his Normal Attacks. While
       his burst deals a good amount of damage and should be used if possible, it
       is not the main feature of his kit.
-    color: null
+    color: 7321031
 
 buttons:
 - customId: liveInteraction#faq/anemo/wanderer/teambuildingpt1
