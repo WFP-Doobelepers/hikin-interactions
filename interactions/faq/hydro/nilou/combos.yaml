@@ -1,0 +1,25 @@
+content: null
+embeds:
+  - title: __**COMBOS**__
+    description: >-
+      While Nilou’s combos may seem complicated at first glance, they’re fairly
+      simple. Each type of attack as Nilou dances serves a purpose (application
+      range, number of enemies hit, etc.) despite having different multipliers.
+
+
+      + Q, E, N3x6 (Optional Burst, Skill, 18 Swords Dance attacks) – **On-Field
+      Focus**
+
+
+      + Q, E E E E (Optional Burst, Skill, 3 Whirling Steps attacks) –
+      **Off-Field Focus**
+
+
+      + Q, E, N3 (Optional Burst, Skill, 3 Sword Dance attacks) - **Off-Field
+      Focus**
+
+      *use this rotation to apply Nilou’s buff while minimizing her own Bloom
+      ownership*
+    color: null
+    footer:
+      text: (section authored by Emiliabyss)

@@ -1,0 +1,73 @@
+content: null
+embeds:
+  - title: >-
+      The star of the Zubayr Theater. She is full of warmth and innocence, and
+      her dances are lively and elegant.
+    color: 7184107
+    fields:
+      - name: 'Nilou Mastersheet by: Emiliabyss#1641 and XenoVX#6150'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/u/1/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit#gid=210370915)
+      - name: 'Nilou Frame Mastersheet by: Sir Von | Skill Deficiency Cult#7672'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)
+    author:
+      name: Nilou FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/nilou_070_side_icon_70.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/nilou_070_gacha_splash.webp
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/hydro/nilou/overview
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Talents
+    value: faq/hydro/nilou/talents
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+  
+  - label: Constellations
+    value: faq/hydro/nilou/constellations
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Combos
+    value: faq/hydro/nilou/combos
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+    
+  - label: ER Requirements
+    value: faq/hydro/nilou/errequire
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Artifacts
+    value: faq/hydro/nilou/artifacts
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Weapons
+    value: faq/hydro/nilou/weapons
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Teambuilding
+    value: faq/hydro/nilou/teambuilding
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: External Links
+    value: faq/hydro/nilou/external
+    description: "WFP resources for Nilou FAQ."
+    emoji: :Dendro:925598874532479076
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/nilou
+    emoji: :wfp_logo:1084805098561085512
+    style: LINK
