@@ -1,56 +1,58 @@
-{
-  "embeds": [
-    {
-      "title": "A researcher from \"one hundred years ago\". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds.",
-      "color": 3634295,
-      "fields": [
-        {
-          "name": "Faruzan Mastersheet by Athena#2444, Akane#0926, Raikh/Valien#8564, jrm.spirit#2671 and Kol#1593",
-          "value": "[Google Sheet](https://docs.google.com/spreadsheets/d/1BCq5SuCjEjOWvzuH3piwwJx4EIAVvOTak2yEXwmvClk/edit#gid=0)"
-        }
-      ],
-      "author": {
-        "name": "Faruzan FAQ",
-        "icon_url": "https://genshin.honeyhunterworld.com/img/faruzan_076_side_icon.webp"
-      },
-      "image": {
-        "url": "https://genshin.honeyhunterworld.com/img/faruzan_076_gacha_splash.webp"
-      }
-    }
-  ],
+embeds:
+- title: A researcher from "one hundred years ago". She enjoys self-identifying as
+    everyone's senior, and has significant knowledge of ancient scripts and machines
+    of all kinds.
+  color: 3634295
+  fields:
+  - name: Faruzan Mastersheet by Athena#2444, Akane#0926, Raikh/Valien#8564, jrm.spirit#2671
+      and Kol#1593
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1BCq5SuCjEjOWvzuH3piwwJx4EIAVvOTak2yEXwmvClk/edit#gid=0)"
+  author:
+    name: Faruzan FAQ
+    icon_url: https://genshin.honeyhunterworld.com/img/faruzan_076_side_icon.webp
+  image:
+    url: https://genshin.honeyhunterworld.com/img/faruzan_076_gacha_splash.webp
 
-  "options": [
-    {
-      "label": "Overview & Talents",
-      "value": "faq/anemo/faruzan/overviewtalents",
-      "description": "WFP resources for faruzan FAQ.",
-      "emoji": "Anemo:925598874779910215"
-    },
-    {
-      "label": "ER Requirements & Weapons",
-      "value": "faq/anemo/faruzan/erweapons",
-      "description": "WFP resources for faruzan FAQ.",
-      "emoji": "Anemo:925598874779910215"
-    },
-    {
-      "label": "Artifacts & Teambuilding",
-      "value": "faq/anemo/faruzan/artifactsteambuilding",
-      "description": "WFP resources for faruzan FAQ.",
-      "emoji": "Anemo:925598874779910215"
-    },
-    {
-      "label": "Constellations",
-      "value": "faq/anemo/faruzan/constellations",
-      "description": "WFP resources for faruzan FAQ.",
-      "emoji": "Anemo:925598874779910215"
-    }
-  ],
-  "buttons": [
-    {
-      "label": "WFP Website",
-      "url": "https://wangshengfp.org/faq/faruzan",
-      "emoji": ":wfp_logo:1084805098561085512",
-      "style": "LINK"
-    }
-  ]
-}
+options:
+
+- label: Overview
+  value: faq/anemo/faruzan/overview
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
+- label: Talents
+  value: faq/anemo/faruzan/talents
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
+- label: ER Requirements
+  value: faq/anemo/faruzan/er
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
+- label: Weapons
+  value: faq/anemo/faruzan/weapons
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
+- label: Artifacts
+  value: faq/anemo/faruzan/artifacts
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
+- label: Teambuilding
+  value: faq/anemo/faruzan/teambuilding
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
+- label: Constellations
+  value: faq/anemo/faruzan/constellations
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
+buttons:
+
+- label: WFP Website
+  url: https://wangshengfp.org/faq/faruzan
+  emoji: ":wfp_logo:1084805098561085512"
+  style: LINK
