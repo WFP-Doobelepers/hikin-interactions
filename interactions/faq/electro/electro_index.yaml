@@ -1,0 +1,10 @@
+embeds:
+  - color:
+    description: |-
+      Select a character!
+
+options: 
+  - label: Cyno
+    value: faq/electro/cyno/main
+    description: WFP resources on Cyno
+    emoji: "<:Cyno:1085230512219619338>"

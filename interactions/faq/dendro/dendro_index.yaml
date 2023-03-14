@@ -5,16 +5,16 @@ embeds:
 
 options: 
   - label: YaoYao
-    value: faq/hydro/nilou/main
+    value: faq/dendro/yaoyao/main
     description: WFP resources on YaoYao
-    emoji: "<:Nilou:953430875788443709>"
+    emoji: "<:Yaoyao:1085230898657640530>"
 
   - label: Alhaitham
-    value: faq/hydro/nilou/main
+    value: faq/dendro/alhaitham/main
     description: WFP resources on Alhaitham
-    emoji: "<:Nilou:953430875788443709>"
+    emoji: "<:Alhaitham:1085230978307477654>>"
 
   - label: Nahida
     value: faq/dendro/nahida/main
     description: WFP resources on Nahida
-    emoji: "<:Nilou:953430875788443709>"
+    emoji: "<:Nahida:1085230917360038079>"
