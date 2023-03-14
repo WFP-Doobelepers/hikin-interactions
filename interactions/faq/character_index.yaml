@@ -1,0 +1,46 @@
+embeds:
+  - title: WFP Character FAQs
+    color: 
+    description: |-
+      Navigate through the different WFP FAQ guides. 
+    thumbnail: 
+      url: "https://cdn.discordapp.com/emojis/1084805098561085512.webp"
+    
+
+# Additional links that should be displayed in the initial message.
+
+options: 
+  - label: Anemo
+    value: faq/anemo/anemo_index
+    description: Guides for Anemo vision holders
+    emoji: ${ EMOJIS.ANEMO }
+
+  - label: Cryo
+    value: faq/cryo/cryo_index
+    description: Guides for Cryo vision holders
+    emoji: ${ EMOJIS.CRYO }
+
+  - label: Dendro
+    value: faq/dendro/dendro_index
+    description: Guides for Dendro vision holders
+    emoji: ${ EMOJIS.DENRO }
+
+  - label: Electro
+    value: faq/electro/electro_index
+    description: Guides for Electro vision holders
+    emoji: ${ EMOJIS.ELECTRO }
+
+  - label: Geo
+    value: faq/geo/geo_index
+    description: Guides for Geo vision holders
+    emoji: ${ EMOJIS.GEO }
+
+  - label: Hydro
+    value: faq/hydro/hydro_index
+    description: Guides for Hydro vision holders
+    emoji: ${ EMOJIS.HYDRO }
+
+  - label: Pyro
+    value: faq/pyro/pyro_index
+    description: Guides for Pyro vision holders
+    emoji: ${ EMOJIS.PYRO }

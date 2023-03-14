@@ -1,0 +1,10 @@
+embeds:
+  - color: 
+    description: |-
+      > Select a character!
+
+options: 
+  - label: Layla
+    value: faq/cryo/layla/main
+    description: WFP resources on Layla!
+    emoji: "<:Layla:953430875788443709>"
