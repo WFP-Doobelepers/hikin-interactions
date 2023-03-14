@@ -1,0 +1,71 @@
+content: null
+embeds:
+  - title: >-
+      A wayfaring figure whose identity is a mystery. He dresses like a mountain
+      ascetic, but he certainly does not act the part.
+    color: 7321031
+    fields:
+      - name: >-
+          Wanderer Mastersheet by Emiliabyss#1641, Raikh / Valien#8564,
+          EduLis#2176, and ඞඞ#6874
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390)
+    author:
+      name: Wanderer FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/wanderer_075_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/wanderer_075_gacha_splash.webp
+      
+options: #dropdown
+    
+  - label: Overview
+    value: faq/anemo/wanderer/overview
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Talents
+    value: faq/anemo/wanderer/talents
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+  
+  - label: Constellations
+    value: faq/anemo/wanderer/constellations
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Combos
+    value: faq/anemo/wanderer/combos
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+    
+  - label: ER Requirements
+    value: faq/anemo/wanderer/errequire
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Artifacts
+    value: faq/anemo/wanderer/artifacts
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Weapons
+    value: faq/anemo/wanderer/weapons
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: Teambuilding
+    value: faq/anemo/wanderer/teambuildingpt1
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+  - label: External Links
+    value: faq/anemo/wanderer/external
+    description: "WFP resources for Wanderer FAQ."
+    emoji: :Anemo:925598874779910215
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/wanderer
+    emoji: :wfp_logo:1084805098561085512
+    style: LINK

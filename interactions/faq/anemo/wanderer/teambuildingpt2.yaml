@@ -1,0 +1,144 @@
+content: null
+embeds:
+  - title: '**Off-field DPS**'
+    description: >-
+      Another way to increase team DPS aside from buffing Wanderer’s personal
+      damage is to include an off-field DPS. Ironically, Wanderer does not
+      provide much for these DPS units except for driving. Rather, it is Faruzan
+      who supports these units by carrying the Viridescent Venerer set,
+      providing grouping, and potentially through Favonius triggers. 
+
+
+      It should be noted that many units under this category rely on their burst
+      to dish out damage and will likely have high ER needs. To offset this,
+      players can run a second unit of the same element to reduce ER needs or
+      trade offensive stats for more ER. In the former case, Wanderer cannot
+      absorb a secondary element through his A1 and thus loses a buff. In the
+      latter scenario, the off-field DPS will of course lose significant damage
+      and their place in the team becomes harder to justify. Alternatively, if
+      the team consists of Bennett, the loss in damage can be mitigated. 
+
+
+      __**Yelan**__: Has strong single target damage potential and can also buff
+      Wanderer through her A4 passive which increases DMG% over time. On the
+      downside, her ER requirements are quite high if played as solo hydro,
+      significantly reducing her damage. Playing her with a secondary Hydro can
+      alleviate this issue. 
+
+
+      __**Xingqiu**__: Like Yelan, he has strong single target damage but high
+      ER needs. He provides defensive utilities such as minor healing and
+      interruption resistance. 
+
+
+      __**Xiangling**__: Even while Wanderer is in midair, Xiangling’s Pyronado
+      can still hit enemies on the ground. She has strong AoE Pyro damage at the
+      cost of high ER requirements. Recommended to play only with Bennett and
+      potentially Favonius weapons. 
+
+
+      __**Fischl**__: Has strong off-field single target damage while being
+      relatively low maintenance. Wanderer is not a bad driver for her and can
+      trigger multiple instances of her A4 and C6, further increasing damage. 
+
+
+      __**Beidou**__: Specializes in AoE off-field damage. She offers
+      interruption resistance via her burst as well as a small shield at C2,
+      which Wanderer appreciates. However, she is greedy for energy and wants to
+      be paired with Fischl to battery her. 
+
+
+      __**Yae Miko**__: Yae’s damage is split between her Elemental Skill and
+      Elemental Burst. She does not need her burst to deal damage, but it is a
+      significant portion of her DPS. Contratrily, her burst costs 90 energy,
+      making it difficult to burst every rotation, and even if you can, it leads
+      to rotation extension.  
+
+
+      __**Ganyu**__: Her burst can deal a fair amount of damage. With Faruzan’s
+      grouping, she can take advantage of her burst’s targeting mechanics to
+      deal even higher damage in AoE situations.
+
+
+      __**Rosaria**__: Has solid damage output, especially with constellations.
+      Also provides a partywide CRIT Rate buff with her passive.  
+
+
+      __**Kaeya**__: Kaeya’s burst follows Wanderer while he is midair, making
+      it impossible to hit most enemies. Not recommended.
+
+
+      __**Ayaka**__: Most of Ayaka’s damage comes from her burst which is
+      entirely off-field, allowing Wanderer to take the field. Not only does she
+      have high multipliers, but also high energy cost! It is not recommended to
+      play solo Cryo with Ayaka, and even if paired with another Cryo unit, she
+      will struggle with energy. It can also be challenging to play her without
+      Freeze, even with Faruzan’s grouping.
+       
+      __**Venti & Kazuha**__: Many people play Venti and Kazuha as supports, and
+      in doing so also forget that they have high talent multipliers. Because
+      Wanderer wants to run Faruzan and Bennett, this means Venti or Kazuha will
+      also benefit from their buffs, producing noticeable damage. In teams with
+      Wanderer, they will function closer to a subdps than a support.
+    color: null
+  - title: '**Defensive Options**'
+    description: >-
+      Wanderer prefers having a shielder support over a healer, if possible.
+      This is because Wanderer has low interruption resistance even during his
+      Windfavored state. He can get staggered midair, which is a DPS loss, but
+      dodging without his A4 ready also depletes his secondary stamina bar and
+      reduces his DPS uptime.  
+
+
+      __**Layla**__: Has a strong shield and allows Wanderer to gain 20% CRIT
+      Rate through his A1. She is also a reliable Tenacity of the Millelith
+      holder, and can buff Wanderer’s Normal and Charged Attacks at C4.
+
+
+      __**Diona**__: Similar to Layla, but has a weaker shield and cannot hold
+      Tenacity of the Millelith. On the contrary, she can heal.   
+
+
+      __**Zhongli**__: His shield is the strongest in the game while also
+      providing a 20% universal resistance shred as well as 20% ATK from
+      Tenacity of the Millelith. While not the best option, he is a good comfort
+      pick with some buffs and debuffs in his kit. 
+
+
+      __**Thoma**__: Unlike the above shielders, Thoma relies on his burst to
+      maintain uptime on his shield, which to some players may be a turnoff.
+      Though his ER needs are demanding, his shield is reliable. He can provide
+      a 30% ATK buff through Wanderer’s A1 passive and potentially complete Pyro
+      resonance for 25% ATK. His C6 also confers 15% DMG to Normal and Charged
+      attacks. 
+
+
+      __**Jean**__: A decent healing option. With Faruzan’s buffs and lowered ER
+      requirements, she can build into damage, although note she is not
+      particularly impressive at C0. If Bennett is on the team, her damage can
+      become significant via his ATK buff and her Sunfire tech. At C2, she
+      provides a 15% ATK Speed buff, and shreds Anemo resistance by 40% at C4,
+      boosting Wanderer’s damage by a significant margin. 
+
+
+      __**Kokomi**__: Heals while holding Thrilling Tales of Dragon Slayers and
+      Tenacity of the Millelith for a total of a 68% ATK buff, and also gives
+      Hydro absorption for Wanderer’s A1.
+    color: null
+  - title: __**Do I need a battery for Wanderer?**__
+    description: >-
+      No. Most of Wanderer’s damage output comes from his Normal Attacks. While
+      his burst deals a good amount of damage and should be used if possible, it
+      is not the main feature of his kit.
+    color: null
+
+buttons:
+- customId: liveInteraction#faq/anemo/wanderer/teambuildingpt1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/wanderer/teambuildingpt3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,119 @@
+content: null
+embeds:
+  - title: |-
+      __***Options***__
+      **Kokomi**
+    description: >-
+      Has consistent Hydro application with good healing that helps Cyno stay
+      alive on the field longer. Preferably would run with Cyno on Hyperbloom
+      team compositions as she fills in the roles mentioned before and she does
+      not need any investment apart from HP% and HB% on this team composition.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/kokomi_054_icon.webp
+  - title: '**Yelan**'
+    description: >-
+      A solid unit to have with Cyno. Able to provide a DMG% buff that relies on
+      the on-field character’s field time when duration of her Elemental Burst
+      is active. Provides consistent Hydro application and paired with Xingqiu
+      activates Hydro Resonance, which buffs her Elemental Skill and Elemental
+      Burst damage up as they scale with HP%
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/yelan_060_icon.webp
+  - title: '**Xingqiu**'
+    description: >-
+      Currently provides the fastest Hydro application in the game. Along with
+      this, he provides DMG Reduction and healing with his Rainswords and can
+      burst out quite a ton of damage with his off-field Elemental Burst DMG.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/xingqiu_025_icon.webp
+  - title: '**Bennett**'
+    description: >-
+      One of the most-contested units in the game due to what they provide to
+      team compositions. Flat ATK buff, healing, and decent damage with his
+      Elemental Burst, he is usable in every way that needs 1 or 2 of these 3
+      roles that he can fill in but with Aggravate being lived, Bennett’s rate
+      on pick lowered on Electro DPSs that relies on his said roles so his
+      synergy with Cyno is overall decent.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/bennett_032_icon.webp
+  - title: '**Xiangling**'
+    description: >-
+      Amazing Pyro unit that provides good off-field damage with her Elemental
+      Burst. With it having no ICD, she can proc Overloaded or Overvape with
+      team composition that has Cyno or the secondary Electro unit providing
+      Electro for these two setups. However, her ER requirements will skyrocket
+      without any Pyro battery so be wary of that.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/xiangling_023_icon.webp
+  - title: '**Thoma**'
+    description: >-
+      Provides a shield and decent Pyro application whenever the on-field units
+      triggers a Normal Attack animation. His Elemental Burst provides a
+      refreshing shield each time Fiery Collapse is triggered and along with his
+      A1 passive that gives him Shield Strength each time the character obtains
+      or refreshes the shield and this can stack up to 5 times.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/tohma_050_icon.webp
+  - title: '**Kazuha**'
+    description: >-
+      One of the best units in the game due to his unique kit that allows him to
+      buff Elemental DMG% depending on what element his Swirl absorbs. With him
+      carrying Viridescent Venerer set, he can also provide Elemental Shred to
+      said element that is going to receive the Elemental DMG% buff however with
+      Cyno, his buff and Viridescent Venerer shred would not last until his
+      duration end and will cut out on the middle of his combo.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/kazuha_047_icon.webp
+  - title: '**Sucrose**'
+    description: >-
+      Secondary Anemo unit to use when Kazuha is unavailable or she excels
+      better than him on the team composition that does rely on EM buffs and
+      Elemental DMG% when she is C6. This has some drawbacks though as her C6
+      requires her to use her Elemental Burst, which is detrimental to her and
+      her team rotation as either the rotation extends to be able to fulfill her
+      ER requirement or she carries Prototype Amber to lower said ER requirement
+      while providing a team wide heal which will lower her EM and her buffing
+      potentiality. Suffers the same issue as Kazuha when holding Viridescent
+      Venerer set as the RES Shred does not reach Cyno’s full field time.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/sucrose_043_icon.webp
+  - title: '**Jean**'
+    description: >-
+      Great unit to use when Electro healers are unavailable due to her
+      providing heals with Viridescent Venerer but suffers the same consensus
+      with Kazuha and Sucrose in terms of the RES Shred. If she is on C2, she
+      can drastically change Cyno’s rotation as the ATK SPD will affect his
+      timing with his A1 Endseer procs but will yield in more damage as extra
+      NA’s are being added.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/qin_003_icon.webp
+  - title: '**Sayu**'
+    description: >-
+      Substitute for Jean if she isn’t available or when no Electro healers are
+      available. Her role in this team composition is just to provide heals and
+      carry Viridescent Venerer, in accordance with the same consensus with the
+      other Anemo units in terms of its RES Shred on Cyno.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/sayu_053_icon.webp
+
+buttons:
+
+- customId: liveInteraction#faq/electro/cyno/teambuildingpt1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/electro/cyno/teambuildingpt3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

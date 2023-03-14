@@ -1,0 +1,70 @@
+content: null
+embeds:
+  - title: >-
+      The General Mahamatra in charge of supervising the researchers of the
+      Akademiya.
+
+      It is said that when he gets down to work, the General Mahamatra is even
+      more efficient than the “Great Vayuvyastra” made by the Kshahrewar.
+    color: 9338051
+    fields:
+      - name: 'Cyno Mastersheet by: Akane#0926:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
+      - name: 'Cyno Frames Mastersheet by jrm.spirit#2671:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1GY-1jiq1JTJ5YLIrEIjLDpTPWqeMBfZ1qX1cND4iiq8/edit#gid=377494852)
+    author:
+      name: Cyno FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/cyno_071_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/cyno_071_gacha_splash.webp
+      
+options: #dropdown
+    
+  - label: Overview and TLDR
+    value: faq/electro/cyno/overview
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+
+  - label: Talents
+    value: faq/electro/cyno/talents
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+  
+  - label: Constellations
+    value: faq/electro/cyno/constellations
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+
+  - label: Combos
+    value: faq/electro/cyno/combos
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+    
+  - label: ER Requirements
+    value: faq/electro/cyno/errequire
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+
+  - label: Artifacts
+    value: faq/electro/cyno/artifacts
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+
+  - label: Weapons
+    value: faq/electro/cyno/weapons1
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+
+  - label: Teambuilding
+    value: faq/electro/cyno/teambuildingpt1
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327
+
+  - label: External Links
+    value: faq/electro/cyno/external
+    description: "WFP resources for Cyno FAQ."
+    emoji: :Electro:925598875174199327

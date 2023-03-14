@@ -1,0 +1,61 @@
+content: null
+embeds:
+  - title: __**TEAMBUILDING**__
+    description: >-
+      Wanderer is an ATK and CRIT based Anemo DPS, and is therefore not reliant
+      on reactions to deal most of his damage, unless you intend to use an
+      EM-based build. While he’ll likely trigger swirls and possibly chain
+      reactions in his teams, they’re not pivotal to his damage. That being
+      said, his A1 incentivizes players to bring Pyro/Hydro/Cryo/Electro units
+      to the team to obtain additional buffs. Each A1 buff is close to each
+      other in strength, except for Electro which is volatile in value.
+      Otherwise, Wanderer does not strongly prefer a specific element and is
+      quite flexible with his team compositions. His teammates will either be a
+      buffer, an off-field DPS, or a defensive option.
+    color: null
+  - title: '**Buffers**'
+    description: >-
+      More often than not, Wanderer will be dealing the majority of his team’s
+      damage. It is never a bad idea to buff his personal damage, especially if
+      your Wanderer is highly invested. 
+
+
+      __**Faruzan**__: Faruzan is a new 4 star Anemo unit launching with
+      Wanderer in 3.3, commonly dubbed as Wanderer’s dedicated support. Her kit
+      revolves around buffing Anemo damage: she provides Anemo DMG% bonus,
+      shreds Anemo resistance, CRIT DMG% at C6, and can group enemies. Anemo
+      buffs and debuffs are extremely rare in the game, making Faruzan all the
+      more valuable.  Needless to say, Faruzan is an integral part of Wanderer’s
+      teams where his personal damage is the focal point. Additionally, if
+      played with other off-field damage dealers, she can hold the 4 Viridescent
+      Venerer (VV) set to debuff enemy and boost damage.  
+
+
+      __**Bennett**__: Gives a massive ATK buff second to none, on top of 20%
+      ATK from Noblesse Oblige, 30% through Wanderer’s A1, and another 25% if
+      played with Pyro resonance. Also doubles as a defensive option by healing
+      the team. Unquestionably a powerful support for not only Wanderer, but
+      possibly his teammates if they benefit from his ATK buff.  
+
+
+      __**Yun Jin**__: As Wanderer’s damage mostly comes from his Normal
+      Attacks, Yun Jin is naturally one of the first picks that come to mind.
+      Her burst grants a flat DMG buff to all Normal Attacks for up to 30
+      stacks. At C2 and C6 respectively, she additionally provides 15% DMG to
+      Normal Attacks and 12% ATK Speed. Wanderer’s N3 is multi-hit and his kit
+      lends itself towards ATK speed, meaning Yun Jin’s stacks will be consumed
+      faster–in other words, Wanderer gets even more mileage off Yun Jin.
+      Unfortunately, she is not as strong in AoE situations. 
+
+
+      __**Mona**__: With Thrilling Tales of Dragon Slayers and her Omen debuff,
+      Mona grants a 48% ATK, around 50% DMG bonus, and Hydro absorption for
+      Wanderer’s A1. Unfortunately, her Omen debuff has low uptime, so she will
+      fall behind other buffers.
+    color: null
+
+buttons:
+- customId: liveInteraction#faq/anemo/wanderer/teambuildingpt2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,99 @@
+content: null
+embeds:
+  - title: |-
+      __***Options***__
+      **Vortex Vanquisher**
+    description: >-
+      Good 5* option when a shielder is at the party. Able to provide 49.6% ATK
+      while its passive also gives more ATK% via hits on the enemy. Passive fits
+      well with Cyno’s playstyle and he can easily maximize the buff along with
+      Zhongli, one of the units that Cyno would want as his shield has the
+      longest duration and being strong enough to withstand attacks.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13504_awaken_icon.webp
+  - title: '**Calamity Queller**'
+    description: >-
+      Provides the highest amount of Base ATK out of all the 5* weapon. Gives
+      out 12% Elemental DMG Bonus and stackable ATK% when Elemental Skill was
+      casted. The stackable ATK% takes quite a time to max out so be wary of
+      that when using this weapon.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13507_awaken_icon.webp
+  - title: '**Engulfing Lightning**'
+    description: >-
+      Really good 5* option when you are forcing Cyno as the solo Electro unit.
+      Grants him 55.1% ER, converts ER to ATK%, and gives 30% ER after casting
+      Elemental Burst. It has more value when Cyno needs to meet his ER
+      requirements but usually is just an option when he does not have a battery
+      to go with him.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13509_awaken_icon.webp
+  - title: '**Skyward Spine**'
+    description: >-
+      Same category as Engulfing Lightning, which suffices for Cyno’s ER
+      requirement. Provides 36.8% ER, CR%, ATK SPD%, and another source of DMG
+      with its vacuum blade that triggers every 2s. Cyno needs a new rotation
+      for this weapon to maximize its potential but currently its only use is
+      its ER% and CR% built in the weapon.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13502_awaken_icon.webp
+  - title: '**Lithic Spear**'
+    description: >-
+      Only viable when 1-2 Liyue character are in Cyno’s team. Able to give
+      27.6% ATK and stackable ATK% and CR% based on how many Liyue character are
+      in your party puts this weapon quite on the niche side of his options.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13406_awaken_icon.webp
+  - title: '**Kitain Cross Spear**'
+    description: >-
+      The Inazuma Polearm craftable. Gives out 110 EM, Elemental Skill DMG%, and
+      Flat Energy that has a draining mechanic. If one performs __**EQ
+      Mechanic**__ with this weapon, there could be slight problems with the
+      Elemental Burst casting after Elemental Skill Cast so be wary of using
+      this weapon with this caveat.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13414_awaken_icon.webp
+  - title: '**Moonpiercer**'
+    description: >-
+      The Sumeru Polearm craftable. Grants him 110 EM and a leaf that provides
+      ATK% after picking it up. To get said leaf, one must trigger a Dendro
+      Reaction and have a CD of 20s for another leaf to be triggered. Really
+      fits well with Cyno on Aggravate teams as he will mostly catch the leaf
+      himself during Pactsworn Pathclearer state.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13417_awaken_icon.webp
+  - title: '**Missive Windblade**'
+    description: >-
+      Another F2P option that will be given during 3.1. Gives out 41.3% ATK, and
+      more ATK% and EM after triggering a Elemental Reactionl but has a duration
+      of 10s per buff so Cyno won’t have 100% uptime on this weapon buff.
+    color: 9338051
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13419_awaken_icon.webp
+  - title: |-
+      __***Situational***__
+      **Dragon’s Bane**
+    description: >-
+      A really outstanding weapon to use on him when he is abusing
+      Transformative Reactions. Able to provide 221 EM and DMG% to enemies
+      affected by Hydro or Pyro, making this weapon a really good option for
+      Electro-Charged, and Overvape teams and the EM goes well with Hyperbloom
+      teams.
+    color: 9338051
+    footer:
+      text: (section authored by Akane)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13401_awaken_icon.webp
+
+buttons:
+- customId: liveInteraction#faq/electro/cyno/weapons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

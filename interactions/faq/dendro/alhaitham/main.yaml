@@ -1,0 +1,74 @@
+content: null
+embeds:
+  - title: >-
+      The current scribe of the Sumeru Akademiya, endowed with extraordinary
+      intelligence and talent. A man of freedom, people usually can’t find him,
+      unless he wants to be found.
+    color: 3439221
+    fields:
+      - name: 'Althaitham Mastersheet by Latiwings#3308, mien#8650 and ඞඞ#1984:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959)
+      - name: Althaitham Frames Mastersheet by jrm.spirit#2671
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
+    author:
+      name: Althaitham FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/alhatham_078_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/alhatham_078_gacha_splash.webp
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/dendro/alhaitham/overview
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Talents
+    value: faq/dendro/alhaitham/talents
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+  
+  - label: Constellations
+    value: faq/dendro/alhaitham/constellations
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Combos
+    value: faq/dendro/alhaitham/combos
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+    
+  - label: ER Requirements
+    value: faq/dendro/alhaitham/errequire
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Artifacts
+    value: faq/dendro/alhaitham/artifacts
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Weapons
+    value: faq/dendro/alhaitham/weapons
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Teambuilding
+    value: faq/dendro/alhaitham/teambuilding
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: External Links
+    value: faq/dendro/alhaitham/external
+    description: "WFP resources for Alhaitham FAQ."
+    emoji: :Dendro:925598874532479076
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/alhaitham
+    emoji: :wfp_logo:1084805098561085512
+    style: LINK

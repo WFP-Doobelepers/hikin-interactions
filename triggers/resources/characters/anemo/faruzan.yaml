@@ -1,4 +1,4 @@
-interaction: characters/anemo/faruzan/main
+interaction: faq/anemo/faruzan/main
 description: "Opens WFP resources on faruzan"
 match: ${ TRIGGER_PREFIX }faruzan(?:\s|$)
 ignoreCase: true
