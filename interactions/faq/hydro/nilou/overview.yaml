@@ -1,25 +1,21 @@
-content: >-
-  Nilou Pre-TC FAQ by <@293169816741740556> (Author, Calcs),
-  <@143615626785587200> (Co-Author, Calcs), <@141941251350986752> (Co-Author),
-  <@280016643558604800> (Consulting)
-
-
-  For all Nilou Calc you can reference: [Nilou
-  Mastersheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing)
-  by <@293169816741740556> and [Nilou Frames
-  Mastersheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)
-  by <@377496350155079690>
-
-
-  __**DISCLAIMER (This one is especially important)**__
-
-  Pre-TC is volatile and, as always, perpetually subject to change until release
-  (and sometimes later!). Please note that these are theoretical suggestions.
-  Everything described in this FAQ is a good faith analysis based on the little
-  information about the character’s kit that we know. Team calcs, additionally,
-  are not established yet, and as with everything in TC, the content in this FAQ
-  should be taken with a grain of salt.
 embeds:
+  - title: __CREDITS__
+    color:
+    fields:
+    - name: 'Contributions :'
+      value: "Nilou Pre-TC FAQ by <@293169816741740556> (Author, Calcs), <@143615626785587200> (Co-Author, Calcs), <@141941251350986752> (Co-Author), <@280016643558604800> (Consulting)"
+    - name: 'Calculations and Sheets:'
+      value: "For all Nilou Calculations you can reference:" [Nilou  Mastersheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing) "by <@293169816741740556> and " [Nilou Frames Mastersheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing) "by <@377496350155079690>"
+
+  - title: __**DISCLAIMER (This one is especially important)**__
+    description: >-
+      Pre-TC is volatile and, as always, perpetually subject to change until release
+      (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little
+      information about the character’s kit that we know. Team calcs, additionally,
+      are not established yet, and as with everything in TC, the content in this FAQ
+      should be taken with a grain of salt.
+
   - title: __**CHARACTER OVERVIEW**__
     description: >-
       Nilou is a Hydro sword-user who can play both DPS and support roles on
