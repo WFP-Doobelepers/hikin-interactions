@@ -4,10 +4,10 @@ embeds:
     fields:
     - name: 'Contributions :'
       value: "Nilou Pre-TC FAQ by <@293169816741740556> (Author, Calcs), <@143615626785587200> (Co-Author, Calcs), <@141941251350986752> (Co-Author), <@280016643558604800> (Consulting)"
-    - name: "For all Nilou Calculations you can reference:" 
-      value: [Nilou  Mastersheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing) 
+    - name: "For all Nilou Calculations you can reference:"
+      value: "[Nilou  Mastersheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing)"
     - name: "by <@293169816741740556> and " 
-      value: [Nilou Frames Mastersheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)
+      value: "[Nilou Frames Mastersheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)"
     - name: "by <@377496350155079690>"
 
   - title: __**DISCLAIMER (This one is especially important)**__
