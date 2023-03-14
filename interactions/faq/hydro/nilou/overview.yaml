@@ -1,10 +1,12 @@
 content: null
 embeds:
 - title: __CREDITS__
+  description: >-
+    Nilou Pre-TC FAQ by <@293169816741740556> (Author, Calcs), <@143615626785587200> (Co-Author, Calcs), 
+    <@141941251350986752> (Co-Author), <@280016643558604800> (Consulting)
+  
   color: 7184107
   fields:
-  - name: 'Contributions :'
-    value: "Nilou Pre-TC FAQ by <@293169816741740556> (Author, Calcs), <@143615626785587200> (Co-Author, Calcs), <@141941251350986752> (Co-Author), <@280016643558604800> (Consulting)"
   - name: "For all Nilou Calculations you can reference:"
     value: "[Nilou  Mastersheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing)"
   - name: "by <@293169816741740556> and " 
