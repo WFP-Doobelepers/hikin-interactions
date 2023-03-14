@@ -1,13 +1,14 @@
 content: null
 embeds:
   - title: __CREDITS__
-    color: 9338051
-    fields:
-    - name: >-
-      "Cyno Pre-TC FAQ by <@604540951708565515> (Author, Calcs),
+    description: >-
+      Cyno Pre-TC FAQ by <@604540951708565515> (Author, Calcs),
       <@209617229216612352> (Consulting, Mapping), <@367160010335191054> (Mapping),
       <@280016643558604800> (Mapping), <@651556217315000360> (Consulting), and
-      <@265126444894650369> (Proofreading)"
+      <@265126444894650369> (Proofreading)
+    
+    color: 9338051
+    fields:
     - name: >-
     "For all Cyno Calcs you can reference: [Cyno  Mastersheet](https://docs.google.com/spreadsheets/d/1kcTRPGzPyxFO8UfDV6OsZpQ7YSEDNw9Abmk408d9g9g/edit#gid=568891334)
       by <@604540951708565515> and [Cyno Frames Mastesheet](https://docs.google.com/spreadsheets/d/1GY-1jiq1JTJ5YLIrEIjLDpTPWqeMBfZ1qX1cND4iiq8/edit#gid=377494852)
