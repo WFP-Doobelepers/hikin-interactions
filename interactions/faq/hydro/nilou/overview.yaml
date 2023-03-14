@@ -1,12 +1,16 @@
 embeds:
-  - title:
+  - title: __CREDITS__
     description: >-
       Nilou Pre-TC FAQ by <@293169816741740556> (Author, Calcs),
       <@143615626785587200> (Co-Author, Calcs), <@141941251350986752> (Co-Author),
       <@280016643558604800> (Consulting)
+
       For all Nilou Calc you can reference Nilou Mastersheet by <@293169816741740556>"
+      
       [Google Sheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing)
+      
       and Nilou Frames Mastersheet by <@377496350155079690>
+      
       [Google Sheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)
 
   - title: __**CHARACTER OVERVIEW**__
