@@ -5,7 +5,7 @@ embeds:
       DISCLAIMER: For explicit numbers on DPS increases, please refer to our
       linked Mastersheet for up-to-date numbers. Changing numbers in the sheet
       is much faster/easier than editing an embed.
-    color: null
+    color: 7184107
   - title: C1
     description: >-
       Gives Nilou 6 more seconds of Tranquility Aura uptime in Whirl stance, or
@@ -21,7 +21,7 @@ embeds:
       being less significant compared to her Blooms. Rating: 4/5 if you can get
       3 more blooms per rotation, 1/5 if no extra blooms can be produced, and
       2/5 for Sword Stance.
-    color: null
+    color: 7184107
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_701.webp
   - title: C2
@@ -32,14 +32,14 @@ embeds:
 
       valuable in the future if Nilou can run Dendro and Hydro teammates with
       higher personal damage contributions outside of Bloom. Rating: 3/5.
-    color: null
+    color: 7184107
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_702.webp
   - title: C3
     description: >-
       Increased multipliers for her Elemental Burst do very little for Nilou
       overall. Rating: 1/5.
-    color: null
+    color: 7184107
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_703.webp
   - title: C4
@@ -52,7 +52,7 @@ embeds:
       allows you to drop ER% sands when bursting every rotation and run HP%
       sands instead with a few more ER% subs, which results in a significant
       gain alongside the Elemental Burst DMG bonus. Rating: 3/5
-    color: null
+    color: 7184107
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_704.webp
   - title: C5
@@ -60,7 +60,7 @@ embeds:
       Nilou gains multipliers for her Elemental Skill. This does very little for
       Whirl Stance but is a small boost to Sword Stance. Rating: 1/5 for Whirl
       Stance, 2/5 for Sword Stance.
-    color: null
+    color: 7184107
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_705.webp
   - title: C6
@@ -74,7 +74,7 @@ embeds:
       may open up the viability of more crit focused builds, but this will have
       to be explored upon release Rating: 3/5 for Whirl Stance, 5/5 for Sword
       Stance.
-    color: null
+    color: 7184107
     footer:
       text: >-
         (section authored by XenoVX)

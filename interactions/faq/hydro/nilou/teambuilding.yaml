@@ -52,7 +52,7 @@ embeds:
       ensure Nilou has full ownership of the Blooms she buffs. However,
       sacrificing the new Hydro resonance HP boost is a huge detriment, so the
       bar for Dendro performance must be high enough to compensate.
-    color: null
+    color: 7184107
     footer:
       text: (section authored by Emiliabyss)
     image:
