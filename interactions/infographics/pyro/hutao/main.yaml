@@ -15,7 +15,8 @@ embeds:
       url: >-
         https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
 
-  options:
+options:
+#dropdown
 - label: Softgoals
   value: infographics/pyro/hutao/softgoals
   description: WFP resources for Hu Tao Softgoals.
