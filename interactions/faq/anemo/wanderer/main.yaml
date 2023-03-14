@@ -6,11 +6,16 @@ embeds:
     color: 7321031
     fields:
       - name: >-
-          Wanderer Mastersheet by Emiliabyss#1641, Raikh / Valien#8564,
-          EduLis#2176, and em-#9212
+          'Wanderer Mastersheet by Emiliabyss#1641, Raikh / Valien#8564,
+          EduLis#2176, and em-#9212:'
         value: >-
           [Google
           Sheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390)
+      - name: >-
+          'Wanderer Frames Mastersheet by jrm.spirit#2671:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1uKtLDSzjtubtghgUKj0PaXn1RsYfWWjiEcJa_-5xsZU/edit?usp=sharing)
     author:
       name: Wanderer FAQ
       icon_url: https://genshin.honeyhunterworld.com/img/wanderer_075_side_icon.webp
