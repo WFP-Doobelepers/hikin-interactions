@@ -7,15 +7,13 @@ embeds:
   - name: 'Lead:'
     value: "<@293169816741740556>"
   - name: 'Authors:'
-    value: "<@293169816741740556>, <@209617229216612352>, <@370761744789798912>"
+    value: "<@293169816741740556>, <@209617229216612352>, <@370761744789798912>, <@510286757879742474>"
   - name: 'Calculations:'
     value: "<@293169816741740556>, <@209617229216612352>, <@370761744789798912>"
   - name: 'Framecounting:'
     value: "<@367160010335191054>"
   - name: 'Consultation:'
     value: "<@209617229216612352>"
-  - name: 'Contributor:'
-    value: "<@510286757879742474>"
   - name: 'Resources:'
     value: |-
       [Wanderer Mastersheet](https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390)
