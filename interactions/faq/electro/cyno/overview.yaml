@@ -1,6 +1,7 @@
+content: null
 embeds:
   - title: __CREDITS__
-    color:
+    color: 9338051
     fields:
     - name: >-
       "Cyno Pre-TC FAQ by <@604540951708565515> (Author, Calcs),
@@ -21,7 +22,7 @@ embeds:
   comes. Pre-TC is really volatile as things could change on a snap on release
   and numbers could change drastically on that point so take every content on
   this FAQ and Mastersheet with a grain of salt. Thank you and much love"
-  
+
   - title: __**TLDR**__
     description: |-
       **Role:** Hypercarry
