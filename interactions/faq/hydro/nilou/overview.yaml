@@ -1,17 +1,29 @@
 embeds:
-  - title: __CREDITS__
-    description: >-
-      Nilou Pre-TC FAQ by <@293169816741740556> (Author, Calcs),
-      <@143615626785587200> (Co-Author, Calcs), <@141941251350986752> (Co-Author),
-      <@280016643558604800> (Consulting)
-
-      For all Nilou Calc you can reference Nilou Mastersheet by <@293169816741740556>"
-      
-      [Google Sheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing)
-      
-      and Nilou Frames Mastersheet by <@377496350155079690>
-      
-      [Google Sheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)
+- title: __CREDITS__
+  color: 10403358
+  fields:
+  - name: 'Lead:'
+    value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
+  - name: 'Authors:'
+    value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
+  - name: 'Calculations:'
+    value: "<@293169816741740556>, <@143615626785587200>"
+  - name: 'Framecounting:'
+    value: "<@377496350155079690>"
+  - name: Consultation
+    value: "<@280016643558604800>"
+  - name: 'Resources:'
+    value: |-
+      [Nilou Mastersheet](https://docs.google.com/spreadsheets/d/1nI11nORuCidyhZVC-FDJcE6VkLTy0DvJtvUZdb2YbPQ/edit?usp=sharing)
+      [Nilou Frames Mastersheet](https://docs.google.com/spreadsheets/d/1DqJy5kDNEdZnYhEfoEQhXIifBAyAYS5cfVWmTojPrUE/edit?usp=sharing)
+    value: "*Pre-TC is volatile and, as always, perpetually subject to change until
+      release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little
+      information about the character’s kit that we know. Team calcs, additionally,
+      are not established yet, and as with everything in TC, the content in this FAQ
+      should be taken with a grain of salt.*"
+  image:
+    url: https://media.discordapp.net/attachments/1084456231432892501/1085168005115285585/image.png?width=926&height=662
 
   - title: __**CHARACTER OVERVIEW**__
     description: >-
