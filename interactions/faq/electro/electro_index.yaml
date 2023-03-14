@@ -1,0 +1,9 @@
+embeds:
+  - color: 9338051
+    description: |-
+      <${EMOJIS.CYNO}> Select a character!
+
+options: 
+  - label: Cyno
+    value: faq/electro/cyno/main
+    description: WFP resources on Cyno!
