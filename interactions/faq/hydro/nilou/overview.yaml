@@ -1,6 +1,6 @@
 embeds:
 - title: __CREDITS__
-  color: 10403358
+  color: 7184107
   fields:
   - name: 'Lead:'
     value: "<@293169816741740556>, <@141941251350986752>, <@143615626785587200>"
@@ -69,7 +69,7 @@ embeds:
       are not currently available in-game. A Dendro healer, or a unit with
       faster Dendro application (whether off-field or on-field) would greatly
       enhance Nilou teams’ potential.
-    color: null
+    color: 7184107
     footer:
       text: (section authored by Emiliabyss)
     thumbnail:
