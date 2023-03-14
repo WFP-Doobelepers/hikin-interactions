@@ -1,16 +1,12 @@
 embeds:
-  - color: 
+  - color: 12784917
     description: |-
-       Select a character!
+      <${EMOJIS.PYRO}> Select a character!
+
 
 options: 
 
-  - label: Faruzan
-    value: faq/anemo/faruzan/main
-    description: WFP resources on Faruzan!
-    emoji: "<:Faruzan:1050444217522061374>"
-
-  - label: Wanderer
-    value: faq/anemo/wanderer/main
-    description: WFP resources on the Wanderer!
-    emoji: "<:Wanderer:1050444214829330472>"
+  - label: Dehya
+    value: faq/pyro/dehya/main
+    description: WFP resources on FAQ!
+    emoji: 

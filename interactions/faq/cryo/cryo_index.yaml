@@ -1,7 +1,7 @@
 embeds:
-  - color: 
+  - color: 10470888
     description: |-
-      > Select a character!
+      <${EMOJIS.CRYO}> Select a character!
 
 options: 
   - label: Layla

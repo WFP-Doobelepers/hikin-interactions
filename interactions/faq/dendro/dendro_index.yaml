@@ -1,20 +1,20 @@
 embeds:
-  - color:
+  - color: 3450963
     description: |-
-      Select a character!
+      <${EMOJIS.DENDRO}> Select a character!
+    thumbnail:
+      url: "https://cdn.discordapp.com/emojis/1048284047740256326.webp"
 
 options: 
   - label: YaoYao
     value: faq/hydro/nilou/main
     description: WFP resources on YaoYao
-    emoji: "<:Nilou:953430875788443709>"
 
   - label: Alhaitham
     value: faq/hydro/nilou/main
     description: WFP resources on Alhaitham
-    emoji: "<:Nilou:953430875788443709>"
 
   - label: Nahida
     value: faq/dendro/nahida/main
     description: WFP resources on Nahida
-    emoji: "<:Nilou:953430875788443709>"
+    emoji: "<:Nahida:1041944645061574676>"

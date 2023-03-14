@@ -1,0 +1,16 @@
+embeds:
+  - color: 3634295
+    description: |-
+      <${EMOJIS.ANEMO}> Select a character!
+
+options: 
+
+  - label: Faruzan
+    value: faq/anemo/faruzan/main
+    description: WFP resources on Faruzan!
+    emoji: "<:Faruzan:1050444217522061374>"
+
+  - label: Wanderer
+    value: faq/anemo/wanderer/main
+    description: WFP resources on the Wanderer!
+    emoji: "<:Wanderer:1050444214829330472>"

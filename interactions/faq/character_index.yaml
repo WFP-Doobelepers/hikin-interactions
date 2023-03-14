@@ -23,7 +23,7 @@ options:
   - label: Dendro
     value: faq/dendro/dendro_index
     description: Guides for Dendro vision holders
-    emoji: ${ EMOJIS.DENRO }
+    emoji: ${ EMOJIS.DENDRO }
 
   - label: Electro
     value: faq/electro/electro_index
