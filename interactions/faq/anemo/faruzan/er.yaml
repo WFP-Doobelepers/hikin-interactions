@@ -1,0 +1,13 @@
+embeds:
+- title: __**ER REQUIREMENT**__
+  description: Faruzan’s particle generation relies on her hitting her Hurricane Arrow
+    to the enemies and waiting for Pressurized Collapse to trigger, meaning she will
+    rely on a specific combo of E CA Q to funnel the particle to herself or E Q CA
+    to funnel the energy to the Anemo DPS. Generally, funneling energy to another
+    party member is not ideal for Faruzan due to her particles generation being 2
+    per CA so her ER Requirement would be high. Typically, __**220%+ ER Requirement**__
+    solidifies her need to cast Burst every rotation with Favonius Warbow and without
+    it, her ER skyrockets to a degree in which the KQMC distributed subs cannot reach.
+  color: 3634295
+  footer:
+    text: "(section authored by Akane)"

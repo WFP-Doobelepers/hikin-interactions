@@ -1,0 +1,41 @@
+embeds:
+- title: __CREDITS__
+  description: "Faruzan Pre-TC FAQ by \n<@366206663533002774> (Team Lead, Author,
+    Calcs),\n <@604540951708565515> (Author, Calcs, Consultant),\n <@178766970450214912>
+    (Contributor), \n<@778698226252644412> (Contributor)\n\nFor all Faruzan Calcs
+    you can reference:\n[Faruzan Mastersheet](https://docs.google.com/spreadsheets/d/1BCq5SuCjEjOWvzuH3piwwJx4EIAVvOTak2yEXwmvClk/edit#gid=0)
+    by <@366206663533002774> and <@604540951708565515>,\nand [Faruzan Frames Mastersheet](https://docs.google.com/spreadsheets/d/1hibtmTzgvtgXJcu-6q1Zb9dPuVO8GC52AL7DkyeeFxI/edit?usp=sharing
+    ) by <@367160010335191054>\n\n*Pre-TC is volatile and, as always, perpetually
+    subject to change until release (and sometimes later!). Please note that these
+    are theoretical suggestions. Everything described in this FAQ is a good faith
+    analysis based on the little information about the character’s kit that we know.
+    Team calcs, additionally, are not established yet, and as with everything in TC,
+    the content in this FAQ should be taken with a grain of salt.*"
+  color: 3634295
+  image:
+    url: https://cdn.discordapp.com/attachments/1084456231432892501/1085178741925347428/genshin-sumeru-character-faruzan-information-background.png
+- title: __**CHARACTER OVERVIEW**__
+  description: "Faruzan is a 4* Anemo bow user whose kit revolves around buffing her
+    team's Anemo damage while decreasing the enemies Anemo resistance. This allows
+    her to serve as the staple support for a team with an Anemo DPS. \n\nFor stats,
+    Energy Recharge is the most important stat on her. With her 80 energy cost, her
+    ER requirements on her teams can reach extremely high levels. As her Energy requirements
+    are quite high, Favonius Warbow is often recommended to be able to use her Elemental
+    Burst off cooldown and continually support the Anemo DPS. ER sands, Anemo DMG%
+    Goblet and CRIT% circlet can be used, CRIT Rate% becoming even more important
+    with Favonius Warbow as her weapon.\n\nWhile her Elemental Skill can provide light
+    crowd control for small enemies, the main part of her kit is her Elemental Burst,
+    which provides the buffs for her Anemo DPS teammate. At C0 she is a serviceable
+    Anemo DPS support that can be used. Her C1 allows her to use a second charged
+    arrow after using her Skill. C2 increases her Burst length by 6 seconds to a total
+    of 18. C4 allows her to gain more energy for the amount of characters hit by her
+    Elemental Skill’s Charge Attack. C5 is notable since it adds 3 levels to her Elemental
+    Burst, which boosts the Anemo damage bonus she gives. While her C2, C4 and C5
+    are decent, her C6 drastically improves her. Her C6 both adds CRIT Damage to Anemo
+    attacks and significantly boosts her support capabilities for the team and herself,
+    while reducing her ER% requirements for herself."
+  color: 3634295
+  footer:
+    text: "(section authored by Gerry)"
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/faruzan_076_icon.webp

@@ -1,0 +1,55 @@
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    Artifacts will be dependent on what team composition you will run Faruzan with the proper Anemo DPS and other supports that provide other utilities compared to Faruzan.
+
+    **Timepiece: ER%** - This consolidates her ER needs and with Favonius Warbow, reaches that requirement fairly easily along with 1-2 ER distributed subs.
+
+    **Goblet: Anemo DMG%** - Strictly to push out damage from her kit overall
+
+    **Circlet: CR%** - With Favonius Warbow, CR% is mandatory for its passive to trigger consistently while allowing Faruzan to proc CRITS for her damage as well.
+
+    ***Substat Priority: ER% (Until requirement is reached) > CR%=CDMG% > ATK%***
+  color: 3634295
+- title: |-
+    Recommended
+
+    4PC Viridescent Venerer
+  description: This artifact set excels at providing RES Shred for the off-field DMG
+    that the other units provide for the Anemo DPS. It also amps up Faruzan’s overall
+    DMG but not to a significant degree compared to the other artifact sets
+  color: 3634295
+  thumbnail:
+    url: https://images-ext-2.discordapp.net/external/26n282Qv-fSIDVmc4dv7eSXOWe16ZtF-1f4oo9JYxFo/https/genshin.honeyhunterworld.com/img/i_n400093.webp
+- title: 4PC Noblesse Oblige
+  description: Standard support artifact set. Quick and easy to use for Faruzan and
+    generally helps the Anemo DPS deal more DMG and works well with a dynamic off-field
+    DMG.
+  color: 3634295
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n400118.webp
+- title: 4PC The Exile
+  description: With Faruzan’s ER Requirement needing to be high, this artifact set
+    stands out from the rest as not only her ER Requirement lowers, it also lowers
+    the entire parties, consolidating the ER subs to a much more offensive distribution
+    for DMG. Faruzan would want the off-piece to be a 5* ER% Timepiece with this set.
+  color: 3634295
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n400042.webp
+- title: 4PC Emblem of Severed Fate
+  description: Along with Exile, this set consolidates with her ER Requirement but
+    provides a much more offensive attribute from its 4PC passive to Faruzan only.
+  color: 3634295
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n400183.webp
+- title: |-
+    Options
+
+    4PC Tenacity of the Millelith
+  description: Only viable when Faruzan is at C6 due to its extra Collapse being able
+    to maintain the ATK% Buff throughout the entire Anemo DPS on-field time.
+  color: 3634295
+  footer:
+    text: "(section authored by Akane)"
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n400168.webp
