@@ -1,41 +1,27 @@
-{
-  "content": null,
-  "embeds": [
-    {
-      "title": "Hu Tao",
-      "description": "• Pyro\n• Polearm\n• On-field DPS",
-      "color": 12328992,
-      "footer": {
-        "text": "by: Vladone ツ#9281 (Author) || EduLis#2176 (Designer)"
-      },
-      "image": {
-        "url": "https://cdn.discordapp.com/attachments/1016639002851430461/1073513878983540766/2Artboard_1.png"
-      },
-      "thumbnail": {
-        "url": "https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png"
-      }
-    }
-  ],
-  "options": [
-    {
-      "label": "Softgoals",
-      "value": "infographics/pyro/hutao/softgoals",
-      "description": "WFP resources for Hu Tao Softgoals.",
-      "emoji": ":HutaoThink:803419100096495637"
-    },
-    {
-      "label": "Constellations",
-      "value": "infographics/pyro/hutao/constellations",
-      "description": "WFP resources for Hu Tao Softgoals.",
-      "emoji": ":A_HuPray:791078347898880010"
-    },
-  ],
-  "buttons": [
-    {
-      "label": "KQM Website",
-      "url": "https://keqingmains.com/hu-tao/",
-      "emoji": ":A_HuTaoHug:803337298476400690",
-      "style": "LINK"
-    }
-  ]
-}
+content: null
+embeds:
+  - title: Hu Tao
+    description: |-
+      • Pyro
+      • Polearm
+      • On-field DPS
+    color: 12328992
+    footer:
+      text: 'by: Vladone ツ#9281 (author) || EduLis#2176 (designer)'
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1016639002851430461/1073513878983540766/2Artboard_1.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
+
+  options:
+- label: Softgoals
+  value: infographics/pyro/hutao/softgoals
+  description: WFP resources for Hu Tao Softgoals.
+  emoji: :Pyro:925598875853668353
+buttons:
+- label: KQM Website
+  url: https://keqingmains.com/hu-tao/
+  emoji: :logont:945530991240421386
+  style: LINK
