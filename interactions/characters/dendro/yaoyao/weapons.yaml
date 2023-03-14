@@ -1,96 +1,124 @@
----
-content:
+content: null
 embeds:
-- title: __WEAPONS__
-  description: Alhaitham has a variety of weapon options at his disposal thanks to
-    his flexible scaling taking advantage of a wide number of stats. Thanks to his
-    reliance on EM over ATK making low Base ATK relatively inconsequential, he has
-    many powerful free options. You can view the full weapon ranking in the [WFP Alhaitham
-    Mastersheet](https://docs.google.com/spreadsheets/d/17AGoQCMsX4MymsIwgtUsdMO-NhYTixC6d8RbkYred2c/edit#gid=1588964959).
-  color: 3439221
-- title: |-
-    __Signature Weapon__
+  - title: __WEAPONS__
+    description: >-
+      Since Yaoyao is a character who has heavy role consolidation and benefits
+      from many different stats based on her teams, this leaves her with
+      numerous build paths, and it can be confusing to players when deciding
+      what the best option is. As such, when picking Yaoyao’s weapon, players
+      should pay attention to what team she’s going to be played in, her field
+      time in said team and what type of content they’re facing. Generally:
 
-    Light of Foliar Incision
-  description: Alhaitham’s signature weapon gives a hefty 88.2% CRIT DMG and provides
-    an EM-scaling buff to his Normal Attacks and Projection Attacks. It is approximately
-    8% stronger than the next best option, although its effectiveness is impacted
-    in AoE situations where Alhaitham can use up its buff stacks prematurely on lower-scaling
-    Normal Attacks rather than on Projection Attacks that benefit from A4. Foliar’s
-    passive does, however, synergize well with EM buffs and makes him strongly favor
-    EM in his build. Note that due to his lack of CRIT Rate ascension, it can be difficult
-    to get a 1:2 crit ratio with Foliar.
-  color: 3439221
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11512.webp
-- title: |-
-    __5★ Options__
 
-    Primordial Jade Cutter
-  description: The evergreen stat stick, Primordial Jade Cutter is the 2nd-best option
-    for Alhaitham after his signature weapon, thanks to its CRIT Rate stat and unconditional
-    ATK bonus passive, both of which Alhaitham can take advantage of.
-  color: 3439221
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11505_awaken_icon.webp
-- title: Haran Geppaku Futsu
-  description: Tied for 3rd place with Mistsplitter. Alhaitham enjoys its CRIT Rate
-    and Elemental DMG Bonus buff. In order to make full use of its Normal Attack DMG
-    buff, he should use N3D combos.
-  color: 3439221
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11510_awaken_icon.webp
-- title: Mistsplitter Reforged
-  description: Tied for 3rd place with Haran. Alhaitham can make good use of Mistsplitter’s
-    Elemental DMG Bonus passive, and he’s able to reliably maintain 3 stacks in most
-    rotations.
-  color: 3439221
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11509_awaken_icon.webp
-- title: |-
-    __4★ Options__
+      [Nilou Bloom] are weapons that have a specific value in Nilou Bloom teams,
+      be it Energy for frequent Bursts and/or high EM for her own Bountiful Core
+      DMG.
 
-    Toukabou Shigure/Iron Sting
-  description: |-
-    His best 4-star options, Toukabou Shigure and Iron Sting perform similarly. Between their Elemental Mastery and passive buffs, they both provide everything Alhaitham values in a weapon.
+      [Spread] are options specialized in providing Yaoyao with personal Spread
+      DMG and are recommended in Spread/Aggravate teams (and some Hyperbloom
+      teams), where Quicken aura has high uptime and her Burst has lower value.
+      These usually boast offensive stats like CRIT Rate/CRIT DMG, EM, DMG Bonus
+      or ATK.
 
-    Due to their differing passives, Toukabou Shigure will perform better in single-target scenarios, while Iron Sting will pull ahead in AoE situations.
-  color: 3439221
-  thumbnail:
-    url: https://media.discordapp.net/attachments/957846543011024929/1064083847274303508/gfuRgXpGlcj4gAAAABJRU5ErkJggg.png
-- title: Festering Desire
-  description: A respectable option for Alhaitham that provides useful DMG% and CRIT
-    Rate buffs for his Mirror Projection Attacks. Festering Desire is competitive
-    with Iron Sting and Toukabou Shigure in teams where he can take full advantage
-    of its Energy Recharge stat, but sees worse performance if he does not Burst every
-    rotation.
-  color: 3439221
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11413_awaken_icon.webp
-- title: Xiphos' Moonlight
-  description: Alhaitham values all the stats given by this weapon, which also reduces
-    team Energy needs. However, Xiphos’ passive does not work with many EM buffs,
-    lowering its overall effectiveness.
-  color: 3439221
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11418_awaken_icon.webp
-- title: Sacrificial Sword
-  description: Sacrificial Sword offers Alhaitham the luxury of starting rotations
-    with his Elemental Skill prior to Elemental Burst (changing his rotation to E
-    > N1 > Q > E), allowing him to Burst with 2 Mirrors for additional damage. His
-    typical rotations require R4 minimum to trigger consistently.
-  color: 3439221
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11403_awaken_icon.webp
-- title: Harbinger of Dawn
-  description: Not to be discounted. With its passive up, Harbinger of Dawn competes
-    with his 5-star weapon options, performing similarly to Haran and Mistsplitter
-    thanks to its CRIT Rate and CRIT DMG buffs. However, given Alhaitham’s role as
-    an on-field character, a shielder is mandatory to realistically take advantage
-    of this weapon.
-  color: 3439221
-  footer:
-    text: 'Authored by: Lofty'
-    icon_url: https://images-ext-2.discordapp.net/external/BQnUK9NrYoD5_DDqOfbcCLvuX6RrdzQbkjWcOPhlJLU/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/939432470384894007/9f7965b28fc6c208586bf122ffaa3b37.png
-  thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/i_n11302_awaken_icon.webp
+      [Support] signifies Polearms that are highly flexible picks for most of
+      Yaoyao’s teams, where she is used primarily for heals and Dendro
+      application but can provide additional support value.
+
+
+      Additionally, __Notable Options__ will go over a selection of Yaoyao’s
+      most competitive weapons while __Other Options__ includes viable but
+      situational ones.
+    color: 10403358
+  - title: |-
+      __Notable Options__
+
+      Favonius Lance [Nilou Bloom] [Support]
+    description: >-
+      A flexible option that extends Yaoyao’s support capabilities by supplying
+      the whole team with Energy through clear particles and enhances her with
+      its ER secondary stat. It should be noted that the passive only triggers
+      while the holder is on-field and requires them to build CRIT Rate, so
+      generally, aim to perform Skill → N2 in teams where Yaoyao does not use
+      her Burst frequently.
+    color: 10403358
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13407_awaken_icon.webp
+  - title: Kitain Cross Spear [Nilou Bloom] [Spread]
+    description: >-
+      Yaoyao can virtually utilize every facet of this weapon, from the EM
+      secondary stat and Skill DMG Bonus to the Flat Energy generation. Most
+      notably, the Energy generation passive lets Yaoyao Burst every rotation
+      even with lower-ER builds. Contrary to its description, Kitain does not
+      drain any Energy when the holder has none, but this does not affect
+      Yaoyao’s rotations given Yuegui’s Radish hit delay after Skill usage.
+      Overall, Kitain’s performance is amicable for Yaoyao in most situations
+      and an exceptional one for Nilou teams.
+    color: 10403358
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13414_awaken_icon.webp
+  - title: Black Tassel [Nilou Bloom] [Support]
+    description: >-
+      The highest HP%-stat Polearm in the game and gives a direct boost to
+      Yaoyao’s healing potency. Overall a capable weapon when it’s already
+      leveled but can be substituted for HP% Sands + another ER weapon instead.
+    color: 10403358
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13303_awaken_icon.webp
+  - title: Deathmatch|Staff of Homa|Missive Windspear [Spread]
+    description: >-
+      Competitive Spread-focused Polearms, all of which provide nearly
+      unconditional stat-buffing passives. This alongside their high inherent
+      stats makes them stable and reliable options as opposed to Staff of the
+      Scarlet Sands. Note that Missive Windspear’s passive will only be
+      snapshotted onto Yaoyao’s Skill from the 2nd rotation onwards given its
+      10s duration and Yuegui’s downtime.
+    color: 10403358
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1064001551347232848/9H48zoAfj08z6C4HgeWfqUwQyWJm5Q0KBYCMdWx09RqOZemFX59pll0xLc5sbkaGQI2CzwwsOZg7YZjptrpGIFlc7PaW2s3BhBd2nBs9JASglwivAAEmvEZkQQqQAhEqQICJUDi6jBQgBcIrQIAJrxFZkAKkQIQKEGAiFI4uIwVIgfAKEGDCa0QWpAApEKECBJgIhaPLSAFSILwCBJjwGpEFKUAKRKgAASZC4egyUoAUCK8AASa8RmRBCpACESpAgIlQOLqMFCAFwitAgAmvEVmQAqRAhAoQYCIUji4jBUiB8Ar8D9r6JSQam5WnAAAAAElFTkSuQmCC.png
+  - title: |-
+      __Other Options__
+
+      Moonpiercer [Support]
+    description: >-
+      A unique spear capable of providing a hefty ATK% buff (16%-32%) to another
+      party member while granting Yaoyao with its offensive stats. With the ATK%
+      buff only benefiting a single character and high uptime (12s duration/20s
+      cooldown), Moonpiercer becomes an immensely valuable option for
+      ATK-scaling hypercarries. Even though the Leaf placement can be finicky to
+      deal with, the passive trigger condition (off-field compatible) keeps
+      rotations relatively simple and controlled. In spite of that, its value
+      drops significantly for rotations that aren't 20s.
+    color: 10403358
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13417_awaken_icon.webp
+  - title: Staff of the Scarlet Sands [Spread]
+    description: >-
+      Even for its 5-star status, this weapon boasts an extremely high CRIT Rate
+      secondary stat (44.1%) and a stacking ATK passive that directly scales off
+      Yaoyao’s EM, both of which make it one of her best options when built for
+      Spread DMG on paper. But the value of this weapon becomes less impressive
+      seeing as how Yaoyao is only able to gain the passive’s stacks while
+      on-field and how her Skill/Burst snapshots. Which means that in order for
+      Yaoyao to gain maximum value from the passive, she would have to spend 4s
+      on-field to gain full stacks to then snapshot those stats onto her Burst.
+      All things considered, Staff of the Scarlet Sands is usually not
+      recommendable over more stable options, as Yaoyao is incapable of making
+      full use of it, and should be in the hands of a more effective user in the
+      team.
+    color: 10403358
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13511_awaken_icon.webp
+  - title: Dragon's Bane [Nilou Bloom] [Spread]
+    description: >-
+      As Quicken aura is not able to coexist with Hydro or Pyro aura and other
+      Dendro reactions gain no value from DMG%, this weapon’s passive proves to
+      be of no use to Yaoyao. Regardless, its high EM secondary stat makes it a
+      usable stat stick when there are no better options.
+    color: 10403358
+    footer:
+      text: 'Authored by: Seima'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/Wmp5nAE7LkZP67_fx6MN-TgyyoU1w5lIe9ViWXS-VTk/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/186163908938039296/fb052ae8e9971de6f1e730f58babae31.png?width=701&height=701
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n13401_awaken_icon.webp
