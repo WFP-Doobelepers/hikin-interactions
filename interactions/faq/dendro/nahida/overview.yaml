@@ -109,3 +109,62 @@ embeds:
       text: (section authored by Leifa)
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/nahida_073_icon.webp
+
+---
+content:
+embeds:
+- title: __CREDITS__
+  color: 10403358
+  fields:
+  - name: 'Lead:'
+    value: "<@370761744789798912>, <@366206663533002774>"
+  - name: 'Authors:'
+    value: "<@370761744789798912>, <@178766970450214912>, <@186163908938039296>"
+  - name: 'Calculations:'
+    value: "<@370761744789798912>, <@280016643558604800>, <@271793426956025856>"
+  - name: 'Framecounting:'
+    value: "<@377496350155079690>, <@669758268888973332>"
+  - name: Consultation
+    value: "<@604540951708565515>"
+  - name: 'Resources:'
+    value: |-
+      [Yaoyao Mastersheet](https://docs.google.com/spreadsheets/d/1W-LbV4b5QZ_n7aVZjsR3s_GFEfdmP64lx-bcWwvU8Oo/edit#gid=0)
+      [Yaoyao Frames Mastersheet](https://docs.google.com/spreadsheets/d/12RHJ2isdlQpbhfhUpXmG0OSIpkyGba-4jJlFQqJbEWE/edit?usp=sharing)
+  - name: 'DISCLAIMER:'
+    value: "*Pre-TC is volatile and, as always, perpetually subject to change until
+      release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little
+      information about the character’s kit that we know. Team calcs, additionally,
+      are not established yet, and as with everything in TC, the content in this FAQ
+      should be taken with a grain of salt.*"
+  image:
+    url: https://pbs.twimg.com/media/Flya9euaMAEC_2_?format=jpg&name=large
+- title: __OVERVIEW__
+  description: "Yaoyao is a Dendro Polearm character and the first Dendro healer in
+    the game. Aside from being a solid healer, being a Dendro character opens her
+    up to some unique applications. Her role in a team composition is flexible thanks
+    to her low desire for on-field time and in many applications low desire for Energy
+    as well. \n\nYaoyao’s playstyle can be split into two directions: Elemental Skill
+    focused or Elemental Skill & Elemental Burst focused. The main differentiator
+    between these playstyles is the requirement for ER and on-field time. Yaoyao’s
+    healing scales off of her HP. Because of her HP% Ascension stat and high Base
+    HP, she gets more value out of Healing Bonus% than HP%. As an off-field DPS, she
+    wants a good balance between Dendro DMG Bonus, CRIT Rate/CRIT DMG and EM (to boost
+    Spread DMG). Artifact set and Weapon wise, she is not picky, and players are free
+    to choose whichever combo fits their team-building the best. \n\nWhile picking
+    playstyles for Yaoyao, the main thing to consider is the pressure of survival.
+    Her Burst can be treated as an emergency heal button for the whole team. Using
+    it will extend her on-field time and decrease the overall team’s DPS by a small
+    margin, in exchange for a substantial amount of healing. For instance, in teams
+    with less i-frames and high self-damage like Nilou Bloom/Burgeon, players would
+    likely utilize Yaoyao’s Burst more often than other typical Aggravate/Spread teams.
+    \n\nYaoyao performs all of her core functions at C0. Her Constellations provide
+    QoL features such as Stamina restoration, ER requirement reduction, self EM boost,
+    extra Dendro application and healing."
+  color: 10403358
+  footer:
+    text: 'Authored by: Edulis'
+    icon_url: https://images-ext-1.discordapp.net/external/8IpjlYZC1wHZPyRr2TX4Mv0uNzca9-NlnmjG20BB_yA/%3Fsize%3D4096/https/cdn.discordapp.com/guilds/791074691841523742/users/370761744789798912/avatars/0de2b5fcadf03a1602ab52c418c4ad92.png?width=701&height=701
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/yaoyao_077_icon.webp
+attachments: []

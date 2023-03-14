@@ -12,9 +12,9 @@ embeds:
     value: "<@293169816741740556>, <@209617229216612352>, <@370761744789798912>"
   - name: 'Framecounting:'
     value: "<@367160010335191054>"
-  - name: Consultation
+  - name: 'Consultation:'
     value: "<@209617229216612352>"
-  - name: Contributor
+  - name: 'Contributor:'
     value: "<@510286757879742474>"
   - name: 'Resources:'
     value: |-
