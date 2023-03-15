@@ -30,8 +30,7 @@ embeds:
   and happy birthday Nahida!*"
   image:
     url: https://pbs.twimg.com/media/FiTQm1TWAAEGQIm?format=jpg&name=large
-embeds:
-  - title: __**TLDR**__
+- title: __**TLDR**__
     description: |-
       **Role:** On-field Driver / Sub DPS
 
@@ -57,7 +56,6 @@ embeds:
       Sacrificial Fragments
       Magic Guide
     color: 3450963
-embeds:
 - title: __OVERVIEW__
   description: Nahida is a 5* Dendro character who can be played as an on-field driver or
       off-field buffer. The majority of her damage comes from the mark applied
