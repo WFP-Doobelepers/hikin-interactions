@@ -44,11 +44,6 @@ options: #dropdown
     value: faq/dendro/nahida/combos
     description: "WFP resources for Nahida FAQ."
     emoji: :Dendro:925598874532479076
-    
-  - label: ER Requirements
-    value: faq/dendro/nahida/errequire
-    description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
 
   - label: Artifacts
     value: faq/dendro/nahida/artifacts

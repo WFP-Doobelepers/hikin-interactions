@@ -7,11 +7,11 @@ embeds:
   - name: 'Lead:'
     value: "<@280016643558604800>, <@908531619655188512>"
   - name: 'Authors:'
-    value: "<@370761744789798912>, <@178766970450214912>, <@186163908938039296>, <@377496350155079690>"
+    value: "<@280016643558604800>, <@908531619655188512>, <@510286757879742474>, <@377496350155079690>"
   - name: 'Calculations:'
     value: "<@510286757879742474>, <@209617229216612352>, <@463998487067885600>"
   - name: 'Mapping:'
-    value: "<@908531619655188512>"
+    value: "<@908531619655188512>, <@604540951708565515>, <@280016643558604800>"
   - name: 'Framecounting:'
     value: "<@367160010335191054>"
   - name: 'Consultation:'
@@ -31,34 +31,16 @@ embeds:
   image:
     url: https://pbs.twimg.com/media/FiTQm1TWAAEGQIm?format=jpg&name=large
 - title: __**TLDR**__
-    description: |-
-      **Role:** On-field Driver / Sub DPS
-
-      __Talent Priority__
-      E (Skill) = Q (Burst) > NA (Normal ATK) 
-
-      __Constellations__
-      C2 > C6 > C4 > C3 > C5
-      C1 ranking depends on team compositions
-
-      __Artifacts__
-      4pc Deepwood (preferred)
-      4pc Gilded Dreams
-      2pc GD / 2pc WT / 2pc DW
-
-      __Weapons__
-      *Weapons can change depending on team compositions* 
-      A Thousand Floating Dreams
-      Kagura’s Verity
-      The Widsith
-      Solar Pearl
-      Wandering Evenstar
-      Sacrificial Fragments
-      Magic Guide
-    color: 3450963
+  description: "**Role:** On-field Driver / Sub DPS\n\n__Talent Priority__\nE (Skill)
+    = Q (Burst) > NA (Normal ATK) \n\n__Constellations__\nC2 > C6 > C4 > C3 > C5\nC1
+    ranking depends on team compositions\n\n__Artifacts__\n4pc Deepwood (preferred)\n4pc
+    Gilded Dreams\n2pc GD / 2pc WT / 2pc DW\n\n__Weapons__\n*Weapons can change depending
+    on team compositions* \nA Thousand Floating Dreams\nKagura’s Verity\nThe Widsith\nSolar
+    Pearl\nWandering Evenstar\nSacrificial Fragments\nMagic Guide"
+  color: 3450963
 - title: __OVERVIEW__
-  description: Nahida is a 5* Dendro character who can be played as an on-field driver or
-      off-field buffer. The majority of her damage comes from the mark applied
+  description: "Nahida is a 5* Dendro character who can be played as an on-field driver or
+     off-field buffer. The majority of her damage comes from the mark applied
       by her Elemental Skill, which is further buffed from her A4 passive.
       Nahida’s Elemental Burst also gives different effects to her Skill
       depending on the amount of Pyro, Hydro or Electro members in her party, as
@@ -83,7 +65,7 @@ embeds:
       Enemies marked by the Seed of Skandha will be linked to one another,
       signified by green chains between enemies. Triggering an Elemental
       Reaction or dealing damage with Bloom Cores to marked enemies will trigger
-      **Tri-Karma Purification** on all marked enemies, dealing single target
+      '**Tri-Karma Purification**' on all marked enemies, dealing single target
       Dendro DMG which scales off both ATK and Elemental Mastery. Tri-Karma
       Purification can be triggered every 2.5 seconds and applies 1.5U Dendro to
       enemies with no ICD. This will also generally apply as an aura in a lot of
@@ -110,8 +92,8 @@ embeds:
       Nahida’s A4 passive gives her Tri-Karma Purification bonus DMG% and Crit
       Rate based on the amount of EM she has that exceeds above 200 EM, maxing
       out at 80% DMG bonus and 24% Crit Rate. A very nice amount of stats to her
-      main damage source, which emphasizes building EM on Nahida.
-  color: 10403358
+      main damage source, which emphasizes building EM on Nahida."
+  color: 3450963
   footer:
     text: 'Authored by Leifa'
   thumbnail:
