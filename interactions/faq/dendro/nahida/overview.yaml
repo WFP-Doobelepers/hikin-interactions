@@ -95,7 +95,7 @@ embeds:
       main damage source, which emphasizes building EM on Nahida."
   color: 3450963
   footer:
-    text: 'Authored by Leifa'
+    text: '(section authored by Leifa)'
   thumbnail:
     url: https://genshin.honeyhunterworld.com/img/nahida_073_icon.webp
 attachments: []
