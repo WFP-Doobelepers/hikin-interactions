@@ -50,6 +50,11 @@ options:
   description: WFP resources for faruzan FAQ.
   emoji: Anemo:925598874779910215
 
+- label: External Links
+  value: faq/anemo/faruzan/external
+  description: WFP resources for faruzan FAQ.
+  emoji: Anemo:925598874779910215
+
 buttons:
 
 - label: WFP Website
