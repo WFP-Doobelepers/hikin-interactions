@@ -85,5 +85,7 @@ embeds:
       certain scenarios. Refines are also easy to get due to it being a 3*
       weapon. Overall, an amazing F2P option considering its rarity.
     color: 3450963
+    footer:
+      text: (section authored by Leifa)
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n14301.webp
