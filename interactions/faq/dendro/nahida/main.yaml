@@ -5,7 +5,7 @@ embeds:
       who can only see the world in her dreams.
     color: 3450963
     fields:
-      - name: 'Nahida Artifact Sheet Compilation by ඞඞ#6874:'
+      - name: 'Nahida Artifact Sheet Compilation by em-#9212:'
         value: >-
           [Google
           Drive](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5)
@@ -42,11 +42,6 @@ options: #dropdown
 
   - label: Combos
     value: faq/dendro/nahida/combos
-    description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
-    
-  - label: ER Requirements
-    value: faq/dendro/nahida/errequire
     description: "WFP resources for Nahida FAQ."
     emoji: :Dendro:925598874532479076
 

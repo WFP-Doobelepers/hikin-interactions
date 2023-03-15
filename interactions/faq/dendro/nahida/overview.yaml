@@ -1,57 +1,46 @@
-content: >-
-  Nahida Pre-TC FAQ by <@280016643558604800> (Author), <@908531619655188512>
-  (Co-Author, Mapping), <@377496350155079690> (Writing), <@510286757879742474>
-  (Calcs, Writing), <@209617229216612352> and <@463998487067885600> (Calcs),
-  <@367160010335191054> (Framecounts), <@604540951708565515>,
-  <@293169816741740556>, and <@147571130943799296> (Consulting)
-
-
-  For all Nahida Calcs you can reference: [Nahida Artifact Sheet
-  Compilation](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5)
-  by <@510286757879742474>, [Nahida Weapon
-  Ranking](https://docs.google.com/spreadsheets/d/1QQD3olhkT-MoUbNwfYaTFwlemUOkDBXfMEMy90xXaAw/edit#gid=1297758557)
-  by <@209617229216612352>,  and [Nahida Frames
-  Mastersheet](https://docs.google.com/spreadsheets/d/1LepBLdPrNIXCZmGHQYmboqPAS3h8TNAJMsZaSpXgBeY/edit?usp=sharing)
-  by <@367160010335191054>
-
-
-  **DISCLAIMER** *Everything in this FAQ is Pre-TC, meaning any information is
+---
+content:
+embeds:
+- title: __CREDITS__
+  color: 3450963
+  fields:
+  - name: 'Lead:'
+    value: "<@280016643558604800>, <@908531619655188512>"
+  - name: 'Authors:'
+    value: "<@280016643558604800>, <@908531619655188512>, <@510286757879742474>, <@377496350155079690>"
+  - name: 'Calculations:'
+    value: "<@510286757879742474>, <@209617229216612352>, <@463998487067885600>"
+  - name: 'Mapping:'
+    value: "<@908531619655188512>, <@604540951708565515>, <@280016643558604800>"
+  - name: 'Framecounting:'
+    value: "<@367160010335191054>"
+  - name: 'Consultation:'
+    value: "<@604540951708565515>, <@293169816741740556>, <@147571130943799296>"
+  - name: 'Resources:'
+    value: |-
+      [Nahida Artifact Sheet Compilation](https://drive.google.com/drive/folders/1WwCzAvYcj6zEEjBkXKPUDjcJ_rGayab5)
+      [Nahida Weapon Ranking](https://docs.google.com/spreadsheets/d/1QQD3olhkT-MoUbNwfYaTFwlemUOkDBXfMEMy90xXaAw/edit#gid=1297758557)
+      [Nahida Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LepBLdPrNIXCZmGHQYmboqPAS3h8TNAJMsZaSpXgBeY/edit?usp=sharing)
+  - name: 'DISCLAIMER:'
+    value: "*Everything in this FAQ is Pre-TC, meaning any information is
   __**SUBJECT TO CHANGE (STC)**__ until release. To our knowledge there is only
   one version of Nahida and no proof has been given to show otherwise. Anything
   can change at any time before the official release but this is meant to help
   give our current understanding of the character. And with that, enjoy reading
-  and happy birthday Nahida!*
-embeds:
-  - title: __**TLDR**__
-    description: |-
-      **Role:** On-field Driver / Sub DPS
-
-      __Talent Priority__
-      E (Skill) = Q (Burst) > NA (Normal ATK) 
-
-      __Constellations__
-      C2 > C6 > C4 > C3 > C5
-      C1 ranking depends on team compositions
-
-      __Artifacts__
-      4pc Deepwood (preferred)
-      4pc Gilded Dreams
-      2pc GD / 2pc WT / 2pc DW
-
-      __Weapons__
-      *Weapons can change depending on team compositions* 
-      A Thousand Floating Dreams
-      Kagura’s Verity
-      The Widsith
-      Solar Pearl
-      Wandering Evenstar
-      Sacrificial Fragments
-      Magic Guide
-    color: 3450963
-  - title: __**CHARACTER OVERVIEW**__
-    description: >-
-      Nahida is a 5* Dendro character who can be played as an on-field driver or
-      off-field buffer. The majority of her damage comes from the mark applied
+  and happy birthday Nahida!*"
+  image:
+    url: https://pbs.twimg.com/media/FiTQm1TWAAEGQIm?format=jpg&name=large
+- title: __**TLDR**__
+  description: "**Role:** On-field Driver / Sub DPS\n\n__Talent Priority__\nE (Skill)
+    = Q (Burst) > NA (Normal ATK) \n\n__Constellations__\nC2 > C6 > C4 > C3 > C5\nC1
+    ranking depends on team compositions\n\n__Artifacts__\n4pc Deepwood (preferred)\n4pc
+    Gilded Dreams\n2pc GD / 2pc WT / 2pc DW\n\n__Weapons__\n*Weapons can change depending
+    on team compositions* \nA Thousand Floating Dreams\nKagura’s Verity\nThe Widsith\nSolar
+    Pearl\nWandering Evenstar\nSacrificial Fragments\nMagic Guide"
+  color: 3450963
+- title: __OVERVIEW__
+  description: "Nahida is a 5* Dendro character who can be played as an on-field driver or
+     off-field buffer. The majority of her damage comes from the mark applied
       by her Elemental Skill, which is further buffed from her A4 passive.
       Nahida’s Elemental Burst also gives different effects to her Skill
       depending on the amount of Pyro, Hydro or Electro members in her party, as
@@ -76,7 +65,7 @@ embeds:
       Enemies marked by the Seed of Skandha will be linked to one another,
       signified by green chains between enemies. Triggering an Elemental
       Reaction or dealing damage with Bloom Cores to marked enemies will trigger
-      **Tri-Karma Purification** on all marked enemies, dealing single target
+      '**Tri-Karma Purification**' on all marked enemies, dealing single target
       Dendro DMG which scales off both ATK and Elemental Mastery. Tri-Karma
       Purification can be triggered every 2.5 seconds and applies 1.5U Dendro to
       enemies with no ICD. This will also generally apply as an aura in a lot of
@@ -103,68 +92,10 @@ embeds:
       Nahida’s A4 passive gives her Tri-Karma Purification bonus DMG% and Crit
       Rate based on the amount of EM she has that exceeds above 200 EM, maxing
       out at 80% DMG bonus and 24% Crit Rate. A very nice amount of stats to her
-      main damage source, which emphasizes building EM on Nahida.
-    color: 3450963
-    footer:
-      text: (section authored by Leifa)
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/nahida_073_icon.webp
-
----
-content:
-embeds:
-- title: __CREDITS__
-  color: 10403358
-  fields:
-  - name: 'Lead:'
-    value: "<@370761744789798912>, <@366206663533002774>"
-  - name: 'Authors:'
-    value: "<@370761744789798912>, <@178766970450214912>, <@186163908938039296>"
-  - name: 'Calculations:'
-    value: "<@370761744789798912>, <@280016643558604800>, <@271793426956025856>"
-  - name: 'Framecounting:'
-    value: "<@377496350155079690>, <@669758268888973332>"
-  - name: Consultation
-    value: "<@604540951708565515>"
-  - name: 'Resources:'
-    value: |-
-      [Yaoyao Mastersheet](https://docs.google.com/spreadsheets/d/1W-LbV4b5QZ_n7aVZjsR3s_GFEfdmP64lx-bcWwvU8Oo/edit#gid=0)
-      [Yaoyao Frames Mastersheet](https://docs.google.com/spreadsheets/d/12RHJ2isdlQpbhfhUpXmG0OSIpkyGba-4jJlFQqJbEWE/edit?usp=sharing)
-  - name: 'DISCLAIMER:'
-    value: "*Pre-TC is volatile and, as always, perpetually subject to change until
-      release (and sometimes later!). Please note that these are theoretical suggestions.
-      Everything described in this FAQ is a good faith analysis based on the little
-      information about the character’s kit that we know. Team calcs, additionally,
-      are not established yet, and as with everything in TC, the content in this FAQ
-      should be taken with a grain of salt.*"
-  image:
-    url: https://pbs.twimg.com/media/Flya9euaMAEC_2_?format=jpg&name=large
-- title: __OVERVIEW__
-  description: "Yaoyao is a Dendro Polearm character and the first Dendro healer in
-    the game. Aside from being a solid healer, being a Dendro character opens her
-    up to some unique applications. Her role in a team composition is flexible thanks
-    to her low desire for on-field time and in many applications low desire for Energy
-    as well. \n\nYaoyao’s playstyle can be split into two directions: Elemental Skill
-    focused or Elemental Skill & Elemental Burst focused. The main differentiator
-    between these playstyles is the requirement for ER and on-field time. Yaoyao’s
-    healing scales off of her HP. Because of her HP% Ascension stat and high Base
-    HP, she gets more value out of Healing Bonus% than HP%. As an off-field DPS, she
-    wants a good balance between Dendro DMG Bonus, CRIT Rate/CRIT DMG and EM (to boost
-    Spread DMG). Artifact set and Weapon wise, she is not picky, and players are free
-    to choose whichever combo fits their team-building the best. \n\nWhile picking
-    playstyles for Yaoyao, the main thing to consider is the pressure of survival.
-    Her Burst can be treated as an emergency heal button for the whole team. Using
-    it will extend her on-field time and decrease the overall team’s DPS by a small
-    margin, in exchange for a substantial amount of healing. For instance, in teams
-    with less i-frames and high self-damage like Nilou Bloom/Burgeon, players would
-    likely utilize Yaoyao’s Burst more often than other typical Aggravate/Spread teams.
-    \n\nYaoyao performs all of her core functions at C0. Her Constellations provide
-    QoL features such as Stamina restoration, ER requirement reduction, self EM boost,
-    extra Dendro application and healing."
-  color: 10403358
+      main damage source, which emphasizes building EM on Nahida."
+  color: 3450963
   footer:
-    text: 'Authored by: Edulis'
-    icon_url: https://images-ext-1.discordapp.net/external/8IpjlYZC1wHZPyRr2TX4Mv0uNzca9-NlnmjG20BB_yA/%3Fsize%3D4096/https/cdn.discordapp.com/guilds/791074691841523742/users/370761744789798912/avatars/0de2b5fcadf03a1602ab52c418c4ad92.png?width=701&height=701
+    text: 'Authored by Leifa'
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/yaoyao_077_icon.webp
+    url: https://genshin.honeyhunterworld.com/img/nahida_073_icon.webp
 attachments: []
