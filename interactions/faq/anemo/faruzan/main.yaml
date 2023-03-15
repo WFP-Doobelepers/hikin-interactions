@@ -4,9 +4,10 @@ embeds:
     of all kinds.
   color: 3634295
   fields:
-  - name: Faruzan Mastersheet by Athena#2444, Akane#0926, Raikh/Valien#8564, jrm.spirit#2671
-      and Kol#1593
+  - name: Faruzan Mastersheet by Athena#2444, Akane#0926, Raikh/Valien#8564, jrm.spirit#2671 and Kol#1593
     value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1BCq5SuCjEjOWvzuH3piwwJx4EIAVvOTak2yEXwmvClk/edit#gid=0)"
+  - name: Faruzan Frames Mastersheet by jrm.spirit#2671
+    value: "[Faruzan Frames Mastersheet](https://docs.google.com/spreadsheets/d/1hibtmTzgvtgXJcu-6q1Zb9dPuVO8GC52AL7DkyeeFxI/edit?usp=sharing)"
   author:
     name: Faruzan FAQ
     icon_url: https://genshin.honeyhunterworld.com/img/faruzan_076_side_icon.webp
