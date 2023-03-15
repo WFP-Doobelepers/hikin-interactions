@@ -2,10 +2,12 @@ embeds:
 - title: __CREDITS__
   color: 3634295
   fields:
-  - name: 'Team Lead, Author, Calcs:'
+  - name: 'Team Lead'
     value: "<@366206663533002774>"
-  - name: 'Author, Calcs, Consultant:'
-    value: "<@604540951708565515>"
+  - name: 'Author'
+    value: "<@366206663533002774>, <@604540951708565515>"
+  - name: 'Calculations'
+    value: "<@604540951708565515>, <@366206663533002774>"
   - name: 'Contributors:'
     value: "<@178766970450214912>  , <@778698226252644412>"
   - name: 'Resources:'
