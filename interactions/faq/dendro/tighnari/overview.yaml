@@ -1,20 +1,20 @@
 content: null
 embeds:
   - title: __CREDITS__
-  color: 3450963
-  fields:
-  - name: 'Lead:'
-    value: "<@143615626785587200>, <@209617229216612352>"
-  - name: 'Authors:'
-    value: "<@143615626785587200>, <@209617229216612352>"
-  - name: 'Calculations:'
-    value: "<@209617229216612352>, <@143615626785587200>"
-  - name: 'Framecounting:'
-    value: "<@367160010335191054>"
-  - name: 'Resources:'
-    value: |-
-      [Yaoyao Mastersheet](https://docs.google.com/spreadsheets/d/1W-LbV4b5QZ_n7aVZjsR3s_GFEfdmP64lx-bcWwvU8Oo/edit#gid=0)
-      [Yaoyao Frames Mastersheet](https://docs.google.com/spreadsheets/d/12RHJ2isdlQpbhfhUpXmG0OSIpkyGba-4jJlFQqJbEWE/edit?usp=sharing)
+    color: 3450963
+    fields:
+    - name: 'Lead:'
+      value: "<@143615626785587200>, <@209617229216612352>"
+    - name: 'Authors:'
+      value: "<@143615626785587200>, <@209617229216612352>"
+    - name: 'Calculations:'
+      value: "<@209617229216612352>, <@143615626785587200>"
+    - name: 'Framecounting:'
+      value: "<@367160010335191054>"
+    - name: 'Resources:'
+      value: |-
+        [Yaoyao Mastersheet](https://docs.google.com/spreadsheets/d/1W-LbV4b5QZ_n7aVZjsR3s_GFEfdmP64lx-bcWwvU8Oo/edit#gid=0)
+        [Yaoyao Frames Mastersheet](https://docs.google.com/spreadsheets/d/12RHJ2isdlQpbhfhUpXmG0OSIpkyGba-4jJlFQqJbEWE/edit?usp=sharing)
   - title: __DISCLAIMER (This one is especially important)__
     description: >-
       Dendro is a new element and there are many things we still do not know about
