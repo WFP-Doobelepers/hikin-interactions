@@ -1,0 +1,13 @@
+embeds:
+  - title: >-
+      A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character.
+    color: 7731711
+    fields:
+      - name: |-
+          Mika Mastersheet by KB#1111 and Luna#0188:
+        value: >-
+          [Google Sheet](https://docs.google.com/spreadsheets/d/1b6AK2wbHXq_V3Hv3FL1nskrneG-Zwj2awdKm_MVyP0Q/edit#gid=981902297)
+    author:
+      name: Mika FAQ
+    image:
+      url: 'https://genshin.honeyhunterworld.com/img/mika_080_gacha_splash.webp'

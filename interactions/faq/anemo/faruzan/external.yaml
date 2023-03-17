@@ -1,9 +1,9 @@
 embeds:
 - title: __EXTERNAL LINKS__
-  color: 3450963
+  color: 3634295
   fields:
   - name: 'Project Amber:'
-    value: "[Character Database](https://ambr.top/en/archive/avatar/10000073/nahida)"
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000076/faruzan)"
   - name: Honey Hunter World
     value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
   - name: Genshin Impact JP Twitter
@@ -11,9 +11,8 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text: Credits to Leifa, Apollo, Von and redd for the Nahida FAQ! || WFP Theorycrafting
-    
+    text: Credits to Athena, Akane, Gerry, and Chaos for the Faruzan FAQ! || WFP Theorycrafting
     icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
   
   image:
-    url: https://media.discordapp.net/attachments/964616918336159814/1035131681436344370/dn.jpeg
+    url: https://cdn.discordapp.com/attachments/1084532037194625034/1085535056354869278/genshin-faruzan-e600.png
