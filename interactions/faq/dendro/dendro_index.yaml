@@ -12,7 +12,7 @@ options:
 
   - label: Alhaitham
     value: faq/dendro/alhaitham/main
-    description: WFP resources on Alhaitham
+    description: WFP resources on Alhaitham 
 
   - label: Nahida
     value: faq/dendro/nahida/main
