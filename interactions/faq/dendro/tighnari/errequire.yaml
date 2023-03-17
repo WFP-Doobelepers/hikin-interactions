@@ -1,0 +1,36 @@
+---
+content:
+embeds:
+- title: '***ENERGY REQUIREMENT***'
+  description: >-
+    Despite Tighnari’s primary home being Quicken Teams his Energy
+    requirements can vary a lot depending on the exact Team and Rotation.
+
+
+    The 2 most important factors are the number of Dendro units on the Team
+    and if Tighnari wants to use his Burst every DPS cycle (12-15s) or only
+    every other DPS Cycle (24-30s).
+
+
+    In Double Dendro Teams, his ER requirements are usually **120-140%** if he
+    wants to burst every DPS cycle. Whereas in Double Electro Teams his ER
+    requirements are usually around **160-180%** if he wants to burst every
+    DPS cycle.
+
+    Teams with neither a second Dendro unit nor Electro Resonance may feature
+    even higher ER requirements and it is not recommended to burst every DPS
+    cycle in such Teams.
+
+
+    Should you opt to burst every other DPS cycle, his ER requirements are
+    generally **non-existent**. 
+
+
+    Notably, since Tighnari thrives in a flexible quickswap environment a
+    possible approach is to mostly forego ER in high ER demanding Teams and
+    simply use his Burst whenever possible and either let him do an additional
+    slow CA or let someone else fill the field time should not enough
+    particles drop to fill his Burst for a given DPS cycle.
+  color: 3450963
+  footer:
+    text: (section authored by Raikh)

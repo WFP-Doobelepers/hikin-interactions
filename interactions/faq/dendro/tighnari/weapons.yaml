@@ -1,0 +1,122 @@
+content:
+embeds:
+- title: '***WEAPONS***'
+  description: >-
+    Bows are known to have a colorful and powerful range of options to choose
+    from, so which ones fit Tighnari?
+
+  color: 3450963
+
+- title: >- 
+    '5★ Options'
+  description: >-
+    ***Hunter’s Path > Polar Star/Aqua Simulacra > Thundering Pulse/Skyward
+    Harp > Amos’ Bow > Elegy for the End***
+
+  color: 3450963
+
+- title: >- 
+    Signature Weapon - Hunter's Path
+  description: >-
+
+    His 5★ Signature Bow Hunter’s Path stands tall above all other
+    options. At R1, it is a massive 25-30% upgrade over his best R5 4★ options
+    and even gains significant mileage over other 5★ Bows. Additionally,
+    should Tighnari not burst every DPS cycle, the advantage of Hunter’s Path
+    increases even further.
+
+    Should one look to invest more Primogems into their Tighnari his signature
+    weapon is most definitely your first stop and takes priority over his
+    Constellations.
+  
+  color: 3450963
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Hunters_Path.png
+
+- title: >- 
+    3★ Option
+
+    R5 Slingshot
+  description: >-
+
+    "The general recommendation if you don't have a 5* weapon available for 
+    Tighnari is not even a 4* weapon, but a 3* weapon: R5 Slingshot!
+
+    As so much of Tighnari’s DMG comes from Spread Reactions, its low Base ATK
+    is not as much of a detriment. Its passive +60% works pretty effortlessly
+    on his initial CA Hit and makes more than up for the -10% the Clusters
+    afterwards receive. Combined with its high CR Substat, it becomes an
+    excellent choice competing with R5 4* options."
+  
+  color: 3450963
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Slingshot.png
+
+- title: >-
+    
+    4★ Options
+  color: 3450963
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1084456231432892501/1086286914509881344/Portraits_Kings_Squire_-_Prototype_Crescent_-_Hamayumi_1.png?width=1135&height=352
+  description: >-
+  
+    "Otherwise, **if one insists on using a 4* weapon**, a lot of high
+    refinement ones are comparable to Slingshot if you can satisfy their
+    accompanying conditions. None of them however really stand notably above
+    Slingshot for general use.
+
+    **all 3 Craftables** are fairly close to each other, but all come with
+    their individual requirements. None of them really excel over Slingshot
+    consistently enough to warrant spending the 5 Billets on them.
+
+- title: >- 
+    
+    The Stringless
+    
+  description: >-
+
+    The Stringless can be a fine option if you burst every DPS cycle, but
+    doesn’t stand out and an accompanying Fischl would love to have it much
+    more.
+
+  color: 3450963
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/The_Stringless.png
+
+- title: Windblume Ode
+
+  description: >-
+
+    Windblume Ode is just a worse Stringless for the most part and falls
+    behind Slingshot, so sadly it stays all dusty and rusty.
+
+  color: 3450963
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Windblume_Ode.png
+
+- title: Fading Twilight
+
+  descrioption: >-
+
+  Fading Twilight can be solid if its ER Substat is put to good use.
+
+  color: 3450963
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Fading_Twilight.png
+
+- title: Alley Hunter
+
+  description: >-
+
+    Alley Hunter at high refinements stands out as Tighnari’s best non-5*
+    weapon IF you execute Tighnari’s DPS cycles cleanly within 4s and thus
+    prevent its Stack decay. Not suitable for extended field-time and quite
+    inaccessible being a limited 4* Weapon.
+
+  color: 3450963
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Alley_Hunter.png
+
+  color: 3450963
+  footer:
+    text: (section authored by Raikh)
