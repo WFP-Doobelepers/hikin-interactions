@@ -1,0 +1,25 @@
+content:
+embeds:
+- title: '***TALENTS***'
+  description: >-
+    **Leveling Priority: AA>Q>>E**
+
+
+    While most of Tighnari’s damage comes from the EM scaling Spread reaction,
+    the ATK scaling of his multipliers is still important for his overall
+    damage. Prioritize leveling the AA for the Charge Attack and the Q,
+    whereas the E can be prioritized last as the initial hit is only one
+    moderate instance of damage. Due to Tighnari’s reliance on Spread
+    reaction, getting him to Level 90 is highly advisable more so than
+    crowning his talents.
+  color: 3450963
+  footer:
+    text: >-
+      Relative proportion of how much damage Tighnari’s talents do including
+      Spread procs
+
+
+      (section authored by XenoVX)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/957846543011024929/1010379349104545872/unknown.png

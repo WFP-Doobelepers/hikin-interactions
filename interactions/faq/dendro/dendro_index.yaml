@@ -18,3 +18,8 @@ options:
     value: faq/dendro/nahida/main
     description: WFP resources on Nahida
     emoji: "<:Nahida:1041944645061574676>"
+
+  - label: Tighnari
+    value: faq/dendro/tighnari/main
+    description: WFP resources on Tighnari
+    emoji: "<:Tighnari:1086226279029809264>"

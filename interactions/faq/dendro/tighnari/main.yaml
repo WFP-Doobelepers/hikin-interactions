@@ -1,0 +1,81 @@
+content: null
+embeds:
+  - title: >-
+      A young researcher well-versed in botany who currently serves as a Forest
+      Watcher in Avidya Forest. He is a straight shooter with a warm heart — and
+      a dab hand at guiding even the dullest of pupils.
+    color: 3450963
+    fields:
+      - name: 'Tighnari Constellation Mastersheet by XenoVX#6150:'
+        value: >-
+          [Google Sheet](https://docs.google.com/spreadsheets/d/1YHRim2JAByx7ON-bNFkBr_G8afeQXbjzqR9S00nTfQk/edit#gid=1964701386)
+      - name: 'Tighnari Weapons and Artifact Mastersheet by Raikh/Valien#8564:'
+        value: >-
+          [Google Sheet](https://docs.google.com/spreadsheets/d/1LgNm2we--BOb5hqqv1B684Piu2idg6r4cNQgeYXbP2k/edit#gid=921661758)
+      - name: 'Tighnari Frames Count by jrm.spirit#2671:'
+        value: >-
+          [Google Sheet](https://docs.google.com/spreadsheets/d/1B1Smg2Wc6J4M35SZu1X4d9pyv1w_WISCsIoUZYjH5S8/edit)
+    author:
+      name: Tighnari FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/tighnari_069_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/tighnari_069_gacha_splash.webp
+
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/dendro/tighnari/overview
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Talents
+    value: faq/dendro/tighnari/talents
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+  
+  - label: Constellations
+    value: faq/dendro/tighnari/constellations
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Combos
+    value: faq/dendro/tighnari/combos
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+    
+  - label: ER Requirements
+    value: faq/dendro/tighnari/errequire
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Artifacts
+    value: faq/dendro/tighnari/artifacts
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Weapons
+    value: faq/dendro/tighnari/weapons
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Teambuilding
+    value: faq/dendro/tighnari/teambuilding
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: Should you pull Tighnari
+    value: faq/dendro/tighnari/external
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+  - label: External Links
+    value: faq/dendro/tighnari/external
+    description: "WFP resources for Tighnari FAQ."
+    emoji: :Dendro:925598874532479076
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/tighnari
+    emoji: :wfp_logo:1084805098561085512
+    style: LINK
