@@ -1,75 +1,75 @@
 embeds:
-- title: __CREDITS__
-  color: 3450963
-  fields:
-  - name: 'Lead:'
-    value: "<@143615626785587200>, <@209617229216612352>"
-  - name: 'Authors:'
-    value: "<@143615626785587200>, <@209617229216612352>"
-  - name: 'Calculations:'
-    value: "<@209617229216612352>, <@143615626785587200>"
-  - name: 'Framecounting:'
-    value: "<@367160010335191054>"
-  - name: 'Resources:'
-    value: |-
-      [Yaoyao Mastersheet](https://docs.google.com/spreadsheets/d/1W-LbV4b5QZ_n7aVZjsR3s_GFEfdmP64lx-bcWwvU8Oo/edit#gid=0)
-      [Yaoyao Frames Mastersheet](https://docs.google.com/spreadsheets/d/12RHJ2isdlQpbhfhUpXmG0OSIpkyGba-4jJlFQqJbEWE/edit?usp=sharing)
-  - title: __DISCLAIMER (This one is especially important)__
-    description: >-
-      Dendro is a new element and there are many things we still do not know about
-      the new elemental reactions. Pre-TC is volatile and, as always, perpetually
-      subject to change until release (and sometimes later!). Please note that these
-      are theoretical suggestions. Everything described in this FAQ is a good faith
-      analysis based on the little information about the character’s kit that we
-      know. Team calcs, additionally, are not established yet, and as with
-      everything in TC, the content in this FAQ should be taken with a grain of
-      salt.
-  - title: '***CHARACTER OVERVIEW***'
-    description: >-
-      Tighnari is a 5 star Dendro bow unit and is the first Dendro 5 star to be
-      released in Genshin Impact. Because Dendro is new and has not been
-      thoroughly tested, please take our work with an extra dose of salt, as we
-      may learn a lot more about Dendro teams in the future after testing.
-
-
-      Tighnari is an on field DPS unit that has a very short (4 second) field
-      time requirement for each rotation. His kit seems designed around the
-      Quicken reaction, and Spread makes up around 40-50% of his total damage
-      output in these teams. Because of this, Tighnari will likely have a role
-      in enabling Electro units, especially Fischl and Yae Miko, but he may have
-      some viability in other Dendro reaction focused teams as well. His short
-      field time requirement makes him a good choice for Quickswap oriented
-      teams as well.
-
-
-      Tighnari’s playstyle is based around his Charge Attack, which has a
-      2-stage charge, akin to Ganyu, but the charge time is longer than hers at
-      nearly 3 seconds for the level 2 charge. The level 2 Charge Attack has 5
-      instances of Dendro DMG, an initial hit, and 4 Clusterbloom Arrows that
-      branch off and home in on the enemy. The Clusterbloom Arrows are
-      technically AoE, but have a very small hitbox, meaning most of the time 1
-      enemy will be hit (upon release we will test how close or grouped enemies
-      will have to be for any AoE). Each level 2 Charge Attack at C0 applies
-      Dendro twice.
-
-
-      Tighnari’s E grants him 3 orbs which reduce the charge time of each level
-      2 Charge Attack to .5 seconds, making him very fluid for a Charge Attack
-      Bow unit. The orbs granted by his E will persist when he swaps out. The E
-      also creates a taunt field that makes nearby enemies attack each other,
-      which helps him avoid interruption during his short field time window. The
-      E is also Tighnari’s best source of AoE Dendro application. Tighnari’s E
-      grants 3.5 particles per cast, making his energy generation quite good,
-      though he will still need some ER% to use his Q every 12 seconds.
-
-
-      Tighnari’s Q is a 40 cost multi-hit nuke that nets him a lot of Spread
-      procs when combined with his CAs. Tighnari’s ascension passives grant him
-      50 extra EM when he uses a level 2 Charge Attack, and gives EM to DMG
-      Bonus conversion for his CA and Q, which incentivize Tighnari to build EM
-      to capitalize on the Spread reaction, which scales off of EM, Dendro DMG%
-      Bonus and CRIT stats. Every hit of the Q targets a single enemy, and
-      Tighnari has a generally single target ranged niche as a whole.
+  - title: __CREDITS__
     color: 3450963
-    footer:
-      text: (section authored by XenoVX)
+    fields:
+    - name: 'Lead:'
+      value: "<@143615626785587200>, <@209617229216612352>"
+    - name: 'Authors:'
+      value: "<@143615626785587200>, <@209617229216612352>"
+    - name: 'Calculations:'
+      value: "<@209617229216612352>, <@143615626785587200>"
+    - name: 'Framecounting:'
+      value: "<@367160010335191054>"
+    - name: 'Resources:'
+      value: |-
+        [Yaoyao Mastersheet](https://docs.google.com/spreadsheets/d/1W-LbV4b5QZ_n7aVZjsR3s_GFEfdmP64lx-bcWwvU8Oo/edit#gid=0)
+        [Yaoyao Frames Mastersheet](https://docs.google.com/spreadsheets/d/12RHJ2isdlQpbhfhUpXmG0OSIpkyGba-4jJlFQqJbEWE/edit?usp=sharing)
+    - title: __DISCLAIMER (This one is especially important)__
+      description: >-
+        Dendro is a new element and there are many things we still do not know about
+        the new elemental reactions. Pre-TC is volatile and, as always, perpetually
+        subject to change until release (and sometimes later!). Please note that these
+        are theoretical suggestions. Everything described in this FAQ is a good faith
+        analysis based on the little information about the character’s kit that we
+        know. Team calcs, additionally, are not established yet, and as with
+        everything in TC, the content in this FAQ should be taken with a grain of
+        salt.
+    - title: '***CHARACTER OVERVIEW***'
+      description: >-
+        Tighnari is a 5 star Dendro bow unit and is the first Dendro 5 star to be
+        released in Genshin Impact. Because Dendro is new and has not been
+        thoroughly tested, please take our work with an extra dose of salt, as we
+        may learn a lot more about Dendro teams in the future after testing.
+
+
+        Tighnari is an on field DPS unit that has a very short (4 second) field
+        time requirement for each rotation. His kit seems designed around the
+        Quicken reaction, and Spread makes up around 40-50% of his total damage
+        output in these teams. Because of this, Tighnari will likely have a role
+        in enabling Electro units, especially Fischl and Yae Miko, but he may have
+        some viability in other Dendro reaction focused teams as well. His short
+        field time requirement makes him a good choice for Quickswap oriented
+        teams as well.
+
+
+        Tighnari’s playstyle is based around his Charge Attack, which has a
+        2-stage charge, akin to Ganyu, but the charge time is longer than hers at
+        nearly 3 seconds for the level 2 charge. The level 2 Charge Attack has 5
+        instances of Dendro DMG, an initial hit, and 4 Clusterbloom Arrows that
+        branch off and home in on the enemy. The Clusterbloom Arrows are
+        technically AoE, but have a very small hitbox, meaning most of the time 1
+        enemy will be hit (upon release we will test how close or grouped enemies
+        will have to be for any AoE). Each level 2 Charge Attack at C0 applies
+        Dendro twice.
+
+
+        Tighnari’s E grants him 3 orbs which reduce the charge time of each level
+        2 Charge Attack to .5 seconds, making him very fluid for a Charge Attack
+        Bow unit. The orbs granted by his E will persist when he swaps out. The E
+        also creates a taunt field that makes nearby enemies attack each other,
+        which helps him avoid interruption during his short field time window. The
+        E is also Tighnari’s best source of AoE Dendro application. Tighnari’s E
+        grants 3.5 particles per cast, making his energy generation quite good,
+        though he will still need some ER% to use his Q every 12 seconds.
+
+
+        Tighnari’s Q is a 40 cost multi-hit nuke that nets him a lot of Spread
+        procs when combined with his CAs. Tighnari’s ascension passives grant him
+        50 extra EM when he uses a level 2 Charge Attack, and gives EM to DMG
+        Bonus conversion for his CA and Q, which incentivize Tighnari to build EM
+        to capitalize on the Spread reaction, which scales off of EM, Dendro DMG%
+        Bonus and CRIT stats. Every hit of the Q targets a single enemy, and
+        Tighnari has a generally single target ranged niche as a whole.
+      color: 3450963
+      footer:
+        text: (section authored by XenoVX)
