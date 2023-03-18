@@ -1,0 +1,71 @@
+embeds:
+  - title: |-
+      **__Eula Specific Information__**
+
+      **Attack Speed Buff:**
+    description: >-
+      Mika has one of the strongest Attack SPD buffs in the game, which can make
+      Eula feel better to play by increasing the fluidity of her attacks.
+      However, due to her being a Claymore character, hitlag can diminish the
+      actual effects of Attack SPD buffs. This results in her only being able to
+      fit in two more Normal Attacks in her combo; unfortunately, only one of
+      these Normal Attacks will land in time before her Lightfall Sword locks in
+      the stack count. In practice, without Song of Broken Pines, Eula can
+      increase her stack count from 13 -> 15 rather comfortably. For Pines
+      users, the stack increase is only 14 -> 15 stacks.
+    color: 7731711
+  - title: '**Eula Can Not Swap Early**'
+    description: >-
+      Mika’s buffs only apply to the on-field unit. This can be detrimental for
+      players who are swapping out early on Eula to:
+
+      - apply Cryo for Cryo Resonance with Rosaria for 15% CRIT Rate
+
+      - detonate Eula’s Burst slightly early so Rosaria’s A4 CRIT Rate buff does
+      not expire
+
+      - detonate Burst manually when weak enemies are grouped up
+
+      - shorten their rotations if they have overkill damage; especially in the
+      case of C6 Eula players
+
+      - detonate Burst manually before an enemy goes into an invincibility phase
+
+
+      This additional layer of restriction can add gameplay grief for Eula
+      players on top of existing conditions that she has to contend with.
+    color: 7731711
+  - title: '**Particle Generation:**'
+    description: >-
+      Even though four Cryo particles is a hefty amount of Energy, it has a 15
+      second cooldown, which means that you cannot fit two Skills in a typical
+      Eula rotation. This means that Mika effectively generates less Energy than
+      Eula’s classic supports such as Rosaria, Diona, or Shenhe.
+
+
+      This problem is also exacerbated by the fact that Mika does not have as
+      many hits as Diona or Rosaria to activate Favonius comfortably. His Burst
+      does not deal damage, so Mika has to coinflip whether his Skill will proc
+      Favonius without the option to weave in Normal Attacks since he must swap
+      to Eula in time to funnel particles.
+    color: 7731711
+  - title: '**Low Cryo Application**'
+    description: >-
+      Mika only applies Cryo once with his Skill, which is not ideal if he is
+      the only Cryo unit supporting Eula. Having consistent, off-field Cryo
+      application is something that is much appreciated.
+    color: 7731711
+  - title: '**Larger Damage Numbers**'
+    description: >-
+      Even at C6, Mika is more of a sidegrade option for Eula teams due to all
+      of the factors above impacting either total team DPS or general gameplay
+      comfort. That being said, Mika **will** enable your Eula to hit larger
+      numbers on her Normal Attacks and Burst due to him enhancing her CRIT
+      Damage and Physical DMG% at the cost of team DPS. So for players that
+      drool over the idea of hitting that THICC, FAT damage number with their
+      Eula Burst, Mika can definitely look appealing even with his downsides.
+    color: 7731711
+    footer:
+      text: 'Authored by: KB'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/JU3yTYzmNTy4rUofd5p1T6kgbRFqnTlTbShi7_xYC00/%3Fsize%3D128/https/cdn.discordapp.com/avatars/94978723341668352/4a6eca6a397aebec4a5a8927bf526a77.png

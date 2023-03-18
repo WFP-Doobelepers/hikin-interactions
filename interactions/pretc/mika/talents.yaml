@@ -1,0 +1,72 @@
+embeds:
+  - title: |-
+      __TALENT__
+
+      **Leveling Priority: Skill >= Burst >> Normal ATK**
+    color: 7731711
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1074524047469195308/1079805595072348240/Meu_projeto.png
+  - title: __ANALYSIS__
+    description: >-
+      Typically, it is recommended to level HP-scaling characters to 90.
+      However, in Mika's case, this only improves his healing — therefore, it is
+      not as high of a priority if a player is comfortable playing without the
+      added survivability.
+
+
+      **Starfrost Swirl [E] - 4 Particles, 15s CD:** Has Tap and Hold versions.
+      Mika does a ranged attack with his crossbow: the Tap version shoots an
+      arrow that pierces through enemies, while the Hold version shoots a
+      Fragmentation Arrow, which explodes on the first enemy hit and launches
+      Shards targeted towards other enemies.
+
+      Both uses also grant the *Soulwind Effect* for all party members,
+      increasing their Attack Speed based on Talent level.
+
+
+      With his Ascension 1, Soulwind [E] also grants the Detector effect,
+      providing on-field characters 10% Physical DMG Bonus per stack, up to a
+      maximum of 3. Detector stacks can be obtained via these means:
+
+      **- Tap Version:** Grants one *Detector stack* per enemy pierced (Except
+      the first target)
+
+      **- Hold Version:** Grants one Detector stack per enemy hit by the
+      Fragmented Shards. Note that the Shards can’t target the same enemy nor
+      the one hit by the main arrow attack.
+
+      - It is recommended to use his Hold Skill in multi-target situations since
+      landing piercing hits with Tap Skill is much more difficult.
+
+      - With his Ascension 4, if the active character crits and has both the
+      *Soulwind [E]* and the *Skyfeather Song [Q]* effects, they gain one
+      Detector stack. Only one Detector stack can be gained in this manner per
+      *Soulwind [E]* effect. A4 also increases the maximum *Detector* stacks
+      from 3 to 4.
+
+
+      It’s worth noting that at C0, Mika can only grant **one Detector stack**
+      from his A4 in total in single-target scenarios. One extra single-target
+      Detector stack can be gained upon his arrow hitting with either Tap or
+      Hold version via his C2.
+
+
+
+      **Skyfeather Song [Q] - 70 Energy, 18s CD:** Mika heals all party members
+      and grants on-field characters *Eagleplume* for 15 seconds, which heals
+      on-field characters by a small portion when they deal Normal Attacks, with
+      a CD of 2.5 seconds for each healing instance.
+
+
+      - His Elemental Burst neither deals damage nor has Elemental application,
+      so it is mainly used for healing and gaining 1 *Detector* stack via his A4
+      for Physical characters.
+
+      - When Mika is not used in Physical-focused teams and the healing is not
+      needed, *Skyfeather Song [Q]* can be skipped.
+    color: 7731711
+    footer:
+      text: 'Authored by: Luna'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/Np5dY39HRLQlNe7ihSPHu1A59EGjSGFIn8qxnnOldnQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/271793426956025856/1a6c2ac0632ecaa50758166c9274eb3a.png
