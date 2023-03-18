@@ -16,27 +16,27 @@ options:
 - label: Overview
   value: faq/pyro/dehya/overview
   description: WFP resources for Dehya FAQ.
-  emoji: Pyro:925598875853668353
+  emoji: ${ EMOJIS.PYRO_BOX }
 - label: Talents
   value: faq/pyro/dehya/talents
   description: WFP resources for Dehya FAQ.
-  emoji: Pyro:925598875853668353
+  emoji: ${ EMOJIS.PYRO_BOX }
 - label: Constellations
   value: faq/pyro/dehya/constellations
   description: WFP resources for Dehya FAQ.
-  emoji: Pyro:925598875853668353
+  emoji: ${ EMOJIS.PYRO_BOX }
 - label: Weapons
   value: faq/pyro/dehya/weapons
   description: WFP resources for Dehya FAQ.
-  emoji: Pyro:925598875853668353
+  emoji: ${ EMOJIS.PYRO_BOX }
 - label: Teambuilding
   value: faq/pyro/dehya/teambuilding1
   description: WFP resources for Dehya FAQ.
-  emoji: Pyro:925598875853668353
+  emoji: ${ EMOJIS.PYRO_BOX }
 - label: External Links
   value: faq/pyro/dehya/external
   description: WFP resources for Dehya FAQ.
-  emoji: Pyro:925598875853668353
+  emoji: ${ EMOJIS.PYRO_BOX }
 buttons:
 - label: WFP Website
   url: https://wangshengfp.org/faq/dehya
