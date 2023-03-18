@@ -14,47 +14,47 @@ embeds:
 
 options:
 - label: Overview
-  value: faq/pretc/mika/overview
+  value: pretc/mika/overview
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Talents
-  value: faq/pretc/mika/talents
+  value: pretc/mika/talents
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Constellations
-  value: faq/pretc/mika/constellations
+  value: pretc/mika/constellations
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: ER
-  value: faq/pretc/mika/er
+  value: pretc/mika/er
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Artifacts
-  value: faq/pretc/mika/artifacts
+  value: pretc/mika/artifacts
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Weapons
-  value: faq/pretc/mika/weapons
+  value: pretc/mika/weapons
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Eula Synergy
-  value: faq/pretc/mika/eulasynergy
+  value: pretc/mika/eulasynergy
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Teambuilding
-  value: faq/pretc/mika/teambuilding
+  value: pretc/mika/teambuilding
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: External Links
-  value: faq/pretc/mika/external
+  value: pretc/mika/external
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
