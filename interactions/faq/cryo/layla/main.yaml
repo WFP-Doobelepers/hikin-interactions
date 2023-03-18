@@ -26,47 +26,47 @@ options: #dropdown
   - label: Overview
     value: faq/cryo/layla/overview
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
 
   - label: Talents
     value: faq/cryo/layla/talents
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
   
   - label: Constellations
     value: faq/cryo/layla/constellations
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
 
   - label: Combos
     value: faq/cryo/layla/combos
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
     
   - label: ER Requirements
     value: faq/cryo/layla/errequire
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
 
   - label: Artifacts
     value: faq/cryo/layla/artifacts
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
 
   - label: Weapons
     value: faq/cryo/layla/weapons
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
 
   - label: Teambuilding
     value: faq/cryo/layla/teambuilding
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
 
   - label: External Links
     value: faq/cryo/layla/external
     description: "WFP resources for Layla FAQ."
-    emoji: :Cryo:925598873731334175
+    emoji: ${ EMOJIS.CRYO_BOX }
 
 buttons:
   - label: WFP Website
