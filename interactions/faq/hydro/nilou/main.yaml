@@ -24,47 +24,47 @@ options: #dropdown
   - label: Overview
     value: faq/hydro/nilou/overview
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Talents
     value: faq/hydro/nilou/talents
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
   
   - label: Constellations
     value: faq/hydro/nilou/constellations
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Combos
     value: faq/hydro/nilou/combos
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
     
   - label: ER Requirements
     value: faq/hydro/nilou/errequire
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Artifacts
     value: faq/hydro/nilou/artifacts
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Weapons
     value: faq/hydro/nilou/weapons
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Teambuilding
     value: faq/hydro/nilou/teambuilding
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: External Links
     value: faq/hydro/nilou/external
     description: "WFP resources for Nilou FAQ."
-    emoji: :Hydro:925598873844604958
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
 buttons:
   - label: WFP Website
