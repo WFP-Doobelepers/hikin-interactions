@@ -27,44 +27,44 @@ options: #dropdown
   - label: Overview and TLDR
     value: faq/electro/cyno/overview
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Talents
     value: faq/electro/cyno/talents
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
   
   - label: Constellations
     value: faq/electro/cyno/constellations
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Combos
     value: faq/electro/cyno/combos
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
     
   - label: ER Requirements
     value: faq/electro/cyno/errequire
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Artifacts
     value: faq/electro/cyno/artifacts
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Weapons
     value: faq/electro/cyno/weapons1
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Teambuilding
     value: faq/electro/cyno/teambuildingpt1
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: External Links
     value: faq/electro/cyno/external
     description: "WFP resources for Cyno FAQ."
-    emoji: :Electro:925598875174199327
+    emoji: ${ EMOJIS.ELECTRO_BOX }
