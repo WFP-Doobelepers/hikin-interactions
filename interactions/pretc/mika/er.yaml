@@ -7,6 +7,8 @@ embeds:
       ER on him depending on the amount of Favonius weapons in the team, or if
       Raiden is also used.
     color: 7731711
+    thumbnail:
+      url: "https://cdn.discordapp.com/emojis/884431113056055316.webp"
     footer:
       text: 'Authored by: KB'
       icon_url: >-
