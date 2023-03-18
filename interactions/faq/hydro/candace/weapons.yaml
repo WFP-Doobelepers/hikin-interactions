@@ -1,0 +1,48 @@
+---
+content:
+embeds:
+- title: __WEAPONS__
+  description: Candace
+    follows the general trend among recent 60 cost units that dictates that they need
+    more ER than 80 cost units, and she follows this quite well. Despite having 2
+    / 3 particle gen on her burst, she often requires 230+ ER *and* Favonius Lance
+    if no other hydro units are present to alleviate her needs unless you make room
+    in your rotation to swap back to let her E a second time. This seriously impacts
+    her weapon choices outside of double hydro team setups, and any weapon that does
+    not help her with this issue is a non-starter there
+  color: 7184107
+- title: Favonius Lance
+  description: Favonius Lance is the obvious
+    best choice here with a 30.6% ER substat plus a passive that is often worth another
+    40-50% on a unit as energy starved as she is.
+  color: 7184107
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n13407_awaken_icon.webp
+- title: Engulfing Lightning
+  description: Engulfing Lightning is technically
+    better with an 85.1% ER stat, but unless your team has all their energy needs
+    already met, the extra energy given off Favonius’s passive will likely be more
+    relevant than whatever you’d gain
+  color: 7184107
+  thumbnail: 
+    url: https://genshin.honeyhunterworld.com/img/i_n13509_awaken_icon.webp
+- title: The Catch / Prototype Starglitter.
+  description: While The Catch
+    does do more damage, it’s also generally wasted on her, so Prototype Starglitter
+    will do.
+  color: 7184107
+  thumbnail:
+    url: https://cdn.discordapp.com/attachments/1084456231432892501/1086659349226717334/AWMbzgFDKbQiAAAAAElFTkSuQmCC.png
+- title: Kitain Cross Spear
+  description: Depending on
+    team and rotation, its passive can be worth anywhere from 30-60 ER. In most solo
+    hydro comps with no additional help, a R5 Kitain Cross Spear is on par with generic
+    ER sub weapons, pushing her ER by a multiplicative 25-33%. It is also the best F2P option when Candace is used in a Bloom team where she has high Bloom ownership.
+  color: 7184107
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/i_n13414_awaken_icon.webp
+  footer:
+    text: 'Authored by: Atilla the Pun'
+    icon_url: 
+  thumbnail:
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1023509137298038804/image0.jpg
