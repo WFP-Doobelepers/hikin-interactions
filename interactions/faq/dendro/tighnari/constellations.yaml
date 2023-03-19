@@ -1,9 +1,9 @@
 content: null
 embeds:
   - title: >-
-      "***CONSTELLATIONS***
+      ***CONSTELLATIONS***
 
-      **C1**"
+      **C1- Beginnings Determined at the Roots**
 
     description: >-
       Gives 15% CRIT Rate % to Tighnari’s Charge Attacks. Overall an
@@ -18,7 +18,7 @@ embeds:
 
   - title: >-
       
-      "**C2**"
+      **C2 - Origins Known From the Stem**
     
     description: >-
       Provides 20% Dendro DMG bonus to Tighnari when an enemy is in his
@@ -32,7 +32,7 @@ embeds:
 
   - title: >-
 
-      "**C3**"
+      **C3 - Fortunes Read Amongst the Branches**
     description: >-
       Tighnari gains much less from his ATK scaling multipliers relative
       to his EM scaling Spread damage (or compared to CRIT and DMG bonus that
@@ -44,7 +44,7 @@ embeds:
 
   - title: >-
 
-      "**C4**"
+      **C4 - Withering Glimpsed in the Leaves**
     description: >-  
       Tighnari’s Q gives a 60 EM buff for 8 seconds to all party
       members including himself. If the Q triggers a Dendro related reaction,
@@ -59,7 +59,7 @@ embeds:
 
   - title: >-
 
-      "**C5**"
+      **C5 - Comprehension Amidst the Flowers**
     description: >-
       Tighnari gains much less from his ATK scaling multipliers relative
       to his EM scaling Spread damage (or compared to CRIT and DMG bonus that
@@ -71,7 +71,7 @@ embeds:
 
   - title: >-
 
-      "**C6**"
+      **C6 - Karma Adjudged From the Leaden Fruit**
     description: >-
       Tighnari’s level 2 Charge Attack’s charge time is reduced by .9
       seconds, and provides an extra Clusterbloom arrow that deals an additional
