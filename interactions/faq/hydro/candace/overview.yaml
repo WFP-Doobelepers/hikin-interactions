@@ -10,14 +10,14 @@ embeds:
   - name: 'Authors:'
     value: "<@293169816741740556>, <@366206663533002774>, <@281162955981324298>, <@574674223742844928>"
   - name: 'Calculations:'
-    value: "<@293169816741740556>, <@366206663533002774>
-  - name: 'Framecounts:'
+    value: "<@293169816741740556>, <@366206663533002774>"
+  - name: 'Framecounting:'
     value: "<@377496350155079690>"
   - name: 'Resources:'
     value: |-
       [Candace Mastersheet](https://docs.google.com/spreadsheets/d/1a_ivbS9uIGbASOI8JWRGC-WqG8O-eSw7_W5T6Sddb4Q/edit?usp=sharing)
       [Candace Frames Mastersheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit?usp=sharing)
-  - name: DISCLAIMER
+  - name: 'DISCLAIMER'
     value: "*Pre-TC is volatile and subject to change. Everything described in this
       FAQ is a good faith analysis based on the limited information we have. Team
       calcs are not established yet, and as with everything in TC, the content in
@@ -44,6 +44,5 @@ her max HP by 20% when her Elemental Skill hits an enemy."
   color:
   footer:
     text: 'Authored by: dylan'
-    icon_url:
   thumbnail:
     url: https://genshin.honeyhunterworld.com/img/candace_072_icon.webp
