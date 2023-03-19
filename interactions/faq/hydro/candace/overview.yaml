@@ -25,24 +25,23 @@ embeds:
   image:
     url: https://media.discordapp.net/attachments/914949813525696533/1064444028172632144/Haitham_BG.png
 - title: __OVERVIEW__
-  description: |-
-  "Candace is a Hydro polearm-user who is most comfortable being played as a support. She is the only character at the time of writing who offers a Hydro infusion to melee weapons. Aside from this, she is a character who scales entirely
-with HP, much like Nilou, unless you’re committing to auto-attacks (which is not
-recommended). \n\nUsing Candace’s burst off cooldown is essential, so you must
-have 220% Energy Recharge as a solo Hydro (no Favonius Lance), and 200% if you
-are using Favonius Lance. If you are using Favonius Lance with another Hydro character,
-Candace’s energy requirements are lowered to 180%.\n\nCandace cares about Energy
-Recharge, Crit Rate (at least 30%), HP, Crit Damage,  and sometimes ATK (if on-field
-DPS) or Elemental Mastery (if built for transformative reactions). As far as weapons
-go, you can pick any weapon that has Crit, HP, or Energy Recharge, since all of
-her talents scale off of HP (excluding auto-attacks).\n\nCandace’s constellations
-focus on improving her personal damage, increasing application, and extending
-hydro infusion. Her C6 gives her extra Hydro application and where most of her
-personal damage comes from, assuming she isn’t the one on field. Furthermore,
-Candace’s C1  extends the duration of her Hydro infusion, and 2 will increase
-her max HP by 20% when her Elemental Skill hits an enemy."
-  color:
+  description: "Candace is a Hydro polearm-user who is most comfortable being played as a support. She is the only character at the time of writing who offers a Hydro infusion to melee weapons. Aside from this, she is a character who scales entirely
+    with HP, much like Nilou, unless you’re committing to auto-attacks (which is not
+    recommended). \n\nUsing Candace’s burst off cooldown is essential, so you must
+    have 220% Energy Recharge as a solo Hydro (no Favonius Lance), and 200% if you
+    are using Favonius Lance. If you are using Favonius Lance with another Hydro character,
+    Candace’s energy requirements are lowered to 180%.\n\nCandace cares about Energy
+    Recharge, Crit Rate (at least 30%), HP, Crit Damage,  and sometimes ATK (if on-field
+    DPS) or Elemental Mastery (if built for transformative reactions). As far as weapons
+    go, you can pick any weapon that has Crit, HP, or Energy Recharge, since all of
+    her talents scale off of HP (excluding auto-attacks).\n\nCandace’s constellations
+    focus on improving her personal damage, increasing application, and extending
+    hydro infusion. Her C6 gives her extra Hydro application and where most of her
+    personal damage comes from, assuming she isn’t the one on field. Furthermore,
+    Candace’s C1  extends the duration of her Hydro infusion, and 2 will increase
+    her max HP by 20% when her Elemental Skill hits an enemy."
+  color: 7184107
   footer:
-    text: 'Authored by: dylan'
+    text: Authored by dylan
   thumbnail:
     url: https://genshin.honeyhunterworld.com/img/candace_072_icon.webp
