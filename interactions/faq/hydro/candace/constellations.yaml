@@ -78,9 +78,5 @@ embeds:
       value: 5/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_726.webp
-      
-    color: 7184107
     footer:
-      text: 'Authored by: Atilla the Pun'
-      icon_url: https://images-ext-2.discordapp.net/external/Fs1l36PV1QF39jD8coCS8CgXxLxIGXbvSQ9mcxxx2QA/%3Fsize%3D4096/https/cdn.discordapp.com/guilds/791074691841523742/users/651556217315000360/avatars/ceb6b9d77062b154d35c7458cdfcd1da.png
-    
+      text: Authored by Atilla the Pun
