@@ -45,10 +45,12 @@ embeds:
   - title: 4PC Deepwood Memories
     description: Use this set if the team needs Dendro RES Shred but the other teammates have better artifact options. However, this is usually unlikely to happen, as most Dendro characters synergize with the set better than her.
     color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400208.webp
   - title: 4PC Instructor
     description: This set drastically buffs reaction-based team compositions. However, 4-star artifacts suffer from fewer stats overall, sacrificing some damage and making it harder to reach ER requirements.
     color: 7184107
     thumbnail:
-      url: https://cdn.discordapp.com/attachments/1084456231432892501/1086606364727582762/jVVIbysqueUAAAAASUVORK5CYII.png
+      url: https://genshin.honeyhunterworld.com/img/i_n400032.webp
     footer:
       text: Authored by Athena
