@@ -1,0 +1,19 @@
+embeds:
+  - title: __EXTERNAL LINKS__
+    color: 7731711
+    fields:
+      - name: Project Amber
+        value: '[Character Database](https://ambr.top/en)'
+      - name: Honey Hunter
+        value: >-
+          [Character Database and Asset
+          Resource](https://genshin.honeyhunterworld.com/?lang=EN)
+      - name: Genshin Impact JP Twitter
+        value: '[Asset Resources](https://twitter.com/Genshin_7)'
+      - name: Genshin Impact EN Twitter
+        value: '[Asset Resources](https://twitter.com/GenshinImpact)'
+    footer:
+      text: 'Credits to KB, Luna, and Lucil for the Mika FAQ! || WFP Theorycrafting'
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/952624395250184252/1079808078607822938/mika_tavb.png

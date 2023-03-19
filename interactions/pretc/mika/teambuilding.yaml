@@ -1,0 +1,53 @@
+embeds:
+  - title: |-
+      __TEAM BUILDING__
+
+      **Eula Carry**
+    description: >-
+      At C6, Mika can serve as a good alternative to Bennett, since he provides
+      both healing and buffs for Eula. Using C6 Mika as a buffer also means that
+      Eula no longer has to worry about staying within a circle to maximize her
+      damage. As Mika already provides sufficient defensive utility, using an
+      offensive Cryo unit such as Rosaria or Shenhe is recommended in the third
+      slot to compensate for his lack of damage. Running an Electro unit as the
+      last teammate further boosts Physical DMG with Superconduct; while Mika's
+      Skill cooldown is too long to buff 2 units, Raiden is still a premier
+      option for this due to the Energy she generates.
+    color: 7731711
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1074524047469195308/1079610916376674334/first_embed.png
+  - title: '**Crescent Pike Zhongli**'
+    description: >-
+      While a very fun comp to play as the ATK SPD buff from Mika makes using
+      Normal Attacks more appealing, this team has the opportunity cost of
+      running a more beneficial support like Bennett or Yun Jin in place of
+      Mika, as his buffs lack the same impact. Since Mika’s poor Cryo
+      application is insufficient in maintaining Superconduct uptime, it would
+      be advised to run a secondary Cryo unit along with him. Ultimately, he
+      brings less to the table than other team members.
+    color: 7731711
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1074524047469195308/1079610916628348938/second_embed.png
+  - title: '**Wanderer**'
+    description: >-
+      As Catalyst characters do not have hitlag, Wanderer can make full use of
+      the ATK SPD buffs Mika can offer to increase both his damage and the
+      fluidity of his attacks. If Mika can apply sufficient Cryo to allow
+      Wanderer to come into contact with it when using his Skill, he also
+      provides a hefty 20% CRIT Rate buff due to Wanderer’s A1. However, he
+      suffers stiff competition from both Layla and Rosaria in this role. Both
+      offer more damage and Elemental application than Mika can muster;
+      Rosaria's damage is particularly notable and she can also offer a 15% CRIT
+      Rate buff from her A4, while Layla's strong shield is much more valuable
+      for the interruption-prone Wanderer than Mika’s healing. As such, they are
+      generally better, though Mika still serves as a fun and usable option.
+    color: 7731711
+    footer:
+      text: 'Authored by: Kuro_Kami91'
+      icon_url: >-
+        https://cdn.discordapp.com/attachments/1020058045616766977/1079151167415795822/IMG_20220120_125631_777.jpg
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1074524047469195308/1079609714444337223/wanderer_-_mika_-_faruzan_-_fill_-_Copy.png

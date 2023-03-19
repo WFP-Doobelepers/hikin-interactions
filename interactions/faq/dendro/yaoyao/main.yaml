@@ -24,45 +24,45 @@ options: #dropdown
   - label: Overview
     value: faq/dendro/yaoyao/overview
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Talents
     value: faq/dendro/yaoyao/talents
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
   
   - label: Constellations
     value: faq/dendro/yaoyao/constellations
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
     
   - label: ER Requirements
     value: faq/dendro/yaoyao/errequire
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Artifacts
     value: faq/dendro/yaoyao/artifacts
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Weapons
     value: faq/dendro/yaoyao/weapons
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
     value: faq/dendro/yaoyao/teambuilding
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: External Links
     value: faq/dendro/yaoyao/external
     description: "WFP resources for Yaoyao FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
 buttons:
   - label: WFP Website
     url: https://wangshengfp.org/faq/yaoyao
-    emoji: :wfp_logo:1084805098561085512
+    emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK

@@ -20,7 +20,7 @@ options:
 - label: Softgoals
   value: infographics/pyro/hutao/softgoals
   description: WFP resources for Hu Tao Softgoals.
-  emoji: :Pyro:925598875853668353
+  emoji: ${ EMOJIS.PYRO_BOX }
 buttons:
 - label: KQM Website
   url: https://keqingmains.com/hu-tao/

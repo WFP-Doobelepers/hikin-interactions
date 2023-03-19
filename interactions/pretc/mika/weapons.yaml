@@ -1,0 +1,43 @@
+embeds:  
+  - title: |-
+      __WEAPONS__
+
+      **Favonius Lance:**
+    description: >-
+      His Best-in-Slot weapon as it _can_ provide more Energy for the whole
+      team. In multi-target scenarios, his Skill can hit multiple targets by
+      piercing them or with the Fragmentation Shards targeting other enemies,
+      making it easier to proc the passive. However, Mika cannot reliably
+      trigger the passive in single-target scenarios since his Skill only has
+      one instance of damage. Performing extra Normal Attacks lengthens his
+      field time for minimal reward; thus, players can choose to treat the extra
+      Favonius particles as quality of life instead of building around it.
+    color: 7731711
+    thumbnail:
+      url: >-
+        https://cdn.discordapp.com/attachments/1074524047469195308/1079601797045436437/Portraits_Favonius_Lance.png
+  - title: '**Prototype Starglitter/”The Catch”/Skyward Spine:**'
+    description: >-
+      Energy Recharge stat sticks. If not in possession of a spare Favonius
+      Lance, the three weapons provide more ER% for Mika himself, easing his
+      Energy needs. It’s worth noting that “The Catch” **should** be used on any
+      other Polearm character who benefits better from its stats _before_
+      slotting it into Mika, and that Skyward Spine has a lower ER% stat
+      compared to the other two options.
+    color: 7731711
+    thumbnail:
+      url: >-
+        https://cdn.discordapp.com/attachments/1074524047469195308/1079601797339029594/Portraits_Prototype_Starglitter_The_Catch_Skyward_Spine.png
+  - title: '**Black Tassel:**'
+    description: >-
+      With its HP% stat, Black Tassel provides more healing from his Burst. Only
+      use this weapon if ER% needs are already met from artifact substats and
+      CRIT Rate is too low to proc Favonius Lance reliably.
+    color: 7731711
+    footer:
+      text: 'Authored by: Luna'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/Np5dY39HRLQlNe7ihSPHu1A59EGjSGFIn8qxnnOldnQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/271793426956025856/1a6c2ac0632ecaa50758166c9274eb3a.png
+    thumbnail:
+      url: >-
+        https://cdn.discordapp.com/attachments/1074524047469195308/1079601797565526137/Portraits_Black_Tassel.png

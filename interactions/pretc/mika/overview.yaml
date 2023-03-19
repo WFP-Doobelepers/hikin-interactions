@@ -1,0 +1,44 @@
+embeds:
+  - title: __CREDITS__
+    color: 7731711
+    fields:
+      - name: 'Lead:'
+        value: <@94978723341668352>
+      - name: 'Authors:'
+        value: '<@94978723341668352>, <@271793426956025856>,  <@908531619655188512>'
+      - name: 'Calculations:'
+        value: '<@94978723341668352>, <@271793426956025856>'
+      - name: 'Consultation:'
+        value: <@246016120803295232>
+      - name: 'Resources:'
+        value: >-
+          [Mika
+          Mastersheet](https://docs.google.com/spreadsheets/d/1b6AK2wbHXq_V3Hv3FL1nskrneG-Zwj2awdKm_MVyP0Q/edit#gid=981902297)
+      - name: 'DISCLAIMER:'
+        value: >-
+          *Pre-TC is volatile and, as always, perpetually subject to change
+          until release (and sometimes later!). Please note that these are
+          theoretical suggestions. Everything described in this FAQ is a good
+          faith analysis based on the little information about the character’s
+          kit that we know. Team calcs, additionally, are not established yet,
+          and as with everything in TC, the content in this FAQ should be taken
+          with a grain of salt.*
+    image:
+      url: >-
+        https://preview.redd.it/9oxna8r0s7o91.jpg?width=1920&format=pjpg&auto=webp&v=enabled&s=12b95e3553ff5093ff6368a0b12421bf51a858c6
+  - title: __OVERVIEW__
+    description: >-
+      Mika is a Polearm support unit that focuses on increasing his team’s
+      Attack Speed and Physical DMG while also offering healing. One of the most
+      notable things about Mika is even without Constellations, he currently has
+      the highest Attack Speed buff in the game; unfortunately, his Physical DMG
+      buffs are quite lacking until C6 unless in a multi-target situation. That
+      said, he is not resource-demanding to build, as he only requires ER and
+      minor amounts of HP% to do his job.
+    color: 7731711
+    footer:
+      text: 'Authored by: KB'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/JU3yTYzmNTy4rUofd5p1T6kgbRFqnTlTbShi7_xYC00/%3Fsize%3D128/https/cdn.discordapp.com/avatars/94978723341668352/4a6eca6a397aebec4a5a8927bf526a77.png
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/mika_080_icon.webp'
