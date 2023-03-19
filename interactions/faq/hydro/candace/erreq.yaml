@@ -2,15 +2,7 @@
 content:
 embeds:
 - title: __ER REQUIREMENT__
-  description: "In general, Candace needs around 220% Energy Recharge (ER%) **with**
-    Favonius Lance to burst every rotation as a solo hydro unit due to her Skill’s
-    particle generation being lackluster for her 60-cost Burst, as well as she will
-    most likely be off-field after using her Burst, making funneling energy particles
-    difficult. Each Favonius weapon passive proc will reduce her Energy Recharge requirement
-    by 15% to 20%. In situations where her team comp has another hydro unit, her Energy
-    Recharge requirement is significantly reduced to 180% **with** Favonius Lance.
-    As always, an Energy Recharge Calculator is recommended to figure out how much
-    ER% Candace needs in certain team comps."
+  description: "Candace’s Burst is the core of her kit; therefore, Bursting off cooldown is very essential. Her Skill only generates 2 to 3 Hydro particles per Skill use, making her ER requirements very high for a 60 Energy Cost character. However, due to her lack of damage contribution compared to other characters in the team, funneling particles to her is not advisable. If possible, using 2 Skills per Burst is highly recommended to reduce her high ER requirements."
   color: 7184107
   footer:
     text: 'Authored by: Athena'
