@@ -8,54 +8,54 @@ embeds:
         value: >-
           [Google
           Sheet](https://docs.google.com/spreadsheets/d/1a_ivbS9uIGbASOI8JWRGC-WqG8O-eSw7_W5T6Sddb4Q/edit#gid=1076481734)
-      - name: 'Candace Frame Mastersheet by Sir Von | Skill Deficiency Cult#7672:'
+      - name: 'Candace Frame Mastersheet by Sir Von | Skill Deficiency Cult#7672'
         value: >-
           [Google Sheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit)
     author: 
       name: Candace FAQ
       icon_url: https://genshin.honeyhunterworld.com/img/candace_072_side_icon.webp
     image:
-      rl: https://genshin.honeyhunterworld.com/img/candace_072_gacha_splash.webp
+      url: https://genshin.honeyhunterworld.com/img/candace_072_gacha_splash.webp
 
 options: #dropdown
 
   - label: Overview
-    value: characters/hydro/candace/overview
+    value: faq/hydro/candace/overview
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Talents
-    value: characters/hydro/candace/talents
+    value: faq/hydro/candace/talents
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Constellations
-    value: characters/hydro/candace/constellations
+    value: faq/hydro/candace/constellations
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Combos
-    value: characters/hydro/candace/combos
+    value: faq/hydro/candace/combos
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Energy Recharge Requirements
-    value: characters/hydro/candace/erreq
+    value: faq/hydro/candace/erreq
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Artifacts
-    value: characters/hydro/candace/artifacts
+    value: faq/hydro/candace/artifacts
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Weapons
-    value: characters/hydro/candace/weapons
+    value: faq/hydro/candace/weapons
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Team Building
-    value: characters/hydro/candace/teambuilding
+    value: faq/hydro/candace/teambuilding
     description: "WFP resources for Candace FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }  
 
