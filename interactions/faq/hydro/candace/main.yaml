@@ -1,70 +1,71 @@
 content: null
 embeds:
-- title: >-
-  A descendant of King Deshret with an amber left eye. The defender of Aaru Village.
-color: 7184107
-  fields:
-  - name: 'Candace Mastersheet by Emiliabyss#1641 and Athena#2444:'
-    value: >-
-    [Google Sheet](https://docs.google.com/spreadsheets/d/1a_ivbS9uIGbASOI8JWRGC-WqG8O-eSw7_W5T6Sddb4Q/edit#gid=1076481734)
-  - name: 'Candace Frame Mastersheet by Sir Von | Skill Deficiency Cult#7672:'
-    value: >- 
-    [Google Sheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit)
-  author:
-    name: Candace FAQ
-    icon_url: https://genshin.honeyhunterworld.com/img/candace_072_side_icon.webp
-  image:
-    url: https://genshin.honeyhunterworld.com/img/candace_072_gacha_splash.webp
+  - title: >-
+      A descendant of King Deshret with an amber left eye. The defender of Aaru Village.
+    color: 7184107
+    fields:
+      - name: 'Candace Mastersheet by Emiliabyss#1641 and Athena#2444:'
+      value: >-
+        [Google
+        Sheet](https://docs.google.com/spreadsheets/d/1a_ivbS9uIGbASOI8JWRGC-WqG8O-eSw7_W5T6Sddb4Q/edit#gid=1076481734)
+      - name: 'Candace Frame Mastersheet by Sir Von | Skill Deficiency Cult#7672:'
+      value: >- 
+        [Google Sheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit)
+    author: 
+      name: Candace FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/candace_072_side_icon.webp
+    image:
+      rl: https://genshin.honeyhunterworld.com/img/candace_072_gacha_splash.webp
 
 options: #dropdown
-  
+    
   - label: Overview
     value: characters/hydro/candace/overview
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Talents
     value: characters/hydro/candace/talents
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Constellations
     value: characters/hydro/candace/constellations
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Combos
     value: characters/hydro/candace/combos
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353  
+    emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Energy Recharge Requirements
     value: characters/hydro/candace/erreq
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353  
+    emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Artifacts
     value: characters/hydro/candace/artifacts
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353  
+    emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Weapons
     value: characters/hydro/candace/weapons
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353  
+    emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: Team Building
     value: characters/hydro/candace/teambuilding
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598875853668353  
+    emoji: ${ EMOJIS.HYDRO_BOX }  
 
   - label: External Links
     value: faq/hydro/candace/external
     description: "WFP resources for Candace FAQ."
-    emoji: :Hydro:925598874532479076
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
 buttons:
   - label: WFP Website
-    url: https://wangshengfp.org/faq/alhaitham
+    url: https://wangshengfp.org/faq/candace
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
