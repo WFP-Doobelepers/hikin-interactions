@@ -1,0 +1,62 @@
+content: null
+embeds:
+- title: __**TEAMBUILDING**__
+  description: >-
+    **Mono Hydro**
+  Candace/Xingqiu/Yelan/Anemo
+
+  One of the safer team compositions, since it allows characters with higher energy recharge requirements to build less ER. Xingqiu will likely be the character exploiting Candace’s Normal Attack infusion, since he will have a Hydro DMG bonus goblet. Yelan works nicely with this team, since she has good off-field damage and makes use of the new Hydro resonance. Sucrose and Kazuha work nicely as the Anemo flex, since they have crowd control and gives enemies Resistance Shred. Jean and Sayu also work well, if you think that Xingqiu’s healing is not enough. Zhongli can also be a fine option with his shield and omni RES Shred.
+color: 7184107
+image:
+  url: https://images-ext-2.discordapp.net/external/yVrjKh-ti6psWd0MxSjNFqGJaLM5ueQ1AqFu6DGeKuE/https/wangshengfp.org/faq/candace/monohydro.png?width=1440&height=333
+
+- title: '**Fridge**'
+    description:
+  Candace/Dendro/Cryo/Flex
+
+  Fridge is a playstyle where Cryo and Dendro coexist on a target, so applying Hydro will cause both Frozen and Bloom. It’s also important to note that Frozen enemies preserve a Dendro aura longer, so more Blooms occur. These teams focus on creating as many Blooms as you can for Burgeon, Hyperbloom or in this case, Blooms itself, since Blooms will automatically detonate when there are more than five on field.
+
+  Some recommended Cryo characters are Kaeya, Rosaria, and Diona (recommended for heals, though application isn’t the best). Both Rosaria and Kaeya would have better Cryo application, but having a healer is basically mandatory with Bloom. The Anemo flex can be Sucrose or Kazuha (Though you can use Jean or Sayu if you aren’t using Diona). Sucrose would buff the party with Elemental Mastery while providing crowd control. If you use Kazuha, you can use him as a driver since he will be the one with the most Elemental Mastery, and also providing better CC than Sucrose. Either Collei or DMC will work in the Dendro slot, as they can both apply Dendro off-field.
+  color: 7184107
+  image:
+    url: https://wangshengfp.org/faq/candace/fridge.png
+- title: 'Nilou Bloom'
+  description: 
+    
+    Candace/Nilou/DMC or Yaoyao/Dendro or Hydro
+
+    Candace's Hydro Infusion give DMC or Yaoyao more Bloom ownership, allowing them to build more EM for higher Bloom damage. Candace can also proc some Bloom with her Constellation 6, thus she can also use EM artifacts as long as she can still Burst off cooldown. Nilou would want as much HP as possible to increase Bloom damage, while the Flex slot should be a healer to keep the team healthy.
+  color: 7184107
+  image:
+    url: https://wangshengfp.org/faq/candace/nilou.png
+
+- title: '**Hyperbloom/Quickbloom**'
+  description: >-
+    Candace/Electro/Dendro/Flex
+
+    Hyperbloom focuses on building Elemental Mastery on the Hyperbloom trigger, to maximize the amount of damage dealt by Hyperbloom. When having Electro and Hydro characters in your team, Electro-Charged proccing is also expected, providing a vehicle to get additional Blooms and / or Quicken Aura. This is called Quickbloom, by applying Dendro to an Electro-Charged aura can result in both a Bloom Reaction and Quicken Reaction, which can help proc more Spread, Aggravate or simply more Dendro Cores for Hyperbloom. Candace’s kit is uniquely able to maintain high Quicken uptime to help boost damage through Aggravate and Spreads due to her slow Hydro aApplication. Some recommended Flex characters are Anemo character like Kazuha, Sucrose, Jean, and Sayu; additional Electro character like Beidou or Yae; Zhongli with his shield and RES Shred is also great.
+  color: 7184107
+  image:
+    url: 
+
+- title: '**Vaporize**'
+  description: >-
+    Candace/Pyro/Flex/Flex
+
+    Candace’s Elemental Burst enables Pyro carries to Vaporize their Pyro abilities with their Hydro Normal Attacks. The 2 last slots are quite flexible: Anemo characters with 4pc Viridescent Venerer to enhance overall team damage by debuff the enemies; Hydro characters to provide more Hydro aura, Hydro Resonance and battery capability; supportive Pyro characters enable Pyro Resonance which gives all teammates ATK%, while also being able to battery the Pyro carries. Bear in mind that in most cases, 2 Pyro characters is usually more than enough; more Pyro characters can interfere with Hydro aura on the enemies, leading to lost Vaporizes on important abilities.
+  color: 7184107
+  image:
+    url: https://wangshengfp.org/faq/candace/vaporize.png
+
+- title: '**Freeze**'
+  description: 
+    Candace/Cryo or Hydro/Cryo/Anemo
+
+    Candace in freeze would allow Kaeya or Rosaria to drive to apply Hydro, while their Skills and Burst allow them to apply Cryo. A Hydro flex like Yelan or Xingqiu would increase the amount of Hydro application and do a good amount of off-field damage. If you are using a Cryo flex, Diona works if you feel like you need healing and aren’t using Jean or Sayu as the Anemo character. Otherwise you can use both Kaeya and Rosaria for the Cryo slots.
+  color: 7184107
+  image:
+    url: >-
+      https://wangshengfp.org/faq/candace/freeze.png
+
+  footer:
+    text: 'Authored by Athena and Dylan'

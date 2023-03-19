@@ -1,0 +1,111 @@
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **C1 -  Factor Confluence**
+    description: >-
+      > *The Soulwind state of Starfrost Swirl can decrease the healing interval
+      between instances caused by Skyfeather Song's Eagleplume state. This
+      decrease percentage is equal to the ATK SPD increase provided by
+      Soulwind.*
+
+
+      Provides a minor increase in his healing. Although the interval reduction
+      is appreciated, this Constellation only improves the single-target healing
+      portion of his Burst, which is not too significant. Players who struggle
+      with survivability may enjoy this Constellation, though it is definitely
+      not a necessity to stay alive.
+    color: 7731711
+    fields:
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/c_801.webp'
+  - title: '**C2 - Companion''s Ingress**'
+    description: >-
+      > *When Starfrost Swirl's Flowfrost Arrow first hits an opponent, or its
+      Rimestar Flare hits opponents, 1 Detector stack from Passive Talent
+      "Suppressive Barrage" will be generated.
+
+      > You must have unlocked the Passive Talent "Suppressive Barrage" first.*
+
+
+      Functionally gives one more Detector stack in situations with three or
+      fewer enemies. Although an additional Detector stack is appreciated, the
+      amount of Physical DMG a Detector stack gives is minor.
+    color: 7731711
+    fields:
+      - name: '*Rating:*'
+        value: 2/5
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/c_802.webp'
+  - title: '**C3 - Reconnaissance Experience**'
+    description: >-
+      > *Increases the Level of Skyfeather Song by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      Increases the healing from his Burst marginally, which can help players
+      with comfort.
+    color: 7731711
+    fields:
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/c_803.webp'
+  - title: '**C4 - Sunfrost Encomium**'
+    description: >-
+      > *When Mika's own Skyfeather Song's Eagleplume state heals party members,
+      this will restore 3 Energy to Mika. This form of Energy restoration can
+      occur 5 times during the Eagleplume state created by 1 use of Skyfeather
+      Song.*
+
+
+      Reduces the amount of Energy he needs from 70 to 55,  which makes building
+      Mika much easier. Since in Eula teams Mika is forced to funnel his own
+      particles to Eula, lowering his Energy needs is important.
+    color: 7731711
+    fields:
+      - name: '*Rating:*'
+        value: 2/5
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/c_804.webp'
+  - title: '**C5 - Signal Arrow**'
+    description: >-
+      > *Increases the Level of Starfrost Swirl by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      Increases his Attack Speed buff by 3%. For Eula players, this is not
+      enough to garner an extra stack for Lightfall Sword.
+    color: 7731711
+    fields:
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/c_805.webp'
+  - title: '**C6 - Companion’s Counsel**'
+    description: >-
+      > *The maximum number of Detector stacks that Starfrost Swirl's Soulwind
+      can gain is increased by 1. You need to have unlocked the Passive Talent
+      "Suppressive Barrage" first.
+
+      > Additionally, active characters affected by Soulwind will deal 60% more
+      Physical CRIT DMG.*
+
+
+      A significant Constellation for Mika, as this bonus is much more valuable
+      than all other buffs that his base kit provides. This solidifies his
+      identity as a Physical DMG support.
+    color: 7731711
+    fields:
+      - name: '*Rating:*'
+        value: 4/5
+    footer:
+      text: 'Authored by: KB'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/JU3yTYzmNTy4rUofd5p1T6kgbRFqnTlTbShi7_xYC00/%3Fsize%3D128/https/cdn.discordapp.com/avatars/94978723341668352/4a6eca6a397aebec4a5a8927bf526a77.png
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/c_806.webp'

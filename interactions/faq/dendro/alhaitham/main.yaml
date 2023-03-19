@@ -25,50 +25,50 @@ options: #dropdown
   - label: Overview
     value: faq/dendro/alhaitham/overview
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Talents
     value: faq/dendro/alhaitham/talents
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
   
   - label: Constellations
     value: faq/dendro/alhaitham/constellations
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Combos
     value: faq/dendro/alhaitham/combos
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
     
   - label: ER Requirements
     value: faq/dendro/alhaitham/errequire
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Artifacts
     value: faq/dendro/alhaitham/artifacts
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Weapons
     value: faq/dendro/alhaitham/weapons
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
     value: faq/dendro/alhaitham/teambuilding
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: External Links
     value: faq/dendro/alhaitham/external
     description: "WFP resources for Alhaitham FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
 buttons:
   - label: WFP Website
     url: https://wangshengfp.org/faq/alhaitham
-    emoji: :wfp_logo:1084805098561085512
+    emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK

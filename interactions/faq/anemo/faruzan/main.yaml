@@ -60,5 +60,5 @@ buttons:
 
 - label: WFP Website
   url: https://wangshengfp.org/faq/faruzan
-  emoji: ":wfp_logo:1084805098561085512"
+  emoji: "${ EMOJIS.WFP_LOGO }"
   style: LINK

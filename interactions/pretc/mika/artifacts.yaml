@@ -1,0 +1,75 @@
+embeds:  
+  - title: __ARTIFACTS__
+    description: >-
+      <:IconSands:998339858143645791> *Sands of Eon:*
+
+      **HP% / ER%**
+
+
+      <:IconGoblet:998339953434034277> *Goblet of Eonothem:*
+
+      **HP%**
+
+
+      <:IconCirclet:998339924224921701> *Circlet of Logos:*
+
+      **Healing Bonus > HP%**
+
+      If using Favonius Lance: **CRIT Rate%**
+
+
+      *Substat Priority:*
+
+      **ER% (if Bursting every rotation for ‘Detector stacks’, healing or 4pc
+      Noblesse Oblige) > CRIT Rate% (with Favonius Lance) > HP% > Flat HP**
+
+
+      Mika doesn’t offer great Elemental application or damage with his
+      Elemental Skill and Burst, making artifact substats and sets that focus on
+      buffing or healing teammates more useful overall.
+    color: 7731711
+  - title: |-
+      __NOTABLE SETS__
+
+      **4pc Noblesse Oblige:**
+    description: >-
+      An excellent support set in most teams. As both the *Soulwind* effect and
+      4pc Noblesse Oblige’s buff last 12s, they synergize well when activated
+      right before swapping into your on-field DPS.
+    color: 7731711
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/i_n400118.webp'
+  - title: '**4pc Scholar:**'
+    description: >-
+      Niche artifact set that can be used in Wanderer teams to help with Energy
+      requirements, if someone (usually Bennett) already holds 4pc Noblesse.
+      Artifact quality is not important, as Mika would only use his Elemental
+      Skill in those teams, which doesn’t scale with stats, and his damage
+      contribution is negligible.
+    color: 7731711
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/i_n400057.webp'
+  - title: '**4pc The Exile:**'
+    description: >-
+      When his Elemental Burst is needed or if the rotation length enables it,
+      4pc Exile serves as a more universal choice compared to Scholar, as the
+      latter only restores Energy for Bow and Catalyst users while 4pc Exile
+      restores more Energy overall, and for everyone on the team besides the set
+      holder.
+    color: 7731711
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/i_n400042.webp'
+  - title: '**4pc Ocean-Hued Clam (4OHC):**'
+    description: >-
+      If someone already holds a 4pc Noblesse Oblige, 4OHC provides a big burst
+      of Physical DMG with the initial healing from Mika’s Burst, along with
+      smaller procs after. It is worth noting that 4OHC’s damage is enhanced by
+      shredding enemies’ Physical Resistance with Superconduct, but **is not**
+      increased by Physical DMG% Bonuses.
+    color: 7731711
+    footer:
+      text: 'Authored by: Luna'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/Np5dY39HRLQlNe7ihSPHu1A59EGjSGFIn8qxnnOldnQ/%3Fsize%3D128/https/cdn.discordapp.com/avatars/271793426956025856/1a6c2ac0632ecaa50758166c9274eb3a.png
+    thumbnail:
+      url: 'https://genshin.honeyhunterworld.com/img/i_n400194.webp'

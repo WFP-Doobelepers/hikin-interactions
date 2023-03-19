@@ -1,0 +1,89 @@
+---
+content:
+embeds:
+- title: |-
+    __**CONSTELLATIONS**__
+    
+  description: |-
+    DISCLAIMER: For explicit numbers on DPS increases, please refer to our linked Mastersheet for up-to-date numbers. Changing numbers in the sheet is much faster/easier than editing an embed.
+
+    C1 - Returning Heiress of the Scarlet Sands
+  description: |-
+    *The duration of Prayer of the Crimson Crown effect triggered by Sacred Rite: Wagtail's Tide is increased by 3s.*
+
+    This Constellation doesn’t directly increase her damage, but increased uptime means more uptime on hydro aura and her buff, allowing for greedier rotations, which is basically always a welcome addition*
+  color: 7184107
+  fields:
+  - name: "*Rating:*"
+    value: 4/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_721.webp
+- title: C2 - Moon-Piercing Brilliance
+
+  description: |-
+    *The duration of Prayer of the Crimson Crown effect triggered by Sacred Rite: Wagtail's Tide is increased by 3s*
+
+    Gives 20% more HP to Candace, which results in ~7% more personal damage and an extra 1% on her NA buff. More stats is more stats, but it’s nothing to write home about.  color: 7184107
+  color: 7184107
+  fields:
+  - name: "*Rating:*"
+    value: 1/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_722.webp
+- title: C3 - Hunter’s Supplication
+
+  description: |-
+    *Increases the Level of Sacred Rite: Wagtail's Tide by 3. Maximum upgrade level is 15.*
+
+    Adds an extra 3 levels to her burst. However, this only adds a little damage for a character whose damage by and large does not matter  color: 7184107
+  color: 7184107
+  fields:
+  - name: "*Rating:*"
+    value: 1/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_723.webp
+
+- title: C4 - Sentinel Oath
+
+  description: |-
+    *Shortens the Hold CD of Sacred Rite: Heron's Sanctum to be the same as that of the Tapping CD.*
+
+    Reduces hold CD to match tap CD so you no longer have rotations ruined by accidental perfect counters. Largely QOL, but a large QOL 
+  color: 7184107
+  fields:
+  - name: "*Rating:*"
+    value: 3/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_724.webp
+
+- title: C5 - Heterochromatic Gaze
+
+  description: |-
+    *Increases the Level of Sacred Rite: Heron's Sanctum by 3.Maximum upgrade level is 15.*
+
+    Adds an extra 3 levels to her skill. However, this only adds a little damage for a character whose damage by and large does not matter
+  color: 7184107
+  fields:
+  - name: "*Rating:*"
+    value: 1/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_725.webp
+
+- title: C6 - The Overflow
+
+  description: |-
+    *When characters (excluding Candace herself) affected by the Prayer of the Crimson Crown caused by Sacred Rite: Wagtail's Tide deal Elemental DMG to opponents using Normal Attacks, an attack wave will be unleashed that deals AoE Hydro DMG equal to 15% of Candace's Max HP. This effect can trigger once every 2.3s and is considered Elemental Burst DMG.*
+
+    C6 is an entire kit, almost doubling her damage while also bringing her up to 9-10 hydro apps over 12s in addition to the normal infusion. This alone makes her damage actually notable, while also making her a very usable hydro aura for characters that can work around her infusion, while also making her a good bloom proccer should we ever get the Dendro app to support it.
+  color: 7184107
+  fields:
+  - name: "*Rating:*"
+    value: 5/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_726.webp
+    
+  color: 7184107
+  footer:
+    text: 'Authored by: Atilla the Pun'
+    icon_url: https://images-ext-2.discordapp.net/external/Fs1l36PV1QF39jD8coCS8CgXxLxIGXbvSQ9mcxxx2QA/%3Fsize%3D4096/https/cdn.discordapp.com/guilds/791074691841523742/users/651556217315000360/avatars/ceb6b9d77062b154d35c7458cdfcd1da.png
+  

@@ -28,50 +28,50 @@ options: #dropdown
   - label: Overview
     value: faq/dendro/nahida/overview
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Talents
     value: faq/dendro/nahida/talents
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
   
   - label: Constellations
     value: faq/dendro/nahida/constellations
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Combos
     value: faq/dendro/nahida/combos
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Artifacts
     value: faq/dendro/nahida/artifacts
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Weapons (Recommended)
     value: faq/dendro/nahida/weaponsrec
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Weapons (Optional)
     value: faq/dendro/nahida/weaponsopt
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
     value: faq/dendro/nahida/teambuilding
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: External Links
     value: faq/dendro/nahida/external
     description: "WFP resources for Nahida FAQ."
-    emoji: :Dendro:925598874532479076
+    emoji: ${ EMOJIS.DENDRO_BOX }
 
 buttons:
   - label: WFP Website
     url: https://wangshengfp.org/faq/nahida
-    emoji: :wfp_logo:1084805098561085512 
+    emoji: ${ EMOJIS.WFP_LOGO } 
     style: LINK

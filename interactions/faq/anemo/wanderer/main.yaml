@@ -24,45 +24,45 @@ options: #dropdown
   - label: Overview
     value: faq/anemo/wanderer/overview
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Talents
     value: faq/anemo/wanderer/talents
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
   
   - label: Constellations
     value: faq/anemo/wanderer/constellations
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Combos
     value: faq/anemo/wanderer/combos
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Artifacts
     value: faq/anemo/wanderer/artifacts
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Weapons
     value: faq/anemo/wanderer/weapons
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Teambuilding
     value: faq/anemo/wanderer/teambuildingpt1
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: External Links
     value: faq/anemo/wanderer/external
     description: "WFP resources for Wanderer FAQ."
-    emoji: :Anemo:925598874779910215
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
 buttons:
   - label: WFP Website
     url: https://wangshengfp.org/faq/wanderer
-    emoji: :wfp_logo:1084805098561085512
+    emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK

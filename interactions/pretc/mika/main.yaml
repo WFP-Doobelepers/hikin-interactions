@@ -11,3 +11,55 @@ embeds:
       name: Mika FAQ
     image:
       url: 'https://genshin.honeyhunterworld.com/img/mika_080_gacha_splash.webp'
+
+options:
+- label: Overview
+  value: pretc/mika/overview
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Talents
+  value: pretc/mika/talents
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Constellations
+  value: pretc/mika/constellations
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: ER
+  value: pretc/mika/er
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Artifacts
+  value: pretc/mika/artifacts
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Weapons
+  value: pretc/mika/weapons
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Eula Synergy
+  value: pretc/mika/eulasynergy
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Teambuilding
+  value: pretc/mika/teambuilding
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: External Links
+  value: pretc/mika/external
+  description: WFP resources for Mika FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+buttons:
+- label: WFP Website
+  url: https://wangshengfp.org/faq/Mika
+  emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
