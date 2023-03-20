@@ -1,7 +1,7 @@
 embeds:
   - color: 7184107
     description: |-
-      Select a character!
+      ${EMOJIS.HYDRO} Select a character!
 
 options: 
   - label: Nilou
