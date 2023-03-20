@@ -1,4 +1,4 @@
 interaction: faq/dendro/nahida/main
 description: "Opens WFP resources on Nahida"
 
-name: Nahida
+name: <${EMOJIS:NAHIDA> Nahida
