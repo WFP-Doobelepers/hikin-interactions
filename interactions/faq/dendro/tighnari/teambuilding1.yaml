@@ -125,7 +125,7 @@ embeds:
 
     color: 3450963
     thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
+      url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/faq/dendro/tighnari/images/Portraits%20Jean+Sayu.png?raw=true
 
   - title: >-
       __Zhongli__
@@ -174,7 +174,7 @@ embeds:
       compromising to play with Tighnari in somewhat close range.
     color: 3450963
     thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
+      url: https://raw.githubusercontent.com/WFP-Doobelepers/hikin-interactions/main/interactions/faq/dendro/tighnari/images/Portraits%20Kuki%20Shinobu%2BDori.png
 
   - title: >-
       __Miscellaneous__
@@ -217,7 +217,7 @@ embeds:
       Dendro aura, allowing Hydro units to generate more Blooms.
     color: 3450963
     thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Albedo.png
+      url: https://raw.githubusercontent.com/WFP-Doobelepers/hikin-interactions/main/interactions/faq/dendro/tighnari/images/Portraits%20Kaeya%2BRosaria%2BGanyu.png
 
 buttons:
 - customId: liveInteraction#faq/dendro/tighnari/teambuilding2
