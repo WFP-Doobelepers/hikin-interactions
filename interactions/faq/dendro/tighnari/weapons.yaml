@@ -96,7 +96,7 @@ embeds:
 
 - title: Fading Twilight
 
-  descrioption: >-
+  description: >-
 
     Fading Twilight can be solid if its ER Substat is put to good use.
 
@@ -116,6 +116,6 @@ embeds:
   color: 3450963
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Alley_Hunter.png
-    
+
   footer:
     text: (section authored by Raikh)
