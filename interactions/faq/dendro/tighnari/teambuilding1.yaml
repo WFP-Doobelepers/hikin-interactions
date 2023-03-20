@@ -20,7 +20,7 @@ embeds:
     thumbnail:
       url: https://library.keqingmains.com/img/characters/icon/Fischl.png
 
-  - title: Yae
+  - title: __Yae__
     description: >-
       Another powerful off field Electro unit, Yae looks to be strong
       in Quicken focused teams. Her A4 talent incentivizes building EM on her,
@@ -33,7 +33,7 @@ embeds:
     thumbnail:
       url: https://library.keqingmains.com/img/characters/icon/Yae_Miko.png
 
-  - title: Lisa
+  - title: __Lisa__
     description: >-
       While an often overlooked unit, Lisa could have strong potential
       in Quicken teams through the use of her Q for off field Electro
@@ -47,7 +47,7 @@ embeds:
     thumbnail:
       url: https://library.keqingmains.com/img/characters/icon/Lisa.png
 
-  - title: Keqing
+  - title: __Keqing__
     description: >-
       A decent partner for Tighnari in dual carry or quickswap
       setups. Tighnari only needs 4 seconds of field time for every 12 second
@@ -57,7 +57,7 @@ embeds:
     thumbnail:
       url: https://library.keqingmains.com/img/characters/icon/Keqing.png
 
-  - title: Beidou
+  - title: __Beidou__
     description: >-
       Beidou Not recommended but could work, Tighnari doesn’t seem to be a
       strong driver for Beidou.
@@ -65,7 +65,7 @@ embeds:
     thumbnail:
       url: https://library.keqingmains.com/img/characters/icon/Beidou.png
 
-  - title: Raiden
+  - title: __Raiden__
     description: >-
       Works fairly well with Tighnari in a dual carry setup as
       Tighnari will be able to maintain Quicken for most of Raiden’s Burst
