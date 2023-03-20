@@ -43,7 +43,7 @@ embeds:
       end up with a competent Gilded Dreams Set on the side regardless.
 
     thumbnail:
-      url: https://media.discordapp.net/attachments/1084532037194625034/1087273941690744832/Portraits_Gilded_Dreams_-_Wanderers_Troupe.png?width=743&height=352
+      url: https://media.discordapp.net/attachments/1084532037194625034/1087281217147240498/gilded_wanderer.png?width=352&height=352
     color: 3450963
 
   - title: Mixed Sets
@@ -74,7 +74,7 @@ embeds:
       constantly remove Electro by applying Dendro and refreshing Quicken.
 
     thumbnail:
-      url: https://media.discordapp.net/attachments/1084532037194625034/1087278215594262578/Portraits_Shimenawas_Reminiscence_-_Thundersoother.png?width=743&height=352
+      url:https://media.discordapp.net/attachments/1084532037194625034/1087282651230109777/thundersoother_shimenawa.png?width=352&height=352
 
     color: 3450963
     footer:
