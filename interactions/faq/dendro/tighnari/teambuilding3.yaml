@@ -1,0 +1,101 @@
+embeds:
+  - title: >-
+      Some Recommended Teams
+
+      1. Double Electro Quicken: Tighnari, Fischl, Electro Flex, Defensive
+      Flex  
+    description: >-
+      Tighnari’s best team due to full uptime on Quicken. Two electro units for
+      max synergy have the best synergy with a defensive VV support. As an
+      enabler carry, 2 Electro teams with VV will generally outperform 2 Dendro
+      2 Electro teams with the current roster of Dendro units. In these teams,
+      the electro units will typically have a higher damage contribution than
+      Tighnari, and Tighnari will want to use the Deepwood Memories 4-PC set.
+      Best units for the second Electro are Yae, Keqing, or Lisa, as all of them
+      can swap on to use their Skill/Burst, and get more Fischl A4 procs with
+      their own Aggravates before swapping off.
+    color: 3450963
+    image:
+      url:
+    
+  - title: >-
+      2. Double Dendro Quicken:  Tighnari, Dendro Flex, Electro Flex,
+      Defensive Flex
+
+    description: >-
+      A Dendro flex support instead of electro can trigger Dendro resonance,
+      resulting in more EM and personal damage for Tighnari. A second Dendro
+      unit will be able to hold the Deepwood Memories 4-PC set to shred Dendro
+      RES while also lowering Tighnari’s ER requirements, making this the best
+      team to maximize Tighnari’s personal damage. Keep in mind that because our
+      off field Electro DPS units have considerably more damage output than
+      Collei/DMC do, this team will likely perform worse than the Double Electro
+      version until we get off field Dendro units with more DPS or utility. If
+      using Fischl, the off field Dendro unit may reapply quicken instead of
+      Tighnari and prevent you from getting some Fischl A4 procs.
+    color: 3450963
+    image:
+      url:
+    
+  - title: >-
+      3. Hyperquick: Tighnari, Kokomi, Fischl, Anemo Flex
+
+    description: >-
+      A team that uses Kokomi’s slow off-field Hydro application to generate
+      some seeds without removing Quicken while Tighnari is on field. These
+      seeds are then triggered for Hyperbloom by either Fischl or through
+      Electro Swirls from the Anemo flex unit. It is recommended to put Kokomi
+      on the Deepwood Memories 4-PC set to shred Dendro RES to increase
+      Hyperbloom damage, while Tighnari can use Gilded Dreams 4-PC.
+    color: 3450963
+    image:
+      url:
+    
+  - title: >-
+      4. Geo Quicken: Tighnari, Fischl, Albedo, Zhongli
+      
+    description: >-
+      A comfortable Quicken team that may be useful if you want Tighnari to stay
+      on field for longer, but will have a lower damage ceiling than other
+      options.
+    color: 3450963
+    image:
+      url:
+    
+  - title: >-
+      5. Raiden Replaces Her Fox: Tighnari, Raiden, Kuki Shinobu,
+      Kazuha/Sucrose
+      
+    description: >-
+      A Quicken Dual Carry team that will likely be functional, but Raiden may
+      prefer to be paired with more synergistic Dendro units (with higher energy
+      cost/ER reqs) that aren’t in the game yet, or may prefer to use her normal
+      Bennett focused teams.
+    color: 3450963
+    image:
+      url:
+    
+  - title: >-
+      6. Refrigerated Fox: Tighnari, Kokomi, Cryo Flex, Anemo Flex
+    description: >-
+      A bloom team that uses Freeze co-existing with Dendro Aura to allow Kokomi
+      to generate more Blooms per Dendro application (see Fridge mechanic in
+      Dendro-TC chat). Kokomi should be built full EM here as she will be the
+      Bloom/Rupture trigger, while Tighnari can use 4-PC Deepwood Memories to
+      amplify the Bloom damage. The Cryo unit can be any off-field Cryo applier
+      (Rosaria/Ganyu are recommended). The Anemo unit can group seeds and
+      enemies together for more focused AoE. A more gimmick oriented team that
+      does not utilize Tighnari’s DPS output the fullest due to no Spread, and
+      other Dendro options with more AoE Dendro application may feel more
+      consistent in this team, but it should still be bare-bones viable.
+    color: 3450963
+    image:
+      url:
+    footer:
+      text: (section authored by XenoVX and Raikh)
+
+buttons:
+- customId: liveInteraction#faq/dendro/tighnari/teambuilding2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
