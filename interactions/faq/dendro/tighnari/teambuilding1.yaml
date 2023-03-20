@@ -31,7 +31,7 @@ embeds:
       field, and Yae appreciates the energy from Fischl.
     color: 3450963
     thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Yae.png
+      url: https://library.keqingmains.com/img/characters/icon/Yae_Miko.png
 
   - title: Lisa
     description: >-
@@ -57,7 +57,7 @@ embeds:
     thumbnail:
       url: https://library.keqingmains.com/img/characters/icon/Keqing.png
 
-  - title: beidou
+  - title: Beidou
     description: >-
       Beidou Not recommended but could work, Tighnari doesn’t seem to be a
       strong driver for Beidou.
@@ -75,7 +75,7 @@ embeds:
       Yae’s range.
     color: 3450963
     thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
+      url: https://library.keqingmains.com/img/characters/icon/Raiden_Shogun.png
 
   - title: >-
       __Dendro Units for Quicken Teams__
