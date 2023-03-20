@@ -1,0 +1,43 @@
+content: null
+embeds:
+- title: Yelan
+  description: |-
+    • Hydro
+    • Bow
+    • Off-field DPS
+  color: 4281798
+  author:
+    name: Yelan
+    icon_url: >-
+      https://asset.vg247.com/genshin-impact-yelan-build.jpg/BROK/thumbnail/1200x1200/quality/100/genshin-impact-yelan-build.jpg
+  footer:
+    text: by Vladone ツ#9281 (author) and EduLis#2176 (artist)
+  image:
+    url: >-
+      https://cdn.discordapp.com/attachments/1073520282767204432/1075288289147371565/2Artboard_1.png
+  thumbnail:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
+
+options:
+#dropdown
+- label: Softgoals
+  value: infographics/hydro/yelan/softgoals
+  description: WFP resources for Hu Tao Softgoals.
+  emoji: ${ EMOJIS.HYDRO_BOX }
+
+- label: Constellations
+  value: infographics/hydro/yelan/constellations
+  description: WFP resources for Hu Tao Constellations.
+  emoji: ${ EMOJIS.HYDRO_BOX }
+
+buttons:
+- label: KQM Website
+  url: https://keqingmains.com/hu-tao/
+  emoji: :logont:945530991240421386
+  style: LINK
+
+- label: WFP Website
+  url: https://keqingmains.com/hu-tao/
+  emoji: <${EMOJIS.WFP_LOGO}>
+  style: LINK
