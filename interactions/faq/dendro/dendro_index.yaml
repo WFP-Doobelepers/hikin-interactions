@@ -2,17 +2,17 @@ embeds:
   - color: 3450963
     description: |-
       <${EMOJIS.DENDRO}> Select a character!
-    thumbnail:
-      url: "https://cdn.discordapp.com/emojis/1048284047740256326.webp"
 
 options: 
   - label: YaoYao
     value: faq/dendro/yaoyao/main
     description: WFP resources on YaoYao
+    emoji: <${EMOJIS.YAOYAO}>
 
   - label: Alhaitham
     value: faq/dendro/alhaitham/main
     description: WFP resources on Alhaitham 
+    emoji: <${EMOJIS.ALHAITHAM}>
 
   - label: Nahida
     value: faq/dendro/nahida/main

@@ -8,8 +8,7 @@ options:
     value: faq/hydro/nilou/main
     description: WFP resources on Nilou
     emoji: <${ EMOJIS.NILOU }>
-
-options: 
+    
   - label: Candace
     value: faq/hydro/nilou/main
     description: WFP resources on Candace
