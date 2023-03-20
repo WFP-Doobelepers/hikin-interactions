@@ -23,12 +23,12 @@ options:
 #dropdown
 - label: Softgoals
   value: infographics/hydro/yelan/softgoals
-  description: WFP resources for Hu Tao Softgoals.
+  description: WFP resources for Yelan Softgoals.
   emoji: ${ EMOJIS.HYDRO_BOX }
 
 - label: Constellations
   value: infographics/hydro/yelan/constellations
-  description: WFP resources for Hu Tao Constellations.
+  description: WFP resources for Yelan Constellations.
   emoji: ${ EMOJIS.HYDRO_BOX }
 
 buttons:

@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: >-
+    Shenhe Infographic : Divine Damsel of Devastation
+  description: |-
+    • Cryo
+    • Polearm
+    • Off-field Support
+  color: 4281798
+  author:
+    name: Shenhe
+    icon_url: >-
+      https://staticc.sportskeeda.com/editor/2023/03/21a0a-16786173110381-1920.jpg
+  footer:
+    text: by XenoVX#6150 (author)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/891703978566496306/948572488198148116/shenhe_d3.png?width=1178&height=662
+  thumbnail:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
+
+options:
+#dropdown
+- label: Guide
+  value: infographics/hydro/shenhe/guide
+  description: WFP resources for Shenhe Guide.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+buttons:
+- label: KQM Guide
+  url: https://keqingmains.com/shenhe/
+  emoji: :logont:945530991240421386
+  style: LINK
+
+- label: WFP Guide
+  url: https://wangshengfp.org/guides/shenhe
+  emoji: <${EMOJIS.WFP_LOGO}>
+  style: LINK
