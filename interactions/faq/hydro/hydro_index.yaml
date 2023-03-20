@@ -7,4 +7,10 @@ options:
   - label: Nilou
     value: faq/hydro/nilou/main
     description: WFP resources on Nilou
-    emoji: "<:Nilou:953430875788443709>"
+    emoji: <${ EMOJIS.NILOU }>
+
+options: 
+  - label: Candace
+    value: faq/hydro/nilou/main
+    description: WFP resources on Candace
+    emoji: "<:Candace:1087355530957303808>"
