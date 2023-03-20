@@ -9,4 +9,4 @@ options:
   - label: Dehya
     value: faq/pyro/dehya/main
     description: WFP resources on FAQ!
-    emoji: 
+    emoji: <$>
