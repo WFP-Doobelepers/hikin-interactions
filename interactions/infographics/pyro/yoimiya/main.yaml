@@ -1,0 +1,29 @@
+content: null
+embeds:
+- title: Yoimiya
+  description: |-
+    • Pyro
+    • Bow
+    • On-field DPS
+  color: 12328992
+  footer:
+    text: 'by: Vladone ツ#9281 (Author) and sugarv#0374 (Designer)'
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/975292459380776970/1007583753113194506/yoimiya-01.png?width=1178&height=662
+  thumbnail:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
+
+options:
+#dropdown
+- label: Softgoals
+  value: infographics/pyro/yoimiya/softgoals
+  description: WFP resources for Yoimiya Softgoals.
+  emoji: ${ EMOJIS.PYRO_BOX }
+
+buttons:
+- label: KQM Website
+  url: https://keqingmains.com/hu-tao/
+  emoji: :logont:945530991240421386
+  style: LINK
