@@ -116,7 +116,6 @@ embeds:
       url: https://raw.githubusercontent.com/WFP-Doobelepers/hikin-interactions/main/interactions/faq/dendro/tighnari/images/Portraits%20Kaeya%2BRosaria%2BGanyu.png
 
 buttons:
-buttons:
 - customId: liveInteraction#faq/dendro/tighnari/teambuilding1
   label: Previous
   style: PRIMARY

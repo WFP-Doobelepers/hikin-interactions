@@ -16,7 +16,7 @@ embeds:
       their own Aggravates before swapping off.
     color: 3450963
     image:
-      url:
+      url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/faq/dendro/tighnari/images/Portraits%20Tighnari%20-%20Fischl%20-%20Electro%20-%20Fill%20slot.png?raw=true
     
   - title: >-
       2. Double Dendro Quicken:  Tighnari, Dendro Flex, Electro Flex,
@@ -35,7 +35,7 @@ embeds:
       Tighnari and prevent you from getting some Fischl A4 procs.
     color: 3450963
     image:
-      url:
+      url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/faq/dendro/tighnari/images/Portraits%20Tighnari%20-%20Dendro%20-%20Electro%20-%20Fill%20slot.png?raw=true
     
   - title: >-
       3. Hyperquick: Tighnari, Kokomi, Fischl, Anemo Flex
@@ -49,7 +49,7 @@ embeds:
       Hyperbloom damage, while Tighnari can use Gilded Dreams 4-PC.
     color: 3450963
     image:
-      url:
+      url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/faq/dendro/tighnari/images/Portraits%20Tighnari%20-%20Sangonomiya%20Kokomi%20-%20Fischl%20-%20Anemo.png?raw=true
     
   - title: >-
       4. Geo Quicken: Tighnari, Fischl, Albedo, Zhongli
@@ -60,7 +60,7 @@ embeds:
       options.
     color: 3450963
     image:
-      url:
+      url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/faq/dendro/tighnari/images/Portraits%20Tighnari%20-%20Fischl%20-%20Albedo%20-%20Zhongli.png?raw=true
     
   - title: >-
       5. Raiden Replaces Her Fox: Tighnari, Raiden, Kuki Shinobu,
@@ -73,7 +73,7 @@ embeds:
       Bennett focused teams.
     color: 3450963
     image:
-      url:
+      url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/faq/dendro/tighnari/images/Portraits%20Tighnari%20-%20Raiden%20Shogun%20-%20Kuki%20Shinobu%20-%20Kaedehara%20Kazuha+Sucrose.png?raw=true
     
   - title: >-
       6. Refrigerated Fox: Tighnari, Kokomi, Cryo Flex, Anemo Flex
@@ -90,7 +90,7 @@ embeds:
       consistent in this team, but it should still be bare-bones viable.
     color: 3450963
     image:
-      url:
+      url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/faq/dendro/tighnari/images/Portraits%20Tighnari%20-%20Sangonomiya%20Kokomi%20-%20Cryo%20-%20Anemo.png?raw=true
     footer:
       text: (section authored by XenoVX and Raikh)
 
