@@ -13,6 +13,7 @@ embeds:
       the Q is not boosted by the extra Crit Rate holds this constellation back
       a bit. Would not recommend that Dolphins specifically go for it. Rating:
       2/5. 
+    color: 3450963
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_Talent_S_Tighnari_01.png
 
@@ -26,6 +27,7 @@ embeds:
       bonus % buffs will be rare in the game for now. May be unreliable if 1
       enemy dies in the E’s taunt field and the rest of your damage goes to
       enemies outside of the taunt field. Rating: 2/5. 
+    color: 3450963
     thumbnail:
       url: >-
         https://api.ambr.top/assets/UI/UI_Talent_S_Tighnari_02.png
@@ -38,6 +40,7 @@ embeds:
       to his EM scaling Spread damage (or compared to CRIT and DMG bonus that
       can affect both forms of damage), meaning this constellation is very
       insignificant. Rating: 1/5.
+    color: 3450963
     thumbnail:
       url: >-
         https://api.ambr.top/assets/UI/UI_Talent_U_Tighnari_01.png
@@ -53,6 +56,7 @@ embeds:
       increase, being able to buff EM for the entire team can net high teamwide
       DPS gains for Tighnari’s Electro DPS units, making it easily his most
       impactful constellation for teamwide damage. Rating: 3.5/5
+    color: 3450963
     thumbnail:
       url: >-
         https://api.ambr.top/assets/UI/UI_Talent_S_Tighnari_03.png
@@ -65,6 +69,7 @@ embeds:
       to his EM scaling Spread damage (or compared to CRIT and DMG bonus that
       can affect both forms of damage), meaning this constellation is very
       insignificant. Rating: 1/5.
+    color: 3450963
     thumbnail:
       url: >-
         https://api.ambr.top/assets/UI/UI_Talent_U_Tighnari_02.png
