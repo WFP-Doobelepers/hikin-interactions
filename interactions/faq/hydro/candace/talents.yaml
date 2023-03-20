@@ -6,22 +6,27 @@ embeds:
     color: 7184107
     image:
       url: https://media.discordapp.net/attachments/957846543011024929/1023522408092672071/Untitled75_20220925171147.png
-  - title: 'Analysis'
-    description: 
+
+  - title: Analysis
+    description: >-
       Candace’s kit mainly involves around her Burst to enable
       her Hydro infusion, and since she scales almost entirely of HP aside from Normal
       Attacks, leveling her to 90 is recommended to max out her base HP. Keep in mind
       that her damage contribution is not the greatest, therefore investing in other
-      important units is advisable here. 
+      important units is advisable here.
+    color: 7184107
 
-    fields:
-    - name: Normal Attacks
-      value: >-
+  - title: Normal Attacks
+    description: >-
       Her Normal Attacks do not deal a great amount of damage, and it is also the only 
       part of her kit to scale off ATK instead of HP, thus diverting her build 
       (except for on-field Candace enthusiast, then level her Normal Attack first). 
-    - name: Elemental Skill
-      value: >-
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_A_03.png
+      
+  - title: Elemental Skill
+    description: >-
       Candace’s skill has two options, tap and hold. Both scale with max HP. 
       On tap, she rushes forward and deals Hydro damage, while holding her skill 
       blocks the incoming damage with a shield that scales off her HP, has a longer 
@@ -31,18 +36,29 @@ embeds:
       her skill will finish instantly (similar to Yun Jin’s skill) but still has the
       same cooldown as when holding. With her fourth Constellation, her hold cooldown
       is reduced to be the same as her tap cooldown, which allows for more hold skill
-      use if get the right timing. 
-    - name: Elemental Burst
-      value: >-
+      use if get the right timing.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_S_Candace_01.png
+
+  - title: Elemental Burst
+    description: >-
       Candace’s burst is her biggest selling point. Being the first character that provides Hydro infusion, she enables driver options
       for freeze, vaporize and bloom teams among others. Her Burst, combined with her
       Ascension 4 passive, will buff Elemental Normal Attacks hence also buff the on-field
       driver. When swapping between characters, it creates Wave Impact DMG instances
       that scales off HP, which is her main source of damage when playing as a support.
-    - name: Passive Talents
-      value: >-
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_E_Candace_01.png
+
+  - title: Overworld Utility Passive Talents
+    description: >-
       Finally, her overworld passive talent is great for exploring with the 20%
       climbing stamina reduction."
+
+    thumbnail: 
+      url: https://api.ambr.top/assets/UI/UI_Talent_Explosion_Climb.png
     color: 7184107
     footer:
       text: 'Authored by Athena'
