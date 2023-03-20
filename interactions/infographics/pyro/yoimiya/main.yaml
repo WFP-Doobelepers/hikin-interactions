@@ -1,20 +1,22 @@
 content: null
 embeds:
-- title: Yoimiya
+- title: Yoimiya Infographic
   description: |-
     • Pyro
     • Bow
     • On-field DPS
   color: 12328992
+  author:
+    name: Yoimiya
+    icon_url: https://preview.redd.it/official-2022-birthday-artwork-yoimiya-v0-jyo1th7gew691.jpg?auto=webp&s=990db18c12e75d491f4729681855580321e1fed0
   footer:
-    text: by Vladone ツ#9281 (author) and sugarv#0374 (artist)
+    text: by Vladone ツ#9281 (author) and sugarv#0374 (designer)
   image:
     url: >-
       https://media.discordapp.net/attachments/975292459380776970/1007583753113194506/yoimiya-01.png?width=1178&height=662
   thumbnail:
     url: >-
-      https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
-
+      https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80c5951d-3a70-44e4-b4de-230e2a1e70d6/del3ydh-b8808034-7f50-4127-b272-08f79a6b8c93.png/v1/fill/w_1280,h_1269,strp/inazuma_s_emblem_by_racnarok_del3ydh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2OSIsInBhdGgiOiJcL2ZcLzgwYzU5NTFkLTNhNzAtNDRlNC1iNGRlLTIzMGUyYTFlNzBkNlwvZGVsM3lkaC1iODgwODAzNC03ZjUwLTQxMjctYjI3Mi0wOGY3OWE2YjhjOTMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.UEDvaabxm7uax5o9u0Q1OfZPFXnPdZdrBQ-ebTrt_HE
 options:
 #dropdown
 - label: Softgoals
