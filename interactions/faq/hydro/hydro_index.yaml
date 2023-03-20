@@ -10,6 +10,6 @@ options:
     emoji: <${ EMOJIS.NILOU }>
     
   - label: Candace
-    value: faq/hydro/nilou/main
+    value: faq/hydro/candace/main
     description: WFP resources on Candace
     emoji: "<:Candace:1087355530957303808>"

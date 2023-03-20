@@ -1,4 +1,5 @@
 interaction: faq/electro/cyno/main
 description: "Opens WFP resources on Cyno"
+emoji: <${EMOJIS.CYNO}> 
 
 name: Cyno

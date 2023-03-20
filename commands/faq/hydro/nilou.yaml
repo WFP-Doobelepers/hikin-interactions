@@ -1,4 +1,5 @@
 interaction: faq/hydro/nilou/main
 description: "Opens WFP resources on Nilou"
-
+emoji: <${EMOJIS.NILOU}>
+ 
 name: Nilou

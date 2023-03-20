@@ -1,4 +1,5 @@
 interaction: faq/hydro/candace/main
 description: "Opens WFP resources on Candace"
+emoji: <${EMOJIS.CANDACE}> 
 
 name: Candace
