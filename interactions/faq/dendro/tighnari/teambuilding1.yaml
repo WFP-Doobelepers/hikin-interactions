@@ -1,10 +1,14 @@
 embeds:
-  - title: '***TEAMMATE SYNERGIES***'
+  - title: >-
+      __TEAMMATE SYNERGIES__
+      
+      __Electro Units for Quicken Teams__
+
+      __Fischl__
+
     description: >-
-      **Electro Units for Quicken Teams**
-
-
-      **Fischl**: Likely one of Tighnari’s best teammates, Fischl is looking to
+      
+      Likely one of Tighnari’s best teammates, Fischl is looking to
       be the premier off field DPS in all Quicken teams due to her A4 triggering
       when the on field unit triggers Quicken or Aggravate. While on field
       Dendro units cannot trigger Fischl’s A4 with Spread, reapplying Quicken
@@ -12,18 +16,26 @@ embeds:
       Aggravate procs from Fischl. Because of this and her excellent energy
       generation, Fischl is looking to be nigh irreplaceable in Tighnari’s main
       teams.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Fischl.png
 
-
-      **Yae**: Another powerful off field Electro unit, Yae looks to be strong
+  - title: Yae
+    description: >-
+      Another powerful off field Electro unit, Yae looks to be strong
       in Quicken focused teams. Her A4 talent incentivizes building EM on her,
       which allows her to slot into Quicken teams better than most would expect.
       Her long field time requirements work well with Tighnari’s short field
       time requirements and Yae also has high synergy with Fischl as well. Yae
       can provide extra Fischl A4 procs with her Elemental Burst while she’s on
       field, and Yae appreciates the energy from Fischl.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Yae.png
 
-
-      **Lisa**: While an often overlooked unit, Lisa could have strong potential
+  - title: Lisa
+    description: >-
+      While an often overlooked unit, Lisa could have strong potential
       in Quicken teams through the use of her Q for off field Electro
       application. Lisa gains EM from ascension, boosting her own Aggravate
       damage, and her DEF Shredwill also be a sizable teamwide damage boost.
@@ -31,105 +43,181 @@ embeds:
       weapons like Widsith, or more supportively with Hakushin Ring. She will
       need a fair amount of ER and Fischl in order to use her Q as frequently as
       possible. Her C4 gives her a huge boost in multi-target scenarios.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Lisa.png
 
-
-      **Keqing**: A decent partner for Tighnari in dual carry or quickswap
+  - title: Kequing
+    description: >-
+      A decent partner for Tighnari in dual carry or quickswap
       setups. Tighnari only needs 4 seconds of field time for every 12 second
       rotation, which Keqing can slot nicely into, while providing more A4 procs
       for Fischl.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Kequing.png
 
-
-      **Beidou**: Not recommended but could work, Tighnari doesn’t seem to be a
+  - title: beidou
+    description: >-
+      Beidou Not recommended but could work, Tighnari doesn’t seem to be a
       strong driver for Beidou.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Beidou.png
 
-
-      **Raiden**: Works fairly well with Tighnari in a dual carry setup as
+  - title: Raiden
+    description: >-
+      Works fairly well with Tighnari in a dual carry setup as
       Tighnari will be able to maintain Quicken for most of Raiden’s Burst
       uptime, but the two units don’t have much synergy in terms of
       energy/resolve gain. Potentially fun for overworld where Raiden’s E will
       allow Tighnari to use Quicken when sniping from far outside of Fischl and
       Yae’s range.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
+
+  - title: >-
+      __Dendro Units for Quicken Teams__
+
+      __Devil May Cry (DMC)__
 
 
-      **Dendro Units for Quicken Teams**
-
-
-      **Devil May Cry (DMC)**: A decent option for Dendro Resonance and EM
+    description: >-
+      A decent option for Dendro Resonance and EM
       buffs, but has lower personal damage compared to using a second Electro
       unit. Can hold Freedom Sworn if you have it. Can hold Deepwood Memories
       4-PC to shred Dendro RES.
 
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Aether.png
 
-      **Collei**: A decent option for Dendro Resonance and EM buffs at C4 (or
+  - title: >-
+      __Collei__
+    description: >-
+      A decent option for Dendro Resonance and EM buffs at C4 (or
       with Elegy), but has lower personal damage compared to using a second
       Electro unit. Can hold Deepwood Memories 4-PC to shred Dendro RES.
     color: 3450963
-  - description: >-
-      **Defensive Options**
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Collei.png
 
+  - title: >-
+      Defensive Options
+      
+      Healer Sucrose
 
-      **Healer Sucrose**: With Prototype Amber and VV, Sucrose is the best
+    description: >-
+      With Prototype Amber and VV, Sucrose is the best
       healer for overall damage potential for Quicken teams with 2 Electro
       units, and outperforms Jean for personal and team damage output at the
       expense of comfort. Prototype Amber also lowers her ER requirements a bit.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Sucrose.png
 
-
-      **Jean/Sayu**: Anemo healer with VV for double Electro teams, but lack of
+  - title: >-
+      __Jean/Sayu__
+    description: >-
+      Anemo healer with VV for double Electro teams, but lack of
       EM or DMG % buffs hold them back relative to other Anemo units.
 
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
 
-      **Zhongli**: The Jade Shield isn’t super necessary on Tighnari due to the
+  - title: >-
+      __Zhongli__
+    description: >-
+      The Jade Shield isn’t super necessary on Tighnari due to the
       fast charge time of his E and his taunt, but he can still be useful for
       more difficult content. He only applies -20% Electro and Dendro RES shred
       via his shield, and has no real damage contribution besides that. He could
       run Archaic Petra to buff Electro DMG%, or Deepwood Memories set to shred
       Dendro RES further, but even then Zhongli will tend to lower the team’s
       DPS potential.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Zhongli.png
 
-
-      **Kokomi**: Enables various Bloom-related teams while being a powerful
+  - title: >-
+      __Kokomi__
+    description: >-
+      Enables various Bloom-related teams while being a powerful
       healer, and her slow off field Hydro application can let her generate some
       seeds without removing Quicken during Tighnari’s DPS window. Can run
       utility weapons such as TTDS and supportive artifacts such as Tenacity of
       the Milleleth 4-PC or Deepwood Memories 4-PC to help buff her teams.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Kokomi.png
 
-
-      **Diona**: Shielder with an EM buff at C6. Doesn’t fit nicely into
+  - title: >-
+      __Diona__
+    description: >-
+      Shielder with an EM buff at C6. Doesn’t fit nicely into
       Tighnari rotations, and Cryo will not interfere with Quicken due to Cryo
       and Dendro auras not reacting, but is still usable.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Diona.png
 
-
-      **Kuki Shinobu:/Dori**: Alright options for Electro and healing, though
+  - title: >-
+      __Kuki Shinobu/Dori__
+    description: >-
+      Alright options for Electro and healing, though
       their Electro application is low, so don’t expect a lot of Aggravate
       procs. Kuki may work well in Hyperbloom setups as a reliable Electro
       trigger for the reaction and can buff teammates with ToM (most relevant
       for Raiden dual carry, which wants as much ATK as possible), but may feel
       compromising to play with Tighnari in somewhat close range.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
 
+  - title: >-
+      __Miscellaneous__
 
-      **Miscellaneous**: 
-
-
-      **Other Anemo Supports**: Double Electro teams may especially appreciate
+      __Other Anemo Supports__
+    description: >-
+      Double Electro teams may especially appreciate
       Sucrose, Kazuha or Venti to provide VV, grouping, Electro DMG% buffs, or
       EM buffs. Anemo infusions with Electro, as well as Electro Swirl in AoE
       will also net you more Aggravates. Bloom seeds are also suckable by CC
       abilities.
-
-
-      **Ayato**: A possible option to apply Hydro off-field for Hyperbloom teams
-      with Kuki Shinobu.
-
-
-      **Albedo**: A random flex option that has off field damage and buffs EM.
-      Could work with Zhongli in Geo Resonance comfort teams.
-
-
-      **Rosaria/Ganyu/Kaeya**: an option for the gimmicky but likely viable
-      Fridge teams, where Dendro aura+Freeze increases the amount of Hydro
-      needed to completely eat the Dendro aura, allowing Hydro units to generate
-      more Blooms.
     color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
+
+  - title: >-
+      __Ayato__
+
+    description: >-
+      A possible option to apply Hydro off-field for Hyperbloom teams
+      with Kuki Shinobu.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Raiden.png
+
+  - title: >-
+      __Albedo__
+    description: >-
+      Albedo A random flex option that has off field damage and buffs EM.
+      Could work with Zhongli in Geo Resonance comfort teams.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Albedo.png
+
+  - title: >-
+      __Rosaria/Ganyu/Kaeya__
+    description: >-
+      An option for the gimmicky but likely viable Fridge teams, where Dendro 
+      aura+Freeze increases the amount of Hydro needed to completely eat the 
+      Dendro aura, allowing Hydro units to generate more Blooms.
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Albedo.png
 
 buttons:
 - customId: liveInteraction#faq/dendro/tighnari/teambuilding2

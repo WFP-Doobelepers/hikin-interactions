@@ -60,7 +60,7 @@ options: #dropdown
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
-    value: faq/dendro/tighnari/teambuilding
+    value: faq/dendro/tighnari/teambuilding1
     description: "WFP resources for Tighnari FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
