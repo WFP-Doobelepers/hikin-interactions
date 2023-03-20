@@ -3,18 +3,25 @@ embeds:
     description: >-
       Tighnari has multiple Artifact Sets suiting him. Namely, Deepwood
       Memories, Gilded Dreams and Wanderer’s Troupe. 
+    color: 3450963
 
-
-      **Deepwood Memories** is a special case, since it's the Viridescent
+  - title: `Deepwood Memories`
+    description: >-
+      Deepwood Memories is a special case, since it's the Viridescent
       Venerer equivalent for Dendro, providing Dendro RES Shred. Ideally for
       Tighnari, someone else on his team would wear this set to provide the RES
       Shred for him. However, should no suitable or worthwhile wearer be on
       Tighnari’s team it is his best option to maximize his own damage by a
       respectable margin.
 
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
+    color: 3450963
 
+  - title: 'Gilded Dreams/Wanderer's Troupe'
+    description: >-
       In case Deepwood is covered by someone else, Tighnari’s best options are
-      **Gilded Dreams** and **Wanderer’s Troupe**. The difference between these
+      Gilded Dreams and Wanderer’s Troupe. The difference between these
       2 sets is fairly small and which one comes out on top depends on the
       specific setup used. Wanderer’s Troupe ends up favored with external EM
       Buffs, Constellations or if Tighnari’s Burst is not used in every DPS
@@ -35,16 +42,26 @@ embeds:
       Tighnari players will want a functional set in any case, players may still
       end up with a competent Gilded Dreams Set on the side regardless.
 
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1084532037194625034/1087273941690744832/Portraits_Gilded_Dreams_-_Wanderers_Troupe.png?width=743&height=352
+    color: 3450963
 
-      **Mixed Sets** are generally a bit behind, but follow the priority of
+  - title: 'Mixed Sets'
+    description: >-
+      Mixed Sets are generally a bit behind, but follow the priority of
       2Deepwood (15% Dendro Dmg) > 2EM/ER > 2ATK >= 2NO. With 2ER only being
       valuable if Tighnari can use it to meet his ER requirements.
 
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1084532037194625034/1087277591821557832/mixedarti.png?width=352&height=352
+    color: 3450963
 
-      ***Trap Sets***: 
+  - title: >- 
+      Trap Sets
 
-
-      **Shimenawa** might appear attractive at first due to Tighnari’s emphasis
+      Shimenawa's Reminiscence and Thundersoother
+    description: >-
+      Shimenawa might appear attractive at first due to Tighnari’s emphasis
       on CAs and his low energy cost. However the set would significantly
       increase Tighnari’s ER requirements under normal circumstances as his
       Burst is still important. And even if you manage to cheat your way around
@@ -53,8 +70,13 @@ embeds:
       practical issues and removing a lot of flexibility from his rotations.
 
 
-      **Thundersoother** cannot reach a good uptime as Tighnari himself will
+      Thundersoother cannot reach a good uptime as Tighnari himself will
       constantly remove Electro by applying Dendro and refreshing Quicken.
+
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1084532037194625034/1087278215594262578/Portraits_Shimenawas_Reminiscence_-_Thundersoother.png?width=743&height=352
+    color: 3450963
+
     color: 3450963
     footer:
       text: (section authored by Raikh)
