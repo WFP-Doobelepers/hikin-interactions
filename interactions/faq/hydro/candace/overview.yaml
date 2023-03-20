@@ -10,40 +10,38 @@ embeds:
   - name: 'Authors:'
     value: "<@293169816741740556>, <@366206663533002774>, <@281162955981324298>, <@574674223742844928>"
   - name: 'Calculations:'
-    value: "<@293169816741740556>, <@366206663533002774>
-  - name: 'Framecounts:'
+    value: "<@293169816741740556>, <@366206663533002774>"
+  - name: 'Framecounting:'
     value: "<@377496350155079690>"
   - name: 'Resources:'
     value: |-
       [Candace Mastersheet](https://docs.google.com/spreadsheets/d/1a_ivbS9uIGbASOI8JWRGC-WqG8O-eSw7_W5T6Sddb4Q/edit?usp=sharing)
       [Candace Frames Mastersheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit?usp=sharing)
-  - name: DISCLAIMER
+  - name: 'DISCLAIMER'
     value: "*Pre-TC is volatile and subject to change. Everything described in this
       FAQ is a good faith analysis based on the limited information we have. Team
       calcs are not established yet, and as with everything in TC, the content in
       this FAQ should be taken with a grain of salt.*"
   image:
-    url: https://media.discordapp.net/attachments/914949813525696533/1064444028172632144/Haitham_BG.png
+    url: https://pbs.twimg.com/media/FdjQcJAaEAInoqj?format=jpg&name=900x900
 - title: __OVERVIEW__
-  description: |-
-  "Candace is a Hydro polearm-user who is most comfortable being played as a support. She is the only character at the time of writing who offers a Hydro infusion to melee weapons. Aside from this, she is a character who scales entirely
-with HP, much like Nilou, unless you’re committing to auto-attacks (which is not
-recommended). \n\nUsing Candace’s burst off cooldown is essential, so you must
-have 220% Energy Recharge as a solo Hydro (no Favonius Lance), and 200% if you
-are using Favonius Lance. If you are using Favonius Lance with another Hydro character,
-Candace’s energy requirements are lowered to 180%.\n\nCandace cares about Energy
-Recharge, Crit Rate (at least 30%), HP, Crit Damage,  and sometimes ATK (if on-field
-DPS) or Elemental Mastery (if built for transformative reactions). As far as weapons
-go, you can pick any weapon that has Crit, HP, or Energy Recharge, since all of
-her talents scale off of HP (excluding auto-attacks).\n\nCandace’s constellations
-focus on improving her personal damage, increasing application, and extending
-hydro infusion. Her C6 gives her extra Hydro application and where most of her
-personal damage comes from, assuming she isn’t the one on field. Furthermore,
-Candace’s C1  extends the duration of her Hydro infusion, and 2 will increase
-her max HP by 20% when her Elemental Skill hits an enemy."
-  color:
+  description: "Candace is a Hydro polearm-user who is most comfortable being played as a support. She is the only character at the time of writing who offers a Hydro infusion to melee weapons. Aside from this, she is a character who scales entirely
+    with HP, much like Nilou, unless you’re committing to auto-attacks (which is not
+    recommended). \n\nUsing Candace’s burst off cooldown is essential, so you must
+    have 220% Energy Recharge as a solo Hydro (no Favonius Lance), and 200% if you
+    are using Favonius Lance. If you are using Favonius Lance with another Hydro character,
+    Candace’s energy requirements are lowered to 180%.\n\nCandace cares about Energy
+    Recharge, Crit Rate (at least 30%), HP, Crit Damage,  and sometimes ATK (if on-field
+    DPS) or Elemental Mastery (if built for transformative reactions). As far as weapons
+    go, you can pick any weapon that has Crit, HP, or Energy Recharge, since all of
+    her talents scale off of HP (excluding auto-attacks).\n\nCandace’s constellations
+    focus on improving her personal damage, increasing application, and extending
+    hydro infusion. Her C6 gives her extra Hydro application and where most of her
+    personal damage comes from, assuming she isn’t the one on field. Furthermore,
+    Candace’s C1  extends the duration of her Hydro infusion, and 2 will increase
+    her max HP by 20% when her Elemental Skill hits an enemy."
+  color: 7184107
   footer:
-    text: 'Authored by: dylan'
-    icon_url:
+    text: Authored by dylan
   thumbnail:
     url: https://genshin.honeyhunterworld.com/img/candace_072_icon.webp
