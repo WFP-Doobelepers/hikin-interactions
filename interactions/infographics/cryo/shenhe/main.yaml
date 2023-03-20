@@ -15,7 +15,7 @@ embeds:
     text: by XenoVX#6150 (author)
   image:
     url: >-
-      https://media.discordapp.net/attachments/891703978566496306/948572488198148116/shenhe_d3.png?width=1178&height=662
+      https://images-ext-1.discordapp.net/external/j99f3rGxQyIpTJXb_38yTbA8GJVtn7PDnLY64gvAnNA/https/shenhe.is-a-good-waifu.com/49TjmZa.png?width=1255&height=662
   thumbnail:
     url: >-
       https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
@@ -23,7 +23,7 @@ embeds:
 options:
 #dropdown
 - label: Guide
-  value: infographics/hydro/shenhe/guide
+  value: infographics/cryo/shenhe/guide
   description: WFP resources for Shenhe Guide.
   emoji: ${ EMOJIS.CRYO_BOX }
 
