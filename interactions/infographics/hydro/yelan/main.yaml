@@ -33,11 +33,11 @@ options:
 
 buttons:
 - label: KQM Website
-  url: https://keqingmains.com/hu-tao/
+  url: https://keqingmains.com/yelan/
   emoji: :logont:945530991240421386
   style: LINK
 
 - label: WFP Website
-  url: https://keqingmains.com/hu-tao/
+  url: https://wangshengfp.org/guides/yelan
   emoji: <${EMOJIS.WFP_LOGO}>
   style: LINK
