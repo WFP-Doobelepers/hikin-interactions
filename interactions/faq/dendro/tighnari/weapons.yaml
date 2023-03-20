@@ -116,7 +116,6 @@ embeds:
   color: 3450963
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Alley_Hunter.png
-
-  color: 3450963
+    
   footer:
     text: (section authored by Raikh)
