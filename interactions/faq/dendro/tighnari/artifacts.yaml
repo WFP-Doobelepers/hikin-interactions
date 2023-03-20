@@ -18,7 +18,7 @@ embeds:
       url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
     color: 3450963
 
-  - title: 'Gilded Dreams/Wanderer's Troupe'
+  - title: Gilded Dreams/Wanderer's Troupe
     description: >-
       In case Deepwood is covered by someone else, Tighnari’s best options are
       Gilded Dreams and Wanderer’s Troupe. The difference between these
@@ -46,7 +46,7 @@ embeds:
       url: https://media.discordapp.net/attachments/1084532037194625034/1087273941690744832/Portraits_Gilded_Dreams_-_Wanderers_Troupe.png?width=743&height=352
     color: 3450963
 
-  - title: 'Mixed Sets'
+  - title: Mixed Sets
     description: >-
       Mixed Sets are generally a bit behind, but follow the priority of
       2Deepwood (15% Dendro Dmg) > 2EM/ER > 2ATK >= 2NO. With 2ER only being
