@@ -1,11 +1,11 @@
 embeds:
-  - title: '***ARTIFACTS***'
+  - title: ARTIFACTS
     description: >-
       Tighnari has multiple Artifact Sets suiting him. Namely, Deepwood
       Memories, Gilded Dreams and Wanderer’s Troupe. 
     color: 3450963
 
-  - title: `Deepwood Memories`
+  - title: Deepwood Memories
     description: >-
       Deepwood Memories is a special case, since it's the Viridescent
       Venerer equivalent for Dendro, providing Dendro RES Shred. Ideally for
