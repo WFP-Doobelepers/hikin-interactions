@@ -1,0 +1,31 @@
+content: null
+embeds:
+- title: Xinyan Infographic
+  description: |-
+    • Pyro
+    • Claymore
+    • On-field DPS
+  color: 15701594
+  author:
+    name: Xinyan
+    icon_url: https://media.discordapp.net/attachments/1087300734372020315/1087424324924874792/image.png?width=651&height=621
+  footer:
+    text: by [TF Lector] Noir#1966 (author) and EduLis#2176 (designer)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/975292459380776970/995156424822902814/Artboard_1.png?width=1178&height=662
+  thumbnail:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
+options:
+#dropdown
+- label: Softgoals
+  value: infographics/pyro/xinyan/softgoals
+  description: WFP resources for Xinyan Softgoals.
+  emoji: ${ EMOJIS.PYRO_BOX }
+
+buttons:
+- label: KQM Website
+  url: https://keqingmains.com/xinyan/
+  emoji: :logont:945530991240421386
+  style: LINK
