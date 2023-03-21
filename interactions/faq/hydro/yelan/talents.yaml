@@ -2,11 +2,10 @@
 content:
 embeds:
   - title: __**TALENTS**__
-    description: 'Leveling priority: Burst > Skill > Normal Attack'
+    description: 'Leveling priority: Burst > Skill >> Normal Attack'
     color: 7184107
     image:
-      url: https://media.discordapp.net/attachments/957846543011024929/1023522408092672071/Untitled75_20220925171147.png
-
+      url: https://cdn.discordapp.com/attachments/1084456231432892501/1087581757961936937/yelan_talents_copy.png
   - title: Normal Attacks
     description: >-
       Normal attacks do pitiful damage on this unit, especially due to it being the only part of her kit to scale off of ATK and not HP. Invest at your own risk.
@@ -36,7 +35,7 @@ embeds:
       Yelan's ascension talents are both much-appreciated boons. Her first ascension passive grants an HP bonus based on how many different elements are present in your team composition, with the HP bonus ranging from 6%-30%. This is essentially more damage the more diverse your team is, and you can usually expect to have an 18% HP buff with three different elements.
 
       Her latter ascension talent allows her Burst to apply a cumulative DMG% buff to the active party member for the Burst's duration, starting at 1% and gaining 3.5% every second. As Yelan's burst lasts 15 seconds, by the end of her Burst, your active member will have a 50% damage bonus. This encourages players to strategically time the most powerful attacks near the end of a rotation in order to make the most of Yelan's buff.
-
+    color: 7184107
   - title: Overworld Utility Passive Talents
     description: >-
       Finally, her overworld talent brings you more materials when she's sent on expedition, encouraging you to send Yelan and Shenhe on regular dates together throughout Liyue.
