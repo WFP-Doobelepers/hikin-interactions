@@ -59,6 +59,11 @@ options: #dropdown
     description: "WFP resources for Yelan FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }  
 
+  - label: Aqua Simulacra or C1 Yelan?
+    value: faq/hydro/yelan/aquaorc1
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
   - label: External Links
     value: faq/hydro/yelan/external
     description: "WFP resources for Yelan FAQ."
