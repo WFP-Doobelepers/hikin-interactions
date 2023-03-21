@@ -1,0 +1,44 @@
+content: null
+embeds:
+- title: >- 
+    Becoming the One and Oni: An Arataki Itto Guide
+  description: |-
+    • Geo
+    • Claymore
+    • On-field DPS
+  color: 15919533
+  author:
+    name: Arataki Itto
+    icon_url: >-
+      https://images-ext-1.discordapp.net/external/vLBSIdeilG9JEKAlnDFmo3o834Hey2JKf-xw-p0uJEw/https/static.wikia.nocookie.net/gensin-impact/images/f/fe/Character_Arataki_Itto_Side_Icon.png
+  footer:
+    text: by Emiliabyss#1641 (author), that's mold baby#9066 (designer) and sugarv#0374 (designer)
+  image:
+    url: >-
+      https://images-ext-1.discordapp.net/external/0z0774DqAfIgXhVdDN9EAVHRPjtSsD8XAWPjKy7hiWQ/https/itto.is-a-good-waifu.com/6jcCoZM.png?width=1255&height=662
+  thumbnail:
+    url: >-
+      https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/80c5951d-3a70-44e4-b4de-230e2a1e70d6/del3ydh-b8808034-7f50-4127-b272-08f79a6b8c93.png/v1/fill/w_1280,h_1269,strp/inazuma_s_emblem_by_racnarok_del3ydh-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI2OSIsInBhdGgiOiJcL2ZcLzgwYzU5NTFkLTNhNzAtNDRlNC1iNGRlLTIzMGUyYTFlNzBkNlwvZGVsM3lkaC1iODgwODAzNC03ZjUwLTQxMjctYjI3Mi0wOGY3OWE2YjhjOTMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.UEDvaabxm7uax5o9u0Q1OfZPFXnPdZdrBQ-ebTrt_HE
+
+options:
+#dropdown
+- label: Infographic
+  value: infographics/geo/itto/infographic
+  description: WFP resources for Arataki Itto Infographic.
+  emoji: ${ EMOJIS.ELECTRO_BOX }
+
+- label: Softgoals
+  value: infographics/geo/itto/softgoals
+  description: WFP resources for Arataki Itto Softgoals.
+  emoji: ${ EMOJIS.ELECTRO_BOX }
+
+buttons:
+- label: KQM Guide
+  url: https://keqingmains.com/itto/
+  emoji: :logont:945530991240421386
+  style: LINK
+
+- label: WFP Guide
+  url: https://wangshengfp.org/guides/shinobu
+  emoji: <${EMOJIS.WFP_LOGO}>
+  style: LINK
