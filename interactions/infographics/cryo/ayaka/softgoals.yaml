@@ -1,0 +1,22 @@
+content: null
+embeds:
+- title: >-
+    Ayaka Softgoals
+  description: |-
+    • Cryo
+    • Sword
+    • On-field DPS
+  color: 11786743
+  author:
+    name: Kamisato Ayaka
+    icon_url: >-
+      https://media.discordapp.net/attachments/1087300734372020315/1087614929370103808/image.png?width=218&height=198
+  footer:
+    text:  LoftyGinger#0369 (Author) and EduLis#2176 (Designer)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1039732064347488296/2Artboard_2.png?width=374&height=662
+  thumbnail:
+    url: >-
+      https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/infographics/images/inazuma_emblem.png?raw=true
+

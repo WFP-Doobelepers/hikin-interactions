@@ -1,0 +1,34 @@
+content: null
+embeds:
+- title: >-
+    Ayaka Infographic
+  description: |-
+    • Cryo
+    • Sword
+    • On-field DPS
+  color: 11786743
+  author:
+    name: Kamisato Ayaka
+    icon_url: >-
+      https://media.discordapp.net/attachments/1087300734372020315/1087614929370103808/image.png?width=218&height=198
+  footer:
+    text:  LoftyGinger#0369 (Author) and EduLis#2176 (Designer)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1039732064049713192/2Artboard_1.png?width=364&height=662
+  thumbnail:
+    url: >-
+      https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/infographics/images/inazuma_emblem.png?raw=true
+
+options:
+#dropdown
+- label: Softgoals
+  value: infographics/cryo/Ayaka/softgoals
+  description: WFP resources for Ayaka Softgoals.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+buttons:
+- label: KQM Guide
+  url: https://keqingmains.com/ayaka/
+  emoji: :logont:945530991240421386
+  style: LINK
