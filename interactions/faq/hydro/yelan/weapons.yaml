@@ -40,12 +40,8 @@ embeds:
     thumbnail:
       url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625144505221230/wfuIh2WRpfWHgAAAABJRU5ErkJggg.png
   - title: _160ER_
-    description:
-  - title: Aqua Simulacra [HP% Sands]
-    description: Yelan's signature weapon, +15-20% DMG increase from competition.
+    description: Aside from Aqua Simulacra with a HP% Sands which is Yelan's BiS, here are some other weapon options for her.
     color: 7184107
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Kirin.png
   - title: CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% Sands]
     description: CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
     color: 7184107
