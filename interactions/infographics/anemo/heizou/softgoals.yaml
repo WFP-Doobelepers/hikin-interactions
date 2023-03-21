@@ -1,0 +1,20 @@
+content: null
+embeds:
+- title: >-
+    Heizou Infographic
+  description: |-
+    • Anemo
+    • Catalyst
+    • On-field DPS
+  color: 3534289
+  author:
+    name: Shikanoin Heizou
+    icon_url: >-
+      https://media.discordapp.net/attachments/964616918336159814/1001367061571846164/unknown.png
+  footer:
+    text: by Akane#0926 (author) and EduLis#2176 (designer)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/975292459380776970/1001366136136409098/Artboard_3.png?width=1178&height=662
+    url: >-
+      https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/infographics/images/inazuma_emblem.png?raw=true

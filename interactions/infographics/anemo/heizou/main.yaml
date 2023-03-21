@@ -1,0 +1,33 @@
+content: null
+embeds:
+- title: >-
+    Heizou Infographic
+  description: |-
+    • Anemo
+    • Catalyst
+    • On-field DPS
+  color: 3534289
+  author:
+    name: Shikanoin Heizou
+    icon_url: >-
+      https://media.discordapp.net/attachments/964616918336159814/1001367061571846164/unknown.png
+  footer:
+    text: by Akane#0926 (author) and EduLis#2176 (designer)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/975292459380776970/1001366135775711272/Artboard_1.png?width=1178&height=662
+    url: >-
+      https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/infographics/images/inazuma_emblem.png?raw=true
+
+options:
+#dropdown
+- label: Softgoals
+  value: infographics/cryo/heizou/softgoals
+  description: WFP resources for Heizou Softgoals.
+  emoji: ${ EMOJIS.ANEMO_BOX }
+
+buttons:
+- label: KQM Guide
+  url: https://keqingmains.com/heizou/
+  emoji: :logont:945530991240421386
+  style: LINK
