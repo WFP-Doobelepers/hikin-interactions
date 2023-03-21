@@ -23,7 +23,7 @@ embeds:
 options:
 #dropdown
 - label: Softgoals
-  value: infographics/cryo/Ganyu/softgoals
+  value: infographics/cryo/ganyu/softgoals
   description: WFP resources for Ganyu Softgoals.
   emoji: ${ EMOJIS.CRYO_BOX }
 
