@@ -21,7 +21,7 @@ There's several steps involved with making Hikin run your own commands. This gui
 
 ## Creating a new Command:
 
-A new command can be created by adding a folder under the commands section of the bot as well as under the interactions         section for adding interaction(s) for the command. The bot reads .yaml files to create all the commands.
+A new command can be created by adding a folder under the commands section of the bot as well as under the interactions         section for adding interaction(s) for the command. The bot reads `.yaml` files to create all the commands.
   
 ### __Folder Structure:__
 
@@ -33,11 +33,11 @@ For example, when creating an FAQ for various Genshin Impact Characters, the fol
    
 ### __Adding a Character Command under Hikin :__
 
-Suppose we need to add the Genshin Impact Character "Hu Tao" to display under one of our pre-existiing commands "FAQ", we first need to create a `character.yaml` file for that character under the appropriate element folder, in this case `"commands/faq/pyro"`.
+Suppose we need to add the Genshin Impact Character "Hu Tao" to display under one of our pre-existiing commands "FAQ", we first need to create a `character.yaml` file for that character under the appropriate element folder, in this case `hutao.yaml` under `"commands/faq/pyro"`.
 
 <img src="https://user-images.githubusercontent.com/66517217/226590378-87b66629-2d38-4880-907e-47add689f8cd.png" width = "300">
 
-Now we need to add an `interaction`, `description` and `name` for the command in the .yaml file format.
+Now we need to add an `interaction`, `description` and `name` for the command in the `.yaml` file format.
 
 <img src="https://user-images.githubusercontent.com/66517217/226590718-24294bfb-4fe6-4b82-8e05-066589f83213.png" width = "300">
 
