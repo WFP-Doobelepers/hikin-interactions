@@ -31,11 +31,11 @@ embeds:
     thumbnail:
       url: https://api.ambr.top/assets/UI/Skill_E_Yelan_01.png
 
-    - title: Ascension Passive
-      description: >-
-        Yelan's ascension talents are both much-appreciated boons. Her first ascension passive grants an HP bonus based on how many different elements are present in your team composition, with the HP bonus ranging from 6%-30%. This is essentially more damage the more diverse your team is, and you can usually expect to have an 18% HP buff with three different elements.
+  - title: Ascension Passive
+    description: >-
+      Yelan's ascension talents are both much-appreciated boons. Her first ascension passive grants an HP bonus based on how many different elements are present in your team composition, with the HP bonus ranging from 6%-30%. This is essentially more damage the more diverse your team is, and you can usually expect to have an 18% HP buff with three different elements.
 
-        Her latter ascension talent allows her Burst to apply a cumulative DMG% buff to the active party member for the Burst's duration, starting at 1% and gaining 3.5% every second. As Yelan's burst lasts 15 seconds, by the end of her Burst, your active member will have a 50% damage bonus. This encourages players to strategically time the most powerful attacks near the end of a rotation in order to make the most of Yelan's buff.
+      Her latter ascension talent allows her Burst to apply a cumulative DMG% buff to the active party member for the Burst's duration, starting at 1% and gaining 3.5% every second. As Yelan's burst lasts 15 seconds, by the end of her Burst, your active member will have a 50% damage bonus. This encourages players to strategically time the most powerful attacks near the end of a rotation in order to make the most of Yelan's buff.
 
   - title: Overworld Utility Passive Talents
     description: >-

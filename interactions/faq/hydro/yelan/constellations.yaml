@@ -46,6 +46,7 @@ embeds:
       *Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.*
 
       C4 provides a rare buff in increasing the party’s Max HP. This is great on Yelan, and even better when paired with other HP scaling units like Hu Tao.    color: 7184107
+    color: 7184107
     fields:
     - name: "*Rating:*"
       value: 2/5
