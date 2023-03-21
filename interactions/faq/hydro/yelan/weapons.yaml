@@ -9,8 +9,6 @@ embeds:
 
       At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
     color: 7184107
-  - title: 
-    description:
   - title: Aqua Simulacra [HP% or ER% Sands]
     description: Yelan's signature weapon, +15-20% DMG increase from competition.
     color: 7184107
