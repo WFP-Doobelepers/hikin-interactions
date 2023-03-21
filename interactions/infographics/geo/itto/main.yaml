@@ -39,6 +39,6 @@ buttons:
   style: LINK
 
 - label: WFP Guide
-  url: https://wangshengfp.org/guides/shinobu
+  url: https://wangshengfp.org/guides/itto
   emoji: <${EMOJIS.WFP_LOGO}>
   style: LINK
