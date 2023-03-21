@@ -23,7 +23,7 @@ embeds:
 options:
 #dropdown
 - label: Softgoals
-  value: infographics/cryo/heizou/softgoals
+  value: infographics/anemo/heizou/softgoals
   description: WFP resources for Heizou Softgoals.
   emoji: ${ EMOJIS.ANEMO_BOX }
 
