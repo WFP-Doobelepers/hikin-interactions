@@ -24,7 +24,7 @@ embeds:
   image:
     url: https://cdn.discordapp.com/attachments/1087300734372020315/1087348895039881297/1648523317_Kuki-Shinobu-and-Yelan-are-coming-to-Genshin-Impact.png
 - title: __OVERVIEW__
-  description: >-
+  description: |-
 
     Yelan is a Hydro Sub-DPS who uses her Elemental Burst to constantly deal impressive single-target damage while applying Hydro. At the time of writing this, her Burst cooldown is 18 seconds with a 70-cost Burst. Depending on your team composition and Energy Recharge, you will be playing either in a 23 second rotation where Yelan’s Skill is on cooldown every 10s, or running a shorter rotation with only one Skill cast.
 
@@ -40,4 +40,4 @@ embeds:
   footer:
     text: Authored by Emiliabyss, edited by KB
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/yelan_060_side_icon.webp
+    url: https://genshin.honeyhunterworld.com/img/yelan_060_icon.webp
