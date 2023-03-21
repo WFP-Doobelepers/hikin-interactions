@@ -16,5 +16,6 @@ embeds:
   image:
     url: >-
       https://media.discordapp.net/attachments/975292459380776970/1001366136136409098/Artboard_3.png?width=1178&height=662
+  thumbnail:
     url: >-
       https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/infographics/images/inazuma_emblem.png?raw=true
