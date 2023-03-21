@@ -1,0 +1,43 @@
+---
+content:
+embeds:
+- title: __COMBOS__
+  description: |-
+    Yelan’s on-field inputs are extremely straightforward. You’re basically dealing with one of three possible combos.
+
+      • *E, Q (Skill, Burst)*
+
+      > - E and Q can be swapped to [Q, E] in any rotation, depending on needs.
+
+      > - E during Q procs synchronized Burst attacks.
+
+      • *B, E, Q (Breakthrough Barb Charged Shot, Skill, Burst)*
+
+      > - This is usually on first rotation only, but it’s debatable whether the damage given by Breakthrough is worth the time it takes to perform it.
+
+      • *Q N1 E N1 . . . N1 E N1*
+
+      > - You use this combo in 23s rotations when using E every 10s. Auto’s are for Burst procs.
+
+      The majority of the time, you’re simply using her Skill and Burst in some order and then swapping off for someone to take advantage of her late ascension buff.
+  color: 7184107
+- title: __Why 23s Rotations?__
+  description: |-
+    Sometimes, Yelan will want to use her E twice per rotation in order
+    to get away with building less Energy Recharge. The less Energy Recharge she has
+    to build, the more she can invest into offensive stats. When Yelan is freely able
+    to invest in offensive stats, such as with Xingqiu wielding a Sacrificial Sword,
+    she deals more than double Sac-Sword-Xingqiu’s damage. \n\n23s is an estimate,
+    but 22s is also a safe assumption. It takes about half of a second to use Yelan’s
+    skill, and you’d have to recast E right after cooldown to keep the rotation down.
+    Two E casts takes 21 seconds, but we also have to factor in human error. Knowing
+    when her cooldown ends is essential to maximizing DPS in these rotations.\n\nThere
+    is, of course, a catch to opting into 23s rotations: since Yelan’s Burst lasts
+    for 15 seconds and her Skill cooldown is 10 seconds. This means Yelan needs to
+    return to the field while her Burst is active, which is why in some rotations,
+    weaving N1’s into her moves can keep her Burst procs coming.\n\n23s rotations
+    are an option, not a requirement. As always, it depends on your team composition
+    and gear.
+  color: 7184107 
+  footer:
+    text: (section authored by Emiliabyss)

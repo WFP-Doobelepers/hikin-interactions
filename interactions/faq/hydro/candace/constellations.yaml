@@ -18,9 +18,9 @@ embeds:
   - title: C2 - Moon-Piercing Brilliance
 
     description: |-
-      *The duration of Prayer of the Crimson Crown effect triggered by Sacred Rite: Wagtail's Tide is increased by 3s*
+      *When Sacred Rite: Heron's Sanctum hits opponents, Candace's Max HP will be increased by 20% for 15s.*
 
-      Gives 20% more HP to Candace, which results in ~7% more personal damage and an extra 1% on her NA buff. More stats is more stats, but it’s nothing to write home about.  color: 7184107
+      Gives 20% more HP to Candace, which results in ~7% more personal damage and an extra 1% on her NA buff. More stats is more stats, but it’s nothing to write home about.
     color: 7184107
     fields:
     - name: "*Rating:*"
@@ -32,7 +32,7 @@ embeds:
     description: |-
       *Increases the Level of Sacred Rite: Wagtail's Tide by 3. Maximum upgrade level is 15.*
 
-      Adds an extra 3 levels to her burst. However, this only adds a little damage for a character whose damage by and large does not matter  color: 7184107
+      Adds an extra 3 levels to her burst. However, this only adds a little damage for a character whose damage by and large does not matter.
     color: 7184107
     fields:
     - name: "*Rating:*"

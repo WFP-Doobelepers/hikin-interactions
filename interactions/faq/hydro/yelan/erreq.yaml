@@ -1,0 +1,37 @@
+---
+content:
+embeds:
+- title: __ER REQUIREMENT__
+  description: |-
+      On average, you’ll need about 225% Energy Recharge, which makes it no surprise that the 4pc Emblem of Severed Fate is head-and-shoulders above the rest of the competition.The other options will shift places depending on how much Energy Recharge Yelan needs for that team. We strongly advise the use of an Energy Recharge calculator to plan. Below are some general benchmarks to expect.
+
+      Solo Hydro w/ Favonius Warbow – ~225% ER
+
+      Solo Hydro w/ Favonius Warbow + Raiden – 160% ER
+
+      Yelan with XQ batterying and ***no*** Favonius Warbow – 130% ER
+
+
+      In the mastersheet associated with this FAQ I (Emiliabyss) composed a ranking of the best ***batteries*** for Yelan. In order from best to worst, they are:
+
+      1. Xingqiu (off-field DPS)
+      2. Raiden Shogun (on-field DPS)
+      3. Kokomi (on/off-field Healer)
+      4. Fischl (off-field DPS)
+      5. Ayato (on-field DPS)
+      Honorable mentions: Traveler + Characters who can E twice and hold a favonius weapon
+
+      While Xingqiu may feel redundant, he synergizes well with Yelan; they, together provide plenty of hydro for a Pyro DPS to exploit, Xingqiu’s constellations buff Yelan’s damage, and Xingqiu minimizes her energy requirements by a wide margin ahead of every other character in the game. Swirling Hydro can make their combination especially strong.
+
+      The Raiden Shogun is a potent on-field carry who can take advantage of Yelan’s late ascension cumulative buff while applying consistent Electro-Charged. Her flat energy refund for her team is a huge boon to Yelan, and Raiden also buffs her teams’ Elemental Bursts.
+
+      Kokomi is a great healer to pair Yelan with, though Yelan cannot benefit from the many buffs she offers, such as 4pc Tenacity of the Millelith and Thrilling Tales of Dragon Slayers. So long as you never switch from Kokomi into Yelan (as opposed to the other way around), you can avoid misplacing a crucial ATK buff on the wrong DPS. It’s recommended to refresh Kokomi’s Jellyfish with her Burst when possible, in order to maximize energy efficiency.
+
+      Fischl is an all-around great battery for basically anyone to use, and has been since her release. Nothing surprising about her being on the list.
+
+      Ayato, even when taking the particles from his skill for himself, manages to reduce Yelan’s energy requirements by a decent amount, making him the second viable on-field DPS for Yelan.
+
+      Finally, characters that can E multiple times in a rotation while efficiently wielding a Favonius weapon will help smooth out rotations when you need *just a little* extra boost.
+  color: 7184107
+  footer:
+    text: (section authored by Emiliabyss; edited by KB)

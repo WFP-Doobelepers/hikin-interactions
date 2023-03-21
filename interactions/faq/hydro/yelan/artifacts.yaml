@@ -1,0 +1,34 @@
+---
+content:
+embeds:
+  - title: __ARTIFACTS__
+    description: |-
+      *Sands:* HP% / ER% 
+
+        When using an ER% weapon like Favonius Warbow, an HP% Sands is advised. When using her signature weapon and other non-ER weapons, she’ll need an ER% Sands.
+
+      *Goblet:* Hydro DMG% > HP
+
+        Hydro% beats HP% by about 7% damage, though depending on your team’s buffs on Yelan, there are niche cases where an HP% Goblet is competitive or better.
+
+      *Circlet:* CRIT Rate or CRIT DMG > HP%
+
+        Crit Rate% or Crit Damage%, as usual. Alternatively, HP% is typically within 1-2% of a Crit circlet, unless you are running a double Hydro team with Yelan’s signature weapon; then Crit circlet wins by about 9%.
+
+      For substats, prioritize meeting your ER% requirements first, then Crit%/HP%. Unlike typical characters, the gap between Crit stats and HP% for Yelan is quite small so prioritize substat quantity over the type of substats (Crit vs HP%). When in doubt, use the calculator in the master sheet.
+    color: 7184107
+  - title: |-
+      __Artifact Sets__
+
+      4PC Emblem of Severed Fate
+    description: her best set if her energy requirements are above 130%.
+    color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400183.webp
+  - title: 2PC ER%/HP%/HydroDMG%/BurstDMG%
+    description: Any 2-piece combinations of these sets can be strong options for Candace’s personal damage, provided they have good substats.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1084456231432892501/1086604300966449173/BAIYeVWWayQjICNwOgTO6AkowycjICMwchH4f30gdFX6F8eEAAAAAElFTkSuQmCC.png
+    footer:
+      text: (section authored by Emiliabyss)

@@ -1,0 +1,82 @@
+---
+content:
+embeds:
+  - title: |-
+      __**CONSTELLATIONS**__
+      
+      C1 - Enter the Plotters
+    description: |-
+      *Lingering Lifeline gains 1 additional charge.*
+
+      Adding an extra charge to Yelan’s skill is like giving her a free Sacrificial weapon passive. Yelan gains an enormous boost with managing her energy requirements, allowing you to put more stats into offense. This also eliminates the need to extend a rotation, as Yelan no longer needs to use her Skill every 10 seconds.
+    color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 3/5
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_601.webp
+  - title: C2 - Taking All Comers
+
+    description: |-
+      *When Exquisite Throw conducts a coordinated attack, it will fire an additional water arrow that will deal 14% of Yelan's Max HP as Hydro DMG. This effect can trigger once every 1.8s.*
+
+      With an extra synchronized attack on each other Burst proc, Yelan offers more Hydro application and another substantial increase in her damage Please note that this does not guarantee that she will be able to allow hutao/klee to vape 100% of the time by herself. Our current understanding of EGT is suggesting that it still is not enough but it is helpful for other teams.
+    color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 4/5
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_602.webp
+  - title: C3 - Beware the Trickster's Dice
+
+    description: |-
+      *Increases the Level of Depth-Clarion Dice by 3. Maximum upgrade level is 15.*
+
+      Three talent levels added to Yelan’s Burst is uncontroversially a valuable benefit to her damage, as almost all of her damage comes from her Burst.
+    color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 3/5
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_603.webp
+
+  - title: C4 - Bait-and-Switch
+
+    description: |-
+      *Increases all party members' Max HP by 10% for 25s for every opponent marked by Lifeline when the Lifeline explodes. A maximum increase of 40% Max HP can be attained in this manner.*
+
+      C4 provides a rare buff in increasing the party’s Max HP. This is great on Yelan, and even better when paired with other HP scaling units like Hu Tao.    color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 2/5
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_604.webp
+
+  - title: C5 - Dealer's Sleight
+
+    description: |-
+      *Increases the Level of Lingering Lifeline by 3.Maximum upgrade level is 15.*
+
+      Yelan’s skill is a negligible portion of her damage, so the three bonus talent levels aren’t very beneficial here.
+
+    color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 1/5
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_605.webp
+
+  - title: C6 - Winner Takes All
+
+    description: |-
+      *After using Depth-Clarion Dice, Yelan will enter the Mastermind state. In this state, all of Yelan's Normal Attacks will be special Breakthrough Barbs. These Breakthrough Barbs will have similar abilities to normal ones and the DMG dealt will be considered Charged Attack DMG, dealing 156% of a normal Breakthrough Barb's DMG. The Mastermind state lasts 20s and will be cleared after Yelan fires 5 arrows.*
+
+      Offers a playstyle where Yelan takes up more field time to do massive AoE damage. Can be useful to deal with flying type enemies or large mobs. The damage gain is hard to quantify as she will be displacing field time from your other DPS unit.
+    color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 5/5
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/c_606.webp
+    footer:
+      text: (section authored by KB/Emiliabyss)
