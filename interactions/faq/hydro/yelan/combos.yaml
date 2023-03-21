@@ -23,25 +23,12 @@ embeds:
   color: 7184107
 - title: __Why 23s Rotations?__
   description: |-
-    Sometimes, Yelan will want to use her E twice per rotation in order
-    to get away with building less Energy Recharge. The less Energy Recharge she has
-    to build, the more she can invest into offensive stats. When Yelan is freely able
-    to invest in offensive stats, such as with Xingqiu wielding a Sacrificial Sword,
-    she deals more than double Sac-Sword-Xingqiu’s damage. 
+    Sometimes, Yelan will want to use her E twice per rotation in order to get away with building less Energy Recharge. The less Energy Recharge she has to build, the more she can invest into offensive stats. When Yelan is freely able to invest in offensive stats, such as with Xingqiu wielding a Sacrificial Sword, she deals more than double Sac-Sword-Xingqiu’s damage. 
     
-    23s is an estimate,
-    but 22s is also a safe assumption. It takes about half of a second to use Yelan’s
-    skill, and you’d have to recast E right after cooldown to keep the rotation down.
-    Two E casts takes 21 seconds, but we also have to factor in human error. Knowing
-    when her cooldown ends is essential to maximizing DPS in these rotations.
+    23s is an estimate, but 22s is also a safe assumption. It takes about half of a second to use Yelan’s skill, and you’d have to recast E right after cooldown to keep the rotation down. Two E casts takes 21 seconds, but we also have to factor in human error. Knowing when her cooldown ends is essential to maximizing DPS in these rotations.
     
-    There
-    is, of course, a catch to opting into 23s rotations: since Yelan’s Burst lasts
-    for 15 seconds and her Skill cooldown is 10 seconds. This means Yelan needs to
-    return to the field while her Burst is active, which is why in some rotations,
-    weaving N1’s into her moves can keep her Burst procs coming. 23s rotations
-    are an option, not a requirement. As always, it depends on your team composition
-    and gear.
+    There is, of course, a catch to opting into 23s rotations: since Yelan’s Burst lasts for 15 seconds and her Skill cooldown is 10 seconds. This means Yelan needs to return to the field while her Burst is active, which is why in some rotations, weaving N1’s into her moves can keep her Burst procs coming. 23s rotations are an option, not a requirement. As always, it depends on your team composition and gear.
+
   color: 7184107 
   footer:
     text: (section authored by Emiliabyss)
