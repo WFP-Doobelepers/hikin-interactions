@@ -1,0 +1,34 @@
+content: null
+embeds:
+- title: >-
+    Ganyu Infographic
+  description: |-
+    • Cryo
+    • Bow
+    • On-Field DPS
+  color: 11786743
+  author:
+    name: Ganyu
+    icon_url: >-
+      https://media.discordapp.net/attachments/957846543011024929/999311911801847838/unknown.png
+  footer:
+    text: by KB#1111 (author) and sugarv#0374 (designer)
+  image:
+    url: >-
+      https://media.discordapp.net/attachments/975292459380776970/999863397606768710/Ganyu-01.png?width=1178&height=662
+  thumbnail:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
+
+options:
+#dropdown
+- label: Softgoals
+  value: infographics/cryo/Ganyu/softgoals
+  description: WFP resources for Ganyu Softgoals.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+buttons:
+- label: KQM Guide
+  url: https://keqingmains.com/ganyu/
+  emoji: :logont:945530991240421386
+  style: LINK
