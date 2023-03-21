@@ -39,7 +39,7 @@ Various subfolders can be added to these folders to designate elements/propertie
     
 For example, when creating an FAQ for various Genshin Impact Characters, the folder structure may look like this: 
     
-   ![image](https://user-images.githubusercontent.com/66517217/226588052-c8db5de9-7300-4c77-b4d9-e830851f53a9.png)
+<img src="https://user-images.githubusercontent.com/66517217/226588052-c8db5de9-7300-4c77-b4d9-e830851f53a9.png" width = "300">
    
 #### __Adding a Character Command under Hikin :__
 
