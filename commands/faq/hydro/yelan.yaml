@@ -1,0 +1,5 @@
+interaction: faq/hydro/yelan/main
+description: "Opens WFP resources on Yelan"
+emoji: <${EMOJIS.YELAN}> 
+
+name: Yelan
