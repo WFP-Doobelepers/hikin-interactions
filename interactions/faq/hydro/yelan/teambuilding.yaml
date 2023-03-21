@@ -1,7 +1,7 @@
 content: null
 embeds:
   - title: __**TEAMBUILDING**__
-    description: |- 
+    description: >- 
       **Hutao Teams**
 
       Hutao/Yelan/Xingqiu/Zhongli or Kazuha
@@ -22,7 +22,7 @@ embeds:
     image:
       url: https://cdn.discordapp.com/attachments/1087300734372020315/1087628151926034602/88KqCnpnJSKIyunjsPDNjTPD0Ivx9YyHzPLAAAAAElFTkSuQmCC.png
   - title: '**Raiden Teams**'
-    description: |-
+    description: >-
 
       Yelan/Raiden/Anemo and-or Bennett/Flex
 

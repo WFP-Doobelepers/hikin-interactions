@@ -3,9 +3,9 @@ content:
 embeds:
   - title: __WEAPONS__
     description: 
-    Thankfully, due to Yelan’s scaling, the ranks for best weapons are both straightforward *and* accessible. In almost all cases, Favonius Warbow is Yelan’s go-to weapon when her energy needs are high. She naturally wants crit rate, benefits enough from the passive and ER% stats to build into her HP% and Crit%, and gives the most bang per buck for a free weapon on a 5-star character. The fact everyone has one already makes this an almost unbeatable option, second only to her ***limited 5-star*** signature weapon.
+      Thankfully, due to Yelan’s scaling, the ranks for best weapons are both straightforward *and* accessible. In almost all cases, Favonius Warbow is Yelan’s go-to weapon when her energy needs are high. She naturally wants crit rate, benefits enough from the passive and ER% stats to build into her HP% and Crit%, and gives the most bang per buck for a free weapon on a 5-star character. The fact everyone has one already makes this an almost unbeatable option, second only to her ***limited 5-star*** signature weapon.
 
-    At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
+      At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
     color: 7184107
   - title: _225ER_
     description:
