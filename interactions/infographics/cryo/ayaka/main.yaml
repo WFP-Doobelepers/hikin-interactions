@@ -23,7 +23,7 @@ embeds:
 options:
 #dropdown
 - label: Softgoals
-  value: infographics/cryo/Ayaka/softgoals
+  value: infographics/cryo/ayaka/softgoals
   description: WFP resources for Ayaka Softgoals.
   emoji: ${ EMOJIS.CRYO_BOX }
 
