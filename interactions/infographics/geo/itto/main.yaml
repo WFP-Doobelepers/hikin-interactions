@@ -25,12 +25,12 @@ options:
 - label: Infographic
   value: infographics/geo/itto/infographic
   description: WFP resources for Arataki Itto Infographic.
-  emoji: ${ EMOJIS.ELECTRO_BOX }
+  emoji: ${ EMOJIS.GEO_BOX }
 
 - label: Softgoals
   value: infographics/geo/itto/softgoals
   description: WFP resources for Arataki Itto Softgoals.
-  emoji: ${ EMOJIS.ELECTRO_BOX }
+  emoji: ${ EMOJIS.GEO_BOX }
 
 buttons:
 - label: KQM Guide
