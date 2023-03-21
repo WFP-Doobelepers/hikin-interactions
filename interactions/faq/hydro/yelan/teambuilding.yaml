@@ -1,7 +1,7 @@
 content: null
 embeds:
   - title: __**TEAMBUILDING**__
-    description: >- 
+    description: |- 
       **Hutao Teams**
 
       Hutao/Yelan/Xingqiu/Zhongli or Kazuha
@@ -22,36 +22,36 @@ embeds:
     image:
       url: https://cdn.discordapp.com/attachments/1087300734372020315/1087628151926034602/88KqCnpnJSKIyunjsPDNjTPD0Ivx9YyHzPLAAAAAElFTkSuQmCC.png
   - title: '**Raiden Teams**'
-    description: >-
+    description: |-
 
-    Yelan/Raiden/Anemo and-or Bennett/Flex
+      Yelan/Raiden/Anemo and-or Bennett/Flex
 
-    Yelan has enough raw firepower
-    to replace Sara in Raiden Hypercarry comps. Raiden serves as a potent battery
-    for Yelan while also being a powerful on-field DPS. Raiden and Yelan also share
-    a support in the form of a Viridescent Venerer holder like Kazuha. While Hypercarry
-    Raiden uses Bennett and Yelan does not benefit from Bennett, this issue is negligible
-    when considering the raw numbers for team damage, easily enough to clear Spiral
-    Abyss. More testing is needed, but it’s likely many variations of Raiden/Yelan
-    teams will work.
+      Yelan has enough raw firepower
+      to replace Sara in Raiden Hypercarry comps. Raiden serves as a potent battery
+      for Yelan while also being a powerful on-field DPS. Raiden and Yelan also share
+      a support in the form of a Viridescent Venerer holder like Kazuha. While Hypercarry
+      Raiden uses Bennett and Yelan does not benefit from Bennett, this issue is negligible
+      when considering the raw numbers for team damage, easily enough to clear Spiral
+      Abyss. More testing is needed, but it’s likely many variations of Raiden/Yelan
+      teams will work.
     color: 7184107
     image:
       url: https://cdn.discordapp.com/attachments/1087300734372020315/1087628576905494548/EwRH6jK755jpmAQAAAABJRU5ErkJggg.png
   - title: '**Taser Teams**'
-    description: >-
+    description: |-
 
-    Yelan/Electro/Anemo/Flex
+      Yelan/Electro/Anemo/Flex
 
-    Since Yelan’s Burst procs with normal attacks, she is a strong candidate for EC teams (Sucrose/Fischl/Beidou/XQ). It must be noted that her taser teams can be more difficult compared to XQ because of the lack of healing/damage reduction.
+      Since Yelan’s Burst procs with normal attacks, she is a strong candidate for EC teams (Sucrose/Fischl/Beidou/XQ). It must be noted that her taser teams can be more difficult compared to XQ because of the lack of healing/damage reduction.
     color: 7184107
     image:
       url: https://cdn.discordapp.com/attachments/1087300734372020315/1087629395017084948/vCZYtWzKq4YpYr3hOtp1oZ8GCq6hsbNQAy4i96rUDaQpoCmgKaApoCmgKaApoCmgKaApoCoysAv8fC5ndXzoMb44AAAAASUVORK5CYII.png
   - title: '**Freeze Teams**'
-    description: >-
+    description: |-
 
-    Yelan/Cryo/Anemo/Flex
+      Yelan/Cryo/Anemo/Flex
 
-    Although Yelan can apply a good amount of hydro for Freeze teams, she faces tough competition for the hydro slot. Although Yelan is not the optimal pick for Freeze teams she is still quite good for Ayaka in particular if you do not have access to Mona or Kokomi. Keep in mind that Yelan’s Breakthrough Barb is an option for applying AoE Hydro to maintain Freeze against multiple opponents.
+      Although Yelan can apply a good amount of hydro for Freeze teams, she faces tough competition for the hydro slot. Although Yelan is not the optimal pick for Freeze teams she is still quite good for Ayaka in particular if you do not have access to Mona or Kokomi. Keep in mind that Yelan’s Breakthrough Barb is an option for applying AoE Hydro to maintain Freeze against multiple opponents.
     color: 7184107
     image:
       url: https://cdn.discordapp.com/attachments/1087300734372020315/1087629517373308969/H9iIlBO9RyEeAAAAAElFTkSuQmCC.png

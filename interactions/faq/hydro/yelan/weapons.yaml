@@ -9,56 +9,56 @@ embeds:
     color: 7184107
   - title: _225ER_
     description:
-    - title: Aqua Simulacra [HP% Sands]
-      description: Yelan's signature weapon, +15-20% DMG increase from competition.
-      color: 7184107
-      thumbnail:
-        url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Kirin.png
-    - title: Sacrificial Bow R3+ [HP% Sands]
-      description: C1 on a weapon and/or give her the Xingqiu treatment; changes ER req from 225 to 160 if you use only use 1 Skill per rotation without Sacrificial Bow passive.
-      color: 7184107
-      thumbnail: 
-        url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Fossil.png
-    - title: Favonius Warbow [HP% Sands]
-      description: Yes, really. And everyone has one just by playing the story; changes ER req from 225 to 190.
-      color: 7184107
-      thumbnail:
-        url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Zephyrus.png
-    - title: Elegy for the End [HP% Sands]
-      description: Not ideal for personal damage, but its ER% stat and team buff can’t be ignored.
-      color: 7184107
-      thumbnail:
-        url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Widsith.png
-    - title:  Polar Star / Fading Twilight R5 / Mourn’s Moon R5
-      description: 2% more damage than Favonius but is it worth losing the Favonius proc?
-      color: 7184107
-      thumbnail:
-        url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625287023460362/D5v7cvA1PMhrAAAAAElFTkSuQmCC.png
-      description: 3* bows that are basically free for everyone.
-      color: 7184107
-      thumbnail:
-        url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625144505221230/wfuIh2WRpfWHgAAAABJRU5ErkJggg.png
+  - title: Aqua Simulacra [HP% Sands]
+    description: Yelan's signature weapon, +15-20% DMG increase from competition.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Kirin.png
+  - title: Sacrificial Bow R3+ [HP% Sands]
+    description: C1 on a weapon and/or give her the Xingqiu treatment; changes ER req from 225 to 160 if you use only use 1 Skill per rotation without Sacrificial Bow passive.
+    color: 7184107
+    thumbnail: 
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Fossil.png
+  - title: Favonius Warbow [HP% Sands]
+    description: Yes, really. And everyone has one just by playing the story; changes ER req from 225 to 190.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Zephyrus.png
+  - title: Elegy for the End [HP% Sands]
+    description: Not ideal for personal damage, but its ER% stat and team buff can’t be ignored.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Widsith.png
+  - title:  Polar Star / Fading Twilight R5 / Mourn’s Moon R5
+    description: 2% more damage than Favonius but is it worth losing the Favonius proc?
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625287023460362/D5v7cvA1PMhrAAAAAElFTkSuQmCC.png
+    description: 3* bows that are basically free for everyone.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625144505221230/wfuIh2WRpfWHgAAAABJRU5ErkJggg.png
   - title: _160ER_
     description:
-      - title: Aqua Simulacra [HP% Sands]
-      description: Yelan's signature weapon, +15-20% DMG increase from competition.
-      color: 7184107
-      thumbnail:
-        url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Kirin.png
-      - title: CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% Sands]
-      description: CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
-      color: 7184107
-      thumbnail:
-        url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625605220151336/A8Hl0yLwXGiPAAAAAElFTkSuQmCC.png
-      - title: Mourn’s Moon R5 / Stringless R5 [HP% Sands]
-      description: Both of the bows give lots of DMG%. You will want a HP% Goblet due to diminishing returns.
-      color: 7184107
-      thumbnail:
-        url: https://cdn.discordapp.com/attachments/1087300734372020315/1087626200949727262/8Pu54UT6c1xFUAAAAASUVORK5CYII.png
-      - title: Slingshot R5 / Fading Twilight R5 [HP% Sands]
-      description: Dirt cheap. Within 1-2% of much of the above competition.
-      color: 7184107
-      thumbnail:
-        url: https://cdn.discordapp.com/attachments/1087300734372020315/1087626200949727262/8Pu54UT6c1xFUAAAAASUVORK5CYII.png
+  - title: Aqua Simulacra [HP% Sands]
+    description: Yelan's signature weapon, +15-20% DMG increase from competition.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Kirin.png
+  - title: CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% Sands]
+    description: CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625605220151336/A8Hl0yLwXGiPAAAAAElFTkSuQmCC.png
+  - title: Mourn’s Moon R5 / Stringless R5 [HP% Sands]
+    description: Both of the bows give lots of DMG%. You will want a HP% Goblet due to diminishing returns.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087626200949727262/8Pu54UT6c1xFUAAAAASUVORK5CYII.png
+  - title: Slingshot R5 / Fading Twilight R5 [HP% Sands]
+    description: Dirt cheap. Within 1-2% of much of the above competition.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087626200949727262/8Pu54UT6c1xFUAAAAASUVORK5CYII.png
     footer:
       text: (section authored by Emiliabyss)
