@@ -1,0 +1,48 @@
+---
+content:
+embeds:
+  - title: __WEAPONS__
+    description: 
+      In general, Yelan needs around **225%** ER for 1 Skill used per Burst. With a second Hydro Unit in the team, it reduces down to around 200%. In quickswap team where Yelan can use up to 2 Skills per rotation, it further lowers Yelan's ER requirements by 40-0%
+      
+      Thankfully, due to Yelan’s scaling, the ranks for best weapons are both straightforward *and* accessible. In almost all cases, Favonius Warbow is Yelan’s go-to weapon when her energy needs are high. She naturally wants crit rate, benefits enough from the passive and ER% stats to build into her HP% and Crit%, and gives the most bang per buck for a free weapon on a 5-star character. The fact everyone has one already makes this an almost unbeatable option, second only to her ***limited 5-star*** signature weapon.
+
+      At low ER% requirements, ATK stats don’t matter, so whatever gives the best damage bonuses, crit stats, or HP will work best. Focus less on utility and more on pure damage at low ER% requirements.
+    color: 7184107
+  - title: Aqua Simulacra [HP% or ER% Sands]
+    description: Yelan's signature weapon, +15-20% DMG increase from competition.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Kirin.png
+  - title: Sacrificial Bow R3+ [HP% Sands]
+    description: C1 on a weapon and/or give her the Xingqiu treatment; changes ER req from 225 to 160 if you previously use only use 1 Skill per rotation without Sacrificial Bow passive.
+    color: 7184107
+    thumbnail: 
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Fossil.png
+  - title: Favonius Warbow [HP% Sands]
+    description: Yes, really. And everyone has one just by playing the story; changes ER req from 225 to 190.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Zephyrus.png
+  - title: Elegy for the End [HP% Sands]
+    description: Not ideal for personal damage, but its ER% stat and team buff can’t be ignored.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Widsith.png
+  - title: CRIT Stat Bows (Polar Star, Thundering Pulse, Skyward Harp, Hunters' Path) [HP% or ER% Sands]
+    description: CRIT stat stick. Since Yelan doesn't scale with ATK, any of these would give similar result. However, Slingshot is only 1-7% less damage than all bows mentioned here.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625605220151336/A8Hl0yLwXGiPAAAAAElFTkSuQmCC.png
+  - title: Mourn’s Moon R5 / Stringless R5 / Fading Twilight R5 [HP% or ER% Sands]
+    description: Both of the bows give lots of DMG%. You will generally want a HP% Goblet due to diminishing returns.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087626200949727262/8Pu54UT6c1xFUAAAAASUVORK5CYII.png
+  - title: Recurve Bow R5 / Slingshot R5 [HP% or ER% Sands]
+    description: 3* bows that are basically free for everyone.
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1087625144505221230/wfuIh2WRpfWHgAAAABJRU5ErkJggg.png
+    footer:
+      text: (section authored by Emiliabyss)

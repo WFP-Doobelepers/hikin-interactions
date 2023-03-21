@@ -1,0 +1,76 @@
+content: null
+embeds:
+  - title: >-
+      A mysterious person who claims to work for the Ministry of Civil Affairs, but is a “non-entity” on the Ministry of Civil Affairs’ list.
+    color: 7184107
+    fields:
+      - name: 'Yelan Mastersheet by Emiliabyss#1641 and KB#1111'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1PsrNEjRTLpTUmLu2SFtz0LYNroCS8k8yQHvCB0dEWxw/edit#gid=1076481734)
+      - name: 'Yelan Frames Mastersheet by jrm.spirit#2671'
+        value: >-
+          [Google Sheet](https://docs.google.com/spreadsheets/d/10r2GbJa62BdrbGG5aK-xkpg18BoVx91jwYkA7qiHdPA/edit#gid=0)
+    author: 
+      name: Yelan FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/yelan_060_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/yelan_060_gacha_splash.webp
+
+options: #dropdown
+
+  - label: Overview
+    value: faq/hydro/yelan/overview
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Talents
+    value: faq/hydro/yelan/talents
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Constellations
+    value: faq/hydro/yelan/constellations
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Combos
+    value: faq/hydro/yelan/combos
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Energy Recharge Requirements
+    value: faq/hydro/yelan/erreq
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Artifacts
+    value: faq/hydro/yelan/artifacts
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Weapons
+    value: faq/hydro/yelan/weapons
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Team Building
+    value: faq/hydro/yelan/teambuilding
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Aqua Simulacra or C1 Yelan?
+    value: faq/hydro/yelan/aquaorc1
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: External Links
+    value: faq/hydro/yelan/external
+    description: "WFP resources for Yelan FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/yelan
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK

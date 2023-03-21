@@ -1,0 +1,47 @@
+---
+content:
+embeds:
+  - title: __**TALENTS**__
+    description: 'Leveling priority: Burst > Skill >> Normal Attack'
+    color: 7184107
+    image:
+      url: https://cdn.discordapp.com/attachments/1084456231432892501/1087581757961936937/yelan_talents_copy.png
+  - title: Normal Attacks
+    description: >-
+      Normal attacks do pitiful damage on this unit, especially due to it being the only part of her kit to scale off of ATK and not HP. Invest at your own risk.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_A_02.png
+      
+  - title: Elemental Skill
+    description: >-
+      Yelan's Skill has tap and hold options. On tap, Yelan makes a short dash and deals Hydro damage while entangling her enemies. When holding her skill, Yelan dashes for longer, and you can control her for up to three seconds before dealing damage to all enemies she entangles. Sometimes, hitting enemies with her skill will allow Yelan to use her Breakthrough Barb, her specialized charged shot for AoE Hydro damage. While the damage on Breakthrough is nothing to write home about, it's still sometimes a nice utility.
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_S_Yelan_01.png
+
+  - title: Elemental Burst
+    description: >-
+      Yelan's Burst is her bread and butter, and where all of her damage comes from. Max it as fast as you possibly can. Her burst creates three instances of hydro damage synchronized with Normal Attacks, similar to widely-used 4-star support, Xingqiu. The synchronized attacks also have a buffer window to ready the next wave like Xingqiu, so it is easier to activate a wave each second if you are constantly auto attacking.
+
+      While more testing is needed, it's important to note that her Hydro application may not be as "strong" as Xingqiu's, due to Xingqiu's extra sword he acquires through constellations and the periodic application from the swords that orbit him (important for Hutao). This can be improved through Yelan's C2, but being a 5-star unit means constellations are, for many people, unrealistic.
+
+    color: 7184107
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_E_Yelan_01.png
+
+  - title: Ascension Passive
+    description: |-
+      Yelan's ascension talents are both much-appreciated boons. Her first ascension passive grants an HP bonus based on how many different elements are present in your team composition, with the HP bonus ranging from 6%-30%. This is essentially more damage the more diverse your team is, and you can usually expect to have an 18% HP buff with three different elements.
+
+      Her latter as ascension talent allows her Burst to apply a cumulative DMG% buff to the active party member for the Burst's duration, starting at 1% and gaining 3.5% every second. As Yelan's burst lasts 15 seconds, by the end of her Burst, your active member will have a 50% damage bonus. This encourages players to strategically time the most powerful attacks near the end of a rotation in order to make the most of Yelan's buff.
+    color: 7184107
+  - title: Overworld Utility Passive Talents
+    description: >-
+      Finally, her overworld talent brings you more materials when she's sent on expedition, encouraging you to send Yelan and Shenhe on regular dates together throughout Liyue.
+
+    thumbnail: 
+      url: https://api.ambr.top/assets/UI/UI_Talent_Expedition_Liyue.png
+    color: 7184107
+    footer:
+      text: (section authored by Emiliabyss; edited by KB)
