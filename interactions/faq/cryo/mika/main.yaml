@@ -14,52 +14,52 @@ embeds:
 
 options:
 - label: Overview
-  value: faq/mika/overview
+  value: faq/cryo/mika/overview
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Talents
-  value: faq/mika/talents
+  value: faq/cryo/mika/talents
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Constellations
-  value: faq/mika/constellations
+  value: faq/cryo/mika/constellations
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: ER
-  value: faq/mika/er
+  value: faq/cryo/mika/er
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Artifacts
-  value: faq/mika/artifacts
+  value: faq/cryo/mika/artifacts
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Weapons
-  value: faq/mika/weapons
+  value: faq/cryo/mika/weapons
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Eula Synergy
-  value: faq/mika/eulasynergy
+  value: faq/cryo/mika/eulasynergy
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: Teambuilding
-  value: faq/mika/teambuilding
+  value: faq/cryo/mika/teambuilding
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 - label: External Links
-  value: faq/mika/external
+  value: faq/cryo/mika/external
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
 buttons:
 - label: WFP Website
-  url: https://wangshengfp.org/faq/Mika
+  url: https://wangshengfp.org/faq/cryo/Mika
   emoji: ${ EMOJIS.WFP_LOGO }
   style: LINK
