@@ -1,15 +1,16 @@
 content: null
 embeds:
-  - title: Yelan
+  - title: >-
+      Deputy of the Oni: A Kuki Shinobu Guide
     description: |-
       • Hydro
       • Bow
       • Off-field DPS
     color: 4281798
     author:
-      name: Yelan
+      name: Kuki Shinobu
       icon_url: >-
-        https://asset.vg247.com/genshin-impact-yelan-build.jpg/BROK/thumbnail/1200x1200/quality/100/genshin-impact-yelan-build.jpg
+        https://media.discordapp.net/attachments/957846543011024929/1001783698187886612/unknown.png
     footer:
       text: by Vladone ツ#9281 (author) and EduLis#2176 (designer)
     image:
