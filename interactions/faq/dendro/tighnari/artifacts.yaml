@@ -1,8 +1,18 @@
 embeds:
   - title: ARTIFACTS
     description: >-
-      Tighnari has multiple Artifact Sets suiting him. Namely, Deepwood
-      Memories, Gilded Dreams and Wanderer’s Troupe. 
+      ***Main Stats***
+
+        **Sands of Eon:** ATK% / EM
+
+        **Goblet of Eonothem:** Dendro DMG%
+
+        **Circlet of Logos:** CRIT Rate / CRIT DMG
+
+      ***Substats Priority:***
+        
+        **ER (until requirement) > CRIT Rate = CRIT DMG > ATK% = EM 
+
     color: 3450963
 
   - title: Deepwood Memories
