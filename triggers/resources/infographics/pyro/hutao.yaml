@@ -1,4 +1,4 @@
 interaction: infographics/pyro/hutao/main
 description: "Opens WFP resources on Hu Tao"
-match: ${ TRIGGER_PREFIX }hutao(?:\s|$)
+match: ${ TRIGGER_PREFIX }hutaoinfographic(?:\s|$)
 ignoreCase: true

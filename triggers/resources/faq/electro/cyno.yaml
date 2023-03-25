@@ -1,0 +1,4 @@
+interaction: faq/electro/cyno/main
+description: "Opens WFP resources on Cyno"
+match: ${ TRIGGER_PREFIX }cynofaq(?:\s|$)
+ignoreCase: true

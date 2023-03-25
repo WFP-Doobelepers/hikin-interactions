@@ -1,0 +1,4 @@
+interaction: faq/anemo/wanderer/main
+description: "Opens WFP resources on Wanderer"
+match: ${ TRIGGER_PREFIX }wandererfaq(?:\s|$)
+ignoreCase: true

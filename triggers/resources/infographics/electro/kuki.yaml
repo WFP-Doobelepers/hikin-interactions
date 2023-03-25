@@ -1,0 +1,4 @@
+interaction: infographics/electro/kuki/main
+description: "Opens WFP resources on Kuki Shinobu"
+match: ${ TRIGGER_PREFIX }kukiinfographic(?:\s|$)
+ignoreCase: true

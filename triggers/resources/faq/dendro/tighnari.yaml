@@ -1,0 +1,4 @@
+interaction: faq/dendro/tighnari/main
+description: "Opens WFP resources on Tighnari"
+match: ${ TRIGGER_PREFIX }tighnarifaq(?:\s|$)
+ignoreCase: true

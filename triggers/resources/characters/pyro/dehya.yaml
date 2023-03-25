@@ -1,4 +1,0 @@
-interaction: faq/pyro/dehya/main
-description: "Opens WFP resources on Dehya"
-match: ${ TRIGGER_PREFIX }dehyafaq(?:\s|$)
-ignoreCase: true

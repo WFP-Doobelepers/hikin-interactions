@@ -1,0 +1,4 @@
+interaction: infographics/electro/raiden/main
+description: "Opens WFP resources on Raiden Shogun"
+match: ${ TRIGGER_PREFIX }raideninfographic(?:\s|$)
+ignoreCase: true

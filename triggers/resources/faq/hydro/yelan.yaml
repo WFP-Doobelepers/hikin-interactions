@@ -1,0 +1,4 @@
+interaction: faq/hydro/yelan/main
+description: "Opens WFP resources on Yelan"
+match: ${ TRIGGER_PREFIX }yelanfaq(?:\s|$)
+ignoreCase: true

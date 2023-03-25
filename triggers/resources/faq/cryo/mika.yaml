@@ -1,0 +1,4 @@
+interaction: faq/cryo/mika/main
+description: "Opens WFP resources on Mika"
+match: ${ TRIGGER_PREFIX }mikafaq(?:\s|$)
+ignoreCase: true

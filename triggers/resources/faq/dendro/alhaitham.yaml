@@ -1,0 +1,4 @@
+interaction: faq/dendro/alhaitham/main
+description: "Opens WFP resources on Alhaitham"
+match: ${ TRIGGER_PREFIX }alhaithamfaq(?:\s|$)
+ignoreCase: true

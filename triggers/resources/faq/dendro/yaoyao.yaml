@@ -1,0 +1,4 @@
+interaction: faq/dendro/yaoyao/main
+description: "Opens WFP resources on Yaoyao"
+match: ${ TRIGGER_PREFIX }yaoyaofaq(?:\s|$)
+ignoreCase: true

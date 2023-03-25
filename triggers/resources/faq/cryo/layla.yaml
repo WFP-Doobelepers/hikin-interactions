@@ -1,0 +1,4 @@
+interaction: faq/cryo/layla/main
+description: "Opens WFP resources on Layla"
+match: ${ TRIGGER_PREFIX }laylafaq(?:\s|$)
+ignoreCase: true

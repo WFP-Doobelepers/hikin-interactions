@@ -1,0 +1,4 @@
+interaction: infographics/cryo/shenhe/main
+description: "Opens WFP resources on Shenhe"
+match: ${ TRIGGER_PREFIX }shenheinfographic(?:\s|$)
+ignoreCase: true

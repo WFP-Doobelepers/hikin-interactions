@@ -1,0 +1,4 @@
+interaction: faq/hydro/nilou/main
+description: "Opens WFP resources on Nilou"
+match: ${ TRIGGER_PREFIX }niloufaq(?:\s|$)
+ignoreCase: true
