@@ -1,0 +1,4 @@
+interaction: infographics/electro/raiden/softgoals
+description: "Opens WFP Softgoals on Raiden Shogun"
+match: ${ TRIGGER_PREFIX }raidensoftgoals(?:\s|$)
+ignoreCase: true
