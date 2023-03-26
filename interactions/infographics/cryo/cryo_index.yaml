@@ -7,7 +7,7 @@ options:
   - label: Ayaka
     value: infographics/cryo/ayaka/main
     description: WFP resources on ayaka!
-    emoji: "<:Layla:953430875788443709>"
+    emoji: <${EMOJIS.AYAKA}>
 
   - label: Ganyu
     value: infographics/cryo/ganyu/main
