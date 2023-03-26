@@ -1,4 +1,4 @@
 interaction: infographics/geo/itto/main
 description: "Opens WFP resources on Arataki Itto"
-match: ${ TRIGGER_PREFIX }ittoinfographic(?:\s|$)
+match: ${ TRIGGER_PREFIX }itto(?:\s|$)
 ignoreCase: true

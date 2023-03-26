@@ -1,4 +1,4 @@
 interaction: infographics/pyro/bennett/main
 description: "Opens WFP resources on Bennett"
-match: ${ TRIGGER_PREFIX }bennetinfographic(?:\s|$)
+match: ${ TRIGGER_PREFIX }bennett(?:\s|$)
 ignoreCase: true
