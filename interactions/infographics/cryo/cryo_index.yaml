@@ -1,0 +1,20 @@
+embeds:
+  - color: 10470888
+    description: |-
+      <${EMOJIS.CRYO}> Select a character!
+
+options: 
+  - label: Ayaka
+    value: infographics/cryo/ayaka/main
+    description: WFP resources on ayaka!
+    emoji: "<:Layla:953430875788443709>"
+
+  - label: Ganyu
+    value: infographics/cryo/ganyu/main
+    description: WFP resources on Ganyu!
+    emoji: "<:Ganyu:1089568155921301614>"
+
+  - label: Shenhe
+    value: infographics/cryo/shenhe/main
+    description: WFP resources on Shenhe!
+    emoji: "<:Shenhe:1089568459278524446>"

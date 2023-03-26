@@ -1,0 +1,15 @@
+embeds:
+  - color: 9338051
+    description: |-
+      <${EMOJIS.ELECTRO}> Select a character!
+
+options: 
+  - label: Kuki Shinobu
+    value: infographics/electro/kuki/main
+    description: WFP resources on Kuki Shinobu!
+    emoji: <${ EMOJIS.KUKI }>
+
+  - label: Raiden Shogun
+    value: infographics/electro/raiden/main
+    description: WFP resources on the Raiden Shogun!
+    emoji: <${ EMOJIS.RAIDEN }>

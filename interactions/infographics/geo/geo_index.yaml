@@ -1,0 +1,11 @@
+embeds:
+  - color: 15919533
+    description: |-
+      <${EMOJIS.GEO}> Select a character!
+
+options: 
+
+  - label: Arataki Itto
+    value: infographics/geo/itto/main
+    description: WFP resources on Arataki Itto!
+    emoji: <${EMOJIS.ITTO}>

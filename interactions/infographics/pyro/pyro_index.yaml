@@ -1,0 +1,27 @@
+embeds:
+  - color: 12784917
+    description: |-
+      <${EMOJIS.PYRO}> Select a character!
+
+
+options: 
+
+  - label: Hu Tao
+    value: infographics/pyro/hutao/main
+    description: WFP resources on Hu Tao!
+    emoji: <${EMOJIS.HUTAO}>
+
+  - label: Bennett
+    value: infographics/pyro/bennett/main
+    description: WFP resources on Bennett!
+    emoji: <${EMOJIS.BENNETT}>
+
+  - label: Xinyan
+    value: infographics/pyro/xinyan/main
+    description: WFP resources on Xinyan!
+    emoji: <${EMOJIS.XINYAN}>
+
+  - label: Yoimiya
+    value: infographics/pyro/yoimiya/main
+    description: WFP resources on Yoimiya!
+    emoji: <${EMOJIS.YOIMIYA}>
