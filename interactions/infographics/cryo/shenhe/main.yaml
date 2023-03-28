@@ -27,6 +27,21 @@ options:
   description: WFP resources for Shenhe Guide.
   emoji: ${ EMOJIS.CRYO_BOX }
 
+- label: Infographics
+  value: infographics/cryo/shenhe/infographic
+  description: WFP resources for Shenhe Infographic.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Softgoals
+  value: infographics/cryo/shenhe/softgoals
+  description: WFP resources for Yelan Softgoals.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+- label: Softgoals
+  value: infographics/cryo/shenhe/constellations
+  description: WFP resources for Shenhe Constellations.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
 buttons:
 - label: KQM Guide
   url: https://keqingmains.com/shenhe/
