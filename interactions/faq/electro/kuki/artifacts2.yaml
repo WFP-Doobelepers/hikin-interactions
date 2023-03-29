@@ -1,107 +1,4 @@
 embeds:
-  - title: __***Artifacts***__
-    description: >-
-      For a ***Healing Support Kuki,*** we recommend the ***4pc Tenacity of the
-      Millelith*** artifact set, as her skill can consistently maintain the
-      set’s 20% ATK bonus for her team. The Healing Support build follows these
-      mainstats and substats prioritization
-
-
-      ***Sands - HP%
-
-      Goblet - HP%
-
-      Circlet - HB%
-
-
-      Substats:
-
-      HP%>CR%>ER%>EM***
-
-
-      CR% being on secondary priority as Favonius Sword is her BiS on the 4*
-      sword options that Kuki can use as a Healing Support. Rotations with
-      Favonius Sword will force Kuki to Elemental Burst to trigger a 1/7 chance
-      to proc Favonius Passive.
-
-
-      –
-
-
-      For a ***Physical DPS Kuki,*** we recommend the ***4pc Pale Flame***
-      artifact set, as it adds the most total relevant stats. Physical Kuki
-      heavily relies on her long physical field time along with weapons that
-      correspond to this type of DMG. She uses her auto attack combos all the
-      way until the buffs that she receives expire and force her to rotate out. 
-
-
-      The build follows these mainstat and substat priorities:
-
-
-      ***Sands - ATK%
-
-      Goblet -Physical DMG%
-
-      Circlet - CR%
-
-
-      Substats Priority:
-
-      CR%=CDMG%>ATK%***
-
-
-      “Deviant” builds utilizing either Chongyun or C6 Bennett will require an
-      appropriate goblet and artifact set change (Gladiator/Shime 4pc sets), but
-      these are generally ill-advised on characters anyways.
-
-
-      –
-
-
-      ***Reaction DPS Kuki*** will need a full triple-EM investment, and these
-      artifacts are very difficult to find in order to have comparable (or even
-      less!) damage than other builds. For the **most personal damage**, ***4pc
-      Thundering Fury*** will work fine. However, it’s possible that ***4pc
-      Tenacity of the Millelith*** will add more Team DPS at the cost of her
-      personal damage. 
-
-
-      Reaction-based Kuki relies on her procing the reactions due to her
-      Elemental Skill ticking at 1.5 seconds on a 12 second duration. This
-      reaction-based reactions mostly consist of Overload comps and sometimes
-      Electro-Charged comps.
-
-
-      **This build will require Kuki to have a ER Weapon. Running ER/EM/EM with
-      a EM weapon is the same balance as triple EM with ER weapon,
-
-
-
-      Substats Priority:
-
-      EM>>ER%>HP%>ATK%(Triple EM Build with ER Weapon)
-
-      ER%>EM>ATK%>HP% (ER/EM/EM with EM Weapon)**
-
-
-      **DISCLAIMER:** Please keep in mind that the most you are likely to see
-      with Overload reactions is about 20k damage per reaction. With standard
-      ICD, Shinobu would max out at ~80k damage on a Elemental Burst if Shinobu
-      can claim ownership on every reaction, she has the best artifacts and
-      weapons possible, and there is adequate pyro application to last through
-      Shinobu’s Burst.
-
-
-      **Regarding Intensify, will still need further testing on the reaction
-      itself before doing update on this specific build for Kuki. Please take
-      note that the information we have got is not complete and will be changed
-      in the future depending on what Mihoyo takes it.**
-
-
-      Her Artifact options also depend on what you will run Kuki as. Here are
-      some options on the artifacts for Kuki whether you are playing her as a
-      Support or DPS.
-    color: 3450963
   - title: 'Support Kuki:'
     description: >-
       **4PC Tenacity of the Millelith** - Her BiS artifact. It gives HP% on its
@@ -224,3 +121,9 @@ embeds:
       tends to bring much more outcome in terms of DMG, but this option is
       easier to farm as Wanderers Troupe is in the strongbox.
     color: 3450963
+    
+buttons:
+- customId: liveInteraction#faq/pyro/dehya/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

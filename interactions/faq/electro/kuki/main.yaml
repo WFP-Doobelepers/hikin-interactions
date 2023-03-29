@@ -51,12 +51,12 @@ options: #dropdown
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Weapons
-    value: faq/electro/kuki/weapons1
+    value: faq/electro/kuki/weapons
     description: "WFP resources for kuki FAQ."
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Teambuilding
-    value: faq/electro/kuki/teambuildingpt1
+    value: faq/electro/kuki/teambuilding
     description: "WFP resources for kuki FAQ."
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
