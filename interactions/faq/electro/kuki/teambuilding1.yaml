@@ -88,7 +88,7 @@ embeds:
     color: 3450963
 
 buttons:
-- customId: liveInteraction#faq/electro/kuki/teambuilding1
+- customId: liveInteraction#faq/electro/kuki/teambuilding2
   label: Next
   style: PRIMARY
   emoji: "▶️"
