@@ -101,7 +101,7 @@ embeds:
       Her Artifact options also depend on what you will run Kuki as. Here are
       some options on the artifacts for Kuki whether you are playing her as a
       Support or DPS.
-    color: 3450963
+    color: $ { COLORS.PURPLE_KUKI }
 
 buttons:
 - customId: liveInteraction#faq/electro/kuki/artifacts2

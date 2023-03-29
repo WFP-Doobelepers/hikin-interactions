@@ -7,4 +7,4 @@ embeds:
       teammate and/or Haran Geppaku Futsu as a weapon. Normally, her best Normal
       Attack combo is **N1C spam.** However, with Yunjin and/or Haran, her best
       Normal Attack combo is **N4D spam.**
-    color: 3450963
+    color: $ { COLORS.PURPLE_KUKI }

@@ -13,4 +13,4 @@ embeds:
     In non-EM DPS scenarios, it is better to ignore the use of Shinobu’s burst
     entirely, allowing these stats to instead be allocated to much-needed
     offensive stats like CRIT, DMG%, and ATK%.
-  color: 3450963
+  color: $ { COLORS.PURPLE_KUKI }

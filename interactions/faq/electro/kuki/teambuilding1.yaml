@@ -85,7 +85,7 @@ embeds:
       cannot be understated how important Yunjin is for Kuki’s personal damage,
       due to Kuki’s naturally low multipliers. Any teammates that give flat DMG
       increase will help Kuki substantially.
-    color: 3450963
+    color: $ { COLORS.PURPLE_KUKI }
 
 buttons:
 - customId: liveInteraction#faq/electro/kuki/teambuilding2
