@@ -1,0 +1,11 @@
+embeds:
+  - color: 3634295
+    description: |-
+      <${EMOJIS.ANEMO}> Select a character!
+
+options: 
+
+  - label: Heizou
+    value: infographics/anemo/heizou/main
+    description: WFP resources on Shikanoin Heizou!
+    emoji: "<:Heizou:1089567280209350677>" 

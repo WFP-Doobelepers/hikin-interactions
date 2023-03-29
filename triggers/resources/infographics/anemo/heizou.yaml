@@ -1,4 +1,4 @@
 interaction: infographics/anemo/heizou/main
 description: "Opens WFP resources on Shikanoin Heizou"
-match: ${ TRIGGER_PREFIX }heizouinfographic(?:\s|$)
+match: ${ TRIGGER_PREFIX }heizou(?:\s|$)
 ignoreCase: true

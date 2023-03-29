@@ -1,4 +1,4 @@
 interaction: infographics/cryo/ganyu/main
 description: "Opens WFP resources on Ganyu"
-match: ${ TRIGGER_PREFIX }ganyuinfographic(?:\s|$)
+match: ${ TRIGGER_PREFIX }ganyu(?:\s|$)
 ignoreCase: true

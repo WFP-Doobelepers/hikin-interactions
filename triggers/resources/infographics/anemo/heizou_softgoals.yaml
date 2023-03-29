@@ -1,0 +1,4 @@
+interaction: infographics/anemo/heizou/softgoals
+description: "Opens WFP resources on Shikanoin Heizou"
+match: ${ TRIGGER_PREFIX }heizousoftgoals(?:\s|$)
+ignoreCase: true

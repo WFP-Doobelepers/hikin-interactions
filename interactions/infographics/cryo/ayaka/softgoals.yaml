@@ -6,16 +6,19 @@ embeds:
     • Cryo
     • Sword
     • On-field DPS
-  color: 11786743
+  color: 8368090
   author:
     name: Kamisato Ayaka
     icon_url: >-
       https://media.discordapp.net/attachments/1087300734372020315/1087614929370103808/image.png?width=218&height=198
   footer:
-    text:  by LoftyGinger#0369 (author) and EduLis#2176 (designer)
+    text: >-
+      by LoftyGinger#0369 (author), NatC#9175 (author) 
+      
+      and EduLis#2176 (designer)
   image:
     url: >-
-      https://media.discordapp.net/attachments/1016639002851430461/1039732064347488296/2Artboard_2.png?width=374&height=662
+      https://cdn.discordapp.com/attachments/1079631154904322138/1088668589508280340/Artboard_2.png
   thumbnail:
     url: >-
       https://github.com/WFP-Doobelepers/hikin-interactions/blob/main/interactions/infographics/images/inazuma_emblem.png?raw=true

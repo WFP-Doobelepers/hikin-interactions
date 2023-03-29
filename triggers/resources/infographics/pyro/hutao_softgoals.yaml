@@ -1,0 +1,4 @@
+interaction: infographics/pyro/hutao/softgoals
+description: "Opens WFP softgoals on Hu Tao"
+match: ${ TRIGGER_PREFIX }hutaosoftgoals(?:\s|$)
+ignoreCase: true

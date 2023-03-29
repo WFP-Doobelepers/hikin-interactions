@@ -1,0 +1,41 @@
+embeds:
+  - title: WFP Character Infographics and Softgoals
+    color: 
+    description: |-
+      Navigate through the different WFP Resources. 
+    thumbnail: 
+      url: "https://cdn.discordapp.com/emojis/1084805098561085512.webp"
+    
+
+# Additional links that should be displayed in the initial message.
+
+options: 
+  - label: Anemo
+    value: infographics/anemo/anemo_index
+    description: Guides for Anemo vision holders
+    emoji: ${ EMOJIS.ANEMO }
+
+  - label: Cryo
+    value: infographics/cryo/cryo_index
+    description: Guides for Cryo vision holders
+    emoji: ${ EMOJIS.CRYO }
+
+  - label: Electro
+    value: infographics/electro/electro_index
+    description: Guides for Electro vision holders
+    emoji: ${ EMOJIS.ELECTRO }
+
+  - label: Geo
+    value: infographics/geo/geo_index
+    description: Guides for Geo vision holders
+    emoji: ${ EMOJIS.GEO }
+
+  - label: Hydro
+    value: infographics/hydro/hydro_index
+    description: Guides for Hydro vision holders
+    emoji: ${ EMOJIS.HYDRO }
+
+  - label: Pyro
+    value: infographics/pyro/pyro_index
+    description: Guides for Pyro vision holders
+    emoji: ${ EMOJIS.PYRO }

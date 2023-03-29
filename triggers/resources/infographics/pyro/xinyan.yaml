@@ -1,4 +1,4 @@
 interaction: infographics/pyro/xinyan/main
 description: "Opens WFP resources on Xinyan"
-match: ${ TRIGGER_PREFIX }xinyaninfographic(?:\s|$)
+match: ${ TRIGGER_PREFIX }xinyan(?:\s|$)
 ignoreCase: true
