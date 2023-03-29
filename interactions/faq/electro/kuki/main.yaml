@@ -1,0 +1,66 @@
+embeds:
+  - title: >-
+      A trainee ranger active in Avidya Forest. Behind her enthusiastic words
+      and actions hides a slightly introverted personality.
+    color: 3450963
+    fields:
+      - name: 'Collei Mastersheet by Emiliabyss#1641:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit#gid=1076481734)
+      - name: 'Collei Frames Mastersheet by jrm.spirit#2671:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1IM6z4hFxvbKprTm4fT6MVf4Nvtb5MvsC7-Coh_PpAIY/edit?usp=sharing)
+    author:
+      name: Collei FAQ
+      icon_url: 'https://genshin.honeyhunterworld.com/img/collei_067_side_icon.webp'
+    image:
+      url: 'https://genshin.honeyhunterworld.com/img/collei_067_gacha_splash.webp'
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/electro/kuki/overview
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Talents
+    value: faq/electro/kuki/talents
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+  
+  - label: Constellations
+    value: faq/electro/kuki/constellations
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Combos
+    value: faq/electro/kuki/combos
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+    
+  - label: ER Requirements
+    value: faq/electro/kuki/er
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Artifacts
+    value: faq/electro/kuki/artifacts
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Weapons
+    value: faq/electro/kuki/weapons1
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Teambuilding
+    value: faq/electro/kuki/teambuildingpt1
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: External Links
+    value: faq/electro/kuki/external
+    description: "WFP resources for kuki FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }

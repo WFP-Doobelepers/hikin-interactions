@@ -1,0 +1,111 @@
+embeds:
+  - title: __CREDITS__
+    color: 3450963
+    fields:
+      - name: 'Authors:'
+        value: '<@604540951708565515> , <@293169816741740556>'
+      - name: 'Editors:'
+        value: <@293169816741740556>
+      - name: 'Calculations:'
+        value: >-
+          <@604540951708565515> , <@293169816741740556> , <@604540951708565515>,
+          <@293169816741740556> , <@560160964759257104>
+      - name: 'Framecounting:'
+        value: <@367160010335191054>
+      - name: 'Resources:'
+        value: >-
+          [Kuki
+          Mastersheet](https://docs.google.com/spreadsheets/d/1bPZkdT6x5On5Oa_j7_fw0fzggyjIL-SUgTqYjniBItw/edit#gid=1222701454)
+
+          [Kuki Frames
+          Mastersheet](https://docs.google.com/spreadsheets/d/1yBZn7J-iJ6hOWU_OXDkHr8Hml6R4F9q-9dXO2mI5Pms/edit?usp=sharing)
+      - name: 'Disclaimer:'
+        value: >-
+          Dendro is a new element and there are many things we still do not know
+          about the new elemental reactions. 
+
+          Pre-TC is volatile and, as always, perpetually subject to change until
+          release (and sometimes later!). Please note that these are theoretical
+          suggestions. Everything described in this FAQ is a good faith analysis
+          based on the little information about the character’s kit that we
+          know. Team calcs, additionally, are not established yet, and as with
+          everything in TC, the content in this FAQ should be taken with a grain
+          of salt.
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1087300734372020315/1090691888488665239/kuki-shinobu-banner-release-date-2.png
+  - title: __***Character Overview***__
+    description: >-
+      Kuki Shinobu is a 4* Electro Support unit that specializes in off-field
+      healing and consistent Electro application at close range. She is a
+      character that provides sustain, buffing w/ ToTM, and decent Electro
+      application. With her Elemental Skill, she can deal DMG and heal allies.
+      With her Elemental Burst, she can deal multiple instances of Electro DMG
+      in a small area that scales with her HP.
+
+
+      Shinobu can also carry the Tenacity of the Millelith artifact and Favonius
+      Sword, which makes her a buffer and a battery at the same time. Her DMG
+      capabilities are low as her scalings are split between HP% and ATK%, along
+      with ascension passives that do little to no increase on her kit as her A1
+      isn’t achievable on certain team compositions and her A4 being mediocre.
+      Her constellations are currently lackluster, and it’s recommended to stop
+      at C4 to maximize her DMG. However, since most will be playing her as a
+      support unit, these constellations aren’t necessary, except maybe C2 for
+      100% uptime on Shinobu’s Skill. Her current team compositions are flexible
+      since many teams need or want a healer, especially teams featuring a
+      physical DPS that need regular Superconduct reactions.
+
+
+      **Indications of her kit may developed in the future with the Dendro
+      Reaction: Intensify. Will need further theorycrafting about it.**
+    color: 3450963
+  - title: __***The Really Short Version***__
+    description: >-
+      **Roles:** Healing Support (recommended); on-field Physical DPS /
+      off-field Reaction DPS (tertiary, only for die-hards and experimentalists)
+
+
+      **Talents:** E > Q > AA (Healing) // AA > E > Q
+
+
+
+      **Weapons (Healing support or Reaction DPS):** Freedom-Sworn // Favonius
+      Sword // Jade Cutter //  Iron Sting // Dark Iron Sword.
+
+
+      **Weapons (Physical DPS):** Aquila Favonia (w/o Yunjin) or Haran Geppaku
+      (w/ Yunjin) // Jade Cutter // Black Sword // Rancour // Lion’s Roar
+
+
+      **Weapons (Reaction DPS):** Freedom-Sworn // Favonius Sword  //  Iron
+      Sting // Dark Iron Sword.
+
+
+      **Artifacts (Healing Support):** 4pc Tenacity // 4pc Instructor // 4pc
+      Exile // 4pc Noblesse // 4pc Clam or Maiden’s
+
+
+      **Artifacts (Reaction DPS):** 4pc Thundering Fury // 2pc TF 2pc Wanderer
+      // 4pc Tenacity // 4pc Lavawalker // 4pc Thundersoother
+
+
+      **Artifacts (Physical DPS):** 4pc Pale Flame // 4pc Shimenawa // 4pc
+      Gladiator // 2pc Bloodstain 2pc Pale Flame // 2pc Phys 2pc ATK
+
+
+      **Constellations:** C2 for 100% healing uptime, C4 for extra damage.
+
+
+      **Teams:** 
+
+      1. [Bennett / Xiangling / Anemo flex] for Reaction DPS
+
+      2. [Eula / flex / flex] for Superconduct Support
+
+      3. [Raiden / Yae / Anemo flex] for Mono-Electro
+
+      4. [Childe / Electro flex / Flex] for Electro-Charged
+
+      5. [Yunjin / Rosaria / Fischl or Bennett] for Physical DPS
+    color: 3450963

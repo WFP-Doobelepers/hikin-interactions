@@ -1,0 +1,4 @@
+interaction: faq/electro/kuki/main
+description: "Opens WFP resources on Kuki"
+match: ${ TRIGGER_PREFIX }kukifaq(?:\s|$)
+ignoreCase: true

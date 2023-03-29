@@ -1,0 +1,16 @@
+embeds:
+- title: __***ER Requirements***__
+    description: >-
+      Her Energy Requirement falls around 170%-180%. This is due to the fact
+      that her particle generation is not that great and when she wants to get
+      ownership on certain reactions, she will mostly be running as a solo
+      Electro unit. Generally, Support Kuki needs to burst only if you need to
+      extend your rotation time to fit CDs. For Physical, its optional to proc
+      Superconduct or get a bit of DMG from it and for Reaction-based comps, you
+      need to have the optimal ER as given above.
+
+
+      In non-EM DPS scenarios, it is better to ignore the use of Shinobu’s burst
+      entirely, allowing these stats to instead be allocated to much-needed
+      offensive stats like CRIT, DMG%, and ATK%.
+    color: 3450963
