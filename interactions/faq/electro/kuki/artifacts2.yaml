@@ -1,129 +1,62 @@
 embeds:
-  - title: 'Support Kuki:'
+  - title: >- 
+      Support Kuki
+
+      **4PC Tenacity of the Millelith** 
     description: >-
-      **4PC Tenacity of the Millelith** - Her BiS artifact. It gives HP% on its
-      2PC and gives an ATK and Shield Strength Buff if Elemental Skill deals DMG
-      to an enemy on its 4PC. Kuki can easily trigger the 4PC passive as her
-      Elemental Skill ticks enough to keep the buff uptime at 100% at C2. 
+      Her BiS artifact. It gives HP% on its 2PC and gives an ATK and Shield Strength Buff if Elemental Skill deals DMG to an enemy on its 4PC. Kuki can easily trigger the 4PC passive as her Elemental Skill ticks enough to keep the buff uptime at 100% at C2. 
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Tenacity_of_the_Millelith.png
+    color: 9338051
 
-
-      **4PC Noblesse Oblige** -  An artifact set that any support unit can carry
-      due to its team-wide ATK% buff. Not the best option, but not a bad one
-      either. The 20% ATK Buff helps the whole party in exchange to Kuki
-      Bursting to get the buff.
-
-
-      **4PC Ocean-Hued Clam** - This set allows Kuki to deal DMG while also
-      maintaining her role as a support. The only caveat that this artifact set
-      has is that Kuki can not reach the maximum healing threshold that this set
-      has, meaning she deals less DMG compared to other healers that use this
-      set overall. In niche situations, such as in a Eula team where there is
-      already a Tenacity-holder, this could, in theory, put in some work.
-
-
-      **4PC Maiden’s Beloved** - This set maximizes her healing potential as its
-      4PC ties down to her healing capabilities. Only downside this set has is
-      there is no  buff on the party compared to Tenacity of the Millelith and
-      Ocean-Hued Clam. It is a comfort set for her to boost her healing in
-      certain situations.
-
-
-      **4PC The Exile** - A good 4* option to help batterying certain units when
-      using Kuki Shinobu. Only downside for this set is that her healing will be
-      a little lower since the HP% ratio between a 4* vs a 5* is a huge
-      difference. When using 4pc Exile, use a 5* flower as the off-set piece.
-
-
-      **4PC Instructor** - Another good 4* option and an underrated artifact set
-      in general. She must be the one triggering reactions for the 4PC of this
-      set to be proc, but the 180 EM buff applies to all characters on your
-      team. Provides good EM on 2PC and can be used for reaction-based comps.
-    color: 3450963
   - title: >-
-      For DPS Kuki, we split the categories based on what type of DPS Kuki
-      people will be running. This is done so everyone can know what her BiS in
-      certain sections of DPS are.
+      **4PC Noblesse Oblige**
+    description: >- 
+      An artifact set that any support unit can carry due to its team-wide ATK% buff. Not the best option, but not a bad one either. The 20% ATK Buff helps the whole party in exchange to Kuki Bursting to get the buff.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Noblesse_Oblige.png
+    color: 9338051
 
-
-      Physical DPS Kuki:
+  - title: >- 
+      **4PC Ocean-Hued Clam**
     description: >-
-      **4PC Pale Flame** - Her BiS in the Physical DPS Role. She can easily proc
-      the 4PC Passive just like Tenacity of the Millelith. This set generally
-      will be available at anyones disposal as if both are dedicated to farm for
-      both Support Kuki and Physical DPS Kuki on one domain,  making this option
-      particularly resin-efficient.
+      This set allows Kuki to deal DMG while also maintaining her role as a support. The only caveat that this artifact set has is that Kuki can not reach the maximum healing threshold that this set has, meaning she deals less DMG compared to other healers that use this set overall. In niche situations, such as in a Eula team where there is already a Tenacity-holder, this could, in theory, put in some work.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Ocean-Hued_Clam.png
+    color: 9338051
 
-
-      **4PC Gladiator’s Finale** - This set generally is an easy access set due
-      to the strongbox being available to everyone. Along with any artifacts you
-      are trying to farm for Kuki, you can recycle them into Gladiator’s Finale
-      if you did not get the right mainstats or substats for your artifacts for
-      her. In deviant builds, this can substitute for Pale Flame for similar
-      damage without drawback.
-
-
-      **4PC Shimenawa Reminiscence** - Provides a huge boost of NA and CA DMG%.
-      The 4PC Elemental Burst Energy loss does not generally affect her overall
-      DMG on a Physical Kuki as the Elemental Burst is not triggered due to Kuki
-      building No HP% for this type of DPS. In deviant builds, this can
-      substitute for Pale Flame for the same damage, as long as you can pay the
-      energy cost.
-
-
-      **2PC Pale Flame 2PC Bloodstained Chivalry** - the 50% Physical DMG Bonus
-      provides Kuki a huge amount of DMG Bonus with just two 2PC sets, easy to
-      farm as you can get 2PC Bloodstained Chivalry on the strongbox while
-      farming 2PC Pale Flame.
-
-
-      **2PC ATK% x2** - Either Gladiator’s Finale, Shimenawa Reminiscence,
-      Echoes of an Offering, Vermillion Hereafter. Any 2PC 2PC of these sets are
-      fine. This provides her enough ATK% if running a Physical DMG Sword such
-      as Prototype Rancour or Aquilla Favonia.
-
-
-      **2PC Physical DMG% 2PC ATK%** - A mix-mix set between all the artifacts
-      mentioned above. Viable in most cases but getting 4PC’s is highly
-      recommended. This set most likely will be least functional than the other
-      artifacts given since Shinobu’s gear must not be neglected to make her
-      usable
-    color: 3450963
-  - title: 'Reaction-based Kuki:'
+  - title: >- 
+      **4PC Maiden’s Beloved**
     description: >-
-      **4PC Thundering Fury** - Her BiS in reaction-based comps. 4PC passive
-      allows her Elemental Skill CD go from 15 seconds to 10 seconds with
-      reaction procing 5 times due to her ICD. Along with this, Overload and
-      Electro-charged DMG are increased with the 4PC set active.
+      This set maximizes her healing potential as its 4PC ties down to her healing capabilities. Only downside this set has is there is no  buff on the party compared to Tenacity of the Millelith and Ocean-Hued Clam. It is a comfort set for her to boost her healing in certain situations.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Maiden_Beloved.png
+    color: 9338051
 
+  - title: >- 
+      **4PC The Exile**
+    description: >-
+      A good 4* option to help batterying certain units when using Kuki Shinobu. Only downside for this set is that her healing will be a little lower since the HP% ratio between a 4* vs a 5* is a huge difference. When using 4pc Exile, use a 5* flower as the off-set piece.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/The_Exile.png
+    color: 9338051
 
-      **4PC Tenacity of the Millelith** - Due to its 4PC ATK% Buff, it generally
-      helps the party gain more buff, along with a slight DMG increase on Kuki
-      Shinobu’s Elemental Burst DMG due to the HP% that Tenacity of the
-      Millelith gives.
-
-
-      **4PC Lavawalker** - Just like Thundersoother, this set gives her a good
-      amount of DMG in Overload Comps. Farming Lavawalker can be a pain, but
-      using Lavawalker on Kuki and Crimson Witch of Flames on your Pyro Sub-DPS
-      is generally a good idea but there are always better options.
-
-
-      **4PC Thundersoother** - Alongside farming Thunderfury, this set’s 4PC
-      provides a good amount of DMG for Kuki in Electro-Charged Comps
-      specifically. Really good option if all the farmed Thundering Fury are
-      trash and you got good Thundersoother pieces to use.
-
-
-      **2PC Wanderer Troupe, 2PC Thundering Fury** - A good half and half sets
-      that can be used by her. 80+ EM generally is good below <= 490 EM, but
-      Kuki will be running triple EM as well as in the substats for the Flower
-      and Feather. This artifact option is on the low side as farming 4PC’s
-      tends to bring much more outcome in terms of DMG, but this option is
-      easier to farm as Wanderers Troupe is in the strongbox.
-    color: 3450963
-    
+  - title: >- 
+      **4PC Instructor**
+    description: >-
+      Another good 4* option and an underrated artifact set in general. She must be the one triggering reactions for the 4PC of this set to be proc, but the 180 EM buff applies to all characters on your team. Provides good EM on 2PC and can be used for reaction-based comps.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Instructor.png
+    color: 9338051
+   
 buttons:
+
 - customId: liveInteraction#faq/electro/kuki/artifacts1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
+
+- customId: liveInteraction#faq/electro/kuki/artifacts3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

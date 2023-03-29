@@ -1,5 +1,9 @@
 embeds:
-  - title: __***Artifacts***__
+  - title: >- 
+      __***Artifacts***__
+
+      ***Healing Support Kuki - 4pc Tenacity of the
+      Millelith***
     description: >-
       For a ***Healing Support Kuki,*** we recommend the ***4pc Tenacity of the
       Millelith*** artifact set, as her skill can consistently maintain the
@@ -23,11 +27,13 @@ embeds:
       sword options that Kuki can use as a Healing Support. Rotations with
       Favonius Sword will force Kuki to Elemental Burst to trigger a 1/7 chance
       to proc Favonius Passive.
+    color: 9338051
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Tenacity_of_the_Millelith.png
 
-
-      –
-
-
+  - title: >-
+      ***Physical DPS Kuki : 4pc Pale Flame***
+    description: >-
       For a ***Physical DPS Kuki,*** we recommend the ***4pc Pale Flame***
       artifact set, as it adds the most total relevant stats. Physical Kuki
       heavily relies on her long physical field time along with weapons that
@@ -48,16 +54,22 @@ embeds:
       Substats Priority:
 
       CR%=CDMG%>ATK%***
+    color: 9338051
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Pale_Flame.png
 
-
+  - title : Gladiator 4pc and Shimenawa 4pc
+    description: >-
       “Deviant” builds utilizing either Chongyun or C6 Bennett will require an
       appropriate goblet and artifact set change (Gladiator/Shime 4pc sets), but
       these are generally ill-advised on characters anyways.
-
-
-      –
-
-
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090744487497699328/Portraits_Gladiators_FinaleShimenawas_Reminiscence.png?width=352&height=352
+    color: 9338051
+  
+  - title: >- 
+      ***Reaction DPS Kuki - Triple EM***
+    description: >-
       ***Reaction DPS Kuki*** will need a full triple-EM investment, and these
       artifacts are very difficult to find in order to have comparable (or even
       less!) damage than other builds. For the **most personal damage**, ***4pc
@@ -82,9 +94,14 @@ embeds:
       EM>>ER%>HP%>ATK%(Triple EM Build with ER Weapon)
 
       ER%>EM>ATK%>HP% (ER/EM/EM with EM Weapon)**
+    color: 3450963
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Thundering_Fury.png
 
-
-      **DISCLAIMER:** Please keep in mind that the most you are likely to see
+  - title: >-
+      **DISCLAIMER:**
+    description: >-
+      Please keep in mind that the most you are likely to see
       with Overload reactions is about 20k damage per reaction. With standard
       ICD, Shinobu would max out at ~80k damage on a Elemental Burst if Shinobu
       can claim ownership on every reaction, she has the best artifacts and

@@ -1,0 +1,67 @@
+embeds:
+  - title: >- 
+      ***Physical DPS Kuki***
+      
+      
+      **4PC Pale Flame**
+
+    description: >-
+      Her BiS in the Physical DPS Role. She can easily proc the 4PC Passive just like Tenacity of the Millelith. This set generally will be available at anyones disposal as if both are dedicated to farm for both Support Kuki and Physical DPS Kuki on one domain,  making this option particularly resin-efficient.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Pale_Flame.png
+    color: 9338051
+
+  - title: >- 
+      **4PC Gladiator’s Finale**
+    description: >-
+      This set generally is an easy access set due to the strongbox being available to everyone. Along with any artifacts you are trying to farm for Kuki, you can recycle them into Gladiator’s Finale if you did not get the right mainstats or substats for your artifacts for her. In deviant builds, this can substitute for Pale Flame for similar damage without drawback.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Gladiators_Finale.png
+    color: 9338051
+
+  - title: >- 
+      **4PC Shimenawa Reminiscence**
+    description: >-
+      Provides a huge boost of NA and CA DMG%.
+
+
+      The 4PC Elemental Burst Energy loss does not generally affect her overall DMG on a Physical Kuki as the Elemental Burst is not triggered due to Kuki building No HP% for this type of DPS. In deviant builds, this can substitute for Pale Flame for the same damage, as long as you can pay the energy cost.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Shimenawas_Reminiscence.png
+    color: 9338051
+
+  - title: >- 
+      **2PC Pale Flame 2PC Bloodstained Chivalry**
+    description: >-
+      The 50% Physical DMG Bonus provides Kuki a huge amount of DMG Bonus with just two 2PC sets, easy to farm as you can get 2PC Bloodstained Chivalry on the strongbox while farming 2PC Pale Flame.
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090750713744859216/Portraits_Pale_FlameBloodstained_Chivalry.png?width=352&height=352
+    color: 9338051
+
+  - title: >- 
+      **2PC ATK% x2**    
+    description: >-
+      Gladiator’s Finale, Shimenawa Reminiscence, Echoes of an Offering, Vermillion Hereafter - Any 2PC 2PC of these sets are fine. This provides her enough ATK% if running a Physical DMG Sword such as Prototype Rancour or Aquilla Favonia.
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090751293892608110/Portraits_Gladiators_FinaleShimenawas_ReminiscenceVermillion_HereafterEchoes_of_an_Offering_1.png?width=352&height=352
+    color: 9338051
+
+  - title: >- 
+      **2PC Physical DMG% 2PC ATK%**
+    description: >-
+      A mix-mix set between all the artifacts mentioned above. Viable in most cases but getting 4PC’s is highly recommended. This set most likely will be least functional than the other artifacts given since Shinobu’s gear must not be neglected to make her usable.
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090751770290036766/Portraits_Pale_FlameGladiators_Finale.png?width=352&height=352
+    color: 9338051
+    
+buttons:
+
+- customId: liveInteraction#faq/electro/kuki/artifacts2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/electro/kuki/artifacts4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

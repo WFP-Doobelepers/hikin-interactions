@@ -1,0 +1,49 @@
+embeds:
+  - title: >- 
+      ***Reaction-based Kuki*** 
+
+
+      **4PC Thundering Fury**
+    description: >-
+      Her BiS in reaction-based comps. 4PC passive allows her Elemental Skill CD go from 15 seconds to 10 seconds with reaction procing 5 times due to her ICD. Along with this, Overload and Electro-charged DMG are increased with the 4PC set active.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Thundering_Fury.png
+    color: 9338051
+
+  - title: >-
+      **4PC Tenacity of the Millelith**
+    description: >-
+      Due to its 4PC ATK% Buff, it generally helps the party gain more buff, along with a slight DMG increase on Kuki Shinobu’s Elemental Burst DMG due to the HP% that Tenacity of the Millelith gives.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Tenacity_of_the_Millelith.png
+    color: 9338051
+
+  - title: >-
+      **4PC Lavawalker**
+    description: >-
+      Just like Thundersoother, this set gives her a good amount of DMG in Overload Comps. Farming Lavawalker can be a pain, but using Lavawalker on Kuki and Crimson Witch of Flames on your Pyro Sub-DPS is generally a good idea but there are always better options.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Lavawalker.png
+    color: 9338051
+
+  - title: >-
+      **4PC Thundersoother**
+    description: >-
+      Alongside farming Thunderfury, this set’s 4PC provides a good amount of DMG for Kuki in Electro-Charged Comps specifically. Really good option if all the farmed Thundering Fury are trash and you got good Thundersoother pieces to use.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Thundersoother.png
+    color: 9338051
+
+  - title: >-
+      **2PC Wanderer Troupe, 2PC Thundering Fury**
+    description: >-
+      A good half and half sets that can be used by her. 80+ EM generally is good below <= 490 EM, but Kuki will be running triple EM as well as in the substats for the Flower and Feather. This artifact option is on the low side as farming 4PC’s tends to bring much more outcome in terms of DMG, but this option is easier to farm as Wanderers Troupe is in the strongbox.
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090752424878288936/Portraits_Wanderers_TroupeThundering_Fury.png?width=352&height=352
+    color: 9338051
+    
+buttons:
+- customId: liveInteraction#faq/electro/kuki/artifacts3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
