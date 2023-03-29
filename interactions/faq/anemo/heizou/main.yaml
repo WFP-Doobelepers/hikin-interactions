@@ -53,7 +53,7 @@ options: #dropdown
   emoji: ${ EMOJIS.ANEMO_BOX }
 
 - label: Teambuilding
-  value: faq/anemo/heizou/teambuilding
+  value: faq/anemo/heizou/teambuilding1
   description: "WFP resources for Heizou FAQ."
   emoji: ${ EMOJIS.ANEMO_BOX }
 
