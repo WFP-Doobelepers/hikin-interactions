@@ -1,0 +1,83 @@
+content: null
+embeds:
+  - title: WEAPONS
+    description: >-
+      It’s hard to rank these weapons, as many of them are best when factoring
+      in a whole team, even if they’re not the best in personal damage.
+
+  - title: Elegy For the End [ATK% Sands >= EM Sands]
+    description: >-
+      The most stable 5-star choice. An excellent balance of damage and team
+      support.
+    thumbnail:
+      url:  https://library.keqingmains.com/img/weapons/icon_ascended/Elegy_for_the_End.png
+    color: 3450963
+
+  - title: Polar Star  [ER% Sands]
+    description: >-
+      Strongest in terms of personal damage, but offers no team utility and
+      requires its own rotation to get used to. 8% more damage than Elegy in
+      best-case scenarios.
+    thumbnail:
+      url:  https://library.keqingmains.com/img/weapons/icon_ascended/Polar_Star.png
+    color: 3450963
+
+  - title: Aqua Simulacra [ER% Sands]
+    description: >-
+      Approximately matches Elegy’s personal damage with Collei, but Elegy buffs
+      the team.
+    thumbnail:
+      url:  https://library.keqingmains.com/img/weapons/icon_ascended/Aqua_Simulacra.png
+    color: 3450963
+
+  - title: Stringless R5 / Mourn’s Moon R5 [ER% Sands]
+    description: >-
+      Stringless performs worse on Emblem of Severed Fate, but trails only 2%
+      behind Aqua Simulacra on Deepwood.
+    thumbnail:
+      url:  https://library.keqingmains.com/img/weapons/icon_ascended/Mouuns_Moon.png
+    color: 3450963
+
+  - title: Favonius Warbow [ATK% Sands >= EM Sands]
+    description: >-
+      Favonius weapons are just extremely powerful. They lower ER requirements
+      with their passives, allowing you to build more offense and smooth out the
+      rest of your team’s rotation. If your Energy Recharge requirement would
+      *normally* be 200%, it becomes 170% instead.
+    thumbnail:
+      url:  https://library.keqingmains.com/img/weapons/icon_ascended/Favonius_Warbow.png
+    color: 3450963
+
+  - title: >- 
+      Optional : Sacrificial Bow
+    description: >-
+
+
+      Some weapons in the mastersheet are listed in a different order, placed,
+      higher, or not listed at all. Sacrificial Bow is one of these weapons.
+      Sacrificial Bow looks good on paper, compared to R5 Stringless, but it
+      only reaches this damage after you’ve significantly altered your
+      rotation. 
+
+
+      The reason for this is that Collei’s Skill only applies Dendro on the
+      throwing of the boomerang once per 5 seconds, similar to how Ningguang’s
+      Jade Screen can only generate energy once every 5-6 seconds. This means to
+      maximize Spread instances you have to wait for her boomerang to return
+      most of the time in order to get the damage boost from an additional
+      Spread reaction. Since Spread accounts for around 30%+ of her personal
+      damage, this is a significant loss. You either stay on the field as Collei
+      and deal mediocre damage, cutting into team DPS for the rotation, or you
+      interrupt your rotation to switch to Collei, use her Skill, and swap out. 
+
+
+      Because of this, I do not recommend Sacrificial Bow to most players,
+      especially since it extends rotations when below refinement 5, due to
+      passive cooldown time. Prototype Crescent can also compete, but only
+      post-headshot, and it takes time to set up a reliable headshot, lowering
+      DPS in the long run.
+    thumbnail:
+      url:  https://library.keqingmains.com/img/weapons/icon_ascended/Sacrificial_Bow.png
+    color: 3450963
+    footer:
+      text: (section authored by Emiliabyss; edited by Raikh)

@@ -1,0 +1,83 @@
+content: null
+embeds:
+  - title: _**CONSTELLATIONS**_
+    description: >-
+      **DISCLAIMER:** For explicit numbers on DPS increases, please refer to our
+      linked Mastersheet for up-to-date numbers. Changing numbers in the sheet
+      is much faster/easier than editing an embed.
+    color: 3450963
+    
+  - title: >-
+      C1 : Deepwood Patrol
+    description: >-
+      While the constellation says that Collei gains 20% Energy Recharge,
+      in practice, it’s less than that – more like 14%. This is because Collei,
+      to maximize her energy intake, must be on-field to absorb the Dendro
+      particles she generates.
+
+      ***From last constellation: 3.38%  || Total:  3.38%***
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Collei_01.png
+    color: 3450963
+
+  - title: >-
+      C2 : Through Hill and Copse
+    description: >-
+      Essentially, this extends the length of Collei’s Skill uptime,
+      allowing for more opportunities for Dendro application and damage. For the
+      sake of conservative estimates, I assumed this gave only one extra Spread
+      instance. A safe stopping point.
+
+      ***From last constellation: 6.69%  || Total:  10.29%***
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Collei_02.png
+    color: 3450963
+
+  - title: >-
+      C3 : Scent of Summer
+    description: >-
+      Three talent levels added to Collei’s Skill. Not a significant
+      increase, as her damage comes from her Burst.
+
+      ***From last constellation: 2.42%  || Total:  12.97%***
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Collei_02.png
+    color: 3450963
+
+  - title: >-
+      C4 : Gift of the Woods
+    description: >-
+      Grants 60 Elemental Mastery to all party members but herself. As
+      such, this is good for team damage, but has zero impact on her personal
+      damage.
+
+      ***From last constellation: 0.00%  || Total:  12.97%***
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Collei_03.png
+    color: 3450963
+
+  - title: >-
+      C5 : All Embers
+    description: >-
+      Three talent levels added to the Burst is a welcome boon. Tied for
+      the most beneficial constellation with C6 and C2.
+
+      ***From last constellation: 7.65%  || Total:  21.60%***
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Collei_01.png
+    color: 3450963
+
+  - title: >-
+      C6 : Forest of Falling Arrows
+    description: >-
+      C6 – Adds yet another Spread instance in the form of a Culein-Anbar attack
+      at 200% of Collei’s ATK. 
+
+      ***From last constellation: 7.20%  || Total:  30.36%***
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Collei_04.png
+
+    color: 3450963
+    footer:
+      text: |-
+        (section authored by Emiliabyss; edited by Raikh)

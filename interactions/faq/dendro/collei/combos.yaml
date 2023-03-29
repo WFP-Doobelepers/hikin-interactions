@@ -1,0 +1,31 @@
+content: null
+embeds:
+  - title: COMBOS
+    description: >-
+      Collei’s on-field inputs are extremely straightforward. You’re basically
+      dealing with one of three possible combos.
+
+
+      E, Q (Skill, Burst)
+
+      Recommended over “Q, E” so Collei doesn’t waste time on-field waiting for
+      her particles.
+
+      N1, tCA, E, Q (Normal Attack, Tap-Charged Attack, Skill, Burst)
+
+      This should only be used while equipping the Polar Star, in order to
+      guarantee as many stacks as possible.
+
+      N2D (Two Normal Attacks, followed by a cancel (aim, dash, jump) of your
+      choice) 
+
+      This is only for the people that really, really, really want to use
+      Collei’s low-damage auto’s.
+
+
+      The majority of the time, you’re simply using her Skill and Burst in some
+      order and then swapping off for someone to take advantage of
+      transformative reactions or Aggravate.
+    color: null
+    footer:
+      text: (section authored by Emiliabyss; edited by Raikh)

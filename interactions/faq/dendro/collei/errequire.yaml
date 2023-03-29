@@ -1,0 +1,52 @@
+---
+content:
+embeds:
+  - title: ENERGY REQUIREMENTS AND BATTERIES
+    description: >-
+      In typical, 20-second rotations, Collei will need around 200% Energy
+      Recharge due to the long 12s cooldown on her Skill inadequately charging
+      her 60-cost Burst. Collei will mostly be contributing damage and
+      application for reactions off-field. 
+
+
+      In longer rotations and/or in teams with many rich energy sources, these
+      energy needs may drop to 160% or lower. Equipping weapons like an R5
+      Sacrificial Bow or a Favonius Warbow at any refinement rank can also
+      reduce these needs. We strongly advise the use of an Energy Recharge
+      calculator to plan.
+
+
+      The top 5 sources of energy for Collei are
+
+
+      1. Raiden Shogun
+
+      2. Fischl (due to not having caveats)
+
+      2. Traveler (Electro, Dendro, or even Geo, equipped with Favonius Sword
+      and two Skill uses)
+
+      3. Tighnari (25-second rotation, two Skill uses)
+
+      5. Most other characters that can use two Skills in a rotation and carry a
+      Favonius Weapon
+
+
+      The Raiden Shogun and Fischl, who are both Electro units that benefit from
+      Quicken and Aggravate reactions, are by far the best choices for
+      controlling Collei’s energy needs. Her Dendro application will also offer
+      a respectable buff to Raiden and a quite exploitable buff to Fischl,
+      utilizing Fischl’s A4 passive. 
+
+
+      It is only recommended to run one other Dendro member at most, due to
+      Dendro’s tendency to want to interact with more than one outside element.
+
+
+      Additionally, Taser teams involving Fischl, Kokomi, Xingqiu, Sucrose, and
+      the like, generate lots of energy and require a long rotation. Taser and
+      Raiden-Fischl teams will minimize Collei’s energy needs the most (though
+      it’s not currently known whether that translates to most damage).
+    color: 3450963
+    footer:
+      text: (section authored by Emiliabyss, edited by Raikh)
