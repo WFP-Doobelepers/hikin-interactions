@@ -46,7 +46,7 @@ options: #dropdown
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Artifacts
-    value: faq/electro/kuki/artifacts
+    value: faq/electro/kuki/artifacts1
     description: "WFP resources for kuki FAQ."
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
@@ -56,7 +56,7 @@ options: #dropdown
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: Teambuilding
-    value: faq/electro/kuki/teambuilding
+    value: faq/electro/kuki/teambuilding1
     description: "WFP resources for kuki FAQ."
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
@@ -64,3 +64,9 @@ options: #dropdown
     value: faq/electro/kuki/external
     description: "WFP resources for kuki FAQ."
     emoji: ${ EMOJIS.ELECTRO_BOX }
+
+buttons:
+- label: WFP Website
+  url: https://wangshengfp.org/faq/kuki
+  emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
