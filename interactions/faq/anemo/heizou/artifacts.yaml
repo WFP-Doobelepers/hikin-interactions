@@ -1,0 +1,114 @@
+---
+content:
+embeds:
+  - title: ARTIFACTS
+    description: >-
+      There are many build options on Heizou as he is an Anemo unit and his MV
+      scales off of ATK%. These builds will depend on what type of rotation you will
+      be running on him as some team compositions will need him on Triple EM and
+      some in ADC but all of these are relatively close.
+
+
+      **ADC Build:**
+
+
+      **Timepiece: ATK%
+
+      Goblet: Anemo DMG%
+
+      Circlet: CRIT**
+
+
+      ***Substat Priority***
+
+      CR%=CD% > ATK% > EM
+
+
+      **EDC Build:**
+
+
+      **Timepiece: EM
+
+      Goblet: Anemo DMG%
+
+      Circlet: CRIT**
+
+
+      ***Substat Priority***
+
+      ATK% > CR% = CD% > EM
+
+
+      **Triple EM:**
+
+
+      **Timepiece: EM
+
+      Goblet: EM
+
+      Circlet: EM**
+
+
+      ***Substat Priority***
+
+      EM > ATK% > CR%=CD%
+    color: 9684093
+
+  - title: 4PC Viridescent Venerer
+    description: >- 
+      His BiS option as it provides 60% Swirl
+      DMG and 40% Resistance Shred for the party and his Swirls, and its 2PC
+      providing 15% Anemo DMG on top that generally fits his driving style.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Viridescent_Venerer.png
+    color: 9684093
+
+  - title: 2PC Viridescent Venerer 2PC ATK%
+    description: >- 
+      Good substitute for 4PC VV.
+      Provides 18% ATK and 15% Anemo DMG Bonus. If no 4PC VV of said main stat
+      choices are available, this is a good option.
+    thumbnail:
+     url: https://media.discordapp.net/attachments/1087300734372020315/1090662738679828500/Portraits_Viridescent_VenererGladiators_Finale.png
+    color: 9684093
+
+  - title: 2PC ATK% 2PC ATK% 
+    description: >-
+      Gives out 36% ATK. EDC prefers this as a secondary
+      option due to the lack of ATK% on that build.
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090664510446108672/Portraits_Vermillion_HereafterGladiators_FinaleShimenawas_ReminiscenceEchoes_of_an_Offering.png
+    color: 9684093
+
+  - title: 2PC Wanderer’s Troupe 2PC Viridescent Venerer
+    description: >-
+      80 EM helps with his
+      Swirl capabilities and the added 15% Anemo DMG Bonus for his Elemental
+      Skill but still gets outperformed by the other options due to the lack of
+      ATK%
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090665072264749157/Portraits_Wanderers_TroupeViridescent_Venerer.png
+    color: 9684093
+
+  - title: 2PC Wanderer’s Troupe 2PC ATK%
+    description: >-
+      80 EM for his Swirls and 18% ATK for
+      everything else. Decent option but still gets outclassed by other easily
+      farmed options
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090665402905927760/Portraits_Wanderers_TroupeGladiators_Finale.png
+    color: 9684093
+
+  - title: 4PC Thundering Fury
+    description: >-
+      A questionable option as of now since it needs
+      live-testing to see if it would work on him. Able to reduce his Elemental
+      Skill CD to give a shorter rotation time needed to cast his 2nd Elemental
+      Skill. Theoretically, would need another Anemo unit for this artifact set
+      to function, strict team composition that allows Heizou to spread
+      Electro-based reactions, works best with a Electro-Charged team
+      composition, and 2 or more targets for said reaction for Heizou to spread
+      in that team composition.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Thundering_Fury.png
+    color: 9684093

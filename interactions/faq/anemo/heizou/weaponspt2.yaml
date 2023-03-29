@@ -1,0 +1,66 @@
+---
+content:
+embeds:
+  - title: Sacrificial Fragments
+    description: >- 
+      Gacha 4* option. Provides EM and at high
+      refinement, is able to give him another cast of Elemental Skill on half of
+      the combo but will need his timing to be perfect in order to align the
+      Elemental Skill CD on the next on-field time for him.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Sacrificial_Fragments.png
+    color: 9684093
+
+  - title: Dodoco Tales
+    description: >- 
+      Exclusive event weapon back in 1.6. Able to buff his
+      Charged ATK that gives off Swirls and gives ATK% to his Elemental Burst or
+      Elemental Skill based on his combo rotation.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Dodoco_Tales.png
+    color: 9684093
+
+  - title: Wine and Song
+    description: >- 
+      A weapon banner exclusive weapon. Generally would
+      make his rotation time much longer due to the fact he needs to dash in
+      order to get the buff.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Wine_and_Song.png
+    color: 9684093
+
+  - title: Blackcliff Agate
+    description: >- 
+      A good F2P option that is on the Starglitter Shop.
+      In theory on a 2 or more target, this would be on the top near Widsith and
+      Solar Pearl but its passive really is not in favor of what Heizou achieves
+      as his kit really excels in Single Target due to his kit not having AoE
+      except his Elemental Burst.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Blackcliff_Agate.png
+    color: 9684093
+
+  - title: Oathsworn Eye
+    description: >- 
+      Exclusive event weapon back in 2.5. Provides ER% on
+      its passive but is not needed on Heizou so the small ATK% that it provides
+      really is lackluster compared to other options.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Oathsworn_Eye.png
+    color: 9684093
+
+  - title: Thrilling Tales of Dragon Slayers
+    description: >- 
+      Typical supportive weapon that helps
+      other party members with their damage when swapping Heizou out of the
+      field. Really valuable with how long rotations are going for Heizou and
+      the fact that he has 2 parts of on-field time during those.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Thrilling_Tales_of_Dragon_Slayers.png
+    color: 9684093
+
+buttons:
+- customId: liveInteraction#faq/anemo/heizou/weaponspt1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

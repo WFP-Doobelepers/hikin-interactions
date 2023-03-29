@@ -1,0 +1,79 @@
+content:
+embeds:
+  - title: __CREDITS__
+  color: 9684093
+  fields:
+  - name: 'Leads:'
+    value: "<@604540951708565515>"
+  - name: 'Authors:'
+    value: "<@604540951708565515>"
+  - name: 'Calculations:'
+    value: "<@604540951708565515>"
+  - name: 'Framecounts:'
+    value: "<@367160010335191054>"
+  - name: 'Resources:'
+    value: |-
+      [Heizou Mastersheet](https://docs.google.com/spreadsheets/d/1IUa2gbCjLvE8h-w5UUY6pVpUTvj6dQLyzQNY7rZWCME/edit#gid=420865538)
+      [Heizou Frames Mastersheet](https://docs.google.com/spreadsheets/d/1JxPjOVegiqTHvhyNPgSno1CNiur3BNW7ZeIqarKJNh8/edit#gid=1706181989)
+  - name: DISCLAIMER
+    value: "*Pre-TC is volatile and subject to change. Everything described in this
+      FAQ is a good faith analysis based on the limited information we have. Team
+      calcs are not established yet, and as with everything in TC, the content in
+      this FAQ should be taken with a grain of salt.*"
+
+  - title: CHARACTER OVERVIEW
+    description: >-
+      Shikanoin Heizou is a 4* Anemo Catalyst that specializes in on-field
+      damage and driving off-field damage such as Xingqiu’s Rainsword, Yelan’s
+      Exquisite Throw, etc. With his ability to drive this type of damage, it is
+      clear that he will replace Sucrose in some teams due to his high Elemental
+      Skill MV’s but the lack of supportive capabilities for his party members
+      like Sucrose’s A4 and C6.
+
+
+      Carrying 4PC Viridescent Venerer as its BiS in Solo Anemo teams, he
+      already is a good unit with this set. On top of that, his high MV
+      Elemental Skill provides a lot of damage to his overall kit as his
+      Elemental Burst gives a decent grouping mechanism. He has a stacking
+      mechanic on his Elemental Skill, where the max stacks you have on him, the
+      stronger his Elemental Skill damage is. 4 stacks can be obtained and you
+      can get these stacks by triggering Swirls which the A1 passive contains.
+      His A4 is just like Sucrose A1. C1 helps with this as it provides 1 stack
+      for when swapping Heizou on-field and ATK SPD for him. Good stop point in
+      constellation.
+    color: 9684093
+    
+  - title: THE REALLY SHORT VERSION
+    description: >-
+      **Roles:** On-field Driver (ADC, EDC, Triple EM)
+
+
+      **Talents:** E = NA > Q
+
+
+      **Weapons.** Memory of Dust, Skyward Atlas, Kagura Verity, Lost Prayer to
+      the Sacred Winds, Solar Pearl, Widsith, Mappa Mare, Hakushin Ring, Eye of
+      Perception, Sacrificial Fragment
+
+
+      **Artifacts** 4PC Viridescent Venerer, 2PC Viridescent Venerer 2PC ATK%,
+      2PC ATK% 2PC ATK%, 2PC Wanderer’s Troupe 2PC Viridescent Venerer, 2PC
+      Wanderer’s Troupe 2PC ATK%
+
+
+      **Constellations:** C1 to change his entire combo + added DMG overall to
+      other constellation.C3 adds more damage to his Elemental Skill C6 gives
+      him 64 CV on it.
+
+
+      **Teams:** 
+
+      1.[Heizou, Hydro, Electro, Flex]
+
+      2.[Heizou, Xiangling, Bennett, Xingqiu]
+
+      3.[Heizou, Yunjin, Flex, Flex]
+    color: 9684093
+
+
+
