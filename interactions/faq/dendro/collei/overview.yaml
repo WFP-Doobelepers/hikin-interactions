@@ -1,0 +1,64 @@
+content:
+embeds:
+
+  - title: __CREDITS__
+    color: 3450963
+    fields:
+    - name: 'Leads:'
+      value: "<@293169816741740556>"
+    - name: 'Authors:'
+      value: "<@293169816741740556>, <@209617229216612352>"
+    - name: 'Calculations:'
+      value: "<@293169816741740556>, <@285502728673951745>, <@144251771412283392>"
+    - name: 'Framecounts:'
+      value: "<@367160010335191054>"
+    - name: 'Troubleshooting:'
+      value: "<@285502728673951745>, <@144251771412283392>"
+    - name: 'Consulting:'
+      value: "<@209617229216612352>"
+    - name: 'Resources:'
+      value: |-
+        [Collei Mastersheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit#gid=1076481734)
+        [Collei Frames Mastersheet](https://docs.google.com/spreadsheets/d/1IM6z4hFxvbKprTm4fT6MVf4Nvtb5MvsC7-Coh_PpAIY/edit?usp=sharing)
+    - name: DISCLAIMER
+      value: "*Pre-TC is volatile and subject to change. Everything described in this
+        FAQ is a good faith analysis based on the limited information we have. Team
+        calcs are not established yet, and as with everything in TC, the content in
+        this FAQ should be taken with a grain of salt.*"
+
+  - title: CHARACTER OVERVIEW
+    description: >-
+      Collei is a Dendro Support unit who offers fertile ground for chain
+      reactions from other party members. Between the three Dendro characters
+      introduced in 3.0 (including the Traveler), Collei is the only Dendro unit
+      capable of sustaining Burning reactions while off-field, creating a
+      special niche. 
+
+
+      The majority of her damage comes from her Burst, and her personal damage
+      benefits from the new Spread reaction. Her Burst also has the most
+      frequent Dendro application of her kit at C0, maxing at four instances.
+      Constellations change this in favor of her Skill.
+
+
+      To reliably Burst, Collei requires lots of Energy Recharge, as well as
+      particle generation from characters like Raiden, Fischl, or other Dendro
+      characters. It is recommended, then, to use an Energy Recharge weapon or
+      Sands of Eon. 
+
+
+      Being a bow-wielder, Collei has access to the team-buffing Elegy for the
+      End, which also provide all the stats she wants, and has access to
+      excellent artifact sets in the new Deepwood set, which shreds Dendro
+      resistance, or Noblesse Oblige providing the much-appreciated 20% teamwide
+      ATK buff and 20% personal Burst damage. 
+
+
+      Collei's Constellations focus on improving her personal damage and Dendro
+      Application. By C6, her raw damage is increased by roughly 30%, mostly via
+      C2, C5 and C6. Furthermore C2 and C6 grant her 1 additional Dendro
+      application each, improving her ability to benefit from or enable more
+      Dendro Reactions.
+    color: 3450963
+    footer:
+      text: (section authored by Emiliabyss; edited by Raikh)

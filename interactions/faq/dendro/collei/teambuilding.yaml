@@ -1,0 +1,230 @@
+content: null
+embeds:
+  - title: TEAMBUILDING
+    description: >-
+      Since Dendro needs heavy testing before we can make conclusive team comps,
+      what follows here, instead, is a loose guide on constructing a team based
+      on the reactions Collei can facilitate. The characters listed are only
+      suggestions.
+    color: 3450963
+
+  - title: >-      
+      Aggravate Teams
+      
+      Electro / Electro / Collei / Flex
+    description: >-
+      Aggravate focuses on increasing an Electro DPS’s damage, and can only be
+      triggered while Quicken is active.
+
+
+      Quicken occurs when Dendro and Electro hit an enemy, adding a flat damage
+      buff, much like Shenhe and Yunjin’s talents against that enemy for as long
+      as they are affected by the Dendro Aura applied by Quicken.
+
+      **Electro:** Fischl, Miko, Shinobu, Keqing, and most other Electro characters.
+
+
+      **Flex:** Kazuha, Jean, Sayu, Sucrose, Zhongli
+
+      __**Pyro and Hydro can interfere with Quicken, so they are generally not
+      advised in these teams.**__
+
+    color: 3450963
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090681681301741658/Portraits_Electro_-_Electro_-_Collei_-_Fill_slot.png?width=1439&height=331
+      
+  - title: >-
+      Spread Teams
+
+      Dendro / Collei / Electro / Flex
+    description: >-
+      Spread focuses on increasing a Dendro DPS’s damage, and can only be
+      triggered when the Quicken reaction is active.
+
+
+      Quicken occurs when Dendro and Electro hit an enemy, adding a flat damage
+      buff, much like Shenhe and Yunjin’s talents against that enemy for as long
+      as they are affected by the Dendro Aura applied by Quicken.
+
+      - **Dendro:** Tighnari, Traveler
+
+
+      - **Electro:** Fischl, Miko, Shinobu
+
+
+      - **Flex** Zhongli, or whatever your team needs. Anemo cannot swirl Dendro, but
+      it can still swirl Electro if that’s of interest still.
+
+
+      __**Pyro and Hydro can interfere with Quicken, so they are generally not
+      advised in these teams.**__
+    color: 3450963
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090682879916392529/Portraits_Dendro_-_Collei_-_Electro_-_Fill_slot.png?width=1439&height=331
+
+  - title: >- 
+      Burning Teams
+
+      Collei / Pyro /  Pyro / Flex
+    description: >-
+      Burning combines Dendro and Pyro to deal rapid Pyro damage over time that
+      scales with Elemental Mastery. Burning Teams utilize Collei’s
+      specialization as an off-field Burning sustainer.
+
+
+      The viability of Melting and/or Overloading off of Burning is uncertain at
+      the moment and thus not covered in further detail.
+
+
+      Collei will usually still be best off with [ER or ATK] / DMG / CRIT
+      artifacts, even when the trigger element.
+
+      - **Pyro:** Klee, Xiangling, Bennett, Thoma, but no perfect fits right now.
+
+
+      - **Flex:** Kazuha, Sucrose, Jean, Sayu, Zhongli, or a Pyro character.
+    color: 3450963
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090683489424248904/Portraits_Collei_-_Pyro_-_Pyro_-_Fill_slot.png?width=1439&height=331
+    color: null
+
+  - title: Bloom Teams
+    description: >-
+      Rupture teams focus more on making as many Blooms as possible, since one
+      Bloom will automatically detonate when there are more than five on the
+      field. Otherwise, Rupture takes about five seconds to occur without
+      elemental interference, dealing damage to everyone caught in the blast
+      (you only take a very small fraction of this).
+
+      Rupture damage is *exactly* equal to Overload in terms of damage.
+    color: 3450963
+    
+  - title: >-
+      Double Hydro Bloom
+
+      __Collei / Hydro / Hydro / Anemo__
+
+    description: >-
+      - Hydro: Tartaglia, Yelan, Xingqiu, Mona, Kokomi
+
+      - Anemo: Kazuha, Jean, Sayu, Sucrose
+
+      Tartaglia is the only character at the moment who can apply enough Hydro
+      *on his own.*
+    color: 3450963
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090688045197557810/Portraits_Collei_-_Hydro_-_Hydro_-_Anemo.png?width=1439&height=331
+
+  - title: >- 
+      Fridge Team
+
+      __Collei / Hydro / Cryo / Anemo__
+
+    description: >-
+      
+      It’s important to note that Frozen enemies preserve a Dendro aura for
+      longer, allowing for more Blooms to occur.
+
+
+      If there is a character released that auto-Rupture’s Blooms, this strategy
+      will see more play.
+
+      - Cryo or Anemo can be swapped out for a different Hydro unit. High Hydro
+      application is extremely important.
+
+
+      - Hydro: Tartaglia, Yelan, Xingqiu, Mona, Kokomi
+
+      Tartaglia is the only character at the moment who can apply enough Hydro
+      *on his own.*
+
+
+      - Cryo: Rosaria, Kaeya, Ayaka, Ganyu, Diona (though Diona’s application
+      isn’t great)
+
+
+      - Anemo: Kazuha, Jean, Sayu, Sucrose
+    color: 3450963
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090691417568968704/Portraits_Collei_-_Hydro_-_Cryo_-_Anemo.png?width=1439&height=331
+
+  - title: >-
+      Hyperbloom and Burgeon
+    description: >-
+      Hyperbloom and Burgeon that Dendro Cores have their own elemental app
+      icds, so any attack that can apply Electro/Pyro will trigger
+      Hyperbloom/Burgeon.
+
+
+      Two characters are particularly good triggers for these reactions. despite
+      their otherwise unimpressive elemental application rate.
+
+
+      - Hyperbloom: Shinobu 
+
+
+      - Burgeon: Thoma
+    color: 3450963
+
+  - title: >-
+      Hyperbloom
+
+      Collei / Dendro / Hydro / Electro
+      
+    description: >-
+      Hyperbloom teams utilize Electro application on Blooms in order to create
+      single-target Electro attacks.
+       
+      At time of writing this, building a Hyperbloom team is difficult, due to
+      the need to balance individual damage output with sustaining enough
+      reactions to make the strategy matter. 
+
+      - Dendro: Tighnari or Traveler
+
+
+      - Hydro: Tartaglia, Yelan, Xingqiu, Mona, Kokomi
+
+
+      - Electro: Fischl, Miko, Shinobu, and most other Electro characters.
+    color: 3450963
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090694271914496200/Portraits_Collei_-_Dendro_-_Hydro_-_Electro.png?width=1439&height=331
+
+  - title: >-
+      Burgeon
+
+      Collei / Hydro / Pyro / Flex:
+    description: >-  
+      Burgeon teams utilize Pyro application on Blooms in order to create AOE
+      Pyro explosions that damage everyone caught in the blast (you only take a
+      very small fraction of this).
+
+
+      Pyro ***always*** gets ownership of the reaction, so build your Elemental
+      Mastery on this character.
+
+
+      Bloom consumes a *lot* of Hydro. To simultaneously trigger Burgeon and
+      Vaporize reactions, you have two choices:
+
+
+      Bring *lots* of Hydro application from someone like Childe to work with
+      Pyro DPS units like Xiangling.
+
+
+      Bring only a Pyro unit with slow application, like Thoma, to ensure Pyro
+      doesn't overtake the Hydro aura on an enemy – overtaking Hydro will halt
+      Bloom/Burgeon reactions.
+
+      -  Hydro: Tartaglia, Yelan, Xingqiu, Mona, Kokomi
+
+
+      - Pyro: Thoma, Bennett, Xiangling.
+
+
+      - Flex: Hydro/Pyro/Anemo/Zhongli
+    color: 3450963
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090693997737021510/Portraits_Collei_-_Hydro_-_Pyro_-_Fill_slot.png?width=1439&height=331
+    footer:
+      text: (section authored by Raikh and Emiliabyss)
