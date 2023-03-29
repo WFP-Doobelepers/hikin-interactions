@@ -123,7 +123,7 @@ embeds:
     color: 3450963
     
 buttons:
-- customId: liveInteraction#faq/pyro/dehya/teambuilding1
+- customId: liveInteraction#faq/electro/kuki/artifacts1
   label: Previous
   style: PRIMARY
   emoji: "◀️"

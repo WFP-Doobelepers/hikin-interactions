@@ -104,7 +104,7 @@ embeds:
     color: 3450963
 
 buttons:
-- customId: liveInteraction#faq/electro/kuki/art1facts2
+- customId: liveInteraction#faq/electro/kuki/artifacts2
   label: Next
   style: PRIMARY
   emoji: "▶️"
