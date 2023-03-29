@@ -1,6 +1,6 @@
 embeds:
   - title: __CREDITS__
-    color: 3450963
+    color: 9338051
     fields:
       - name: 'Authors:'
         value: '<@604540951708565515> , <@293169816741740556>'
@@ -59,7 +59,7 @@ embeds:
 
       **Indications of her kit may developed in the future with the Dendro
       Reaction: Intensify. Will need further theorycrafting about it.**
-    color: 3450963
+    color: 9338051
   - title: __***The Really Short Version***__
     description: >-
       **Roles:** Healing Support (recommended); on-field Physical DPS /
@@ -108,4 +108,4 @@ embeds:
       4. [Childe / Electro flex / Flex] for Electro-Charged
 
       5. [Yunjin / Rosaria / Fischl or Bennett] for Physical DPS
-    color: 3450963
+    color: 9338051

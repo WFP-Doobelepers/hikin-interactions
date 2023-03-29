@@ -38,7 +38,7 @@ embeds:
       in general. She must be the one triggering reactions for the 4PC of this
       set to be proc, but the 180 EM buff applies to all characters on your
       team. Provides good EM on 2PC and can be used for reaction-based comps.
-    color: 3450963
+    color: 9338051
   - title: >-
       For DPS Kuki, we split the categories based on what type of DPS Kuki
       people will be running. This is done so everyone can know what her BiS in
@@ -87,7 +87,7 @@ embeds:
       recommended. This set most likely will be least functional than the other
       artifacts given since Shinobu’s gear must not be neglected to make her
       usable
-    color: 3450963
+    color: 9338051
   - title: 'Reaction-based Kuki:'
     description: >-
       **4PC Thundering Fury** - Her BiS in reaction-based comps. 4PC passive
@@ -120,7 +120,7 @@ embeds:
       and Feather. This artifact option is on the low side as farming 4PC’s
       tends to bring much more outcome in terms of DMG, but this option is
       easier to farm as Wanderers Troupe is in the strongbox.
-    color: 3450963
+    color: 9338051
     
 buttons:
 - customId: liveInteraction#faq/electro/kuki/artifacts1
