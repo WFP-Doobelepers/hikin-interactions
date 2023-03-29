@@ -1,6 +1,6 @@
 embeds:
 - title: __EXTERNAL LINKS__
-  color: 9338051
+  color: $ { COLORS.PURPLE_KUKI }
   fields:
   - name: 'Project Amber:'
     value: "[Character Database](https://ambr.top/en/archive/avatar/10000065/kuki-shinobu)"

@@ -111,4 +111,4 @@ embeds:
       scales with her EM at 25% instead. Assuming this is a flat values buff
       rather than additive values, this passive is currently one of her
       unnecessary traits, due to its low impact on damage and healing.
-    color: 9338051
+    color: $ { COLORS.PURPLE_KUKI }

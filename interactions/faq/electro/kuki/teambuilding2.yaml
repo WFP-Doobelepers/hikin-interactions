@@ -47,7 +47,7 @@ embeds:
       Yunjin’s Burst can double her DPS. Fischl can be swapped with Bennett
       according to team needs. In order to reach DPS thresholds, however, your
       supports should also be especially well-invested here.
-    color: 9338051
+    color: $ { COLORS.PURPLE_KUKI }
 
 buttons:
 - customId: liveInteraction#faq/electro/kuki/teambuilding1
