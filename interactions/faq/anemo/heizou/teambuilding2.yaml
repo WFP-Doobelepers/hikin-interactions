@@ -1,0 +1,37 @@
+content: 
+embeds:
+  - title: Electro-Charged (Heizou, Hydro, Electro, Flex)
+    description: >- 
+      A team composition
+      that is really flexible with its option and Heizou as the Main Driver.
+      Usually will need a Hydro and Electro unit to work but the numbers of said
+      Element units will be placed depending on your options.
+    image: 
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090683150826471496/Portraits_Shikanoin_Heizou_-_Hydro_-_Electro_-_Fill_slot.png
+    color: 9684093
+
+  - title: National
+    description: >- 
+      A team composition composing of Xiangling, Bennett, and
+      Xingqiu. Heizou in this team composition fits in well as a VV carrier to
+      buff all off-field damage that is being cast. Pretty strong team to say at
+      least.
+    image: 
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090682818658566275/Portraits_Shikanoin_Heizou_-_Xiangling_-_Bennett_-_Xingqiu.png
+    color: 9684093
+
+  - title: Hyper (Heizou, Yunjin, Flex, Flex)
+    description: >- 
+      Focuses on improving Heizou’s NA
+      DMG while also providing enough buff to give into his Elemental Skill and
+      Elemental Burst. Would not recommend running this as there are better
+      options.
+    image: 
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090681930267242577/Portraits_Shikanoin_Heizou_-_Yun_Jin_-_Fill_slot_-_Fill_slot.png
+    color: 9684093
+  
+buttons:
+- customId: liveInteraction#faq/anemo/heizou/teambuilding2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
