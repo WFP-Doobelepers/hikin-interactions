@@ -1,0 +1,73 @@
+content: null
+embeds:
+  - title: >-
+      A trainee ranger active in Avidya Forest. Behind her enthusiastic words
+      and actions hides a slightly introverted personality.
+    color: 3450963
+    fields:
+      - name: 'Collei Mastersheet by Emiliabyss#1641:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit#gid=1076481734)
+      - name: 'Collei Frames Mastersheet by jrm.spirit#2671:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1IM6z4hFxvbKprTm4fT6MVf4Nvtb5MvsC7-Coh_PpAIY/edit?usp=sharing)
+    author:
+      name: Collei FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/collei_067_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/collei_067_gacha_splash.webp
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/dendro/collei/overview
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Talents
+    value: faq/dendro/collei/talents
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+  
+  - label: Constellations
+    value: faq/dendro/collei/constellations
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Combos
+    value: faq/dendro/collei/combos
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+    
+  - label: ER Requirements
+    value: faq/dendro/collei/errequire
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Artifacts
+    value: faq/dendro/collei/artifacts
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Weapons
+    value: faq/dendro/collei/weapons
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Teambuilding
+    value: faq/dendro/collei/teambuilding
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: External Links
+    value: faq/dendro/collei/external
+    description: "WFP resources for Collei FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+buttons:
+  - label: WFP Website
+    url: https://wangshengfp.org/faq/collei
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK

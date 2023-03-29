@@ -1,0 +1,22 @@
+---
+content:
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 3439221
+  fields:
+  - name: 'Project Amber:'
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000067/collei?v=36)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credit to Emiliabyss and Raikh for the Collei FAQ! || WFP Theorycrafting
+    
+    icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
+  
+  image:
+      url: >-
+        https://cdn.discordapp.com/attachments/964616918336159814/1005758474929573938/collei.png

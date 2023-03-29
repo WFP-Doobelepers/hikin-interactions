@@ -1,0 +1,122 @@
+---
+content:
+embeds:
+  - title: ARTIFACTS
+    description: >-
+      There are a few artifact options available, depending on your preference.
+
+
+      **ER / DMG / CRIT**
+
+      The safe default option when NOT equipping an Energy Recharge weapon.
+
+      **ATK / DMG / CRIT**
+
+      The safe default option when you ARE equipping an Energy Recharge weapon.
+
+      **EM / DMG / CRIT**
+
+      Awkward in-between arrangement. Comparable to ATK when focused on Spread.
+
+      **ER / EM / EM**
+
+      The Bloom  (trigger-focused) option while equipping an EM weapon.
+
+      **EM / EM / EM**
+
+      The Bloom (trigger-focused) option while equipping an ER weapon.
+
+
+      The Sands of Eon should ***always*** be ER if your ER needs are not met.
+      Equipping an Energy Recharge weapon gives room for an ATK Sands.  If you
+      equip a weapon like Favonius Warbow or Elegy for the End, ATK will be a
+      stable choice. An EM timepiece, after factoring in Spread damage, will be
+      about equal in damage to an ATK sands, but without reactions, damage will
+      significantly fall off.
+
+
+      For comparing Burning damage, we assume ten total seconds of uptime for
+      Burning, with Collei as the Trigger. Burning deals four instances of
+      damage per second, for up to two seconds before running out of Dendro
+      “fuel” to burn. Collei can apply Dendro seven times at C0 between Skill
+      and Burst, but there is overlap in applications that prematurely reset the
+      timer. As such, we knock off about four seconds from the expected total.
+      This gives us forty instances of Burning damage, which based on the
+      Transformative Reaction formula, is equivalent to five Overload reactions.
+
+
+      At 700 Elemental Mastery with high Burning/Bloom ownership, Collei does
+      respectable damage, comparable to the ATK build. However, it is much more
+      difficult to obtain an EM/EM/EM Set of equal quality compared to an ATK /
+      DMG / CRIT Set. EM Build has much more to *lose* if Collei lacks high
+      reaction ownership, which will vary based on the teams she is used in.
+
+
+      Since Bloom into Rupture is the same damage (exactly) as Overload, and
+      Collei can trigger more than five Bloom reactions in a rotation, six or
+      more Ruptures deal more damage than 40 ticks of Burning damage.
+
+
+      Only a few 4pc sets compete for Best-in-Slot for Collei.
+    color: 3450963
+
+  - title: Deepwood  Memories
+    description: >-
+      Best-in-slot. Shreds Dendro resistance while providing a Dendro DMG bonus.
+      Hyperbloom and Burgeon both deal Dendro damage, so this ***does not only
+      support Dendro characters*** Deepwood Memories is functional on every character and
+      most characters can benefit from the Dendro resistance shred.Don’t sleep
+      on farming for this set.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
+    color: 3450963
+
+  - title: Noblesse Oblige
+    description: >-
+      The de-facto support set. If you’re okay with sacrificing personal damage
+      and simply want to stack buffs for your teammates, this is your best bet.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Noblesse_Oblige.png
+    color: 3450963
+
+  - title: Emblem of Severed Fate
+    description: >-
+      At 200% Energy Recharge, competes toe-to-toe with Deepwood for personal
+      damage, but offers no support capabilities and requires a dedicated build
+      to match.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Emblem_of_Severed_Fate.png
+    color: 3450963
+
+  - title: Instructor
+    description: >-
+      Available in 4-star only, but an alternative buffing set when the team
+      prefers an Elemental Mastery buff over ATK.
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/Instructor.png
+    color: 3450963
+
+  - title: The Exile
+    description: >-
+      Available in 4-star only, but an alternative energy generation source when
+      the team is energy hungry. 
+    thumbnail:
+      url: https://library.keqingmains.com/img/artifacts/icon/The_Exile.png
+    color: 3450963
+
+  - title: Final Thoughts
+    description: >-
+      The Best-in-Slot artifact set is the 4pc Deepwood set. It provides 15%
+      Dendro DMG and offers a Viridescent-Venerer-like effect, shredding Dendro
+      resistance. This effect can be triggered by *anyone* equipped with this
+      set. Deepwood benefits Collei’s personal damage as well as any Dendro
+      teammates she’s paired with. It is the best balance of personal damage and
+      support.
+
+      The 4pc Emblem of Severed Fate is equivalent in damage only at 200% ER,
+      but loses the bonus team utility. The default support option is, of
+      course, 4pc Noblesse Oblige, though 4pc Exile and 4pc Instructor will also
+      work for team utility, if they need it.
+    color: 3450963
+    footer:
+      text: (section authored by Emiliabyss and Raikh)
