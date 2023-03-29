@@ -1,0 +1,114 @@
+embeds:
+  - title: __***Talents***__
+    description: >-
+      Leveling Priority:
+
+      **E > Q > AA**
+
+
+      Kuki Shinobu’s kit entirely relies on her healing via her Elemental Skill,
+      which is why it is likely to be prioritized. Her Elemental Burst and Auto
+      Attack scalings are quite low and aren’t worth investment except for
+      die-hard Shinobu fans. For a DPS Based Kuki, you have 2 options to go to:
+      Physical Based DPS and Reaction-based DPS. 
+
+
+      Physical DPS Kuki focuses more on her Normal and Charged Attacks while
+      playing as a Reaction DPS focuses more on her building EM. If you choose
+      to play her this way, her Normal Attack talent deserves priority. 
+
+
+      Reaction-based DPS essentially does not need to level up her talents as
+      you just need to focus on getting a high EM baseline.
+
+
+      Her Elemental Skill summons a ring of Electro Naku Weed around the
+      character, dealing DMG on the initial casting of it based on her ATK.
+      Furthermore, the elemental skill will tick DMG whether Kuki is on the
+      field or not, dealing Electro DMG based on her ATK and healing the active
+      character based on Kuki’s Max HP. Her Elemental Burst is quite similar to
+      Amber’s Elemental Burst. If she is above 50% of her Max HP, her Elemental
+      Burst ticks 7 times. Below 50% of her Max HP, her Elemental Burst ticks 13
+      times. 
+
+
+      **Normal  Attack: Shinobu’s Shadowsword**
+
+      Talent 9:
+
+      1st Hit - 89.6%
+
+      2nd Hit - 81.8%
+
+      3rd Hit - 109%
+
+      4th Hit - 139.8%
+
+      Charged Hit - 224.9%
+
+      Plunge Hit - 117.5%
+
+      Low/High Plunge Hit - 234.86%/293.36%
+
+
+      **Elemental Skill: Sanctifying Ring**
+
+      Talent 9:
+
+      Skill DMG - 128.71%
+
+      Healing - 5.1% Max HP + 587
+
+      DoT DMG - 42.9%
+
+
+      Talent 12:
+
+      Skill DMG - 151.42%
+
+      Healing - 6% Max HP + 739
+
+      DoT DMG - 50.5%
+
+
+      Gauge: 1U
+
+      ICD: Standard (3 hits/2.5s)
+
+      Frames: 52
+
+      Snapshot: No
+
+
+      **Elemental Burst: Goei Narukami Kariyama Rite**
+
+      Talent 9:
+
+      Skill DMG - 6.10%
+
+
+      Talent 12:
+
+      Skill DMG - 7.20%
+
+
+      Gauge: 1U
+
+      ICD: Standard (3 hits/2.5s)
+
+      Frames: 63
+
+      Snapshot: Yes
+
+
+
+      Her A1 and A4 basically are just boost to her healing apart from the A4
+      increasing her Elemental Skill DMG via her EM. Her A1 increases her
+      Healing Bonus by 15% if she is below 50% of her Max HP. Plain and simple
+      to understand. Her A4 is a flat boost to her healing and DMG. The added
+      healing amount of her Elemental Skill w/ A4 scales with her EM at 75% of
+      it and the added DMG dealt to enemies of her Elemental Skill w/ A4 also
+      scales with her EM at 25% instead. Assuming this is a flat values buff
+      rather than additive values, this passive is currently one of her
+      unnecessary traits, due to its low impact on damage and healing.
+    color: 3450963

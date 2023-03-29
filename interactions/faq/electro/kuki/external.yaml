@@ -1,9 +1,9 @@
 embeds:
 - title: __EXTERNAL LINKS__
-  color: 9338051
+  color: 3450963
   fields:
   - name: 'Project Amber:'
-    value: "[Character Database](https://ambr.top/en/archive/avatar/10000071/cyno)"
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000065/kuki-shinobu)"
   - name: Honey Hunter World
     value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
   - name: Genshin Impact JP Twitter
@@ -11,8 +11,7 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text:  Credits to Akane for the Cyno FAQ! || WFP Theorycrafting     
-    icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
-
-  image:
-    url: https://media.discordapp.net/attachments/964616918336159814/1020128347537297408/cyno_hot.jpg
+      text: Credit to Akane and Emiliabyss for the Kuki FAQ! || WFP Theorycrafting
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/964616918336159814/979598549555740702/Character_Kuki_Shinobu_Cardcropped.png

@@ -1,0 +1,5 @@
+interaction: faq/electro/kuki/main
+description: "Opens WFP resources on Kuki"
+emoji: <${EMOJIS.KUKI}> 
+
+name: Kuki

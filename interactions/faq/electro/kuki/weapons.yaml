@@ -1,0 +1,122 @@
+embeds:
+  - title: '***__Weapons__***'
+    description: >-
+      Kuki’s Weapon choices are plain and simple for her support capabilities.
+      Five-star weapons are by no means necessary for performance, but we will
+      still list them for the people who are interested in it. Reason being is
+      that those 5* Weapons can be put on another support or DPS such as
+      Bennett, Kazuha, or Ayato. As for DPS Kuki, it will also vary into
+      Physical Kuki and Reaction-based Kuki.
+    color: 3450963
+  - title: '*Support Weapons*'
+    description: >-
+      **Favonius Sword** - Her BiS for a 4* option. Provides enough ER for her
+      ER Requirement and gives particles for the entire party. This weapon's
+      passive is super easy to proc with her Elemental Burst having 7 or 13 hits
+      depending on her current HP. Keep in mind that while using a Favonius
+      weapon, Crit Rate is an important substat to look out for.
+
+
+      **Freedom Sworn** - Her BiS for a 5* option. A really outstanding weapon
+      on her. Being able to buff Normal, Charged, Plunging attacks, and ATK%
+      plus with the Tenacity of the Millelith can benefit a Normal, Charged, or
+      Plunging based DPS quite a lot. Due to her ICD being standard, she can
+      proc the passive really fast as well.
+
+
+      **Primordial Jade Cutter** - Her standard 5* weapon due to it having a HP%
+      passive that benefits her ATK% as well. This weapon makes her dual
+      scalings really easier to build as her HP gets turned into ATK%. Great
+      option if you have no character that currently holds this weapon.
+
+
+      **Sacrificial Sword** - Secondary to Favonius Sword, this weapon allows
+      Kuki Shinobu to reach below 50% HP really fast, triggering her A1 passive
+      that can benefit artifact sets like Ocean-Hued Clam. It also allows her
+      Elemental Burst to hit 13 times for 3.5 second duration due to her being
+      under 50% HP.
+    color: 3450963
+  - title: '***Physical DPS Weapons***'
+    description: >-
+      **Aquila Favonia** - Provides Physical DMG Bonus as well as ATK%. When
+      spamming N1C, this is Kuki’s BiS sword. The healing from the passive can
+      be used with Ocean-Hued Clam’s DMG, which benefits both weapon and
+      artifact debuffing the enemy as both are physically based in DMG.
+
+
+      **Primordial Jade Cutter** - Her standard 5* weapon due to it having a HP%
+      passive that benefits her ATK% as well. This weapon makes her dual
+      scalings really easier to build as her HP gets turned into ATK%. Great
+      option if you have no character that currently holds this weapon.
+
+
+      **Haran Geppaku Futsu** - When N4D spamming, as well as when teaming up
+      with Yunjin, Haran becomes Kuki’s BiS sword for damage. It is pretty easy
+      to stack as the supports the Kuki will use primarily will use their
+      Elemental Skill to battery themselves or other party members, which mean
+      its easy to get the Normal ATK DMG% Buff. In deviant builds, or when using
+      Yunjin, Haran beats out Aquila Favonia for BiS in terms of personal
+      damage.
+
+
+      **Summit Shaper** - This weapon is generally associated with a shielder,
+      which Kuki does not need as she provides enough comfort through her heals.
+      If you have Zhongli on your party, highly recommend him to be paired with
+      Kuki when using this weapon on her. He also provides Physical and
+      Elemental Shred for the entire party, which Kuki Shinobu can use to
+      further increase her DMG. Without a shielder, however, this weapon falls
+      below 4* options.
+
+
+      **Prototype Rancour** - Her F2P Sword to use. Really simple to build
+      around with as well as its passive buffing her ATK% to further up her DMG.
+      Really straightforward weapon for Physical DPS Kuki and will do about as
+      good with refinements as other gacha options.
+
+
+      **The Black Sword** - Same as Aquilla Favonia’s Passive, the healing from
+      this weapon counts into Ocean-Hued Clam’s DMG. Not only that, the Normal
+      and Charged ATK% Buff along with it helps her DMG and being a 4* Crit stat
+      stick helps the healing passive more often to proc. The Black Sword is the
+      easiest 4-star weapon to build with, due to it’s CRIT Rate secondary stat,
+      and outperforms all other 4-stars when max-refined.
+    color: 3450963
+  - title: '*Reaction-Based Weapon*'
+    description: >-
+      **Freedom Sworn** - Her BiS for reaction damage, due to having the most
+      amount of EM that Kuki could use to deal a ton of Transformative
+      Reactions. It also brings a teamwide ATK% Buff and DMG% bonus for Normal,
+      Charged, and Plunging Attacks. It is also the 5-star BiS for Support
+      builds.
+
+
+      **Iron Sting** - Her 4* F2P option. The EM on this weapon is really good
+      to use and its passive really compliments Kuki’ Shinobu's lack of DMG%
+      with triple EM. With refinements, her DMG really ups a lot.
+
+
+      **Favonius Sword** - The Favonius Sword is her best support weapon, yes,
+      but also takes care of all of the Energy Recharge requirements for
+      Shinobu, allowing her to run a full EM build. It is 2% less damage than an
+      R1 Iron Sting, but also serves to battery the party. A solid option.
+
+
+      **Lion’s Roar** - A conditional weapon. This weapon can compete DMG if the
+      passive uptime is 100%. The stat that goes along with it is not necessary
+      but can amp up her Elemental Skill DMG. Generally, this underperforms even
+      at high refinements compared to the 3-star Dark Iron Sword
+
+
+      **Festering Desire** - Another F2P option that you can use. Provides a
+      good ER amount, passive is really good in terms of Kuki’s source of DMG,
+      and everyone gets R5 for free (unless you played after 1.2). Generally,
+      this weapon focuses more on her Elemental Skill than her Elemental Burst,
+      which in an triple EM Kuki, will lack on the Elemental Burst side of DMG.
+
+
+      **Dark Iron Sword** - 3* option. The EM on this weapon surpasses The Alley
+      Flash’s EM and provides an ATK% Buff which Kuki can use to further up her
+      DMG. For reactions, the sword’s passive is rarely relevant. It is the bare
+      minimum option when you have no crafting materials to spare and there is
+      no Favonius Sword to speak of.
+    color: 3450963
