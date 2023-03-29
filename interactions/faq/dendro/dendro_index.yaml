@@ -23,3 +23,8 @@ options:
     value: faq/dendro/tighnari/main
     description: WFP resources on Tighnari
     emoji: "<:Tighnari:1086226279029809264>"
+
+  - label: Collei
+    value: faq/dendro/collei/main
+    description: WFP resources on Collei
+    emoji: <${EMOJIS.COLLEI}>
