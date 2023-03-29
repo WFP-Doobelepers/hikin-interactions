@@ -31,7 +31,7 @@ embeds:
     color: 9684093
   
 buttons:
-- customId: liveInteraction#faq/anemo/heizou/teambuilding2
+- customId: liveInteraction#faq/anemo/heizou/teambuilding1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
