@@ -1,110 +1,110 @@
 ---
 content:
 embeds:
-  - title: TALENTS
-    description: >-
-      Leveling Priority
+- title: TALENTS
+  description: >-
+    Leveling Priority
 
-      **E = NA > Q**
-
-
-      This leveling priority specializes in him being a driver for a team
-      composition. With his Elemental Skill having the highest amount of damage
-      in his kit, it will be prioritized first. Leveling up his Normal Attacks
-      is optional due to the fact his main damage source from it is by
-      triggering Swirls, which scales off the Character Level and Elemental
-      Mastery.
-
-        **Normal  Attack: Fudou Style Martial Art**
-      Talent 9:
-
-      1st Hit - 63.70%
-
-      2nd Hit - 62.6%
-
-      3rd Hit - 86.8%
-
-      4th Hit - 25.1%+27.6%+32.7%
-
-      5th Hit - 104.5%
-
-      Charged Hit - 124.10%
-
-      Plunge Hit - 104.4%
-
-      Low/High Plunge Hit - 208.77%/260.76
+    **E = NA > Q**
 
 
+    This leveling priority specializes in him being a driver for a team
+    composition. With his Elemental Skill having the highest amount of damage
+    in his kit, it will be prioritized first. Leveling up his Normal Attacks
+    is optional due to the fact his main damage source from it is by
+    triggering Swirls, which scales off the Character Level and Elemental
+    Mastery.
 
-      **Elemental Skill: Heartstopper Strike**
+      **Normal  Attack: Fudou Style Martial Art**
+    Talent 9:
 
-      Talent 9:
+    1st Hit - 63.70%
 
-      Skill DMG - 386.80%
+    2nd Hit - 62.6%
 
-      Declusion DMG Bonus - 96.70%
+    3rd Hit - 86.8%
 
-      Conviction DMG Bonus - 193.40%
+    4th Hit - 25.1%+27.6%+32.7%
 
+    5th Hit - 104.5%
 
-      Talent 12:
+    Charged Hit - 124.10%
 
-      Skill DMG - 455%
+    Plunge Hit - 104.4%
 
-      Declension DMG Bonus - 113.80%
-
-      Conviction DMG Bonus - 227.50%
-
-
-      Tap or Hold Gauge: 2U
-
-      4 Stack Gauge: 1U
-
-      ICD: Standard (3 hits/2.5s)
-
-      Tap Frames: 37
-
-      Hold Frames: 54 (1 Stack), 98 (2 Stacks), 143 (3 Stacks), 189 (4 Stacks),
-      47 (Release)
-
-      Snapshot: -
+    Low/High Plunge Hit - 208.77%/260.76
 
 
 
-      **Elemental Burst: Goei Narukami Kariyama Rite**
+    **Elemental Skill: Heartstopper Strike**
 
-      Talent 9:
+    Talent 9:
 
-      Skill DMG - 535%
+    Skill DMG - 386.80%
 
-      Windmuster Iris DMG - 36.50%
+    Declusion DMG Bonus - 96.70%
 
-
-      Talent 12:
-
-      Skill DMG - 629.40%
-
-      Windmuster Iris DMG - 42.90%
+    Conviction DMG Bonus - 193.40%
 
 
-      Skill DMG Gauge: 1U
+    Talent 12:
 
-      Windmuster Iris: 1U
+    Skill DMG - 455%
 
-      ICD: Standard (3 hits/2.5s)
+    Declension DMG Bonus - 113.80%
 
-      Frames: 68
-
-      Snapshot: -
+    Conviction DMG Bonus - 227.50%
 
 
-      His Elemental Skill is pretty straightforward. More stacks means more
-      damage and getting those stacks will rely on what combo you use on him to
-      utilize his A1 Passive, in which if he Swirls, he will get 1 Stack of
-      Declension. His Elemental Burst is as simple as a little grouping
-      mechanism in his kit, with the knockback of Windmuster Iris supporting
-      said CC. Windmuster Iris is an Elemental Absorption Type of damage which
-      means it will depend on the absorb Element DMG Bonus for its damage. His
-      A4 Passive is just the same as Sucrose A1 but instead of Swirls, he needs
-      to cast his Elemental Skill to proc it.
-    color: 9684093
+    Tap or Hold Gauge: 2U
+
+    4 Stack Gauge: 1U
+
+    ICD: Standard (3 hits/2.5s)
+
+    Tap Frames: 37
+
+    Hold Frames: 54 (1 Stack), 98 (2 Stacks), 143 (3 Stacks), 189 (4 Stacks),
+    47 (Release)
+
+    Snapshot: -
+
+
+
+    **Elemental Burst: Goei Narukami Kariyama Rite**
+
+    Talent 9:
+
+    Skill DMG - 535%
+
+    Windmuster Iris DMG - 36.50%
+
+
+    Talent 12:
+
+    Skill DMG - 629.40%
+
+    Windmuster Iris DMG - 42.90%
+
+
+    Skill DMG Gauge: 1U
+
+    Windmuster Iris: 1U
+
+    ICD: Standard (3 hits/2.5s)
+
+    Frames: 68
+
+    Snapshot: -
+
+
+    His Elemental Skill is pretty straightforward. More stacks means more
+    damage and getting those stacks will rely on what combo you use on him to
+    utilize his A1 Passive, in which if he Swirls, he will get 1 Stack of
+    Declension. His Elemental Burst is as simple as a little grouping
+    mechanism in his kit, with the knockback of Windmuster Iris supporting
+    said CC. Windmuster Iris is an Elemental Absorption Type of damage which
+    means it will depend on the absorb Element DMG Bonus for its damage. His
+    A4 Passive is just the same as Sucrose A1 but instead of Swirls, he needs
+    to cast his Elemental Skill to proc it.
+  color: 9684093
