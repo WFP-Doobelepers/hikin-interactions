@@ -3,7 +3,7 @@ content:
 embeds:
   - title: TALENTS
     description: >-
-      Leveling priority: Burst > Skill >> Normal Attack
+      **Leveling priority: Burst > Skill >> Normal Attack**
 
 
       Analysis:
@@ -43,6 +43,7 @@ embeds:
 
       Her passive exploration talent, much like her girlfriend, Amber, reduces
       gliding stamina consumption by 20%.
+      
     color: 3450963
     footer:
       text: (section authored by Emiliabyss, edited by Raikh)
