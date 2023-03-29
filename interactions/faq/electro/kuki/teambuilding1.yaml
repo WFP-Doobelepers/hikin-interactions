@@ -86,3 +86,9 @@ embeds:
       due to Kuki’s naturally low multipliers. Any teammates that give flat DMG
       increase will help Kuki substantially.
     color: 3450963
+
+buttons:
+- customId: liveInteraction#faq/electro/kuki/teambuilding1
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

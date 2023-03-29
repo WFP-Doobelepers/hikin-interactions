@@ -48,3 +48,9 @@ embeds:
       according to team needs. In order to reach DPS thresholds, however, your
       supports should also be especially well-invested here.
     color: 3450963
+
+buttons:
+- customId: liveInteraction#faq/electro/kuki/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
