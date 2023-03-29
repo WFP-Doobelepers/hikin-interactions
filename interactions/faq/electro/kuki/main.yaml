@@ -3,7 +3,7 @@ embeds:
       The capable and reliable deputy leader of the “Arataki Gang.” Please note:
       capable and reliable are not appellations for the “Arataki Gang,” but for
       their deputy leader in specific.
-    color: $ { COLORS.PURPLE_KUKI }
+    color: 9338051
     fields:
       - name: 'Collei Mastersheet by Akane#0926, Emiliabyss#1641, and Tsubasa#0387:'
         value: >-

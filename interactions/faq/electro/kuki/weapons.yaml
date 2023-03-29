@@ -7,7 +7,7 @@ embeds:
       that those 5* Weapons can be put on another support or DPS such as
       Bennett, Kazuha, or Ayato. As for DPS Kuki, it will also vary into
       Physical Kuki and Reaction-based Kuki.
-    color: $ { COLORS.PURPLE_KUKI }
+    color: 3450963
   - title: '*Support Weapons*'
     description: >-
       **Favonius Sword** - Her BiS for a 4* option. Provides enough ER for her
@@ -35,7 +35,7 @@ embeds:
       that can benefit artifact sets like Ocean-Hued Clam. It also allows her
       Elemental Burst to hit 13 times for 3.5 second duration due to her being
       under 50% HP.
-    color: $ { COLORS.PURPLE_KUKI }
+    color: 3450963
   - title: '***Physical DPS Weapons***'
     description: >-
       **Aquila Favonia** - Provides Physical DMG Bonus as well as ATK%. When
@@ -80,7 +80,7 @@ embeds:
       stick helps the healing passive more often to proc. The Black Sword is the
       easiest 4-star weapon to build with, due to it’s CRIT Rate secondary stat,
       and outperforms all other 4-stars when max-refined.
-    color: $ { COLORS.PURPLE_KUKI }
+    color: 3450963
   - title: '*Reaction-Based Weapon*'
     description: >-
       **Freedom Sworn** - Her BiS for reaction damage, due to having the most
@@ -119,4 +119,4 @@ embeds:
       DMG. For reactions, the sword’s passive is rarely relevant. It is the bare
       minimum option when you have no crafting materials to spare and there is
       no Favonius Sword to speak of.
-    color: $ { COLORS.PURPLE_KUKI }
+    color: 3450963
