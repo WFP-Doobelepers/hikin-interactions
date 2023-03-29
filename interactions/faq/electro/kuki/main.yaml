@@ -1,22 +1,24 @@
 embeds:
   - title: >-
-      A trainee ranger active in Avidya Forest. Behind her enthusiastic words
-      and actions hides a slightly introverted personality.
-    color: 3450963
+      The capable and reliable deputy leader of the “Arataki Gang.” Please note:
+      capable and reliable are not appellations for the “Arataki Gang,” but for
+      their deputy leader in specific.
+    color: 9338051
     fields:
-      - name: 'Collei Mastersheet by Emiliabyss#1641:'
+      - name: 'Collei Mastersheet by Akane#0926, Emiliabyss#1641, and Tsubasa#0387:'
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1QTAWZcluJIgtB0FcDJiRg9o8mbEssVWQpo9xU8FcBRU/edit#gid=1076481734)
+          Sheet](https://docs.google.com/spreadsheets/d/1bPZkdT6x5On5Oa_j7_fw0fzggyjIL-SUgTqYjniBItw/edit#gid=1222701454)
       - name: 'Collei Frames Mastersheet by jrm.spirit#2671:'
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1IM6z4hFxvbKprTm4fT6MVf4Nvtb5MvsC7-Coh_PpAIY/edit?usp=sharing)
+          Sheet](https://docs.google.com/spreadsheets/d/1yBZn7J-iJ6hOWU_OXDkHr8Hml6R4F9q-9dXO2mI5Pms/edit#gid=0)
     author:
-      name: Collei FAQ
-      icon_url: 'https://genshin.honeyhunterworld.com/img/collei_067_side_icon.webp'
+      name: Kuki Shinobu FAQ
+      icon_url: 'https://genshin.honeyhunterworld.com/img/shinobu_065_side_icon.webp'
     image:
-      url: 'https://genshin.honeyhunterworld.com/img/collei_067_gacha_splash.webp'
+      url: 'https://genshin.honeyhunterworld.com/img/shinobu_065_gacha_splash.webp'
+
 
 options: #dropdown
     
