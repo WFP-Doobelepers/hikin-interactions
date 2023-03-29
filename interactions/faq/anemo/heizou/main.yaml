@@ -1,0 +1,63 @@
+content: null
+embeds:
+  - title: |-
+      A young prodigy detective from the Tenryou 
+      Commission. His senses are sharp and his 
+      thoughts are clear.
+    color: 9684093
+    fields:
+      - name: Heizou Mastersheet by Akane#0926
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/u/1/d/1IUa2gbCjLvE8h-w5UUY6pVpUTvj6dQLyzQNY7rZWCME/edit#gid=420865538)
+      - name: 'Heizou Frames Mastersheet by jrm.spirit#2671:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1JxPjOVegiqTHvhyNPgSno1CNiur3BNW7ZeIqarKJNh8/edit#gid=742178881)
+    author:
+      name: Heizou FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/heizo_059_side_icon.webp
+    image:
+      url: https://genshin.honeyhunterworld.com/img/heizo_059_gacha_splash.webp
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/anemo/heizou/overview
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Talents
+    value: faq/anemo/heizou/talents
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+  
+  - label: Constellations
+    value: faq/anemo/heizou/constellations
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Combos
+    value: faq/anemo/heizou/combos
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Artifacts
+    value: faq/anemo/heizou/artifacts
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Weapons
+    value: faq/anemo/heizou/weaponspt1
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Teambuilding
+    value: faq/anemo/heizou/teambuilding
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: External Links
+    value: faq/anemo/heizou/external
+    description: "WFP resources for Heizou FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }

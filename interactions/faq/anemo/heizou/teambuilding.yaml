@@ -1,0 +1,110 @@
+
+content: 
+embeds:
+  - title: >-
+      TEAM SYNERGIES AND COMPOSITIONS
+      Fischl
+    description: >-
+      General unit for Electro-Charged team composition. Provides
+      off-field damage and with her A4, able to sustain Electro-Charged if the
+      Hydro application is fast enough to be sustained. At C6, Oz should be able
+      to be on the field 100% depending on the rotation time.
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Fischl.png
+    color: 9684093
+
+  - title: Xingqiu
+    description: >- 
+      Has the fastest Hydro application amongst all Hydro units.
+      Able to provide good DMG Reduction and a little bit of healing with his
+      Rainswords. 
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Xingqiu.png
+    color: 9684093
+
+  - title: Yelan
+    description: >- 
+      Substitute if Xingqiu is not available. Able to give a DMG
+      buff for Heizou when he is driving and consistent Hydro application.
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Yelan.png
+    color: 9684093
+
+  - title: Beidou
+    description: >- 
+      Works well with Fischl as her battery. Able to bounce off
+      Electro-Charged to multiple enemy. Her C1 ables to give Heizou a decent
+      shield and her C2 and C6 generally helps Electro-Charged team compositions
+      better.
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Beidou.png
+    color: 9684093
+
+  - title: Kuki Shinobu
+    description: >- 
+      A dedicated healer for Electro-Charged. Good substitute
+      to either Fischl or Beidou depending on who to replace. Running her as a
+      Solo Electro though would make the Electro-Charged proc slower but
+      consistent ownership on her.
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Kuki_Shinobu.png
+    color: 9684093
+
+  - title: Bennett
+    description: >- 
+      Able to give out a huge flat ATK buff that most units would
+      want. He also has a heal that will suffice on surviving and able to
+      cleanse auras off the character.
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Bennett.png
+    color: 9684093
+
+  - title: Xiangling
+    description: >- 
+      Good Pyro unit with a powerful off-field DMG. Only caveat
+      for Xiangling and Heizou is that he cannot Guoba Swirl, which makes him
+      not work well with her for some team compositions that need Guoba
+      swirling.
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Xiangling.png
+    color: 9684093
+
+  - title: Zhongli
+    description: >- 
+      Currently provides the strongest shield in the game with a
+      Triple HP build. His kit also allows him to shred off Physical and
+      Elemental RES which helps most team compositions Heizou can run.
+    thumbnail: 
+      url: https://library.keqingmains.com/img/characters/icon/Zhongli.png
+    color: 9684093
+
+  - title: Electro-Charged (Heizou, Hydro, Electro, Flex)
+    description: >- 
+      A team composition
+      that is really flexible with its option and Heizou as the Main Driver.
+      Usually will need a Hydro and Electro unit to work but the numbers of said
+      Element units will be placed depending on your options.
+    image: 
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090683150826471496/Portraits_Shikanoin_Heizou_-_Hydro_-_Electro_-_Fill_slot.png
+    color: 9684093
+
+  - title: National
+    description: >- 
+      A team composition composing of Xiangling, Bennett, and
+      Xingqiu. Heizou in this team composition fits in well as a VV carrier to
+      buff all off-field damage that is being cast. Pretty strong team to say at
+      least.
+    image: 
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090682818658566275/Portraits_Shikanoin_Heizou_-_Xiangling_-_Bennett_-_Xingqiu.png
+    color: 9684093
+
+  - title: Hyper (Heizou, Yunjin, Flex, Flex)
+    description: >- 
+      Focuses on improving Heizou’s NA
+      DMG while also providing enough buff to give into his Elemental Skill and
+      Elemental Burst. Would not recommend running this as there are better
+      options.
+    image: 
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090681930267242577/Portraits_Shikanoin_Heizou_-_Yun_Jin_-_Fill_slot_-_Fill_slot.png
+    color: 9684093
+  

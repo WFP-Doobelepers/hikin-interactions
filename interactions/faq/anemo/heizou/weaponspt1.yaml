@@ -1,0 +1,108 @@
+---
+content:
+embeds:
+  - title: WEAPONS
+    description: >-
+      These weapon options are calculated with 3 of his potential builds and are
+      the most recommended to run based on the team composition that he is in.
+
+  - title: Memory of Dust
+    description: >- 
+      Surprisingly, the best 5 star option for him.
+      Provides a huge amount of ATK% that really fits Heizou’s driving style as
+      the stacking ATK% passive relies on hits to be triggered to get said
+      stacks and Heizou’s N4 has 3 hits so it would make the stacking of this
+      weapon faster. Needs a shield to get the maximum amount of ATK% buff so a
+      shielder is mandatory.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Memory_of_Dust.png
+    color: 9684093
+  
+  - title: Skyward Atlas
+    description: >- 
+      Good 5 star option as it is on the Standard Banner.
+      Provides Elemental DMG Bonus as well as a damage proc when hitting an
+      enemy with a Normal or Charged Attack but caveat is that it only will proc
+      once per rotation depending on the timing of Heizou’s combo.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Skyward_Atlas.png
+    color: 9684093
+      
+  - title: Kagura's Verity
+    description: >- 
+      Exclusive 5 star option. Good stat stick for him as
+      it provides CD% along with the passive of increasing his Elemental Skill
+      DMG but he can only maximize it to 2 stacks so the half of the passive is
+      not being triggered.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Kaguras_Verity.png
+    color: 9684093
+
+  - title: Lost Prayer to the Sacred Winds
+    description: >- 
+      Another good 5 star option as it is a
+      CR% Weapon. Provides Elemental DMG Bonus but needs to be on the field
+      longer to get said bonuses due to its passive relying on the holder being
+      on-field for 16s to get the maximum amount of buff. This weapon will
+      highly depend on the combo time for Heizou.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Lost_Prayer_to_the_Sacred_Winds.png
+    color: 9684093
+
+  - title: Solar Pearl
+    description: >- 
+      Good 4 star option but it is locked via the Battlepass.
+      Its passive fits well with Heizou as getting the Declension stacks will
+      get this passive up for his Elemental Burst and Elemental Skill as well as
+      casting those after will increase his driving potential more.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Solar_Pearl.png
+    color: 9684093
+
+  - title: The Widsith
+    description: >- 
+      4 star RNG Weapon and its RNG Buffs that only applies in the
+      first half of his combo. All of the buffs in this weapon benefit his
+      entire damage as ATK% and Elemental DMG% buffs his entire kit while the EM
+      buffs his Swirl damage. All of these buffs are almost the same in terms
+      of damage. Only caveat is that the buff can only be active every other
+      rotation so the next rotation after the buff has been placed, it would not
+      receive it.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/The_Widsith.png
+    color: 9684093
+
+  - title: Mappa Mare
+    description: >- 
+      F2P 4* option. Provides EM for his Swirls and Elemental
+      DMG Bonus for his entire kit. Solid option for those F2P Players when
+      running Heizou and without Widsith.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Mappa_Mare.png
+    color: 9684093
+
+  - title: Eye of Perception
+    description: >- 
+      Gacha 4*. At high refinement, this weapon can get
+      at least 2 procs in the whole rotation for Heizou but generally, it only
+      provides ATK% on him.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Eye_of_Perception.png
+    color: 9684093
+
+  - title: Hakushin Ring
+    description: >- 
+      Another F2P 4* option. Gives ER% but generally is not
+      needed due to Heizou driving and getting all the particles to himself. The
+      passive is really good with driving Electro Reactions such as
+      Electro-Charged so that he can buff Anemo, Hydro, and Electro at the same
+      time.
+    thumbnail:
+      url: https://library.keqingmains.com/img/weapons/icon_ascended/Hakushin_Ring.png
+    color: 9684093
+
+buttons:
+- customId: liveInteraction#faq/anemo/heizou/weaponspt2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
