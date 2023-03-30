@@ -1,24 +1,31 @@
-content: >-
-  Layla Pre-TC FAQ by <@370761744789798912> (Author, Calcs),
-  <@366206663533002774> (Author, Calcs), <@121851107063496707> (Contributor),
-  <@293169816741740556> (Consulting, Supervising), 
-
-
-  For all Layla Calcs you can reference: [Layla
-  Mastersheet](https://docs.google.com/spreadsheets/d/1YVVuaGUm22HEvRsogcR6lTQOIT0A5quafmH5PjODsds/edit?usp=sharing)
-  by <@366206663533002774> and <@370761744789798912>, and [Layla Frames
-  Mastersheet](https://docs.google.com/spreadsheets/d/1SpwBPRc0kuUEFsLpgLu0fDzYkCoqN5yuXNCG1vp96_8/edit?usp=sharing)
-  by <@377496350155079690>
-
-
-  Pre-TC is volatile and, as always, perpetually subject to change until release
-  (and sometimes later!). Please note that these are theoretical suggestions.
-  Everything described in this FAQ is a good faith analysis based on the little
-  information about the character’s kit that we know. Team calcs, additionally,
-  are not established yet, and as with everything in TC, the content in this FAQ
-  should be taken with a grain of salt.
+---
+content:
 embeds:
-  - title: __**CHARACTER OVERVIEW**__
+- title: __CREDITS__
+  color: 10470888
+  fields:
+  - name: 'Leads:'
+    value: "<@366206663533002774>, <@370761744789798912>"
+  - name: 'Authors:'
+    value: "<@366206663533002774>, <@370761744789798912>"
+  - name: 'Calculations:'
+    value: "<@366206663533002774>, <@370761744789798912>"
+  - name: 'Consulting and Supervising'
+    value: "<@293169816741740556>"
+  - name: 'Framecounting:'
+    value: "<@377496350155079690>"
+  - name: 'Resources:'
+    value: |-
+      [Layla Mastersheet](https://docs.google.com/spreadsheets/d/1YVVuaGUm22HEvRsogcR6lTQOIT0A5quafmH5PjODsds/edit?usp=sharing)
+      [Layla Frames Mastersheet](https://docs.google.com/spreadsheets/d/1SpwBPRc0kuUEFsLpgLu0fDzYkCoqN5yuXNCG1vp96_8/edit?usp=sharing)
+  - name: 'DISCLAIMER'
+    value: "*Pre-TC is volatile and subject to change. Everything described in this
+      FAQ is a good faith analysis based on the limited information we have. Team
+      calcs are not established yet, and as with everything in TC, the content in
+      this FAQ should be taken with a grain of salt.*"
+  image:
+    url: https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.30808-6/315242370_1317274842456036_7676031373772930888_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9267fe&_nc_ohc=KITr3fl4q-sAX8-Pnk0&_nc_ht=scontent.fsgn8-4.fna&oh=00_AfCdm8dONSymz935_1s97JMH9lyBwAQT_lzzI20H9gaboA&oe=6429D807
+  - title: __OVERVIEW__
     description: >-
       Layla is a Cryo 4-star sword-wielder who deals damage and creates shields
       based off of her HP stat. She requires very little on-field time to
