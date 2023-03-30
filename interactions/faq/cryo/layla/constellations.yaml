@@ -9,8 +9,11 @@ embeds:
     description: >-
       Grants her a thicker shield with 20% extra shield strength. Also provides
       shields at 35% absorption of her own to nearby party members for 12s. This
-      is especially useful in co-op and the uptime is very good. Rating: 3/5
+      is especially useful in co-op and the uptime is very good.
     color: 10470888
+    fields:
+    - name: "*Rating:*"
+      value: 3/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_741.webp
   - title: '**C2**'
@@ -18,32 +21,43 @@ embeds:
       Generate 1 energy per *Shooting Star* hit. Within one duration of her
       shield 12 hits can be expected therefore dramatically reducing her burst
       ER requirement. This enables her to Burst off cooldown easily in Cryo
-      teams and makes it viable in non-Cryo teams. Rating: 4 - 4.5/5
+      teams and makes it viable in non-Cryo teams.
     color: 10470888
+    fields:
+    - name: "*Rating:*"
+      value: 4 - 4.5/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_742.webp
   - title: '**C3**'
     description: >-
       Adds 3 more levels to her Skill. This boosts her shield absorption for
       another 20%. With her skill not being her main source of damage the gain
-      here is negligible. Rating: 2.5/5
+      here is negligible.
     color: 10470888
+    fields:
+    - name: "*Rating:*"
+      value: 2.5/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_743.webp
   - title: '**C4**'
     description: >-
       When firing *Shooting Stars*, increase Normal and Charged Attack DMG based
       on Layla's Max HP. A decent bonus, becomes better with amplifying 
-      reactions. Rating: 2.5/5
+      reactions.
     color: 10470888
+    fields:
+    - name: "*Rating:*"
+      value: 2.5/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_744.webp
   - title: '**C5**'
     description: >-
       Adds 3 more levels to her Burst. Some extra damage however the gain is
       negligible given she will not be a major contributor to team damage.
-      Rating: 1/5
     color: 10470888
+    fields:
+    - name: "*Rating:*"
+      value: 1/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_745.webp
   - title: '**C6**'
@@ -51,8 +65,11 @@ embeds:
       *Shooting Stars* and *Starlight Slugs* deal 40% increased damage. And
       Night Stars are automatically generated every 1.2s instead of 1.5s. It is
       hard to pull off another wave of Shooting Stars without sacrificing
-      driver/carry’s on- field time. Rating: 3/5
+      driver/carry’s on- field time.
     color: 10470888
+    fields:
+    - name: "*Rating:*"
+      value: 3/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_746.webp
     footer:

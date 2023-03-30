@@ -13,7 +13,7 @@ embeds:
       **The DMG gained/Shield Absorption lost or vice versa when switching build
       direction is not significant compared to other characters. Please
       reference Layla Mastersheet for detailed comparison. **
-
+    color: 10470888
   - title: Key of Khaj-Nisut
     description: Great HP stat stick that increase Layla's shield strength. However, since the weapon passive does not work off-field, she has trouble activating the EM buff.
     color: 10470888
@@ -39,6 +39,5 @@ embeds:
     color: 10470888
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n11302_awaken_icon.webp     
-    color: 10470888
     footer:
       text: (section authored by Edulis)
