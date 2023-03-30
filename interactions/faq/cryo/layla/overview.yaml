@@ -25,36 +25,36 @@ embeds:
       this FAQ should be taken with a grain of salt.*"
   image:
     url: https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.30808-6/315242370_1317274842456036_7676031373772930888_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9267fe&_nc_ohc=KITr3fl4q-sAX8-Pnk0&_nc_ht=scontent.fsgn8-4.fna&oh=00_AfCdm8dONSymz935_1s97JMH9lyBwAQT_lzzI20H9gaboA&oe=6429D807
-  - title: __OVERVIEW__
-    description: >-
-      Layla is a Cryo 4-star sword-wielder who deals damage and creates shields
-      based off of her HP stat. She requires very little on-field time to
-      perform, therefore she pairs well with DPSs that require a lot of on-field
-      time. Low energy requirements eliminate the need for a battery, making it
-      easy to slot Layla into any team that needs her.
+- title: __OVERVIEW__
+  description: >-
+    Layla is a Cryo 4-star sword-wielder who deals damage and creates shields
+    based off of her HP stat. She requires very little on-field time to
+    perform, therefore she pairs well with DPSs that require a lot of on-field
+    time. Low energy requirements eliminate the need for a battery, making it
+    easy to slot Layla into any team that needs her.
 
 
-      HP, ER, and 30% CRIT Rate or more (to proc Favonius passive) are most
-      valuable to Layla. Due to her HP scaling, the ATK stat on weapons doesn't
-      matter, meaning that she will perform when equipped with anything that
-      offers a good enough ability or offers HP% or ER%. She is not picky when
-      it comes to weapons, generally any sword with ER% or HP% substat or boost
-      in the passive could be a good option for shield support build. Her build
-      can skew towards shields or damage, but no matter what gear is used on
-      Layla, her shield will be decent. However, the difference in builds
-      between defensive and offensive options is minimal.
+    HP, ER, and 30% CRIT Rate or more (to proc Favonius passive) are most
+    valuable to Layla. Due to her HP scaling, the ATK stat on weapons doesn't
+    matter, meaning that she will perform when equipped with anything that
+    offers a good enough ability or offers HP% or ER%. She is not picky when
+    it comes to weapons, generally any sword with ER% or HP% substat or boost
+    in the passive could be a good option for shield support build. Her build
+    can skew towards shields or damage, but no matter what gear is used on
+    Layla, her shield will be decent. However, the difference in builds
+    between defensive and offensive options is minimal.
 
 
-      Layla’s constellations provide extra shield strength, ER requirement
-      reduction, damage boosting for on-field character and more personal
-      damage. C1 enhances her Shield Strength and grants all your co-op
-      teammates with a shield identical in utility to your own. C2 restores
-      energy with skill hits and eliminates her ER requirement , enabling her to
-      build more HP. C4 provides Normal and Charged attack DMG to the character
-      on-field, usually around 2k per NA or CA hit. C6 increase her overall
-      damage and reduce the required time to stack up her *Shooting Stars*
-    color: 10470888
-    footer:
-      text: (section authored by Edulis)
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/layla_074_icon.webp
+    Layla’s constellations provide extra shield strength, ER requirement
+    reduction, damage boosting for on-field character and more personal
+    damage. C1 enhances her Shield Strength and grants all your co-op
+    teammates with a shield identical in utility to your own. C2 restores
+    energy with skill hits and eliminates her ER requirement , enabling her to
+    build more HP. C4 provides Normal and Charged attack DMG to the character
+    on-field, usually around 2k per NA or CA hit. C6 increase her overall
+    damage and reduce the required time to stack up her *Shooting Stars*
+  color: 10470888
+  footer:
+    text: (section authored by Edulis)
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/layla_074_icon.webp
