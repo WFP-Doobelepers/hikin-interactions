@@ -1,0 +1,4 @@
+interaction: faq/dendro/collei/main
+description: "Opens WFP resources on Collei"
+match: ${ TRIGGER_PREFIX }colleifaq(?:\s|$)
+ignoreCase: true

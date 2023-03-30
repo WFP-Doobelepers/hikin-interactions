@@ -1,0 +1,4 @@
+interaction: faq/anemo/heizou/main
+description: "Opens WFP resources on Shikanoin Heizou"
+match: ${ TRIGGER_PREFIX }heizoufaq(?:\s|$)
+ignoreCase: true
