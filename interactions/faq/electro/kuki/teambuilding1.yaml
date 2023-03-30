@@ -85,38 +85,6 @@ embeds:
     color: 9338051
     thumbnail:
       url: https://library.keqingmains.com/img/characters/icon/Sucrose.png
-  
-  - title: >-
-      **Jean**
-    description: >-
-      Anemo mom with Bennett can provide Pyro for Kuki to Overload along with Xiangling, or so it is called “Sunfire” setup. Really versatile support to bring along with Kuki as she can hold Favonius instead of Kuki while bringing a much stronger heals to keep whoever is on the field alive.
-    color: 9338051
-    thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Jean.png
-  
-  - title: >-
-      **Venti**
-    description: >-
-      The Anemo Archon. Great for grouping up enemies that are needed for a Overload Comp. Can suffice for batterying hard Pyro applicator such as Xiangling by absorbing Pyro in his Elemental Burst.
-    color: 9338051
-    thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Venti.png
-  
-  - title: >-
-      **Rosaria**
-    description: >-
-      Kuki can utilize Rosaria Crit Rate Buff as well as her C6 Physical Shred on Physical DPS Kuki. She can also provide decent energy for the team if being used with Favonius Lance.
-    color: 9338051
-    thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Rosaria.png
-  
-  - title: >-
-      **Yunjin**
-    description: >-
-      Another support that Kuki can utilize. Her flat DMG increase via her DEF greatly increases Kuki’s Normal ATK DMG and with her A4 passive on a Rainbow comp, her being on C6, can boost it further. It cannot be understated how important Yunjin is for Kuki’s personal damage, due to Kuki’s naturally low multipliers. Any teammates that give flat DMG increase will help Kuki substantially.
-    color: 9338051
-    thumbnail:
-      url: https://library.keqingmains.com/img/characters/icon/Yun_Jin.png
 
 buttons:
 - customId: liveInteraction#faq/electro/kuki/teambuilding2
