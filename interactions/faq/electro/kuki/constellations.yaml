@@ -6,6 +6,8 @@ embeds:
       requires her to be at low health.With that in mind, her constellation
       focuses more on her Elemental Skill as it is her bread and butter of her
       entire kit.
+    color: 9338051
+    
   - title: >- 
       **C1 : To Cloister Compassion**
     description: >-
@@ -80,7 +82,7 @@ embeds:
       DMG Increase from C0: 75%
 
       DMG Increase from previous cons: 8%-8.5%
-
+    color: 9338051
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_Talent_U_Shinobu_02.png
 

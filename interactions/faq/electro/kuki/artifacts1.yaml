@@ -94,7 +94,7 @@ embeds:
       EM>>ER%>HP%>ATK%(Triple EM Build with ER Weapon)
 
       ER%>EM>ATK%>HP% (ER/EM/EM with EM Weapon)**
-    color: 3450963
+    color: 9338051
     thumbnail:
       url: https://library.keqingmains.com/img/artifacts/icon/Thundering_Fury.png
 
@@ -118,7 +118,7 @@ embeds:
       Her Artifact options also depend on what you will run Kuki as. Here are
       some options on the artifacts for Kuki whether you are playing her as a
       Support or DPS.
-    color: 3450963
+    color: 9338051
 
 buttons:
 - customId: liveInteraction#faq/electro/kuki/artifacts2
