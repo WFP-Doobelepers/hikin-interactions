@@ -1,0 +1,78 @@
+embeds:
+  - title: >-
+      **Mono-Electro Teams**
+
+
+      **Yae, Raiden, Kuki Shinobu, Kazuha**
+    description: >-
+      Removing Sara and Jean to make way for Kuki and Kazuha actually helps the rotation timing and DMG a lot. You do not need to manage Sara spreading her ATK Buff to both Yae and Raiden simultaneously. This team provides enough sustain to keep both Yae and Raiden alive with Kuki’s healing and has 100% healing (at C2+) and buffing uptime with Tenacity of the Millelith.
+    color: 9338051
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090910328734355496/Portraits_Yae_Miko_-_Raiden_Shogun_-_Kuki_Shinobu_-_Kaedehara_Kazuha.png?width=1439&height=331
+  
+  - title: >-
+      **Support for Superconduct Team**
+
+      **Eula, Kuki Shinobu, Flex, Flex**
+    description: >-
+      She is good as a substitute to other Electro units who need to be on
+      another team. With her healing, she can sustain the DPS on-field time
+      doing Physical DMG while buffing with Tenacity of the Millelith or dealing
+      DMG with Ocean-Hued Clam.
+    color: 9338051
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090910483365769286/Portraits_Eula_-_Kuki_Shinobu_-_Fill_slot_-_Fill_slot.png?width=1439&height=331
+  
+  - title: >-
+      **Overload Team**
+      
+      
+      **Kuki Shinobu, Bennett, Xiangling, Anemo**
+    description: >-
+
+      This team composition usually makes Kuki Shinobu trigger the reaction and every party member sets it up for her. There is no one stealing ownership as Kuki will be running solo Electro. Her only flaw in this composition is her ER Requirement as she will be running solo electro to maintain the ownership. Additionally, Bennett/Xiangling/Anemo has many, many characters that can fill this slot better than Shinobu can. When using Kuki in this comp, it’s important to wait to use her skill until *after* her Burst finishes, in order to maximize application.
+    color: 9338051
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090910731790209085/Portraits_Kuki_Shinobu_-_Bennett_-_Xiangling_-_Anemo.png?width=1439&height=331
+  
+  - title: >-
+      **Electro-Charged Team**
+      
+      **Tartaglia, Kuki Shinobu, Electro, Flex**
+    description: >-  
+      This team usually will force Kuki Shinobu with another Electro to maintain the Electro-Charged Reaction. While the ownership for this reaction is quite hard to manage, Kuki provides a lot of sustain but lessens the DMG compared to say, like Beidou or Fischl.
+    color: 9338051
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090910944105869342/Portraits_Tartaglia_-_Kuki_Shinobu_-_Electro_-_Fill_slot.png?width=1439&height=331
+  
+  - title: >-
+      **Mono-Geo Comp**
+      
+      **Itto, Gorou, Zhongli, Kuki Shinobu**
+    description: >-  
+      Primarily, her role here is a dedicated healer and buffer. Opens up Bennett or another healer to be in a different team and she performs really well as Itto moves a lot during his time on the field.
+    color: 9338051
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090911071784677376/Portraits_Arataki_Itto_-_Gorou_-_Zhongli_-_Kuki_Shinobu.png?width=1439&height=331
+  
+  - title: >-
+      **Physical Team** 
+
+
+      **Kuki Shinobu, Rosaria, Yunjin, Fischl/Bennett**
+    description: >-  
+      Rather than use Rosaria or Fischl as Physical DPS units, we use them here
+      as DPS’s in their respective element to facilitate Superconduct while
+      dealing satisfying damage individually. The healing comes from Kuki and
+      Yunjin’s Burst can double her DPS. Fischl can be swapped with Bennett
+      according to team needs. In order to reach DPS thresholds, however, your
+      supports should also be especially well-invested here.
+    color: 9338051
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1090912575488802846/Portraits_Kuki_Shinobu_-_Rosaria_-_Yun_Jin_-_BennettFischl.png?width=1439&height=331
+
+buttons:
+- customId: liveInteraction#faq/electro/kuki/teambuilding2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
