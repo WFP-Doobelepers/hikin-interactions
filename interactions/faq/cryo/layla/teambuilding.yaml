@@ -98,7 +98,7 @@ embeds:
   
   - title: '**Laylational**'
     description: >-
-      -Layla/Bennett/Xingqiu/Xiangling
+      Layla/Bennett/Xingqiu/Xiangling
 
 
       Layla can be added as the flex slot in the National core to hold support
@@ -112,6 +112,8 @@ embeds:
   - title: '**Fridge**'
     description: >-
       Layla/Dendro/Hydro/Burgeon or Electro
+
+
       Fridge teams are teams that use the interaction between Dendro and Cryo
       where both of them can co-exist on a target so applying Hydro onto the
       enemy will reduce the amount of Dendro consumed when triggering Bloom
