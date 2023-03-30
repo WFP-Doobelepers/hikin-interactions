@@ -25,20 +25,20 @@ embeds:
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n11503_awaken_icon.webp
   - title: Favonius Sword 
-      description: A strong contender that give high ER stat, as well as clear particles to lowers team ER requirement. 
-      color: 10470888
-      thumbnail:
-        url: https://genshin.honeyhunterworld.com/img/i_n11401_awaken_icon.webp   
+    description: A strong contender that give high ER stat, as well as clear particles to lowers team ER requirement. 
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11401_awaken_icon.webp   
   - title: Primordial Jade Cutter
-      description: 5* CRIT stat stick with a decent HP% passive that also increase Layla's shield strength.
-      color: 10470888
-      thumbnail:
-        url: https://genshin.honeyhunterworld.com/img/i_n11505_awaken_icon.webp 
+    description: 5* CRIT stat stick with a decent HP% passive that also increase Layla's shield strength.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11505_awaken_icon.webp 
   - title:  Harbinger of Dawn
-      description: Good F2P CRIT stat stick for more personal damage. Layla's off-field nature also help maintaining the passive.
-      color: 10470888
-      thumbnail:
-        url: https://genshin.honeyhunterworld.com/img/i_n11302_awaken_icon.webp     
-      color: 10470888
-      footer:
-        text: (section authored by Edulis)
+    description: Good F2P CRIT stat stick for more personal damage. Layla's off-field nature also help maintaining the passive.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11302_awaken_icon.webp     
+    color: 10470888
+    footer:
+      text: (section authored by Edulis)
