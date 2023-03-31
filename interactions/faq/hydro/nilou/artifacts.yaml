@@ -1,7 +1,7 @@
 content: null
 embeds:
   - title: __**ARTIFACTS**__
-    description: >-
+    description: |-
       **Artifact Main Stats**
 
       *Sands:* HP% > ER% 
@@ -27,16 +27,10 @@ embeds:
       builds.
     color: 7184107
   - title: |-
-    __Artifact Sets__
+      __Artifact Sets__
 
-    2PC Tenacity of the Milleleth and 2PC EM/HydroDMG%/BurstDMG%
-  
-  description: Nilou’s Artifact set options are fairly flexible. In general the best
-      option is  2-PC Tenacity of the Milleleth for the 20 HP%, with any of the
-      following 2-sets 2-PC Gilded Dreams, 2-PC Heart of Depth, 2-PC Noblesse,
-      with 2-PC Heart of Depth/2-PC Gilded Dreams also performing well as a
-      combo. Just use whichever combo of these 2 piece sets gives better
-      substats, prioritizing HP%, ER% (if bursting every rotation) and EM.
+      2PC Tenacity of the Milleleth and 2PC EM/HydroDMG%/BurstDMG%
+    description: Nilou’s Artifact set options are fairly flexible. In general the best option is  2-PC Tenacity of the Milleleth for the 20 HP%, with any of the following 2-sets 2-PC Gilded Dreams, 2-PC Heart of Depth, 2-PC Noblesse, with 2-PC Heart of Depth/2-PC Gilded Dreams also performing well as a combo. Just use whichever combo of these 2 piece sets gives better substats, prioritizing HP%, ER% (if bursting every rotation) and EM.
 
 
       Note that for Sword Stance, where Nilou is on field, 2-PC Tenacity of the
