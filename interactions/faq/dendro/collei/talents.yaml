@@ -25,12 +25,14 @@ embeds:
     color: 3450963
     thumbnail:
       url: https://api.ambr.top/assets/UI/Skill_S_Collei_01.png
+  - title: Elemental Burst
+    description: >-
       Collei’s Burst is more than 70% of her total damage output, making her
       Burst the most important Talent to level. Her Skill should be leveled
       insofar as she deals Dendro damage and will often be holding a Dendro
       DMG%o Goblet. 
-  - title: Elemental Burst
-    description: >-
+
+      
       The Burst is 6-seconds long, but can be extended to 9 after initiating a
       Dendro-based elemental reaction – something you should be doing anyways as
       soon as Collei takes the field. 19 hits take place during the Burst, but
