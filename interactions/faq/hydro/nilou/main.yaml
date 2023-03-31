@@ -40,11 +40,6 @@ options: #dropdown
     value: faq/hydro/nilou/combos
     description: "WFP resources for Nilou FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }
-    
-  - label: ER Requirements
-    value: faq/hydro/nilou/errequire
-    description: "WFP resources for Nilou FAQ."
-    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Artifacts
     value: faq/hydro/nilou/artifacts

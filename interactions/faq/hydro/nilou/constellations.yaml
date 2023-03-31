@@ -22,6 +22,11 @@ embeds:
       3 more blooms per rotation, 1/5 if no extra blooms can be produced, and
       2/5 for Sword Stance.
     color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 4/5 if you can get
+        3 more blooms per rotation, 1/5 if no extra blooms can be produced, and
+        2/5 for Sword Stance.
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_701.webp
   - title: C2
@@ -31,8 +36,11 @@ embeds:
       Bloom damage alone, and may become more 
 
       valuable in the future if Nilou can run Dendro and Hydro teammates with
-      higher personal damage contributions outside of Bloom. Rating: 3/5.
+      higher personal damage contributions outside of Bloom.
     color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 3/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_702.webp
   - title: C3
@@ -40,6 +48,9 @@ embeds:
       Increased multipliers for her Elemental Burst do very little for Nilou
       overall. Rating: 1/5.
     color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 1/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_703.webp
   - title: C4
@@ -51,16 +62,21 @@ embeds:
       Nilou’s ER% requirements to around 140% when bursting every rotation. This
       allows you to drop ER% sands when bursting every rotation and run HP%
       sands instead with a few more ER% subs, which results in a significant
-      gain alongside the Elemental Burst DMG bonus. Rating: 3/5
+      gain alongside the Elemental Burst DMG bonus.
     color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 3/5
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_704.webp
   - title: C5
     description: >-
       Nilou gains multipliers for her Elemental Skill. This does very little for
-      Whirl Stance but is a small boost to Sword Stance. Rating: 1/5 for Whirl
-      Stance, 2/5 for Sword Stance.
+      Whirl Stance but is a small boost to Sword Stance.
     color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value: 1/5 for Whirl Stance, 2/5 for Sword Stance.
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/c_705.webp
   - title: C6
@@ -71,10 +87,12 @@ embeds:
       able to attain a decent Crit Ratio without compromising the HP% she needs
       to amplify team-wide Bloom damage, and truly takes her personal damage to
       the next level, though its effects are less impactful for Whirl Stance. It
-      may open up the viability of more crit focused builds, but this will have
-      to be explored upon release Rating: 3/5 for Whirl Stance, 5/5 for Sword
-      Stance.
+      may open up the viability of more Crit focused builds, but this will have
+      to be explored upon release.
     color: 7184107
+    fields:
+    - name: "*Rating:*"
+      value:  3/5 for Whirl Stance, 5/5 for Sword Stance.
     footer:
       text: >-
         (section authored by XenoVX)
