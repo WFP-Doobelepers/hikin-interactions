@@ -5,7 +5,7 @@ embeds:
     description: |-
       *Sands:* HP% / ER% / ATK% (for On-field)
 
-      *Goblet:* Hydro DMG% > HP
+      *Goblet:* Hydro DMG% > HP%
 
       *Circlet:* CRIT Rate or CRIT DMG > HP%
 
