@@ -5,7 +5,7 @@ embeds:
     description: 'Leveling priority: Burst > Skill > Normal Attack'
     color: 3450963
     image:
-      url: https://media.discordapp.net/attachments/957846543011024929/1023522408092672071/Untitled75_20220925171147.png
+      url: 
 
   - title: Normal Attacks
     description: >-
@@ -32,7 +32,7 @@ embeds:
       insofar as she deals Dendro damage and will often be holding a Dendro
       DMG%o Goblet. 
 
-      
+
       The Burst is 6-seconds long, but can be extended to 9 after initiating a
       Dendro-based elemental reaction – something you should be doing anyways as
       soon as Collei takes the field. 19 hits take place during the Burst, but
