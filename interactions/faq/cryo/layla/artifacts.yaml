@@ -33,31 +33,32 @@ embeds:
       stronger shield and Crit one is more offensive. Substats will play an
       important role here, where Crit Circlet only leads by ~10% if both
       circlets have similar amounts of useful substats.
+
+      **Substats:** ER% (until meet requirement) > CR (for Favonius proc) > CD = HP% > Flat HP > ATK%
     color: 10470888
-  - title: '**Sets**'
-    description: >-
-      With how her Elemental Skill works, her best-ins-lot artifact set is
-      arguably  **4-piece Tenacity of the Millelith** (TotM), providing ATK% and
-      Shield Strength% to her team with a relatively high uptime. **4-pieces
-      Noblesse Oblige** is comparably effective if there are better units in the
-      team that  already utilize  4-piece TotM. Personal damage wise, **4-piece
-      Blizzard Strayer** and **4-piece Emblem of Severed Fate** are the best
-      choices, but considering her lackluster damage output, it is best to use
-      the supportive options above.
+  - title: |- 
+      __Artifact Sets__
 
-
-      You can consider **4-piece Instructor** when using her in a team utilizing
-      amplifying reactions like Vaporize and Melt to further buff the damage.
-      Note  that when using a 4 star artifact set, shield strength will be much
-      lower compared to 5 star options, therefore a 5 star piece (preferably
-      Sands) is much recommended. 
-
-
-      > Substats priority: ER% (until meet requirement) > CR (for Favonius proc)
-      > CD = HP% > Flat HP > ATK%
+      4PC Tenacity of the Millelith
+    description: Arguably Layla's BiS Artifact Set, providing ATK% and Shield Strength% to her team with a relatively high uptime. Then 20% HP also increase her Shield Strength and Damage.
     color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400169.webp
+  - title: 4PC Noblesse Oblige
+    description: A is comparably effective if there are better units in the team that already utilize 4-piece TotM. However Layla must have enough ER to Burst at least once every rotation to make it worth using.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400118.webp
+  - title: 4pc Emblem of Severed Fate or 4PC Blizzard Strayer
+    description: Personal damage wise, both of the options above are the best, but considering her lackluster damage output, it is better to use the supportive options above.
+    color: 10470888
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1091014710352162896/JcjV0X8QAAAABJRU5ErkJggg.png
+  - title: 4PC Instructor
+    description: You can consider using this set when using her in a team utilizing amplifying reactions like Vaporize and Melt to further buff the damage. Note that when using a 4 star artifact set, shield strength will be much lower compared to 5 star options, therefore a 5 star piece (preferably Sands) is much recommended.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400032.webp
     footer:
       text: (section authored by Athena)
-    image:
-      url: >-
-        https://media.discordapp.net/attachments/957846543011024929/1035806568815529986/Portraits_Tenacity_of_the_Millelith_-_Noblesse_Oblige_-_Blizzard_Strayer_-_Emblem_of_Severed_Fate_-_Instructor.png?width=1440&height=266
+    

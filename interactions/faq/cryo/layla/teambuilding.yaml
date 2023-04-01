@@ -16,7 +16,7 @@ embeds:
   
   - title: '**Freeze**'
     description: >-
-      -Layla/Cryo/Hydro/Anemo
+      Layla/Cryo/Hydro/Anemo
 
 
       Layla can be a more offensive alternative for Diona in Freeze teams where
@@ -36,9 +36,9 @@ embeds:
       url: >-
         https://media.discordapp.net/attachments/957846543011024929/1035813687488938014/Untitled85_20221029150928.png
   
-  - title: '**Mono-Cryo**'
+  - title: '**Mono Cryo**'
     description: >-
-      -Layla/Cryo/Cryo/Anemo
+      Layla/Cryo/Cryo/Anemo
 
 
       An alternative to freeze teams for enemies that cannot be frozen.
@@ -60,7 +60,7 @@ embeds:
   
   - title: '**Forward Melt**'
     description: >-
-      -Bennett/Layla/Anemo/Cryo, Anemo or Hydro
+      Bennett/Layla/Anemo/Cryo, Anemo or Hydro
 
 
       Layla’s Shooting Star mechanic rewards you for spamming Elemental Skills,
@@ -81,7 +81,7 @@ embeds:
   
   - title: '**Eula**'
     description: >-
-      -Eula/Layla/Electro/Flex
+      Eula/Layla/Electro/Flex
 
 
       Layla can be a defensive option in Eula teams, and still give offensive
@@ -98,7 +98,7 @@ embeds:
   
   - title: '**Laylational**'
     description: >-
-      -Layla/Bennett/Xingqiu/Xiangling
+      Layla/Bennett/Xingqiu/Xiangling
 
 
       Layla can be added as the flex slot in the National core to hold support
@@ -111,6 +111,9 @@ embeds:
   
   - title: '**Fridge**'
     description: >-
+      Layla/Dendro/Hydro/Pyro or Electro
+
+
       Fridge teams are teams that use the interaction between Dendro and Cryo
       where both of them can co-exist on a target so applying Hydro onto the
       enemy will reduce the amount of Dendro consumed when triggering Bloom

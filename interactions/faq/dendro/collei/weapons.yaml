@@ -4,7 +4,7 @@ embeds:
     description: >-
       It’s hard to rank these weapons, as many of them are best when factoring
       in a whole team, even if they’re not the best in personal damage.
-
+    color: 3450963
   - title: Elegy For the End [ATK% Sands >= EM Sands]
     description: >-
       The most stable 5-star choice. An excellent balance of damage and team

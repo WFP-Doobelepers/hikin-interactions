@@ -86,7 +86,6 @@ embeds:
     color: 3450963
     image:
       url: https://media.discordapp.net/attachments/1087300734372020315/1090683489424248904/Portraits_Collei_-_Pyro_-_Pyro_-_Fill_slot.png?width=1439&height=331
-    color: null
 
   - title: Bloom Teams
     description: >-
@@ -102,7 +101,7 @@ embeds:
   - title: >-
       Double Hydro Bloom
 
-      __Collei / Hydro / Hydro / Anemo__
+      Collei/Hydro/Hydro/Anemo
 
     description: >-
       - Hydro: Tartaglia, Yelan, Xingqiu, Mona, Kokomi
@@ -118,7 +117,7 @@ embeds:
   - title: >- 
       Fridge Team
 
-      __Collei / Hydro / Cryo / Anemo__
+      Collei/Hydro/Cryo/Anemo
 
     description: >-
       
@@ -169,7 +168,7 @@ embeds:
   - title: >-
       Hyperbloom
 
-      Collei / Dendro / Hydro / Electro
+      Collei/Dendro/Hydro/Electro
       
     description: >-
       Hyperbloom teams utilize Electro application on Blooms in order to create
@@ -193,7 +192,7 @@ embeds:
   - title: >-
       Burgeon
 
-      Collei / Hydro / Pyro / Flex:
+      Collei/Hydro/Pyro/Flex
     description: >-  
       Burgeon teams utilize Pyro application on Blooms in order to create AOE
       Pyro explosions that damage everyone caught in the blast (you only take a
@@ -216,7 +215,7 @@ embeds:
       doesn't overtake the Hydro aura on an enemy – overtaking Hydro will halt
       Bloom/Burgeon reactions.
 
-      -  Hydro: Tartaglia, Yelan, Xingqiu, Mona, Kokomi
+      - Hydro: Tartaglia, Yelan, Xingqiu, Mona, Kokomi
 
 
       - Pyro: Thoma, Bennett, Xiangling.

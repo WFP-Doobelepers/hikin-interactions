@@ -13,26 +13,31 @@ embeds:
       **The DMG gained/Shield Absorption lost or vice versa when switching build
       direction is not significant compared to other characters. Please
       reference Layla Mastersheet for detailed comparison. **
-
-
-      For **Shield Support** builds, the difference between high-investment and
-      low-investment shields is miniscule, meaning you can be liberal in weapon
-      choice for this build. In that case, weapons with overall team support
-      capabilities start to become more preferable, such as **Key of
-      Khaj-Nisut,  Freedom Sworn** and **Favonius Sword. **
-
-
-      For **Off-field DPS** builds, the standout performer here is **Harbinger
-      of Dawn.** Being a 3 star weapon the low base ATK is less of an issue for
-      Layla, and it provides plenty of Crit stats which she really benefits
-      from. Her off-field nature also means she can take advantage of the
-      passive very well, since there are few opportunities for Layla to take
-      damage. **Primordial Jade Cutter** is also a strong option for her. For
-      the rest of the options, weapons with ER% or Crit substats are preferable,
-      and higher substat value is preferred over higher base ATK.
-    color: null
+    color: 10470888
+  - title: Key of Khaj-Nisut
+    description: Great HP stat stick that increase Layla's shield strength. However, since the weapon passive does not work off-field, she has trouble activating the EM buff.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11511_awaken_icon.webp
+  - title: Freedom Sworn 
+    description: Although the EM stat is not related to her kit, the buffs that the weapon provide should not be overlooked if Layla can trigger reactions consistently.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11503_awaken_icon.webp
+  - title: Favonius Sword 
+    description: A strong contender that give high ER stat, as well as clear particles to lowers team ER requirement. 
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11401_awaken_icon.webp   
+  - title: Primordial Jade Cutter
+    description: 5* CRIT stat stick with a decent HP% passive that also increase Layla's shield strength.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11505_awaken_icon.webp 
+  - title:  Harbinger of Dawn
+    description: Good F2P CRIT stat stick for more personal damage. Layla's off-field nature also help maintaining the passive.
+    color: 10470888
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n11302_awaken_icon.webp     
     footer:
       text: (section authored by Edulis)
-    image:
-      url: >-
-        https://media.discordapp.net/attachments/957846543011024929/1035807630255456276/unknown.png

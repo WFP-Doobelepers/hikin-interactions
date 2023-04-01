@@ -1,22 +1,5 @@
-content: >-
-  Layla Pre-TC FAQ by <@370761744789798912> (Author, Calcs),
-  <@366206663533002774> (Author, Calcs), <@121851107063496707> (Contributor),
-  <@293169816741740556> (Consulting, Supervising), 
-
-
-  For all Layla Calcs you can reference: [Layla
-  Mastersheet](https://docs.google.com/spreadsheets/d/1YVVuaGUm22HEvRsogcR6lTQOIT0A5quafmH5PjODsds/edit?usp=sharing)
-  by <@366206663533002774> and <@370761744789798912>, and [Layla Frames
-  Mastersheet](https://docs.google.com/spreadsheets/d/1SpwBPRc0kuUEFsLpgLu0fDzYkCoqN5yuXNCG1vp96_8/edit?usp=sharing)
-  by <@377496350155079690>
-
-
-  Pre-TC is volatile and, as always, perpetually subject to change until release
-  (and sometimes later!). Please note that these are theoretical suggestions.
-  Everything described in this FAQ is a good faith analysis based on the little
-  information about the character’s kit that we know. Team calcs, additionally,
-  are not established yet, and as with everything in TC, the content in this FAQ
-  should be taken with a grain of salt.
+---
+content: 
 embeds:
   - title: __**TALENTS**__
     description: '**Leveling priority: Skill > Burst >> Normal ATK**'
@@ -31,7 +14,7 @@ embeds:
 
 
       At face value her skill and burst are straight forward: her skill
-      generates a cryo shield with 250% effectiveness against cryo attacks. It
+      generates a Cryo shield with 250% effectiveness against cryo attacks. It
       has a 12s duration and 12s cooldown, allowing 100% uptime. Her Burst
       summons a turret that shoots homing projectiles (*Starlight Slugs*) every
       1.5s dealing DMG based on her HP. This is the majority of her personal
@@ -41,7 +24,7 @@ embeds:
       There is more to her Skill and Burst: The *Night Stars/Shooting Stars.*
       Whenever the shield is active, stack-like marks called the Night Stars are
       generated. They can be generated three ways:
-       
+
       - 1 *Night Star* is automatically generated every 1.5s
 
       - If the on-field character uses their elemental skill, 2 *Night Stars*

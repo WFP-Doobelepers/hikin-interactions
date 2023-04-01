@@ -37,11 +37,6 @@ options: #dropdown
     value: faq/cryo/layla/constellations
     description: "WFP resources for Layla FAQ."
     emoji: ${ EMOJIS.CRYO_BOX }
-
-  - label: Combos
-    value: faq/cryo/layla/combos
-    description: "WFP resources for Layla FAQ."
-    emoji: ${ EMOJIS.CRYO_BOX }
     
   - label: ER Requirements
     value: faq/cryo/layla/errequire

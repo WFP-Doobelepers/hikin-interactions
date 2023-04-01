@@ -1,14 +1,32 @@
 ---
 content:
 embeds:
-  - title: TALENTS
+  - title: __**TALENTS**__
+    description: 'Leveling priority: Burst > Skill > Normal Attack'
+    color: 3450963
+    image:
+      url: 
+
+  - title: Normal Attacks
     description: >-
-      **Leveling priority: Burst > Skill >> Normal Attack**
-
-
-      Analysis:
-
-
+      Normal Attacks are unimpressive, and her Aimed Shot is standard for 4-star
+      units. Diehard Collei loyalists, however, can use charged shots to trigger
+      Quicken, Spread, or Bloom.
+    color: 3450963
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_A_02.png
+  - title: Elemental Skill
+    description: >-
+      Collei’s Skill throws a boomerang that applies Dendro on hit. It can hit
+      on throw and when the boomerang returns to Collei. On return, it creates a
+      Sprout if Collei is properly ascended, dealing another instance of Dendro
+      damage. Her Skill then applies Dendro about three times at C0, but
+      improves with constellations.
+    color: 3450963
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_S_Collei_01.png
+  - title: Elemental Burst
+    description: >-
       Collei’s Burst is more than 70% of her total damage output, making her
       Burst the most important Talent to level. Her Skill should be leveled
       insofar as she deals Dendro damage and will often be holding a Dendro
@@ -20,30 +38,25 @@ embeds:
       soon as Collei takes the field. 19 hits take place during the Burst, but
       due to the ICD being every 2.5 seconds without a hit-based cooldown,
       Collei can only apply Dendro a maximum of four times with her Burst.
-
-
-      Collei’s Skill throws a boomerang that applies Dendro on hit. It can hit
-      on throw and when the boomerang returns to Collei. On return, it creates a
-      Sprout if Collei is properly ascended, dealing another instance of Dendro
-      damage. Her Skill then applies Dendro about three times at C0, but
-      improves with constellations.
-
-
-      Normal Attacks are unimpressive, and her Aimed Shot is standard for 4-star
-      units. Diehard Collei loyalists, however, can use charged shots to trigger
-      Quicken, Spread, or Bloom.
-
-
+    color: 3450963
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_E_Collei_01.png
+  - title: Ascension Passive
+    description: >-
       As previously mentioned, the first ascension passive talent applies a
       negligible instance of Dendro damage via Collei’s ‘Sprout.’ The latter
       ascension passive talent extends the duration of her Burst – this is a
       must have, so ascend Collei to at least lvl 60/70 ASAP if you intend to
       use her.
-
-
+    color: 3450963
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1091233308907679764/09h0y4vzD9hkXAWnDMz7AAAAAElFTkSuQmCC.png
+  - title: Overworld Utility Passive Talents
+    description: >-
       Her passive exploration talent, much like her girlfriend, Amber, reduces
       gliding stamina consumption by 20%.
-      
+    thumbnail: 
+      url: https://api.ambr.top/assets/UI/UI_Talent_Explosion_Glide.png
     color: 3450963
     footer:
       text: (section authored by Emiliabyss, edited by Raikh)

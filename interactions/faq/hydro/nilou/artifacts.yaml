@@ -1,9 +1,16 @@
 content: null
 embeds:
   - title: __**ARTIFACTS**__
-    description: >-
+    description: |-
       **Artifact Main Stats**
 
+      *Sands:* HP% > ER% 
+
+      *Goblet:* HP%
+
+      *Circlet:* HP%
+
+      *Substats:* ER (until requirements) > HP% > HP = EM
 
       Generally, Nilou will want to use either triple HP% main stat gear (when
       bursting every second rotation), or ER/HP/HP gear with enough ER% substats
@@ -14,29 +21,25 @@ embeds:
       build (as you don’t worry about crit) and gives her the highest possible
       team-wide boost to Bloom damage through her A4 passive.
 
-
       Crit DPS builds are possible and viable, and dare I say, ***fun***, but
       are not recommended, and will generally perform worse than HP% focused
       builds.
+    color: 7184107
+  - title: |-
+      __Artifact Sets__
 
-
-      **Artifact Sets**
-
-
-      Nilou’s Artifact set options are fairly flexible. In general the best
-      option is  2-PC Tenacity of the Milleleth for the 20 HP%, with any of the
-      following 2-sets: 2-PC Gilded Dreams, 2-PC Heart of Depth, 2-PC Noblesse,
-      with 2-PC Heart of Depth/2-PC Gilded Dreams also performing well as a
-      combo. Just use whichever combo of these 2 piece sets gives better
-      substats, prioritizing HP%, ER% (if bursting every rotation) and EM.
+      2PC Tenacity of the Millelith and 2PC EM/HydroDMG%/BurstDMG%
+    description: Nilou’s Artifact set options are fairly flexible. In general the best option is  2-PC Tenacity of the Milleleth for the 20 HP%, with any of the following 2-sets 2-PC Gilded Dreams, 2-PC Heart of Depth, 2-PC Noblesse, with 2-PC Heart of Depth/2-PC Gilded Dreams also performing well as a combo. Just use whichever combo of these 2 piece sets gives better substats, prioritizing HP%, ER% (if bursting every rotation) and EM.
 
 
       Note that for Sword Stance, where Nilou is on field, 2-PC Tenacity of the
       Milleleth/2-PC Heart of Depth will start to outperform other 2-PC
       combinations.
-
-
-      You may also consider using 4-PC Deepwood Memories on Nilou in the event
+    color: 7184107
+    thumbnail:
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1091241654444363836/AAAAAElFTkSuQmCC.png
+  - title: 4PC Deepwood Memories
+    description: You may also consider using 4-PC Deepwood Memories on Nilou in the event
       that your other teammates have more optimal sets that they would rather
       run, as the Dendro RES Shred is very important for Nilou’s teams due to
       the general focus on Bloom damage. However, this may be unlikely as most
@@ -44,6 +47,8 @@ embeds:
       be able to maintain the Shred uptime more easily from off field, as
       Nilou’s Whirl stance Tranquility Aura will not refresh the Shred.
     color: 7184107
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n400208.webp
     footer:
       text: (section authored by XenoVX)
     image:

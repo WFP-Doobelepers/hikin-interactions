@@ -25,8 +25,9 @@ embeds:
         FAQ is a good faith analysis based on the limited information we have. Team
         calcs are not established yet, and as with everything in TC, the content in
         this FAQ should be taken with a grain of salt.*"
-
-  - title: CHARACTER OVERVIEW
+    image:
+      url: https://scontent.fsgn8-4.fna.fbcdn.net/v/t39.30808-6/300635930_1255999818583539_3461669117209811757_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=730e14&_nc_ohc=9gaBKtxYqp4AX8lN_5l&_nc_ht=scontent.fsgn8-4.fna&oh=00_AfCyNutyphjATX24W-Sg2y1sE5iwmhNIdMG1ztv2pFgiHw&oe=642C1F15
+  - title: __OVERVIEW__
     description: >-
       Collei is a Dendro Support unit who offers fertile ground for chain
       reactions from other party members. Between the three Dendro characters
@@ -62,3 +63,5 @@ embeds:
     color: 3450963
     footer:
       text: (section authored by Emiliabyss; edited by Raikh)
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/collei_067_icon.webp

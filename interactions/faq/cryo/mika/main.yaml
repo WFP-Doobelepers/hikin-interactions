@@ -28,7 +28,7 @@ options:
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
-- label: ER
+- label: ER Requirements
   value: faq/cryo/mika/er
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
