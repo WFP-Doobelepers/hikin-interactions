@@ -25,6 +25,10 @@ options:
   value: faq/pyro/dehya/constellations
   description: WFP resources for Dehya FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
+- label: Artifacts
+  value: faq/pyro/dehya/artifacts
+  description: WFP resources for Dehya FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
 - label: Weapons
   value: faq/pyro/dehya/weapons
   description: WFP resources for Dehya FAQ.
