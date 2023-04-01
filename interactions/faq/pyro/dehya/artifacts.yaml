@@ -1,0 +1,72 @@
+embeds:
+- title: __ARTIFACTS__
+  description: "**ON-FIELD DEHYA**\n\n<:IconSands:998339858143645791> *Sands of Eon:*
+    \n**ER%** until at least 200%; if this is met without an ER% Sands, then **ATK%**
+    Sands is fine. **HP%** Sands can also be considered if Dehya is at least Constellation
+    1.\n\n<:IconGoblet:998339953434034277> *Goblet of Eonothem:* \n**Pyro DMG Bonus**\n\n<:IconCirclet:998339924224921701>
+    *Circlet of Logos:* \n**CRIT Rate / CRIT Damage**\n\n*Substats:* ER% (until 200%)
+    > CR% = CDMG% > ATK% > HP%"
+  color: 12784917
+- title: "*4PC Emblem of Severed Fate*"
+  description: Her BiS artifact set. The 4pc effect is great for Dehya’s Burst-heavy
+    playstyle, as more than 70% of her on-field damage comes from her Burst. She will
+    have to compete with all other characters who also want this coveted artifact
+    set, but it is by far her best unconditional set.
+  color: 12784917
+  thumbnail:
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1079336823555379302/A95of7k1MT6zAAAAAElFTkSuQmCC.png
+- title: "*4PC Lavawalker*"
+  description: A strong but slightly polarizing set, due to its reliance on constant
+    Pyro application and the inert Element on some enemies like Slimes negatively
+    affecting uptime. However, in a team with Bennett, Xiangling, and Kazuha, there
+    is plenty of Pyro application to go around, meaning this concern is not as pertinent.
+    4pc Emblem, however, is still about 5% stronger.
+  color: 12784917
+  thumbnail:
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1079336823760883722/AKIHDMe2HvWAAAAAElFTkSuQmCC.png
+- title: "*2PC/2PC Combination Ranking*"
+  description: "1. 2pc Crimson Witch + 2pc Noblesse Oblige‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎‎ ‎
+    ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎‎ \n2. 2pc Crimson Witch + 2pc 18% ATK\n3.
+    2pc 18% ATK + 2pc Noblesse Oblige\n4. 2pc 18% ATK + 2pc 18% ATK"
+  color: 12784917
+  thumbnail:
+    url: https://cdn.discordapp.com/attachments/813606884820516884/1079315331098607646/CK9VPTsffTAAAAABJRU5ErkJggg.png
+- title: "**BURGEON DEHYA**"
+  description: "<:IconSands:998339858143645791> *Sands of Eon:* **Elemental Mastery‎‎**‎
+    ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎
+    ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎
+    ‎ ‎‎ ‎ ‎‎ \n<:IconGoblet:998339953434034277> *Goblet of Eonothem:* **Elemental
+    Mastery**\n<:IconCirclet:998339924224921701> *Circlet of Logos:* **Elemental Mastery**\n\n*Substats:*
+    EM > CR% = CDMG% > HP% \n\nNO ENERGY RECHARGE; NO BURST"
+  color: 12784917
+- title: "*4PC Gilded Dreams AND/OR 4PC Flower of Paradise Lost*"
+  description: "Both of these sets are tied for Dehya’s Best-in-Slot artifact set
+    as an off-field Burgeon DPS. The difference between these sets in both of their
+    ideal conditions is less than 1%. Because of this, it’s best to just go with the
+    best substats. \n\nFor 4pc Gilded Dreams, Dehya should be the only Pyro member
+    of the team, though luckily, you want her as the only Pyro character *anyways,*
+    so this is not a drawback.\n\n4pc Paradise Lost is agnostic regarding team composition,
+    but because you want Dehya to be the only Pyro character on the team anyways in
+    Burgeon teams, the agnosticism is not a benefit. \n\nIn sum, both deal about the
+    same damage. Just pick whatever’s easiest to farm. This will likely be 4pc Gilded
+    Dreams, as 4pc Deepwood Memories is an important artifact set to farm for other
+    characters."
+  color: 12784917
+  thumbnail:
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1079323834827673670/cH5Ue0Ni1xoAAAAASUVORK5CYII.png
+- title: "*2PC 80EM + 2PC 80EM*"
+  description: Just slap some stuff together and you’ll be fine. As much EM as possible,
+    while building substats for CRIT as well.
+  color: 12784917
+  thumbnail:
+    url: https://media.discordapp.net/attachments/964616918336159814/1079337975051206717/AfijXYrgpmpFAAAAAElFTkSuQmCC.png
+- title: "*4PC Tenacity of the Millelith*"
+  description: Dehya’s synchronized Skill attacks trigger just often enough to keep
+    good uptime on Tenacity’s teamwide ATK% boost. If you care more about using Dehya
+    as a support unit, Tenacity is a fine choice.
+  color: 12784917
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
+  thumbnail:
+    url: https://cdn.discordapp.com/attachments/964616918336159814/1079330523501039716/AlsBFKwEbMBft0NoXZktg4iVgA2bix8AA1sCF60EbMBctENrX5gtgYmXgA2YiR8DwxsCVy0ErABc9EOrX1htgQmXgI2YCZDOwzsCVw0UrABsxFO7T2hdkSmHgJ2ICZDGwz8CWwEUrgf8fLOjQquKGQ8AAAAASUVORK5CYII.png

@@ -1,72 +1,117 @@
+content: null
 embeds:
-- title: __ARTIFACTS__
-  description: "**ON-FIELD DEHYA**\n\n<:IconSands:998339858143645791> *Sands of Eon:*
-    \n**ER%** until at least 200%; if this is met without an ER% Sands, then **ATK%**
-    Sands is fine. **HP%** Sands can also be considered if Dehya is at least Constellation
-    1.\n\n<:IconGoblet:998339953434034277> *Goblet of Eonothem:* \n**Pyro DMG Bonus**\n\n<:IconCirclet:998339924224921701>
-    *Circlet of Logos:* \n**CRIT Rate / CRIT Damage**\n\n*Substats:* ER% (until 200%)
-    > CR% = CDMG% > ATK% > HP%"
-  color: 12784917
-- title: "*4PC Emblem of Severed Fate*"
-  description: Her BiS artifact set. The 4pc effect is great for Dehya’s Burst-heavy
-    playstyle, as more than 70% of her on-field damage comes from her Burst. She will
-    have to compete with all other characters who also want this coveted artifact
-    set, but it is by far her best unconditional set.
-  color: 12784917
-  thumbnail:
-    url: https://cdn.discordapp.com/attachments/964616918336159814/1079336823555379302/A95of7k1MT6zAAAAAElFTkSuQmCC.png
-- title: "*4PC Lavawalker*"
-  description: A strong but slightly polarizing set, due to its reliance on constant
-    Pyro application and the inert Element on some enemies like Slimes negatively
-    affecting uptime. However, in a team with Bennett, Xiangling, and Kazuha, there
-    is plenty of Pyro application to go around, meaning this concern is not as pertinent.
-    4pc Emblem, however, is still about 5% stronger.
-  color: 12784917
-  thumbnail:
-    url: https://cdn.discordapp.com/attachments/964616918336159814/1079336823760883722/AKIHDMe2HvWAAAAAElFTkSuQmCC.png
-- title: "*2PC/2PC Combination Ranking*"
-  description: "1. 2pc Crimson Witch + 2pc Noblesse Oblige‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎‎ ‎
-    ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎‎ \n2. 2pc Crimson Witch + 2pc 18% ATK\n3.
-    2pc 18% ATK + 2pc Noblesse Oblige\n4. 2pc 18% ATK + 2pc 18% ATK"
-  color: 12784917
-  thumbnail:
-    url: https://cdn.discordapp.com/attachments/813606884820516884/1079315331098607646/CK9VPTsffTAAAAABJRU5ErkJggg.png
-- title: "**BURGEON DEHYA**"
-  description: "<:IconSands:998339858143645791> *Sands of Eon:* **Elemental Mastery‎‎**‎
-    ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎
-    ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎ ‎ ‎‎
-    ‎ ‎‎ ‎ ‎‎ \n<:IconGoblet:998339953434034277> *Goblet of Eonothem:* **Elemental
-    Mastery**\n<:IconCirclet:998339924224921701> *Circlet of Logos:* **Elemental Mastery**\n\n*Substats:*
-    EM > CR% = CDMG% > HP% \n\nNO ENERGY RECHARGE; NO BURST"
-  color: 12784917
-- title: "*4PC Gilded Dreams AND/OR 4PC Flower of Paradise Lost*"
-  description: "Both of these sets are tied for Dehya’s Best-in-Slot artifact set
-    as an off-field Burgeon DPS. The difference between these sets in both of their
-    ideal conditions is less than 1%. Because of this, it’s best to just go with the
-    best substats. \n\nFor 4pc Gilded Dreams, Dehya should be the only Pyro member
-    of the team, though luckily, you want her as the only Pyro character *anyways,*
-    so this is not a drawback.\n\n4pc Paradise Lost is agnostic regarding team composition,
-    but because you want Dehya to be the only Pyro character on the team anyways in
-    Burgeon teams, the agnosticism is not a benefit. \n\nIn sum, both deal about the
-    same damage. Just pick whatever’s easiest to farm. This will likely be 4pc Gilded
-    Dreams, as 4pc Deepwood Memories is an important artifact set to farm for other
-    characters."
-  color: 12784917
-  thumbnail:
-    url: https://cdn.discordapp.com/attachments/964616918336159814/1079323834827673670/cH5Ue0Ni1xoAAAAASUVORK5CYII.png
-- title: "*2PC 80EM + 2PC 80EM*"
-  description: Just slap some stuff together and you’ll be fine. As much EM as possible,
-    while building substats for CRIT as well.
-  color: 12784917
-  thumbnail:
-    url: https://media.discordapp.net/attachments/964616918336159814/1079337975051206717/AfijXYrgpmpFAAAAAElFTkSuQmCC.png
-- title: "*4PC Tenacity of the Millelith*"
-  description: Dehya’s synchronized Skill attacks trigger just often enough to keep
-    good uptime on Tenacity’s teamwide ATK% boost. If you care more about using Dehya
-    as a support unit, Tenacity is a fine choice.
-  color: 12784917
-  footer:
-    text: 'Authored by: Emiliabyss'
-    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
-  thumbnail:
-    url: https://cdn.discordapp.com/attachments/964616918336159814/1079330523501039716/AlsBFKwEbMBft0NoXZktg4iVgA2bix8AA1sCF60EbMBctENrX5gtgYmXgA2YiR8DwxsCVy0ErABc9EOrX1htgQmXgI2YCZDOwzsCVw0UrABsxFO7T2hdkSmHgJ2ICZDGwz8CWwEUrgf8fLOjQquKGQ8AAAAASUVORK5CYII.png
+  - title: __WEAPONS__
+    description: >-
+      Dehya’s weapons depend on whether she is built for reaction or
+      non-reaction damage. Non-reaction damage (on-field) focuses on ER%, CRIT%,
+      and ATK%, while reaction damage (off-field) focuses instead on pure
+      Elemental Mastery.
+
+
+      Here I will list the main recommendations, from her signature weapon to
+      the most freely accessible weapon. However, for a more complete idea of
+      weapon rankings, please refer to the mastersheet included here, make a
+      copy, and play with the filters to examine the relationships with buffs in
+      more detail.
+    color: 12784917
+  - title: |-
+      **ON-FIELD DEHYA**
+
+      1. Beacon of the Reed Sea
+    description: >-
+      It gives CRIT Rate, ATK%, and (when not shielded) HP%. It’s basically a
+      stat stick for Dehya meant to appeal to all of her on-field attributes.
+      There are no other special effects to this weapon. Just use your Skill
+      twice for the maximum ATK% buff and play as normal.
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12511_awaken_icon.webp
+  - title: 2. Redhorn Stonethresher
+    description: CRIT DMG% stat stick. Passive is irrelevant.
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12510_awaken_icon.webp
+  - title: Other Options
+    description: >-
+      **3. Akuoumaru (R5; 270 Energy across team)** 
+
+      Makes Dehya’s Burst stronger. You’ll notice these weapons don’t really
+      have much to say other than “it gives a bunch of stats”
+
+
+      **4. Wolf’s Gravestone / The Unforged (or Akuoumaru R3)**
+
+      Both give lots of ATK%, and the passives are mostly equal. No other weapon
+      affects their placement regardless of whether the passive is active or
+      not.
+
+
+      ** 5. Blackcliff Slasher / Serpent Spine (any refinement) / Luxurious
+      Sea-Lord**
+
+      Dehya cannot maintain stacks even if shielded, since she takes damage
+      while off-field as well. Pick whichever weapon is easiest to build based
+      on your artifact substats. Serpent Spine still edges out above the other
+      two due to having non-zero uptime on the buff. 
+
+
+      **6. Favonius Greatsword**
+
+      Favonius Greatsword is by far the worst Claymore for Dehya’s personal
+      damage out of this ranking, except in a selective number of circumstances.
+      For example, with Ayaka, Rosaria, and Bennett, Dehya needs Favonius
+      Greatsword to function in order to help manage team ER requirements, and
+      this team can deal more damage and provide better Elemental coverage than
+      a Mono Pyro team. It is also useful if you struggle to find an ER Sands.
+      However, it is 5-7% below the next best free-to-play option, making it a
+      “bare-minimum” choice.
+    color: 12784917
+    image:
+      url: >-
+        https://discord.com/channels/791074691841523742/914675194939969587/1079386250433265805
+  - title: |-
+      **OFF-FIELD (BURGEON) DEHYA**
+
+      1. Makhaira Aquamarine (any refinement)
+    description: >-
+      It only barely falls behind the personal damage of the new event weapon,
+      Mailed Flower. However, its teamwide Flat ATK buff based on Dehya’s
+      Elemental Mastery is what makes this weapon stand as the top-choice. It’s
+      not worth breaking the bank, but if you have it, use it. 
+
+      R5 is of course better, but R3 and R1 do not fall far behind in personal
+      damage.
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12415_awaken_icon.webp
+  - title: 2. Mailed Flower (R5)
+    description: >-
+      Best for personal damage, but only by 1%. However, it ***is free*** and
+      getting R5 of a limited 4-star weapon is usually ***not free.***
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12418_awaken_icon.webp
+  - title: Other Options
+    description: >-
+      **3. Rainslasher (any refinement) **
+
+      This assumes any amount of uptime on Rainslasher’s passive. 
+
+
+      **4. Bloodtainted Greatsword**
+
+      The easiest possible weapon to obtain for Dehya.
+
+
+      **5. The Bell (any refinement)**
+
+      Not recommended, but it functions.  You’re better off with an Elemental
+      Mastery weapon.
+    color: 12784917
+    footer:
+      text: 'Authored by: Emiliabyss'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
+    thumbnail:
+      url: >-
+        https://cdn.discordapp.com/attachments/914675194939969587/1079425720574558259/xNO0nVUABCvwXBeC0FXfd6jEAAAAASUVORK5CYII.png
