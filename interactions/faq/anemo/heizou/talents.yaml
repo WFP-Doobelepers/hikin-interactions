@@ -7,12 +7,12 @@ embeds:
 
   - title: Analysis
       description: >-
-      This leveling priority specializes in him being a driver for a team
-      composition. With his Elemental Skill having the highest amount of damage
-      in his kit, it will be prioritized first. Leveling up his Normal Attacks
-      is optional due to the fact his main damage source from it is by
-      triggering Swirls, which scales off the Character Level and Elemental
-      Mastery.
+        This leveling priority specializes in him being a driver for a team
+        composition. With his Elemental Skill having the highest amount of damage
+        in his kit, it will be prioritized first. Leveling up his Normal Attacks
+        is optional due to the fact his main damage source from it is by
+        triggering Swirls, which scales off the Character Level and Elemental
+        Mastery.
     color: 9684093
 
   - title: Normal Attacks
