@@ -5,30 +5,35 @@ embeds:
   description: >-
     **Leveling Priority: E = NA > Q**
 
-
+- title: Analysis
+    description: >-
     This leveling priority specializes in him being a driver for a team
     composition. With his Elemental Skill having the highest amount of damage
     in his kit, it will be prioritized first. Leveling up his Normal Attacks
     is optional due to the fact his main damage source from it is by
     triggering Swirls, which scales off the Character Level and Elemental
     Mastery.
+  color: 9684093
 
-    **Normal  Attack: Fudou Style Martial Art**
-    
+- title: Normal Attacks
+  description: >-
     Heizou Normal and Charged Attacks is pretty special: being melee attacks. It has decent scaling and is used to deal damage while building up Declension stacks for his Skill. Note that his Charged Attacks does not have ICD, which mean it applies Anemo every time it hit.
+  color: 9684093
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_A_Catalyst_MD.png
 
-
-    **Elemental Skill: Heartstopper Strike**
-
-
+- title: Elemental Skill
+  description: >-
     His Elemental Skill is pretty straightforward. More stacks means more
     damage and getting those stacks will rely on what combo you use on him to
     utilize his A1 Passive, in which if he Swirls, he will get 1 Stack of
     Declension.
-    
-    **Elemental Burst: Goei Narukami Kariyama Rite**
-
-    
+  color: 9684093
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_S_Heizo_01.png  
+  
+- title: Elemental Burst
+  description: >-
     His Elemental Burst is as simple as a little grouping
     mechanism in his kit, with the knockback of Windmuster Iris supporting
     said CC. Windmuster Iris is an Elemental Absorption Type of damage which
@@ -36,3 +41,5 @@ embeds:
     A4 Passive is just the same as Sucrose A1 but instead of Swirls, he needs
     to cast his Elemental Skill to proc it.
   color: 9684093
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_E_Heizo_01.png

@@ -5,7 +5,8 @@ embeds:
     description: >-
       These weapon options are calculated with 3 of his potential builds and are
       the most recommended to run based on the team composition that he is in.
-
+    color: 9684093
+    
   - title: Memory of Dust
     description: >- 
       Surprisingly, the best 5 star option for him.
