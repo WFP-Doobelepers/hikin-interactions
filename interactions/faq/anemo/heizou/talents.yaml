@@ -2,8 +2,9 @@
 content:
 embeds:
   - title: __**TALENTS**__
-    description: 'Leveling Priority: E = NA > Q'
+    description: 'Leveling priority: Skill = Normal Attack > Burst'
     color: 9684093
+
   - title: Analysis
       description: >-
       This leveling priority specializes in him being a driver for a team
