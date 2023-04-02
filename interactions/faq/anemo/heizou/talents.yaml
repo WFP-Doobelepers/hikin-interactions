@@ -2,8 +2,8 @@
 content:
 embeds:
   - title: __**TALENTS**__
-      description: 'Leveling Priority: E = NA > Q'
-      color: 9684093
+    description: 'Leveling Priority: E = NA > Q'
+    color: 9684093
   - title: Analysis
       description: >-
       This leveling priority specializes in him being a driver for a team
