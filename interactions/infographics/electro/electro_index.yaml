@@ -1,8 +1,9 @@
 embeds:
   - color: 9338051
-    description: |-
-      <${EMOJIS.ELECTRO}> Select a character!
-
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/electro.png
+      
 options: 
   - label: Kuki Shinobu
     value: infographics/electro/kuki/main

@@ -1,7 +1,8 @@
 embeds:
   - color: 15919533
-    description: |-
-      <${EMOJIS.GEO}> Select a character!
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/geo.png
 
 options: 
 
