@@ -2,8 +2,11 @@
 content:
 embeds:
   - title: __**TALENTS**__
-    description: 'Leveling priority: Skill = Normal Attack > Burst'
+    description: >- 
+      Leveling priority: **Skill = Normal Attack > Burst**
     color: 9684093
+    image:
+      url: https://media.discordapp.net/attachments/1087300734372020315/1093600009301274734/heizouskill.png?width=668&height=176
 
   - title: Analysis
     description: >-
