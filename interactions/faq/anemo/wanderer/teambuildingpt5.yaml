@@ -1,0 +1,71 @@
+content:
+embeds:
+  - title: '*What about Wanderer teams without Faruzan?*'
+    description: >-
+      Not playing Wanderer with Faruzan will of course cause his DPS to drop. As
+      mentioned, Anemo buffs/debuffs are rare, so there aren’t any suitable
+      replacements for Faruzan. The nature of Wanderer’s teams will be warped,
+      focusing on his *team’s* total output rather than just his personal
+      damage. For example:
+
+
+      1.) Playing Wanderer as a Driver. This can happen for both ADC and EM
+      Builds. ADC Builds are favorable for Single Target scenarios or if a
+      Buffer like Bennett is still present on the Team. Whereas an EM build
+      primarily pays off in AoE scenarios with increased Reaction counts as he
+      cant trigger enough Reactions against single targets for EM to be
+      worthwhile. A Driver Playstyle also allows him to operate in a more quick
+      swap-y fashion by cutting his Skill short and use it more frequently in
+      shorter bursts across a rotation to allow teammates to cast their
+      abilities off cooldown or even use his grounded form to fill gaps. This
+      isn’t his optimal use case but can be a serviceable transitional or budget
+      option for those who can’t field a Team centered around him or simply
+      don't want to do so.
+
+
+      2.) Pairing him with another strong team core (e.g Wanderer National)
+
+
+      Alternatively, if you still want to build around Wanderer’s personal
+      damage, you can form a three member core with Wanderer/Bennett/Yun Jin and
+      add in an off-field DPS or utility support in the fourth slot.
+    color: 7321031
+  - title: '**EM Driver Wanderer**'
+    description: >-
+      A common trend among Anemo units is their synergy with EM and their
+      ability to deal considerable amounts of damage with it. While Wanderer is
+      capable of following in his predecessors’ footsteps, it is not optimal.
+      His kit points to him being a selfish ATK-based DPS who deals most of the
+      team’s damage without relying on reactions, the exact opposite of an EM
+      driver.  He does get the benefit of being an Anemo catalyst and being able
+      to hold VV, but this is not exclusive to him. Sucrose and Heizou fulfill
+      both conditions and offer additional utility such as grouping and EM
+      share. Nonetheless, he can still perform the role of an EM driver just
+      fine.
+    color: 7321031
+  - title: '**Wanderer National**'
+    description: >-
+      **Wanderer/Bennett/Xiangling/Xingqiu**
+
+
+      Dubbed as “National” by the community,  Bennett/Xiangling/Xingqiu is a
+      powerful three man core with high internal synergy. They deal substantial
+      DPS by themselves, so practically any fourth member can be slotted in.
+      Wanderer can hold VV to debuff enemies while also taking advantage of
+      Bennett’s ATK buff. Compared to the Sucrose variation, his personal damage
+      will be higher, but he has significantly less utilities such as EM share
+      and grouping. Wanderers regular field time demands also make funneling
+      Xiangling more troublesome. Usable, but nothing special even among
+      National variants.
+    color: 7321031
+    footer:
+      text: (sectioned authored by redd)
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/957846543011024929/1046388347926478879/wanda_national.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/wanderer/teambuildingpt4
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

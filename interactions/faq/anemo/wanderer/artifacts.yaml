@@ -3,13 +3,13 @@ content:
 embeds:
   - title: __**ARTIFACTS**__
     description: |-
-      *Sands of Eon:* ATK%
+      **Sands of Eon:** ATK%
 
-      *Goblet of Eonothem:* Anemo DMG Bonus
+      **Goblet of Eonothem:** Anemo DMG Bonus
 
-      *Circlet of Logos:* Crit Rate/Crit Damage
+      **Circlet of Logos:** Crit Rate/Crit Damage
 
-      *Substats:* CR%=CDMG% > ATK% > ATK
+      **Substats:** CR% = CDMG% > ATK% > ATK
     color: 7321031
   - title: __*4PC Desert Pavilion Chronicle*__
     description: >-

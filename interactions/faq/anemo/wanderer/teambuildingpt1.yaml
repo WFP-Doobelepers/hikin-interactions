@@ -13,14 +13,18 @@ embeds:
       quite flexible with his team compositions. His teammates will either be a
       buffer, an off-field DPS, or a defensive option.
     color: 7321031
-  - title: '**Buffers**'
+  - title: >- 
+      **Buffers**
+    color: 7321031
     description: >-
       More often than not, Wanderer will be dealing the majority of his team’s
       damage. It is never a bad idea to buff his personal damage, especially if
       your Wanderer is highly invested. 
 
-
-      __**Faruzan**__: Faruzan is a new 4 star Anemo unit launching with
+  - title: >-
+      __**Faruzan**__
+    description: >-
+      Faruzan is a new 4 star Anemo unit launching with
       Wanderer in 3.3, commonly dubbed as Wanderer’s dedicated support. Her kit
       revolves around buffing Anemo damage: she provides Anemo DMG% bonus,
       shreds Anemo resistance, CRIT DMG% at C6, and can group enemies. Anemo
@@ -29,16 +33,26 @@ embeds:
       teams where his personal damage is the focal point. Additionally, if
       played with other off-field damage dealers, she can hold the 4 Viridescent
       Venerer (VV) set to debuff enemy and boost damage.  
+    color: 7321031
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Faruzan.png
 
-
-      __**Bennett**__: Gives a massive ATK buff second to none, on top of 20%
+  - title: >-
+      __**Bennett**__
+    description: >-
+      Gives a massive ATK buff second to none, on top of 20%
       ATK from Noblesse Oblige, 30% through Wanderer’s A1, and another 25% if
       played with Pyro resonance. Also doubles as a defensive option by healing
       the team. Unquestionably a powerful support for not only Wanderer, but
       possibly his teammates if they benefit from his ATK buff.  
+    color: 7321031
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Bennett.png
 
-
-      __**Yun Jin**__: As Wanderer’s damage mostly comes from his Normal
+  - title: >-
+      __**Yun Jin**__
+    description: >-
+      As Wanderer’s damage mostly comes from his Normal
       Attacks, Yun Jin is naturally one of the first picks that come to mind.
       Her burst grants a flat DMG buff to all Normal Attacks for up to 30
       stacks. At C2 and C6 respectively, she additionally provides 15% DMG to
@@ -46,13 +60,21 @@ embeds:
       lends itself towards ATK speed, meaning Yun Jin’s stacks will be consumed
       faster–in other words, Wanderer gets even more mileage off Yun Jin.
       Unfortunately, she is not as strong in AoE situations. 
+    color: 7321031
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Yun_Jin.png
 
+  - title: >-
+      __**Mona**__
+    description: >-
 
-      __**Mona**__: With Thrilling Tales of Dragon Slayers and her Omen debuff,
+      With Thrilling Tales of Dragon Slayers and her Omen debuff,
       Mona grants a 48% ATK, around 50% DMG bonus, and Hydro absorption for
       Wanderer’s A1. Unfortunately, her Omen debuff has low uptime, so she will
       fall behind other buffers.
     color: 7321031
+    thumbnail:
+      url: https://library.keqingmains.com/img/characters/icon/Mona.png
 
 buttons:
 - customId: liveInteraction#faq/anemo/wanderer/teambuildingpt2
