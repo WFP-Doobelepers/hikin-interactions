@@ -2,7 +2,6 @@ embeds:
   - color: 12784917
     author:
       name: Select a character!
-      url: https://library.keqingmains.com/img/elements/pyro.png
       icon_url: https://library.keqingmains.com/img/elements/pyro.png
 
 options: 

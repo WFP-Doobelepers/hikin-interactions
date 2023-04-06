@@ -1,8 +1,8 @@
 embeds:
   - color: 3634295
-    description: |-
-      <${EMOJIS.ANEMO}> Select a character!
-
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/anemo.png
 options: 
 
   - label: Faruzan
