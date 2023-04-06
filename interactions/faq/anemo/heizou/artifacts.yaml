@@ -63,41 +63,13 @@ embeds:
       url: https://library.keqingmains.com/img/artifacts/icon/Viridescent_Venerer.png
     color: 9684093
 
-  - title: 2PC Viridescent Venerer 2PC ATK%
+  - title: 2PC ATK%/AnemoDMG%/EM
     description: >- 
-      Good substitute for 4PC VV.
-      Provides 18% ATK and 15% Anemo DMG Bonus. If no 4PC VV of said main stat
-      choices are available, this is a good option.
+      Any 2PC options with good substat would be a decent alternative for 4PC Viridescent Venerer.
     thumbnail:
-     url: https://media.discordapp.net/attachments/1087300734372020315/1090662738679828500/Portraits_Viridescent_VenererGladiators_Finale.png
+      url: https://cdn.discordapp.com/attachments/1087300734372020315/1092088065020940399/aiyOQ3kEx1wM6AcScyAa3wv8PwRZgqirBxIAAAAASUVORK5CYII.png
     color: 9684093
 
-  - title: 2PC ATK% 2PC ATK% 
-    description: >-
-      Gives out 36% ATK. EDC prefers this as a secondary
-      option due to the lack of ATK% on that build.
-    thumbnail:
-      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090664510446108672/Portraits_Vermillion_HereafterGladiators_FinaleShimenawas_ReminiscenceEchoes_of_an_Offering.png
-    color: 9684093
-
-  - title: 2PC Wanderer’s Troupe 2PC Viridescent Venerer
-    description: >-
-      80 EM helps with his
-      Swirl capabilities and the added 15% Anemo DMG Bonus for his Elemental
-      Skill but still gets outperformed by the other options due to the lack of
-      ATK%
-    thumbnail:
-      url: https://cdn.discordapp.com/attachments/1087300734372020315/1090665072264749157/Portraits_Wanderers_TroupeViridescent_Venerer.png
-    color: 9684093
-
-  - title: 2PC Wanderer’s Troupe 2PC ATK%
-    description: >-
-      80 EM for his Swirls and 18% ATK for
-      everything else. Decent option but still gets outclassed by other easily
-      farmed options
-    thumbnail:
-      url: https://media.discordapp.net/attachments/1087300734372020315/1090665402905927760/Portraits_Wanderers_TroupeGladiators_Finale.png
-    color: 9684093
 
   - title: 4PC Thundering Fury
     description: >-
