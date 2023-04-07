@@ -13,4 +13,4 @@ options:
   - label: Kuki
     value: faq/electro/kuki/main
     description: WFP resources on Kuki!
-    emoji: <${ EMOJIS.CYNO }>
+    emoji: <${ EMOJIS.KUKI }>
