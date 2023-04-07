@@ -58,6 +58,7 @@ options:
   description: WFP resources for Mika FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
 
+button:
 - label: KQM Guide
   url: https://keqingmains.com/q/mika-quickguide/
   emoji: :logont:945530991240421386
