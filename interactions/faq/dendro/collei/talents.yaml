@@ -5,7 +5,7 @@ embeds:
     description: 'Leveling priority: Burst > Skill > Normal Attack'
     color: 3450963
     image:
-      url: 
+      url: https://media.discordapp.net/attachments/1087300734372020315/1093782634645159946/colleiskill.png?width=668&height=176
 
   - title: Normal Attacks
     description: >-
