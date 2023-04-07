@@ -1,0 +1,5 @@
+interaction: pretc/main
+description: "Opens PRETC TEST"
+emoji: <${EMOJIS.ALHAITHAM}>
+
+name: pretc

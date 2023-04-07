@@ -1,0 +1,4 @@
+interaction: pretc/main
+description: "Opens Pretc Test"
+match: ${ TRIGGER_PREFIX }pretctest(?:\s|$)
+ignoreCase: true
