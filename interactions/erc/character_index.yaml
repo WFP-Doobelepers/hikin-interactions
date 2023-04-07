@@ -13,7 +13,7 @@ buttons:
 
   - label: Beta Calculator
     url: https://docs.google.com/spreadsheets/d/1QdD8b8z5AHKNPxcTyYEJEf6MNa9aetd2LCqHqmWc36M/edit
-    emoji: :A_HuMegane:803489150438735923
+    emoji: <${EMOJIS.WFP_LOGO}>
     style: LINK
 
   - label: YouTube Guide
