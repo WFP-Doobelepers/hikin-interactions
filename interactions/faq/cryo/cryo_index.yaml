@@ -7,7 +7,7 @@ options:
   - label: Layla
     value: faq/cryo/layla/main
     description: WFP resources on Layla!
-    emoji: :Layla:953430875788443709
+    emoji: <${EMOJIS.LAYLA}>
 
   - label: Mika
     value: faq/mika/layla/main
