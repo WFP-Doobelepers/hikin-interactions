@@ -70,7 +70,7 @@ options: #dropdown
     emoji: ${ EMOJIS.HYDRO_BOX }
 
 buttons:
-  - label: WFP Website
+  - label: WFP FAQ
     url: https://wangshengfp.org/faq/yelan
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK

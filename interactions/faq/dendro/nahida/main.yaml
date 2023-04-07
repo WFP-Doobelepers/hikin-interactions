@@ -66,7 +66,7 @@ options: #dropdown
     emoji: ${ EMOJIS.DENDRO_BOX }
 
 buttons:
-  - label: WFP Website
+  - label: WFP FAQ
     url: https://wangshengfp.org/faq/nahida
     emoji: ${ EMOJIS.WFP_LOGO } 
     style: LINK

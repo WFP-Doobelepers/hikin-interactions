@@ -1,0 +1,17 @@
+embeds:
+  - color: 11798279
+    author:
+      name: Energy Recharge Calculator
+    description: >-
+      Live Energy Recharge Calculator by Zakharov.
+
+buttons:
+  - label: Energy Calculator
+    url: https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/edit#gid=788720150
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: Beta Calculator
+    url: https://docs.google.com/spreadsheets/d/1QdD8b8z5AHKNPxcTyYEJEf6MNa9aetd2LCqHqmWc36M/edit
+    emoji: :A_HuMegane:803489150438735923
+    style: LINK
