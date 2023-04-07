@@ -62,3 +62,8 @@ buttons:
   url: https://wangshengfp.org/faq/faruzan
   emoji: "${ EMOJIS.WFP_LOGO }"
   style: LINK
+
+- label: KQM Guide
+  url: https://keqingmains.com/faruzan/
+  emoji: :logont:945530991240421386
+  style: LINK

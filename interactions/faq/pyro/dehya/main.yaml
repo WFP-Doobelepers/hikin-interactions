@@ -41,8 +41,14 @@ options:
   value: faq/pyro/dehya/external
   description: WFP resources for Dehya FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
+
 buttons:
 - label: WFP Website
   url: https://wangshengfp.org/faq/dehya
   emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
+
+- label: KQM Guide
+  url: https://keqingmains.com/dehya/
+  emoji: :logont:945530991240421386
   style: LINK

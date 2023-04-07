@@ -72,3 +72,8 @@ buttons:
     url: https://wangshengfp.org/faq/alhaitham
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/alhaitham
+    emoji: :logont:945530991240421386
+    style: LINK

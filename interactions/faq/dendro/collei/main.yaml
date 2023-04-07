@@ -71,3 +71,8 @@ buttons:
     url: https://wangshengfp.org/faq/collei
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/collei/
+    emoji: :logont:945530991240421386
+    style: LINK

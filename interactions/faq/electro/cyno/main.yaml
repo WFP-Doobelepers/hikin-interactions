@@ -68,3 +68,10 @@ options: #dropdown
     value: faq/electro/cyno/external
     description: "WFP resources for Cyno FAQ."
     emoji: ${ EMOJIS.ELECTRO_BOX }
+
+buttons:
+
+  - label: KQM Guide
+    url: https://keqingmains.com/cyno/
+    emoji: :logont:945530991240421386
+    style: LINK

@@ -70,3 +70,8 @@ buttons:
     url: https://wangshengfp.org/faq/nahida
     emoji: ${ EMOJIS.WFP_LOGO } 
     style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/nahida/
+    emoji: :logont:945530991240421386
+    style: LINK

@@ -61,3 +61,10 @@ options: #dropdown
   value: faq/anemo/heizou/external
   description: "WFP resources for Heizou FAQ."
   emoji: ${ EMOJIS.ANEMO_BOX }
+
+buttons:
+
+- label: KQM Guide
+  url: https://keqingmains.com/heizou/
+  emoji: :logont:945530991240421386
+  style: LINK

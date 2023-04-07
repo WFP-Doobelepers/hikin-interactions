@@ -62,7 +62,7 @@ options: #dropdown
     emoji: ${ EMOJIS.HYDRO_BOX }
 
 buttons:
-  - label: WFP Website
-    url: https://wangshengfp.org/faq/nilou
-    emoji: ${ EMOJIS.WFP_LOGO }
+  - label: KQM Guide
+    url: https://keqingmains.com/nilou/
+    emoji: :logont:945530991240421386
     style: LINK

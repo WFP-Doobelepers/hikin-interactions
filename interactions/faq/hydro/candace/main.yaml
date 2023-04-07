@@ -69,3 +69,8 @@ buttons:
     url: https://wangshengfp.org/faq/candace
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/kuki/
+    emoji: :logont:945530991240421386
+    style: LINK
