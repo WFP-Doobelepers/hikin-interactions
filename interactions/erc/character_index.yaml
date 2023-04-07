@@ -19,3 +19,4 @@ buttons:
   - label: YouTube Guide
     url: https://www.youtube.com/watch?v=qkFm_bUEGSE&feature=youtu.be
     emoji: <${EMOJIS.YOUTUBE}>
+    style: LINK
