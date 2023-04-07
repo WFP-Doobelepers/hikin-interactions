@@ -32,9 +32,7 @@ embeds:
 
         ⦁ 1 *Night Star* is automatically generated every 1.5s
 
-
         ⦁ If the on-field character uses their elemental skill, 2 *Night Stars* are generated. This has a 0.3s cooldown.
-
 
         ⦁ When the *Starlight Slugs* from her burst hits, 1 Night Star will be generated. This has a 0.5s cooldown.
 
@@ -46,7 +44,7 @@ embeds:
 
 
       **Passive Talents**
-      
+
 
       Her passive talents are simple. Ascension 1 gives her stack-based extra
       shield strength based on the *Night Star* generation. And Ascension 4
