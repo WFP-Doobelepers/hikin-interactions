@@ -89,3 +89,9 @@ embeds:
       text: (section authored by Leifa)
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n14301.webp
+
+buttons:
+  - customId: liveInteraction#faq/dendro/nahida/weaponsopt
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

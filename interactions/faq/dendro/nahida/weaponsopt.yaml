@@ -83,3 +83,9 @@ embeds:
       text: (section authored by Leifa)
     thumbnail:
       url: https://genshin.honeyhunterworld.com/img/i_n14302.webp
+
+buttons:
+  - customId: liveInteraction#faq/dendro/nahida/weaponsrec
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"

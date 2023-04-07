@@ -50,13 +50,8 @@ options: #dropdown
     description: "WFP resources for Nahida FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
-  - label: Weapons (Recommended)
+  - label: Weapons
     value: faq/dendro/nahida/weaponsrec
-    description: "WFP resources for Nahida FAQ."
-    emoji: ${ EMOJIS.DENDRO_BOX }
-
-  - label: Weapons (Optional)
-    value: faq/dendro/nahida/weaponsopt
     description: "WFP resources for Nahida FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
