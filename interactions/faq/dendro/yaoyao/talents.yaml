@@ -9,9 +9,13 @@ embeds:
   image:
     url: https://cdn.discordapp.com/attachments/970427063842517033/1064185867423465492/Layer_2.png
 - title: __ANALYSIS__
-  description: "For HP scaling characters, it's usually recommended to level them
+  description: >- 
+  
+    For HP scaling characters, it's usually recommended to level them
     to 90. If not, Yaoyao should at least be fully ascended to take advantage of the
-    HP ascension stat. \n\nYaoyao’s Elemental Skill creates one instance of *Yuegui:
+    HP ascension stat. 
+    
+    Yaoyao’s Elemental Skill creates one instance of *Yuegui:
     Throwing Mode*, a turret-like summon akin to Fischl’s Oz. By holding the Skill
     button, players can also manually adjust the position of the summon on initial
     cast, similar to Amber’s Baron Bunny. *Yuegui: Throwing Mode* will continuously
@@ -19,28 +23,57 @@ embeds:
     enemy or a character, they will explode and deal damage to the enemy while healing
     the on-field character within the same AoE, albeit a relatively small one. If
     a Radish does not contact an enemy or a character, it will remain on the field
-    for 5 seconds. \n\n“Yuegui: Throwing Mode” also has a set of logic for picking
-    its target: \nIf the on-field character has below 70%: targets the on-field character\nIf
-    the on-field character has above 70% HP with enemies present: targets the enemy\nIf
-    the on-field character has above 70% HP without enemies present: targets the on-field
-    character\n\nYaoyao’s Elemental Burst grants her the *Adeptal Legacy* state while
-    **she is on-field**. This state’s effect consists of three parts:\nYaoyao will
-    throw out three instances of *Yuegui: Jumping Mode*, turrets with the exact same
-    targeting logic as *Yuegui: Throwing Mode*, in very quick succession. \nAll of
-    the *White Jade Radishes* fired during this state, from both *Yuegui: Throwing
+    for 5 seconds. 
+    
+    
+    “Yuegui: Throwing Mode” also has a set of logic for picking
+    its target: 
+    
+    
+    ⦁ If the on-field character has below 70%: targets the on-field character
+
+
+    ⦁ If the on-field character has above 70% HP with enemies present: targets the enemy
+    
+
+    ⦁ If the on-field character has above 70% HP without enemies present: targets the on-field
+    character. 
+    
+
+
+    Yaoyao’s Elemental Burst grants her the *Adeptal Legacy* state while
+    **she is on-field**. This state’s effect consists of three parts: 
+    
+
+    ⦁ Yaoyao will throw out three instances of *Yuegui: Jumping Mode*, turrets with the exact same
+    targeting logic as *Yuegui: Throwing Mode*, in very quick succession. 
+    
+
+    ⦁ All of the *White Jade Radishes* fired during this state, from both *Yuegui: Throwing
     Mode* and *Yuegui: Jumping Mode*, will be converted to *Adeptal Legacy White Jade
     Radishes*. They deal extra damage and healing, and they are considered as Elemental
     Burst DMG. The healing also benefits her whole team instead of only the on-field
-    character like her Skill. \nYaoyao gains 15% Movement SPD and 50% Dendro RES Bonus.
-    \nIf Yaoyao leaves the field, all Yuegui: Jumping Mode will immediately despawn.
-    \n\nYaoyao’s 1st Ascension Passive is a nice addition to her Burst mechanic, as
+    character like her Skill. 
+    
+
+    ⦁ Yaoyao gains 15% Movement SPD and 50% Dendro RES Bonus.
+
+
+    ⦁ If Yaoyao leaves the field, all Yuegui: Jumping Mode will immediately despawn.
+    
+
+
+    Yaoyao’s 1st Ascension Passive is a nice addition to her Burst mechanic, as
     she is encouraged to move around while in her *Adeptal Legacy* state, evading
     a large portion of both damage from enemies or Bloom self-damage, at the same
     time boosting her healing even further. Her 4th Ascension Passive is another addition
     to her healing. It’s worth noting that this Passive will be hard to trigger when
     the Yueguis are targeting the enemy instead of Yaoyao herself due to the small
-    Radish AoE.\n\nYaoyao’s Utility Passive is very handy for exploration, as it reduces
-    difficulty for catching Crystalflies or wildlife for teapot."
+    Radish AoE.
+    
+    
+    Yaoyao’s Utility Passive is very handy for exploration, as it reduces
+    difficulty for catching Crystalflies or wildlife for teapot.
   color: 10403358
   footer:
     text: 'Authored by: EduLis'
