@@ -21,17 +21,22 @@ embeds:
       DMG. 
 
 
+
+      **Elemental Skill and Burst**
+
+
       There is more to her Skill and Burst: The *Night Stars/Shooting Stars.*
       Whenever the shield is active, stack-like marks called the Night Stars are
       generated. They can be generated three ways:
 
-      - 1 *Night Star* is automatically generated every 1.5s
 
-      - If the on-field character uses their elemental skill, 2 *Night Stars*
-      are generated. This has a 0.3s cooldown.
+        ⦁ 1 *Night Star* is automatically generated every 1.5s
 
-      - When the *Starlight Slugs* from her burst hits, 1 Night Star will be
-      generated. This has a 0.5s cooldown.
+
+        ⦁ If the on-field character uses their elemental skill, 2 *Night Stars* are generated. This has a 0.3s cooldown.
+
+
+        ⦁ When the *Starlight Slugs* from her burst hits, 1 Night Star will be generated. This has a 0.5s cooldown.
 
 
       Through these methods, whenever four stars are accumulated, all of them
@@ -39,6 +44,9 @@ embeds:
       around 12 *Shooting Stars* every shield duration. This process will be
       interrupted if her shield breaks at any moment. 
 
+
+      **Passive Talents**
+      
 
       Her passive talents are simple. Ascension 1 gives her stack-based extra
       shield strength based on the *Night Star* generation. And Ascension 4

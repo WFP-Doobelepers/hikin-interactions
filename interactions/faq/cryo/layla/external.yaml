@@ -14,7 +14,8 @@ embeds:
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
     text: Credits to Edulis, Athena, Tabunne, and Emiliabyss for the Layla FAQ! || WFP and KQM Theorycrafting
-    thumbnail:
-      url: https://genshin.honeyhunterworld.com/img/c_746.webp
+    
+    icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
+
   image:
     url: https://i.imgur.com/QnpaSbR.jpg
