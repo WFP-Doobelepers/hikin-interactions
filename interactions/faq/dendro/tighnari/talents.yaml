@@ -3,8 +3,11 @@ embeds:
 - title: '***TALENTS***'
   description: >-
     **Leveling Priority: AA>Q>>E**
+  color: 3450963
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1093807836141715506/tighnariskill.png?width=794&height=176
 
-
+- description: >-
     While most of Tighnari’s damage comes from the EM scaling Spread reaction,
     the ATK scaling of his multipliers is still important for his overall
     damage. Prioritize leveling the AA for the Charge Attack and the Q,
