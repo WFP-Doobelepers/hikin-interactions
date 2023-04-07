@@ -1,4 +1,0 @@
-interaction: infographics/character_index
-description: "Opens WFP Character Infographics and Softgoals"
-match: ${ TRIGGER_PREFIX }infographic(?:\s|$)
-ignoreCase: true

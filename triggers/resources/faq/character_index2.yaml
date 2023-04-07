@@ -1,4 +1,0 @@
-interaction: faq/character_index
-description: "Opens WFP Character FAQs"
-match: ${ TRIGGER_PREFIX }faqs(?:\s|$)
-ignoreCase: true
