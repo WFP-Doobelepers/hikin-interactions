@@ -1,4 +1,4 @@
 interaction: pretc/main
 description: "Opens Pretc Test"
-match: ${ TRIGGER_PREFIX }pretc(?:\s|$)
+match: ${ TRIGGER_PREFIX }kavehfaq(?:\s|$)
 ignoreCase: true

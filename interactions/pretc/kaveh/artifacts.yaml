@@ -1,0 +1,84 @@
+---
+content:
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    *Sands of Eon:* ER% or EM
+    *Goblet of Eonothem:* EM
+    *Circlet of Logos:* EM
+
+    *ER or ATK/DMG/CRIT also work, although not necessarily recommended.*
+
+    Kaveh’s damage scales off ATK, whereas his reaction damage and healing depend on EM. 
+
+    For general purposes, **ER or EM/EM/EM** are the recommended mainstats. In Bloom teams, an EM build maximizes his healing while not being far off from other main stat combinations. Technically, ER or ATK/DMG/CRIT can be his best main stats in scenarios where he has little to no reaction ownership, but Kaveh’s personal damage outside of Bloom DMG is very minor. Optimizing his damage weakens his survivability in exchange for negligible gains to team DPS. Having better survivability on Kaveh is especially important if there’s no other healer and/or  he’s played on a Nilou team. Plus, the gap between the two combinations narrows the more Bloom ownership he gets. 
+
+
+    *Substats:* ER (until ER requirements are met) > CRIT Rate (if using Favonius Greatsword) > EM >= ATK% >= CRIT
+
+
+    **ER**: Most of Kaveh’s utilities are locked behind his Elemental Burst. Needless to say, having enough ER to Burst every rotation is first priority. Check the above section or use an ER calculator to determine how much ER you’ll need.
+
+
+    **EM**: At C1, Kaveh only needs about 100-200 EM to outheal Blooms, Bountiful Blooms, or Burgeons. This threshold can go up to 800 EM if you’re at C0 — for more details, check the mastersheet. Of course, you’ll still be taking damage from enemies, so you’ll want more EM if you don’t intend to run a healer. EM is also extra valuable on Kaveh since he’ll trigger a few Blooms himself. 
+
+
+    **ATK%/CRIT**: Kaveh tends to be ATK deficient to the point that ATK% rolls can be better than CRIT ones. CRIT can be better once you have enough ATK and if you’re using Favonius Greatsword — use optimizer if you’re unsure. 
+  color: 3439221
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1094235764793028799/selfvsheal.png?width=1104&height=580
+
+- title: |-
+    __Artifact Sets__
+
+    **4PC Ocean-hued Clam**  
+  description: >-
+    Even at C0, OHC competes for Kaveh’s BiS along with 4PC Deepwood Memories, and gets even better at C1. Because his DPS profile isn’t so great, the extra damage OHC brings is much appreciated, along with the additional healing. OHC works best in Bloom teams where Kaveh can easily trigger his A1 Passive, and to a lesser extent, Burgeon teams as well. Based on the wording, Kaveh must be damaged by Dendro Cores to heal himself, so shields will nullify his A1 effect. Hyperblooms have small AoE and don’t always hit the user, meaning Kaveh’s A1 cannot reliably be triggered in such teams. And of course, in pure Quicken comps, there are no Dendro Cores that can proc this Passive, rendering OHC useless.  
+  color: 3439221
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Ocean-Hued_Clam.png
+
+- title: >-
+    **4PC Deepwood Memories**
+  description: >-
+    A generalist support set — it is particularly good if Kaveh is the only Dendro character and no one else can hold it. Because his teams are centered around Dendro, the 30% Dendro RES Shred is invaluable, and the 2pc is also useful. With a 6s CD on his Elemental Skill, it is feasible for him to maintain full uptime on the 4PC effect. Players should be conscious about their rotations and cast Kaveh’s Skill every 6-8s, otherwise there will be gaps in the 4PC uptime.  Even if Kaveh isn’t holding this set, make sure another teammate is —  you absolutely want this set for all Dendro teams! 
+
+  color: 3439221
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
+
+- title: >-
+    **4PC Instructor:**
+  description: >-
+    Although Instructor is only a 4-star set, its party-wide 120 EM share is highly desired in Kaveh’s teams. Due to its low rarity, artifact stats are lower, but Kaveh’s damage is low to begin with. Sacrificing his DPS output in exchange for increasing his team’s damage is a worthwhile trade (Kaveh also benefits from the 2pc and 4PC effect). What’s problematic is that uptime on the 4PC effect may suffer, because Kaveh typically does not trigger many reactions in his teams. 
+  color: 3439221
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Instructor.png
+
+- title: >-
+    **2pc Mix/Match (18% ATK/20% ER/15% Dendro DMG/80 EM):** 
+  description: >-
+    Transitionary sets. The best combination depends on the substats and what team you’re playing, but 20% ER is almost always useful.
+  color: 3439221
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1094237793460441159/Portraits_Deepwood_MemoriesWanderers_TroupeEmblem_of_Severed_FateGladiators_Finale.png?width=352&height=352
+
+- title: >-
+    **4PC Flower of Paradise Lost (FoPL):**
+  description: >-
+    This set should only be considered if Kaveh is triggering a high to moderate amount of Blooms (e.g teams with high Hydro application and/or low Dendro application or if Kaveh is the only Dendro character). In such scenarios, FoPL is quite strong. 
+
+  color: 3439221
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Flower_of_Paradise_Lost.png
+
+- title: >-
+    **4PC Gilded Dreams:** 
+  description: >-
+    Like 4pc FoPL, this set isn’t particularly noteworthy unless Kaveh has a high to moderate ownership of Blooms. It’s slightly worse than 4pc FoPL, and could have uptime issues. On the contrary, it does provide better healing, and you’ll likely have a set if you were already farming DW.
+
+  color: 3439221
+  footer:
+    text: 'Authored by: redd'
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Gilded_Dreams.png

@@ -1,0 +1,79 @@
+content: null
+embeds:
+  - title: >-
+      The current scribe of the Sumeru Akademiya, endowed with extraordinary
+      intelligence and talent. A man of freedom, people usually can’t find him,
+      unless he wants to be found.
+    color: 3439221
+    fields:
+      - name: 'Kaveh Mastersheet by <@510286757879742474>, <@128341430757359616>:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1SMQhJm0uA8thrnE-2OPcXb98tzT6EcoNy7PYIyqL0Ms/edit?usp=sharing)
+      - name: Kaveh Frames Mastersheet by <@367160010335191054>
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
+    author:
+      name: Kaveh FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/kaveh_081_side_icon_70.webp?x78105
+    image:
+      url: https://genshin.honeyhunterworld.com/img/kaveh_081_gacha_splash.webp?x78105
+
+options: #dropdown
+    
+  - label: Overview
+    value: pretc/dendro/kaveh/overview
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Talents
+    value: pretc/dendro/kaveh/talents
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+  
+  - label: Constellations
+    value: pretc/dendro/kaveh/constellations
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Combos
+    value: pretc/dendro/kaveh/combos
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+    
+  - label: ER Requirements
+    value: pretc/dendro/kaveh/errequire
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Artifacts
+    value: pretc/dendro/kaveh/artifacts
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Weapons
+    value: pretc/dendro/kaveh/weapons
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Teambuilding
+    value: pretc/dendro/kaveh/teambuilding
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: External Links
+    value: pretc/dendro/kaveh/external
+    description: "WFP resources for Kaveh FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/pretc/kaveh
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/kaveh
+    emoji: :logont:945530991240421386
+    style: LINK

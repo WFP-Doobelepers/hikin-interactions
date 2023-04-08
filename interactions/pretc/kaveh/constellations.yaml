@@ -1,0 +1,124 @@
+---
+content:
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+
+    **C1 - Sublime Salutations**
+  description: |-
+   *Within 3s after using **Artistic Ingenuity**, Kaveh's Dendro RES and Incoming Healing Bonus will be increased by 50% and 25% respectively.*
+   
+   
+   On paper, this Constellation is a straightforward yet significant buff to Kaveh’s survivability. The main drawback of Bloom teams is self-inflicted damage, but Kaveh has the ability to shrug off this damage with his healing (as long as his HP isn’t low enough to straight-out die from the Cores first). 
+
+    However, this Constellation is a hidden gem, when building Ocean-Hued Clam (OHC). With C1, 4PC OHC becomes even better to put on Kaveh. More details are given in the artifact section. With OHC, this Constellation becomes one of Kaveh’s biggest personal damage boosts despite not capping out on each bubble.
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 3.82% (with OHC, which we will include from here on out)
+  - name: "*Rating:*"
+    value: 2.5/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_01.png
+
+- title: >- 
+    **C2 - Grace of Royal Roads**
+  description: |-
+    *Kaveh's Normal Attack SPD increases by 15% during **Painted Dome**.*
+
+    The 15% increase provides little for Kaveh. With hitlag, it is possible to sneak in only one extra Normal Attack, which is underwhelming to say the least. Without, you could get three extra Normal Attacks, but Kaveh’s power isn’t really in his Normal Attack damage anyways, making this buff next to non-existent.
+  
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 4.61%
+  - name: "*DPS Increase from C1:*"
+    value: 0.75%
+  - name: "*Rating:*"
+    value: 1/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_02.png
+
+- title: >-
+    **C3 - Profferings of Dur Untash**
+  description: |-
+    *Increases the Level of **Painted Dome** by 3.*
+
+    Kaveh’s Burst holds great priority given its boost to Bloom damage, but having higher Talent levels increases that boost marginally. You only get about an extra 2% per Talent level, so you get an extra 8% Bloom DMG Bonus in total going from Talent Level 9 to 12. The bonus is quite small in the grand scheme of things, but it won’t hurt you. It is not recommended to aim for this constellation in particular
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 5.72%%
+  - name: "*DPS Increase from C2:*"
+    value: 1.07%%
+  - name: "*Rating:*"
+    value: 2/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Kaveh_02.png
+
+- title: C4 - Elucidation
+  description: |-
+    *Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.*
+
+    If you’re running Bloom Kaveh, this is one of his best Constellations. Unfortunately, for any other build, you won’t be getting much benefit. It is important to note that this Constellation does not work with Burgeons or Hyperblooms, which limits his choice of teammates. However, it does make Kaveh an excellent support for Bloom teams that don’t utilize Nilou, as it brings a heavy amount of damage to the table with proper management. The Cores are still reliant upon the EM of the character who created them, and gain the 60% DMG Bonus as long as Kaveh triggers its eruption. 
+
+    In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 3.41% from C3. This constellation will gain more value the lower the EM your team has.
+
+    The fact that Kaveh must trigger the Cores to obtain the C4 bonus conflicts with Nilou teams. Bountiful Cores explode almost immediately after being created, which means it’s nearly impossible for Kaveh to detonate himself. Therefore, this constellation has little synergy with Nilou teams.
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 11.90%
+  - name: "*DPS Increase from C3:*"
+    value: 5.84%
+  - name: "*Rating:*"
+    value: 3/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_03.png
+
+- title: C5 - Sagacity
+  description: |-
+    *Increases the Level of **Artistic Ingenuity** by 3.*
+
+    Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh’s damage comes from his Normal Attacks and/or Blooms. This means that you won’t be getting much in terms of extra damage.
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 12.93%
+  - name: "*DPS Increase from C4:*"
+    value: 0.92%
+  - name: "*Rating:*"
+    value: 1/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Kaveh_01.png
+
+- title: >- 
+    **C6 -  Pairidaeza's Dreams**
+  description: >- 
+    *When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during **Painted Dome**, it will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as AoE Dendro DMG and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.*
+
+
+    C6 is Kaveh’s best constellation for non-Nilou Bloom teams, giving him 3-4 more detonations, C4 procs, *and* Dendro application. Because Kaveh forces multiple Blooms to rupture at once, you may get less value than you’re hoping for from his Skill usage if you have more than two Cores from a single owner. His Elemental Skill is on a 6 second cooldown, meaning that Pairidaeza’s Light can sneak in some extra forced Core explosions while waiting. Furthermore, Kaveh’s C4 buff works on C6 explosions.
+
+
+    On Bloom teams, C6 provides a modest boost to team damage when used in conjunction with C4, almost doubling the number of C4 procs. This further enhances Kaveh’s viability as a Bloom support. In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 16 of the team’s 40 Blooms, his team gains an increase of about 2.0% from C4. This isn’t as necessary when running Nilou teams, since Bountiful Cores already explode quicker than Kaveh can trigger them, making C6 less valuable. Furthermore, C6 can prematurely rupture your Hyperblooms and Burgeons, possibly resulting in lower team DPS.
+
+
+    The Pairidaeza’s Light damage itself is nothing to write home about in a standard EM-centric build. Even if you reached 2000 ATK, you’d only get about 1200 damage from it, which is pitiful next to even one extra Bloom.
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 1.22%
+  - name: "*DPS Increase from C5:*"
+    value: 14.31%
+  - name: "*Team Bloom DPS Increase from C0:*"
+    value: ~2.0%
+  - name: "*Team Bloom DPS Increase from C4:*"
+    value: ~5.5%
+  - name: "*Rating:*"
+    value: 3/5
+  footer:
+    text: 'Authored by: jd baby#6541 // <@128341430757359616>'
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_04.png
