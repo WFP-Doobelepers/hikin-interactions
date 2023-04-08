@@ -119,6 +119,6 @@ embeds:
   - name: "*Rating:*"
     value: 3/5
   footer:
-    text: 'Authored by: jd baby#6541 // <@128341430757359616>'
+    text: 'Authored by: jd'
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_04.png

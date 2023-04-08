@@ -5,7 +5,7 @@ embeds:
   color: 3439221
   fields:
   - name: 'Project Amber:'
-    value: "[Character Database](https://ambr.top/en/archive/avatar/10000078/alhaitham?mode=profile)"
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000081/kaveh?mode=profile)"
   - name: Honey Hunter World
     value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
   - name: Genshin Impact JP Twitter
@@ -13,7 +13,7 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text: Credits to redd, latiwings, jd baby, sigura and athena for the Althaitham FAQ! || WFP Theorycrafting
+    text: Credits to redd, latiwings, jd baby, sigura and athena for the Kaveh FAQ! || WFP Theorycrafting
   
     icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
   

@@ -1,0 +1,66 @@
+---
+content:
+embeds:
+- title: >-
+    __TALENTS__
+  description: >-
+    **Talent Priority (Bloom Teams):**
+    
+    
+    Elemental Burst > Normal Attack > Elemental Skill 
+  color: 3439221
+  image:
+     url: https://media.discordapp.net/attachments/1087300734372020315/1094270802020540476/Untitled92_20230115154451.png?width=952&height=185
+- description: >-
+    **Talent Priority (Non-Bloom Teams):**
+
+    
+    Normal Attack > Elemental Skill > Elemental Burst
+  color: 3439221
+  image:
+     url: https://media.discordapp.net/attachments/1087300734372020315/1094270802234462390/Untitled92_20230115154452.png?width=952&height=185
+
+- title: >- 
+    __**TALENT OVERVIEW**__
+
+
+    **Normal Attacks: Schematic Setup**
+  description: >-
+    Aside from the funny animations, Kaveh’s Normal and Charged Attacks aren’t particularly impressive. They do gain a Dendro Infusion after using his Burst, though.
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_A_04.png
+  color: 3439221
+
+- title: >-
+    **Elemental Skill: Artistic Ingenuity**
+  description: >-
+    __**CD : 6s**__
+
+
+    A Skill cast generates **two Dendro Particles** and **detonates all Dendro Cores** in its radius, triggering Bloom instantly. Note that Kaveh does not claim ownership of the Blooms – whoever generated the Dendro Core still retains ownership. 
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_S_Kaveh_01.png
+  color: 3439221
+
+- title: >-
+    **Elemental Burst: Painted Dome** 
+  description: >-
+    __**CD : 20s**__
+
+    __**Energy Cost : 80**__
+
+
+    The most important part of Kaveh’s kit. Upon cast, all Dendro Cores are ruptured immediately (similar to his Elemental Skill). Kaveh’s Burst grants him two important features: his Normal Attacks gain a **Dendro Infusion**, and the entire team gains a **Bloom Reaction DMG Bonus**. Additionally, he gains Interruption Resistance. Bear in mind that these effects are only active while Kaveh is **on-field**, and will be canceled if you swap out. Though his kit states that these effects have a **duration of 12s**, it’s possible to extend this via hitlag. The high Energy Cost and the fact that most of Kaveh’s utilities are locked behind his Burst does reduce his flexibility. 
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_E_Kaveh_01.png
+  color: 3439221
+
+  footer:
+    text: 'Authored by: redd'
+
+buttons:
+- customId: liveInteraction#pretc/dendro/kaveh/talents1
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
