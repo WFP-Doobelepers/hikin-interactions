@@ -33,7 +33,7 @@ options: #dropdown
     emoji: ${ EMOJIS.DENDRO_BOX }
   
   - label: Constellations
-    value: pretc/dendro/kaveh/constellations
+    value: pretc/dendro/kaveh/constellations1
     description: "WFP resources for Kaveh FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
