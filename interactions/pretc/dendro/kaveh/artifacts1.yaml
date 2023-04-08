@@ -29,3 +29,9 @@ embeds:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235764793028799/selfvsheal.png?width=1104&height=580
   footer:
     text: 'Authored by: redd'
+
+buttons:
+- customId: liveInteraction#pretc/dendro/kaveh/artifacts2
+  label: Artifact Sets
+  style: PRIMARY
+  emoji: "▶️"
