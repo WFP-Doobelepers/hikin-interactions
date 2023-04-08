@@ -17,7 +17,7 @@ There's several steps involved with making Hikin run your own commands. This gui
     ```
     4. Open the folder where the repository is cloned in VS Code.
     
-      VS Code will automatically determine that this is a cloned repository.
+     VS Code will automatically determine that this is a cloned repository.
 
 ## Creating a new Command:
 
