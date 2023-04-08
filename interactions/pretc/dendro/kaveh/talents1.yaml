@@ -60,7 +60,7 @@ embeds:
     text: 'Authored by: redd'
 
 buttons:
-- customId: liveInteraction#pretc/dendro/kaveh/talents1
+- customId: liveInteraction#pretc/dendro/kaveh/talents2
   label: Next
   style: PRIMARY
   emoji: "▶️"

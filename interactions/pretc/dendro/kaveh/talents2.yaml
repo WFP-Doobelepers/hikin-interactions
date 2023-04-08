@@ -42,7 +42,7 @@ embeds:
     text: 'Authored by: redd'
 
 buttons:
-- customId: liveInteraction#pretc/dendro/kaveh/talents2
+- customId: liveInteraction#pretc/dendro/kaveh/talents1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
