@@ -47,7 +47,6 @@ buttons:
   style: PRIMARY
   emoji: "▶️"
 
-buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/constellations1
   label: Previous
   style: PRIMARY
