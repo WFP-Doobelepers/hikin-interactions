@@ -1,0 +1,4 @@
+interaction: calctemplates/character_index
+description: List of calculation templates.
+match: ${ TRIGGER_PREFIX }templates(?:\s|$)
+ignoreCase: true

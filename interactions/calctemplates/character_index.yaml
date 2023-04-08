@@ -1,0 +1,13 @@
+embeds:
+  - title: "Calculator Templates"
+    description: A list of all the available DPS calculation templates created by our staff members. We recommend checking the documentation provided alongside it.
+    color: 5096805
+    author: 
+      name: Calculator Templates
+      icon_url: https://images-ext-2.discordapp.net/external/bnb1pAgbqwU2p7cu5r-jHdFk35OVtoFhMhFb4QvAnXQ/%3Fsize%3D160%26quality%3Dlossless/https/cdn.discordapp.com/emojis/1084805098561085512.webp
+
+dropdown:
+  - label: Vlad's Calculator
+    value: calctemplates/vladtemplate
+    description: Microsoft Excel Template
+    emoji: "${ EMOJIS.EXCEL }"

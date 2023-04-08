@@ -1,0 +1,15 @@
+embeds:
+  - title: Vlad's Calculator
+    description: Vladone ツ's calculator. Allows you to calculate mostly anything present in the game that is related to a character. To download it, visit the Discord server below where it is constantly updated by Vlad.
+    color: 5096805
+
+button:
+  - label: Discord
+    url: https://discord.gg/ndS73F6meP
+    emoji: "${ EMOJIS.DISCORD}"
+    style: link
+
+  - label: Youtube Tutorial
+    url: https://www.youtube.com/watch?v=z0BumN782wo&list=PLhNW73hDS9jaVmeUpyfWlAQbymR-eCaK5&ab_channel=Vladoneツ
+    emoji: "${ EMOJIS.YOUTUBE }"
+    style: link
