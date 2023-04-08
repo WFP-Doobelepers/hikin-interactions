@@ -65,10 +65,7 @@ embeds:
 
   footer:
     text: 'Authored by: redd'
-
-  footer:
-    text: 'Authored by: redd'
-
+    
 buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/talents2
   label: Next
