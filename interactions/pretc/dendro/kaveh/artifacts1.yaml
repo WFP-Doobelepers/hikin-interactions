@@ -27,14 +27,5 @@ embeds:
   color: 3439221
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235764793028799/selfvsheal.png?width=1104&height=580
-
   footer:
     text: 'Authored by: redd'
-  thumbnail:
-    url: https://library.keqingmains.com/img/artifacts/icon/Gilded_Dreams.png
-
-buttons:
-- customId: liveInteraction#pretc/dendro/kaveh/artifacts2
-  label: Next
-  style: Artifact Sets
-  emoji: "▶️"
