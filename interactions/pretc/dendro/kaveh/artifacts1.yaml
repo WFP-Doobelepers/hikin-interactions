@@ -33,6 +33,7 @@ embeds:
   thumbnail:
     url: https://library.keqingmains.com/img/artifacts/icon/Gilded_Dreams.png
 
+buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/artifacts2
   label: Next
   style: Artifact Sets
