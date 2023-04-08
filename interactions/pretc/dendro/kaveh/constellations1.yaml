@@ -4,7 +4,6 @@ embeds:
 - title: |-
     __CONSTELLATIONS__
 
-
     **C1 - Sublime Salutations**
   description: |-
    *Within 3s after using **Artistic Ingenuity**, Kaveh's Dendro RES and Incoming Healing Bonus will be increased by 50% and 25% respectively.*
@@ -40,25 +39,10 @@ embeds:
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_02.png
 
-- title: >-
-    **C3 - Profferings of Dur Untash**
-  description: |-
-    *Increases the Level of **Painted Dome** by 3.*
-
-    Kaveh’s Burst holds great priority given its boost to Bloom damage, but having higher Talent levels increases that boost marginally. You only get about an extra 2% per Talent level, so you get an extra 8% Bloom DMG Bonus in total going from Talent Level 9 to 12. The bonus is quite small in the grand scheme of things, but it won’t hurt you. It is not recommended to aim for this constellation in particular
-  color: 3439221
-  fields:
-  - name: "*DPS Increase from C0:*"
-    value: 5.72%%
-  - name: "*DPS Increase from C2:*"
-    value: 1.07%%
-  - name: "*Rating:*"
-    value: 2/5
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_U_Kaveh_02.png
 
   footer:
     text: 'Authored by: jd'
+    
 
 buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/constellations2
