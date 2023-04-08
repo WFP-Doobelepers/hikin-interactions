@@ -4,16 +4,15 @@ embeds:
 - title: __WEAPONS__
   description: >-
     Weapon rankings depend on how many reactions Kaveh procs. As a general rule, EM-based weapons become better the more Blooms Kaveh can trigger and also provide stronger heals. In low Bloom scenarios, ATK and CRIT weapons tend to overshadow their EM counterparts.
-  color: 3439221
+  color: 7203178
 
 - title: |-
     __**5 ★ Options**__
 
-
     **Skyward Pride** 
   description: >-
     One of Kaveh’s better 5-star options, regardless of what team he plays in. He usually lacks in ATK% and DMG%, making Skyward Pride’s high Base ATK and DMG% passive particularly valuable in addition to its ER substat.
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Skyward_Pride.png
 
@@ -21,7 +20,7 @@ embeds:
     **Wolf's Gravestone**
   description: >-
     Kaveh is deficient in ATK, so it’s no surprise that Wolf’s Gravestone is a good pick for him with its abundance of ATK% stats. Although it’s highly conditional, the team buff it grants can be useful.
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Wolfs_Gravestone.png
 
@@ -29,7 +28,7 @@ embeds:
     __**Other 5-Star Weapons**__
   description: >-
     All other 5-star Claymores act as a fat stat stick and perform similarly to each other. Remember that Kaveh’s DPS output is poor — it is perfectly fine to not optimize his damage and give a much needed DPS Claymore to another character, and instead use a 4-star Greatsword on Kaveh. 
-  color: 3439221
+  color: 7203178
   
 - title: |-
     __**4 ★ Options**__
@@ -37,7 +36,7 @@ embeds:
     **Makhaira Aquamarine**
   description: |-
     A great 4-star Claymore even at R1 — Kaveh takes advantage of every aspect of this weapon, and it even matches him! The more refinements and Blooms Kaveh get, the better it becomes. Its party-wide Flat ATK buff is also appreciated, although not that important on Bloom/Burgeon/Hyperbloom comps.  On the flipside, Makhaira isn’t all that amazing when Kaveh is driving Burgeon or Hyperbloom teams. 
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Makhaira_Aquamarine.png
 
@@ -45,7 +44,7 @@ embeds:
     **Favonius Greatsword**
   description: >-
     This Greatsword has considerable synergy with Kaveh, especially if his ER needs are high and he is the only Dendro unit on the team. Because he is on-field for quite a while, he can trigger the weapon passive 2-3 times per rotation, drastically reducing both his own ER requirements and his teammates’. Although Favonius Greatsword lacks offensive capabilities, this is a trivial problem since Kaveh’s base damage isn’t high in the first place. 
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Favonius_Greatsword.png
 
@@ -53,7 +52,7 @@ embeds:
     **Mailed Flower (R5)** 
   description: >-
     Performs slightly worse than Makhaira Aquamarine and slightly better than Favonius Greatsword, but doesn’t have any of their team utility. Still, it is a good stat stick for a free weapon, providing high EM and some ATK% on the side to boot. You only need to cast your Elemental Skill every 8s to maintain the passive, which is not a problem for Kaveh.
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Mailed_Flower.png
 
@@ -61,7 +60,7 @@ embeds:
     **Forest Regalia**
   description: >-
     A decent F2P weapon, especially when Kaveh has moderate Bloom ownership, otherwise, the EM passive loses value. Even if another teammate can pick up the Leaf to gain the EM bonus, getting Kaveh to trigger it in the first place can be difficult, and you may have to adjust your rotation to do so. Some players also find picking up the Leaf a nuisance, making it even less desirable.
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Forest_Regalia.png
 
@@ -69,7 +68,7 @@ embeds:
     **Rainslasher**
   description: >-
     In most of Kaveh’s teams, Rainslasher’s passive is inactive, making it a worse stat stick than Mailed Flower and Makhaira Aquamarine while not providing any utility like Forest Regalia and Favonius Greatsword. However, if playing Kaveh as solo Dendro in a Bloom team, he appreciates the EM substat and the passive has considerably better uptime.
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://genshin.honeyhunterworld.com/img/i_n11302_awaken_icon.webp
 
@@ -77,7 +76,7 @@ embeds:
     **Katsuragikiri Nagamasa** 
   description: >-
     Like Favonius Greatsword, this Claymore can single-handedly take care of most (if not all) of Kaveh’s ER needs without sacrificing too much damage. While it is the higher DPS option of the two, it lacks the ability to battery the rest of the team. Note that although Kaveh can proc the passive up to two times per rotation (24 Flat Energy at R5, 12 at R1), his E casts will likely not be in perfect 10s intervals, so it’s possible the passive only triggers once per rotation. This is particularly problematic at lower refinements and higher ER requirements, and can disrupt the flow of your rotations. 
-  color: 3439221
+  color: 7203178
   thumbnail:
     url: https://library.keqingmains.com/img/weapons/icon_ascended/Katsuragikiri_Nagamasa.png
   footer:

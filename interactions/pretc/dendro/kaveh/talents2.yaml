@@ -11,7 +11,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_05.png
-  color: 3439221
+  color: 7203178
 
 - title: >-
     **Ascension 4 Passive: A Craftsman’s Curious Conceptions**
@@ -20,7 +20,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_06.png
-  color: 3439221
+  color: 7203178
 
 - title: >-
     **Overworld Passive: The Art of Budgeting**
@@ -29,7 +29,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Yoimiya_07.png
-  color: 3439221
+  color: 7203178
 
 buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/talents1
