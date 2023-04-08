@@ -17,7 +17,7 @@ embeds:
     image:
       url: https://genshin.honeyhunterworld.com/img/yelan_060_gacha_splash.webp
 
-options: #dropdown
+options:
 
   - label: Overview
     value: faq/hydro/yelan/overview
