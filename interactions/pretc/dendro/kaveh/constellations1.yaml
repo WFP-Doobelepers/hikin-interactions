@@ -1,0 +1,67 @@
+---
+content:
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+
+    **C1 - Sublime Salutations**
+  description: |-
+   *Within 3s after using **Artistic Ingenuity**, Kaveh's Dendro RES and Incoming Healing Bonus will be increased by 50% and 25% respectively.*
+   
+   
+   On paper, this Constellation is a straightforward yet significant buff to Kaveh’s survivability. The main drawback of Bloom teams is self-inflicted damage, but Kaveh has the ability to shrug off this damage with his healing (as long as his HP isn’t low enough to straight-out die from the Cores first). 
+
+    However, this Constellation is a hidden gem, when building Ocean-Hued Clam (OHC). With C1, 4PC OHC becomes even better to put on Kaveh. More details are given in the artifact section. With OHC, this Constellation becomes one of Kaveh’s biggest personal damage boosts despite not capping out on each bubble.
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 3.82% (with OHC, which we will include from here on out)
+  - name: "*Rating:*"
+    value: 2.5/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_01.png
+
+- title: >- 
+    **C2 - Grace of Royal Roads**
+  description: |-
+    *Kaveh's Normal Attack SPD increases by 15% during **Painted Dome**.*
+
+    The 15% increase provides little for Kaveh. With hitlag, it is possible to sneak in only one extra Normal Attack, which is underwhelming to say the least. Without, you could get three extra Normal Attacks, but Kaveh’s power isn’t really in his Normal Attack damage anyways, making this buff next to non-existent.
+  
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 4.61%
+  - name: "*DPS Increase from C1:*"
+    value: 0.75%
+  - name: "*Rating:*"
+    value: 1/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_02.png
+
+- title: >-
+    **C3 - Profferings of Dur Untash**
+  description: |-
+    *Increases the Level of **Painted Dome** by 3.*
+
+    Kaveh’s Burst holds great priority given its boost to Bloom damage, but having higher Talent levels increases that boost marginally. You only get about an extra 2% per Talent level, so you get an extra 8% Bloom DMG Bonus in total going from Talent Level 9 to 12. The bonus is quite small in the grand scheme of things, but it won’t hurt you. It is not recommended to aim for this constellation in particular
+  color: 3439221
+  fields:
+  - name: "*DPS Increase from C0:*"
+    value: 5.72%%
+  - name: "*DPS Increase from C2:*"
+    value: 1.07%%
+  - name: "*Rating:*"
+    value: 2/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Kaveh_02.png
+
+  footer:
+    text: 'Authored by: jd'
+
+buttons:
+- customId: liveInteraction#pretc/dendro/kaveh/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

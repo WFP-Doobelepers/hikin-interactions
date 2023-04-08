@@ -56,6 +56,16 @@ embeds:
     url: https://api.ambr.top/assets/UI/Skill_E_Kaveh_01.png
   color: 3439221
 
+- title : Effective EM Buff
+  description: |-
+    The Bloom Reaction DMG Bonus that Kaveh provides scales with his Elemental Burst’s Talent level. It’s a miniscule increase for his personal damage, but the team DPS you gain makes his Burst your first talent priority. At Talent Level 9, this translates to 8% more Bloom DMG, assuming the trigger has 800 EM. However, this DMG Bonus does not apply to Hyperbloom, Burgeon, or Spread, so if you plan to play such teams, his Burst can be prioritized last. Here is a look at how much effective EM Kaveh’s buff equates to at Talent Level 9:
+  color: 3439221
+  image:
+    url: https://media.discordapp.net/attachments/1080438890772578375/1093933752058646528/image.png?width=1080&height=662
+
+  footer:
+    text: 'Authored by: redd'
+
   footer:
     text: 'Authored by: redd'
 
