@@ -47,7 +47,7 @@ options: #dropdown
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Artifacts
-    value: pretc/dendro/kaveh/artifacts
+    value: pretc/dendro/kaveh/artifacts1
     description: "WFP resources for Kaveh FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
