@@ -7,6 +7,6 @@ embeds:
 
 options:
   - label: Vlad's Calculator
-    value: interactions/calctemplates/vladtemplate
+    value: calctemplates/vladtemplate
     description: Microsoft Excel Template
     emoji: "${ EMOJIS.EXCEL }"
