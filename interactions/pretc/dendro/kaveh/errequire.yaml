@@ -5,7 +5,9 @@ embeds:
   description: >-
     Kaveh’s Skill generates two Dendro Particles and has a cooldown of 6s. He generally is on-field for most of the rotation and uses his Elemental Skill three times, but due to his 80 Burst Cost, he struggles to Burst every rotation. However, Bursting every other rotation is detrimental to damage, so he’ll likely need to hold an ER Sands or an ER weapon. It is worth noting that you need 34% to 53% CRIT Rate to reliably proc Favonius twice at R5 and R3 respectively. (4s/6s interval to get both proc at R3/R5 with around 6 hits/8 hits during the interval)
 
+
     The table below outlines his approximate ER Requirements averaged over different teams using safe mode  and hp threshold particles (KQM standards) in single target.
+
 
     For a more accurate approximation of his requirements for the rotation, please use the Energy Recharge Calculator linked [here.](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy)
   color: 3439221
