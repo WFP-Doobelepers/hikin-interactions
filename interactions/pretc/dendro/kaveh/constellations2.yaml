@@ -44,7 +44,8 @@ embeds:
 
   footer:
     text: 'Authored by: jd'
-    
+    icon_url: https://images-ext-1.discordapp.net/external/yiPxZb6p5OT2A__G_9Y9k76wNKVYyqTHoqsphczZNv0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/128341430757359616/9d40b88e2047b47f0001cbd39fbf0d44.png?width=662&height=662
+
 buttons:
 
 - customId: liveInteraction#pretc/dendro/kaveh/constellations1

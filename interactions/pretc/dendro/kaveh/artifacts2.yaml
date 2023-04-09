@@ -59,6 +59,7 @@ embeds:
   color: 7203178
   footer:
     text: 'Authored by: redd'
+    icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png
   thumbnail:
     url: https://library.keqingmains.com/img/artifacts/icon/Gilded_Dreams.png
 
