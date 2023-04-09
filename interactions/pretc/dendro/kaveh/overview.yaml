@@ -13,9 +13,9 @@ embeds:
   - name: 'Framecounts:'
     value: "<@367160010335191054>"
   - name: 'Consultation'
-    value: 'sigurd#3854, Athena#2444'
+    value: '<@463998487067885600>, <@366206663533002774>'
   - name: 'Editor'
-    value: 'Leifa#1359'
+    value: '<@280016643558604800>'
   - name: 'Resources:'
     value: |-
       [Kaveh Mastersheet](https://docs.google.com/spreadsheets/d/1SMQhJm0uA8thrnE-2OPcXb98tzT6EcoNy7PYIyqL0Ms/edit?usp=sharing)
@@ -33,6 +33,6 @@ embeds:
   color: 7203178
   footer:
     text: 'Authored by: Latte'
-    icon: https://media.discordapp.net/attachments/1087300734372020315/1094509952661463041/793d2518c2f5b8ddf774fd199707c4c1.png?width=225&height=225
+    icon_url: https://media.discordapp.net/attachments/1087300734372020315/1094509952661463041/793d2518c2f5b8ddf774fd199707c4c1.png?width=225&height=225
   thumbnail:
     url: https://genshin.honeyhunterworld.com/img/kaveh_081_icon_70.webp?x78105

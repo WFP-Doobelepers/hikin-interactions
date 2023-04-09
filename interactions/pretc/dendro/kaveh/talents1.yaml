@@ -65,6 +65,7 @@ embeds:
 
   footer:
     text: 'Authored by: redd'
+    icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png
     
 buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/talents2
