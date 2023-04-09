@@ -53,18 +53,17 @@ embeds:
 
 - title: |-
     __Burgeon & Hyperbloom__
-    
-    ╰ __Burgeon__ : Kaveh | Hydro | Pyro | Flex
   description: |-
-    <${EMOJIS.DENDRO}>  *** Example Team 1 :*** *Kaveh / Xingqiu / Thoma / Bennett*
+    **__Burgeon__ : Kaveh | Hydro | Pyro | Flex**
 
-    <${EMOJIS.DENDRO}>  *** Example Team 2 :*** *Kaveh / Xingqiu / Kazuha / Bennett*
+    <${EMOJIS.DENDRO}> ***    Example Team 1 :*** *Kaveh / Xingqiu / Thoma / Bennett*
 
-- title: |-
-    ╰ __Hyperbloom__ : Kaveh | Hydro | Electro | Flex
-  description: |-
-    <${EMOJIS.DENDRO}> *** Example Team 1 :*** *Kaveh / Xingqiu / Raiden / Ayato*
-    <${EMOJIS.DENDRO}> *** Example Team 2 :***  *Kaveh / Xingqiu / Kuki / Nahida*
+    <${EMOJIS.DENDRO}> ***    Example Team 2 :*** *Kaveh / Xingqiu / Kazuha / Bennett*
+
+    **__Hyperbloom__ : Kaveh | Hydro | Electro | Flex**
+
+    <${EMOJIS.DENDRO}> ***    Example Team 1 :*** *Kaveh / Xingqiu / Raiden / Ayato*
+    <${EMOJIS.DENDRO}> ***    Example Team 2 :***  *Kaveh / Xingqiu / Kuki / Nahida*
 
     Although Kaveh’s Burst only buffs Blooms, his self-healing and Interruption Resistance makes him a comfortable driver for both Burgeon and Hyperbloom teams, especially the former where self-damage is an issue. His detonations can steal Burgeons and Hyperbloom procs, but it may be possible to delay your Skill and Burst casts to minimize this problem. Ideally, you’ll be getting both Bloom and Hyperbloom/Burgeon damage. 
     
