@@ -32,9 +32,8 @@ embeds:
 
 - title: >-
     **Elemental Skill: Artistic Ingenuity**
-  description: >-
+  description: |-
     *CD* : ***6s***
-
 
     A Skill cast generates **two Dendro Particles** and **detonates all Dendro Cores** in its radius, triggering Bloom instantly. Note that Kaveh does not claim ownership of the Blooms – whoever generated the Dendro Core still retains ownership. 
   thumbnail:
@@ -47,7 +46,6 @@ embeds:
     *CD* : ***20s***
 
     *Energy Cost* : ***80***
-
 
     The most important part of Kaveh’s kit. Upon cast, all Dendro Cores are ruptured immediately (similar to his Elemental Skill). Kaveh’s Burst grants him two important features: his Normal Attacks gain a **Dendro Infusion**, and the entire team gains a **Bloom Reaction DMG Bonus**. 
     
