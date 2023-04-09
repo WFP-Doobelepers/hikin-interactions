@@ -11,17 +11,13 @@ embeds:
 
     Kaveh’s damage scales off ATK, whereas his reaction damage and healing depend on EM. 
 
-    For general purposes, **ER or EM/EM/EM** are the recommended mainstats. In Bloom teams, an EM build maximizes his healing while not being far off from other main stat combinations. Technically, ER or ATK/DMG/CRIT can be his best main stats in scenarios where he has little to no reaction ownership, but Kaveh’s personal damage outside of Bloom DMG is very minor. Optimizing his damage weakens his survivability in exchange for negligible gains to team DPS. Having better survivability on Kaveh is especially important if there’s no other healer and/or  he’s played on a Nilou team. Plus, the gap between the two combinations narrows the more Bloom ownership he gets. 
-
+    For general purposes, **ER or EM/EM/EM** are the recommended mainstats. In Bloom teams, an EM build maximizes his healing while not being far off from other main stat combinations. Technically, ER or ATK/DMG/CRIT can be his best main stats in scenarios where he has little to no reaction ownership, but Kaveh’s personal damage outside of Bloom DMG is very minor. Optimizing his damage weakens his survivability in exchange for negligible gains to team DPS. Having better survivability on Kaveh is especially important if there’s no other healer and/or  he’s played on a Nilou team. Plus, the gap between the two combinations narrows the more Bloom ownership he gets.
 
     *Substats:* ER (until ER requirements are met) > CRIT Rate (if using Favonius Greatsword) > EM >= ATK% >= CRIT
 
-
     **ER**: Most of Kaveh’s utilities are locked behind his Elemental Burst. Needless to say, having enough ER to Burst every rotation is first priority. Check the above section or use an ER calculator to determine how much ER you’ll need.
 
-
     **EM**: At C1, Kaveh only needs about 100-200 EM to outheal Blooms, Bountiful Blooms, or Burgeons. This threshold can go up to 800 EM if you’re at C0 — for more details, check the mastersheet. Of course, you’ll still be taking damage from enemies, so you’ll want more EM if you don’t intend to run a healer. EM is also extra valuable on Kaveh since he’ll trigger a few Blooms himself. 
-
 
     **ATK%/CRIT**: Kaveh tends to be ATK deficient to the point that ATK% rolls can be better than CRIT ones. CRIT can be better once you have enough ATK and if you’re using Favonius Greatsword — use optimizer if you’re unsure. 
   color: 7203178
