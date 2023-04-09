@@ -21,9 +21,8 @@ embeds:
     
     **Kaveh | Hydro | Hydro | Dendro or Flex**
 
-    **Example Team:** *Kaveh/Xingqiu/Kokomi/Nahida*
-
-    **Example Team 2:** *Kaveh/Yelan/Ayato/Kazuha*
+    ***Example Team:*** *Kaveh/Xingqiu/Kokomi/Nahida*
+    ***Example Team 2:*** *Kaveh/Yelan/Ayato/Kazuha*
 
     Kaveh’s utilities are geared towards Bloom teams — he can drive, heal himself, buff Blooms, and instantly detonate Cores, giving him a special spot in such teams. Due to Bloom’s mechanics, it’ll often be the Hydro unit(s) triggering them. As such, they usually favour EM builds, but their base Hydro DMG may be high enough that they still appreciate ATK/CRIT stats. Depending on how much Hydro and Dendro application you have, Kaveh still claims ownership of a few Dendro Cores here and there. The 4th slot can be a Dendro unit to supply extra Elemental application, contribute to Dendro Resonance, and battery Kaveh. Alternatively, you can use a Flex unit such as Kazuha or Sucrose to provide grouping and buffs. Bear in mind that without a second Dendro character, Kaveh becomes Energy-deficient and *he* becomes the one triggering Blooms. You can choose to play him as a solo Dendro, but he won’t be generating many Blooms anyway due to his mild Dendro application (especially before C6). It is recommended to play Bloom compositions in AoE stages. 
   
@@ -32,14 +31,13 @@ embeds:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235763538940065/bloom.png?width=1439&height=331
 
 - title: >-
-    **Nilou Bloom Variant**
+    **__Nilou Bloom Variant__**
   description: |-
 
     **Kaveh | Nilou | Hydro | Dendro**
 
-    **Example Team:** *Kaveh/Nilou/Xingqiu/Baizhu*
-
-    **Example Team 2:** *Kaveh/Nilou/Yelan/Xingqiu*
+    ***Example Team:*** *Kaveh/Nilou/Xingqiu/Baizhu*
+    ***Example Team 2:*** *Kaveh/Nilou/Yelan/Xingqiu*
 
 
     While reading Kaveh’s kit, did you ever think: “Wait, isn’t this just Dendro Nilou?” Well, you’re not entirely wrong — both units buff Blooms and can instantly rupture them, although Kaveh does it worse. Their overlapping utilities make Kaveh redundant; nonetheless, he is still a fine Dendro option to slot into Nilou teams. He is an adequate driver, has strong personal survivability, and can still buff Bountiful Blooms. Building Nilou teams is similar to building a regular Bloom team, except you cannot use any units that aren’t Dendro or Hydro. As usual, Nilou runs full HP and your other Hydro character runs EM. Due to the abundance of Bountiful Blooms exploding, you’ll also want to run EM on Kaveh to improve his healing. You might even want to use a healer if his healing isn’t enough for you. Just like regular Bloom teams, Nilou Bloom excels in AoE chambers. 
@@ -54,22 +52,20 @@ embeds:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094258621031923712/Kavehnilouhydrodendro.png?width=1439&height=331
 
 - title: |-
-    Burgeon & Hyperbloom
-
-
+    __Burgeon & Hyperbloom__
   fields:
-  - name: '__Burgeon__ : Kaveh | Hydro | Pyro | Flex'
+  - name: '╰ __Burgeon__ : Kaveh | Hydro | Pyro | Flex'
     value: |-   
-      **Example Team:** *Kaveh/Xingqiu/Thoma/Bennett*
-      **Example Team 2:** *Kaveh/Xingqiu/Kazuha/Bennett*
+      **       ▷ Example Team 1 :** *Kaveh / Xingqiu / Thoma / Bennett*
+      **       ▷ Example Team 2 :** *Kaveh / Xingqiu / Kazuha / Bennett*
 
 
 
-  - name: '__Hyperbloom__ : Kaveh | Hydro | Electro | Flex'
+  - name: '╰ __Hyperbloom__ : Kaveh | Hydro | Electro | Flex'
 
     value: |- 
-      **Example Team:** *Kaveh/Xingqiu/Raiden/Ayato*
-      **Example Team 2:** *Kaveh/Xingqiu/Kuki/Nahida*
+      **       ▷ Example Team 1 :** *Kaveh / Xingqiu / Raiden / Ayato*
+      **       ▷ Example Team 2 :**  *Kaveh / Xingqiu / Kuki / Nahida*
 
       Although Kaveh’s Burst only buffs Blooms, his self-healing and Interruption Resistance makes him a comfortable driver for both Burgeon and Hyperbloom teams, especially the former where self-damage is an issue. His detonations can steal Burgeons and Hyperbloom procs, but it may be possible to delay your Skill and Burst casts to minimize this problem. Ideally, you’ll be getting both Bloom and Hyperbloom/Burgeon damage. 
       
