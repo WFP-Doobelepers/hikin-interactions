@@ -81,10 +81,8 @@ embeds:
       
       On the other hand, his C6 procs cannot be controlled unless you literally don’t use his Normal Attacks at all. There’s a chance that C6 is a DPS loss, but in-game testing will have to be done to ascertain this. Even so, the extra Bloom damage may partially compensate for the loss of Hyperblooms/Burgeons. 
 
-
-      **Teammates**
-
-
+  - name: Teammates
+    value: |-
       *Hydro:* Xingqiu, Yelan, Kokomi, Ayato, Nilou, Barbara
 
       *Dendro:* Nahida, Dendro Traveler, Collei, Yaoyao, Baizhu
