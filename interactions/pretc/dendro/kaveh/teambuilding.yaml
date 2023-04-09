@@ -59,8 +59,9 @@ embeds:
 
   fields:
   - name: 'Burgeon'
-    value: |- 
-
+    value: |-
+      
+      
       **Kaveh | Hydro | Pyro | Flex**
     
       **Example Team:** *Kaveh/Xingqiu/Thoma/Bennett*
@@ -68,8 +69,11 @@ embeds:
 
       **Example Team 2:** *Kaveh/Xingqiu/Kazuha/Bennett*
 
+
+
   - name: 'Hyperbloom'
     value: |- 
+      
       
       **Kaveh | Hydro | Electro | Flex**
 
