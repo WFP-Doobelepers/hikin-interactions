@@ -53,19 +53,18 @@ embeds:
 
 - title: |-
     __Burgeon & Hyperbloom__
-  fields:
-  - name: '╰ __Burgeon__ : Kaveh | Hydro | Pyro | Flex'
-    value: |-   
+  description: |-
+    
+    **╰ __Burgeon__ : Kaveh | Hydro | Pyro | Flex**
 
-      **       ▷ Example Team 1 :** *Kaveh / Xingqiu / Thoma / Bennett*
+      > ** Example Team 1 :** *Kaveh / Xingqiu / Thoma / Bennett*
 
-      **       ▷ Example Team 2 :** *Kaveh / Xingqiu / Kazuha / Bennett*
+      > ** Example Team 2 :** *Kaveh / Xingqiu / Kazuha / Bennett*
 
 
 
-  - name: '╰ __Hyperbloom__ : Kaveh | Hydro | Electro | Flex'
+    **╰ __Hyperbloom__ : Kaveh | Hydro | Electro | Flex**
 
-    value: |- 
       **       ▷ Example Team 1 :** *Kaveh / Xingqiu / Raiden / Ayato*
       **       ▷ Example Team 2 :**  *Kaveh / Xingqiu / Kuki / Nahida*
 
@@ -73,17 +72,16 @@ embeds:
       
       On the other hand, his C6 procs cannot be controlled unless you literally don’t use his Normal Attacks at all. There’s a chance that C6 is a DPS loss, but in-game testing will have to be done to ascertain this. Even so, the extra Bloom damage may partially compensate for the loss of Hyperblooms/Burgeons. 
 
-  - name: '__Teammates__'
-    value: |-
-      <${EMOJIS.HYDRO}> **Hydro:** Xingqiu, Yelan, Kokomi, Ayato, Nilou, Barbara
+    __**Teammates**__
+    <${EMOJIS.HYDRO}> **Hydro:** Xingqiu, Yelan, Kokomi, Ayato, Nilou, Barbara
 
-      <${EMOJIS.DENDRO}> **Dendro:** Nahida, Dendro Traveler, Collei, Yaoyao, Baizhu
+    <${EMOJIS.DENDRO}> **Dendro:** Nahida, Dendro Traveler, Collei, Yaoyao, Baizhu
 
-      <${EMOJIS.PYRO}> **Pyro (Burgeon Teams):** Thoma, Dehya
+    <${EMOJIS.PYRO}> **Pyro (Burgeon Teams):** Thoma, Dehya
 
-      <${EMOJIS.ELECTRO}> **Electro (Hyperbloom Teams):** Raiden, Kuki
+    <${EMOJIS.ELECTRO}> **Electro (Hyperbloom Teams):** Raiden, Kuki
 
-      <${EMOJIS.FLEX}> **Flex Slots:** Kazuha, Sucrose, Heizou, Venti, Bennett, Zhongli (Based off the wording, Kaveh’s A1 will not trigger with a shield)
+    <${EMOJIS.FLEX}> **Flex Slots:** Kazuha, Sucrose, Heizou, Venti, Bennett, Zhongli (Based off the wording, Kaveh’s A1 will not trigger with a shield)
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235763870281778/burgeon_hb.png?width=1439&height=331
   color: 7203178
