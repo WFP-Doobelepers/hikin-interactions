@@ -3,9 +3,9 @@ content:
 embeds:
 - title: __ARTIFACTS__
   description: |-
-    *Sands of Eon:* ER or EM
-    *Goblet of Eonothem:* EM
-    *Circlet of Logos:* EM
+    <${EMOJIS.SANDS}> *Sands of Eon:* ER or EM
+    <${EMOJIS.GOBLET}> *Goblet of Eonothem:* EM
+    <${EMOJIS.CIRCLET}> *Circlet of Logos:* EM
 
     *ER or ATK/DMG/CRIT also work, although not necessarily recommended.*
 

@@ -13,6 +13,8 @@ embeds:
     value: 5.72%
   - name: "*DPS Increase from C2:*"
     value: 1.07%
+  - name: "*Team Bloom DPS Increase from C2:*"
+    value: ~1.4%
   - name: "*Rating:*"
     value: 2/5
   thumbnail:
@@ -24,7 +26,7 @@ embeds:
 
     If you’re running Bloom Kaveh, this is one of his best Constellations. Unfortunately, for any other build, you won’t be getting much benefit. It is important to note that this Constellation does not work with Burgeons or Hyperblooms, which limits his choice of teammates. However, it does make Kaveh an excellent support for Bloom teams that don’t utilize Nilou, as it brings a heavy amount of damage to the table with proper management. The Cores are still reliant upon the EM of the character who created them, and gain the 60% DMG Bonus as long as Kaveh triggers its eruption. 
 
-    In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 3.41% from C3. This constellation will gain more value the lower the EM your team has.
+    In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 2.0% from C3. This constellation will gain more value the lower the EM your team has.
 
     The fact that Kaveh must trigger the Cores to obtain the C4 bonus conflicts with Nilou teams. Bountiful Cores explode almost immediately after being created, which means it’s nearly impossible for Kaveh to detonate himself. Therefore, this constellation has little synergy with Nilou teams.
   color: 7203178
@@ -33,6 +35,8 @@ embeds:
     value: 11.90%
   - name: "*DPS Increase from C3:*"
     value: 5.84%
+  - name: "*Team Bloom DPS Increase from C3:*"
+    value: ~2.0%
   - name: "*Rating:*"
     value: 3/5
   thumbnail:

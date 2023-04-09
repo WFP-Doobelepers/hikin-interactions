@@ -6,25 +6,27 @@ embeds:
     Kaveh is an on-field Dendro unit with self-healing and Interruption Resistance, allowing him to drive virtually any Dendro-based team. In particular, he will shine in Bloom teams, which is what his kit specializes in. There are a few things to keep in mind when choosing teammates for Kaveh:
 
 
-    🌿 Because of his long field time, his teammates are off-field units.
+    🏛️ Because of his long field time, his teammates are off-field units.
     
 
-    🌿 He only heals himself, not his teammates. For some people this is more than enough, but for others you might still want an extra healer.
+    🏛️ He only heals himself, not his teammates. For some people this is more than enough, but for others you might still want an extra healer.
     
 
-    🌿 He has high ER needs, which incentivizes bringing a second Dendro unit. He can still play as a solo Dendro, but you’ll have to invest in a lot of ER (check part 5: ER Requirement for more details)
+    🏛️ He has high ER needs, which incentivizes bringing a second Dendro unit. He can still play as a solo Dendro, but you’ll have to invest in a lot of ER (check ER Requirement for more details).
   color: 7203178
 
 - title: >-
     __Bloom Team__
   description: |-
+    
     **Kaveh | Hydro | Hydro | Dendro or Flex**
 
-    **Example Team:** __Kaveh/Xingqiu/Kokomi/Nahida__
+    **Example Team:** *Kaveh/Xingqiu/Kokomi/Nahida*
 
-    **Example Team 2:** __Kaveh/Yelan/Ayato/Kazuha__
+    **Example Team 2:** *Kaveh/Yelan/Ayato/Kazuha*
 
     Kaveh’s utilities are geared towards Bloom teams — he can drive, heal himself, buff Blooms, and instantly detonate Cores, giving him a special spot in such teams. Due to Bloom’s mechanics, it’ll often be the Hydro unit(s) triggering them. As such, they usually favour EM builds, but their base Hydro DMG may be high enough that they still appreciate ATK/CRIT stats. Depending on how much Hydro and Dendro application you have, Kaveh still claims ownership of a few Dendro Cores here and there. The 4th slot can be a Dendro unit to supply extra Elemental application, contribute to Dendro Resonance, and battery Kaveh. Alternatively, you can use a Flex unit such as Kazuha or Sucrose to provide grouping and buffs. Bear in mind that without a second Dendro character, Kaveh becomes Energy-deficient and *he* becomes the one triggering Blooms. You can choose to play him as a solo Dendro, but he won’t be generating many Blooms anyway due to his mild Dendro application (especially before C6). It is recommended to play Bloom compositions in AoE stages. 
+  
   color: 7203178
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235763538940065/bloom.png?width=1439&height=331
@@ -32,11 +34,12 @@ embeds:
 - title: >-
     **Nilou Bloom Variant**
   description: |-
+
     **Kaveh | Nilou | Hydro | Dendro**
 
-    Example Team: __Kaveh/Nilou/Xingqiu/Baizhu__
+    Example Team: *Kaveh/Nilou/Xingqiu/Baizhu*
 
-    Example Team 2: __Kaveh/Nilou/Yelan/Xingqiu__
+    Example Team 2: *Kaveh/Nilou/Yelan/Xingqiu*
 
 
     While reading Kaveh’s kit, did you ever think: “Wait, isn’t this just Dendro Nilou?” Well, you’re not entirely wrong — both units buff Blooms and can instantly rupture them, although Kaveh does it worse. Their overlapping utilities make Kaveh redundant; nonetheless, he is still a fine Dendro option to slot into Nilou teams. He is an adequate driver, has strong personal survivability, and can still buff Bountiful Blooms. Building Nilou teams is similar to building a regular Bloom team, except you cannot use any units that aren’t Dendro or Hydro. As usual, Nilou runs full HP and your other Hydro character runs EM. Due to the abundance of Bountiful Blooms exploding, you’ll also want to run EM on Kaveh to improve his healing. You might even want to use a healer if his healing isn’t enough for you. Just like regular Bloom teams, Nilou Bloom excels in AoE chambers. 
@@ -60,10 +63,10 @@ embeds:
 
       **Kaveh | Hydro | Pyro | Flex**
     
-      **Example Team:** __Kaveh/Xingqiu/Thoma/Bennett__
+      **Example Team:** *Kaveh/Xingqiu/Thoma/Bennett*
 
 
-      **Example Team 2:** __Kaveh/Xingqiu/Kazuha/Bennett__
+      **Example Team 2:** *Kaveh/Xingqiu/Kazuha/Bennett*
 
   - name: 'Hyperbloom'
     value: |- 
@@ -71,10 +74,10 @@ embeds:
       **Kaveh | Hydro | Electro | Flex**
 
 
-      **Example Team:** __Kaveh/Xingqiu/Raiden/Ayato__
+      **Example Team:** *Kaveh/Xingqiu/Raiden/Ayato*
 
 
-      **Example Team 2:** __Kaveh/Xingqiu/Kuki/Nahida__
+      **Example Team 2:** *Kaveh/Xingqiu/Kuki/Nahida*
 
 
       Although Kaveh’s Burst only buffs Blooms, his self-healing and Interruption Resistance makes him a comfortable driver for both Burgeon and Hyperbloom teams, especially the former where self-damage is an issue. His detonations can steal Burgeons and Hyperbloom procs, but it may be possible to delay your Skill and Burst casts to minimize this problem. Ideally, you’ll be getting both Bloom and Hyperbloom/Burgeon damage. 
@@ -83,15 +86,15 @@ embeds:
 
   - name: Teammates
     value: |-
-      *Hydro:* Xingqiu, Yelan, Kokomi, Ayato, Nilou, Barbara
+      <${EMOJIS.HYDRO}> **Hydro:** Xingqiu, Yelan, Kokomi, Ayato, Nilou, Barbara
 
-      *Dendro:* Nahida, Dendro Traveler, Collei, Yaoyao, Baizhu
+      <${EMOJIS.DENDRO}> **Dendro:** Nahida, Dendro Traveler, Collei, Yaoyao, Baizhu
 
-      *Pyro (Burgeon Teams):* Thoma, Dehya
+      <${EMOJIS.PYRO}> **Pyro (Burgeon Teams):** Thoma, Dehya
 
-      *Electro (Hyperbloom Teams):* Raiden, Kuki
+      <${EMOJIS.ELECTRO}> **Electro (Hyperbloom Teams):** Raiden, Kuki
 
-      *Flex Slots:* Kazuha, Sucrose, Heizou, Venti, Bennett, Zhongli (Based off the wording, Kaveh’s A1 will not trigger with a shield)
+      <${EMOJIS.FLEX}> **Flex Slots:** Kazuha, Sucrose, Heizou, Venti, Bennett, Zhongli (Based off the wording, Kaveh’s A1 will not trigger with a shield)
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235763870281778/burgeon_hb.png?width=1439&height=331
   color: 7203178
