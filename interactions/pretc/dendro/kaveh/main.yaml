@@ -8,11 +8,11 @@ embeds:
       - name: 'Kaveh Mastersheet by Featherlatte#0974, emlv#0004 and jd baby#6541'
         value: >-
           [Google
-          Sheet <${EMOJIS.SHEET}> ](https://docs.google.com/spreadsheets/d/1SMQhJm0uA8thrnE-2OPcXb98tzT6EcoNy7PYIyqL0Ms/edit?usp=sharing)
+          Sheet](https://docs.google.com/spreadsheets/d/1SMQhJm0uA8thrnE-2OPcXb98tzT6EcoNy7PYIyqL0Ms/edit?usp=sharing)
       - name: Kaveh Frames Mastersheet by jrm.spirit#2671
         value: >-
           [Google
-          Sheet <${EMOJIS.SHEET}> ](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
+          Sheet](https://docs.google.com/spreadsheets/d/1fzBWsBXiv5AqxzpDG9UiljKUPEDE1MUHIpz6vfHeL5s/edit?usp=sharing)
     author:
       name: Kaveh FAQ 
       icon_url: https://genshin.honeyhunterworld.com/img/kaveh_081_side_icon_70.webp?x78105
