@@ -31,6 +31,12 @@ options:
   description: WFP resources for Ayaka Softgoals.
   emoji: ${ EMOJIS.CRYO_BOX }
 
+  - label: Constellations
+  value: infographics/cryo/ayaka/constellations
+  description: WFP resources for Ayaka Softgoals.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+
 buttons:
 - label: KQM Guide
   url: https://keqingmains.com/ayaka/
