@@ -8,7 +8,7 @@ embeds:
     
     
     Elemental Burst > Normal Attack > Elemental Skill 
-  color: 7203178
+  color: 3174527
   image:
      url: https://media.discordapp.net/attachments/1087300734372020315/1094270802020540476/Untitled92_20230115154451.png?width=952&height=185
 - description: >-
@@ -16,7 +16,7 @@ embeds:
 
     
     Normal Attack > Elemental Skill > Elemental Burst
-  color: 7203178
+  color: 3174527
   image:
      url: https://media.discordapp.net/attachments/1087300734372020315/1094270802234462390/Untitled92_20230115154452.png?width=952&height=185
 
@@ -28,7 +28,7 @@ embeds:
     Aside from the funny animations, Kaveh’s Normal and Charged Attacks aren’t particularly impressive. They do gain a Dendro Infusion after using his Burst, though.
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_A_04.png
-  color: 7203178
+  color: 3174527
 
 - title: >-
     **Elemental Skill: Artistic Ingenuity**
@@ -38,7 +38,7 @@ embeds:
     A Skill cast generates **two Dendro Particles** and **detonates all Dendro Cores** in its radius, triggering Bloom instantly. Note that Kaveh does not claim ownership of the Blooms – whoever generated the Dendro Core still retains ownership. 
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_S_Kaveh_01.png
-  color: 7203178
+  color: 3174527
 
 - title: >-
     **Elemental Burst: Painted Dome** 
@@ -52,7 +52,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_E_Kaveh_01.png
-  color: 7203178
+  color: 3174527
 
 - title : |-
     __Effective EM Buff__
@@ -60,7 +60,7 @@ embeds:
     The Bloom Reaction DMG Bonus that Kaveh provides scales with his Elemental Burst’s Talent level. It’s a miniscule increase for his personal damage, but the team DPS you gain makes his Burst your first talent priority. 
     
     At Talent Level 9, this translates to 8% more Bloom DMG, assuming the trigger has 800 EM. However, this DMG Bonus does not apply to Hyperbloom, Burgeon, or Spread, so if you plan to play such teams, his Burst can be prioritized last. Here is a look at how much effective EM Kaveh’s buff equates to at Talent Level 9:
-  color: 7203178
+  color: 3174527
   image:
     url: https://media.discordapp.net/attachments/1080438890772578375/1093933752058646528/image.png?width=1080&height=662
 

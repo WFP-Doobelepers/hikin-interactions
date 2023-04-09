@@ -7,7 +7,7 @@ embeds:
 
 
     Setup with supports > Kaveh Skill > Finish setup with supports > Kaveh Burst > N3 Dash Spam + 2 Skill Cast (~12s)
-  color: 7203178
+  color: 3174527
 - title: General Combo Information
   description: |-
     🏛️ Try to get in **three Skill casts** to manage Kaveh’s Energy. To do this, cast one Skill around the start of your rotation. Cast the other two during Kaveh’s Burst.
@@ -20,7 +20,7 @@ embeds:
     
     🏛️ Avoid spending too much time on Kaveh – your Hydro/Electro/Pyro application and buffs will expire eventually.
 
-  color: 7203178
+  color: 3174527
   footer:
     text: 'Authored by: redd'
     icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png

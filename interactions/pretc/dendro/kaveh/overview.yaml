@@ -2,7 +2,7 @@
 content:
 embeds:
 - title: __CREDITS__
-  color: 7203178
+  color: 3174527
   fields:
   - name: 'Leads:'
     value: "<@510286757879742474>"
@@ -30,7 +30,7 @@ embeds:
     Kaveh is a Dendro on-field, supportive driver/enabler that specializes in Bloom teams. His kit gives him the ability to instantly rupture Dendro Cores, buff said Rupture DMG, and heal himself when hit by ensuing explosions. 
 
     As indicated by his kit, Kaveh works best in Bloom teams. If not paired with Nilou, Kaveh's teams are not limited to Dendro and Hydro units only, which allows for more team variety. During his Burst duration, he can grant himself valuable Interruption Resistance and respectable self-healing, setting him apart from existing Dendro drivers. 
-  color: 7203178
+  color: 3174527
   footer:
     text: 'Authored by: Latte'
     icon_url: https://media.discordapp.net/attachments/1087300734372020315/1094509952661463041/793d2518c2f5b8ddf774fd199707c4c1.png?width=225&height=225
