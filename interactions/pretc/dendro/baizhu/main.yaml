@@ -22,47 +22,47 @@ embeds:
 options: #dropdown
     
   - label: Overview
-    value: faq/dendro/baizhu/overview
+    value: pretc/dendro/baizhu/overview
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Talents
-    value: faq/dendro/baizhu/talents1
+    value: pretc/dendro/baizhu/talents1
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
   
   - label: Constellations
-    value: faq/dendro/baizhu/constellations1
+    value: pretc/dendro/baizhu/constellations1
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Combos
-    value: faq/dendro/baizhu/combos
+    value: pretc/dendro/baizhu/combos
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
     
   - label: ER Requirements
-    value: faq/dendro/baizhu/errequire
+    value: pretc/dendro/baizhu/errequire
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Artifacts
-    value: faq/dendro/baizhu/artifacts1
+    value: pretc/dendro/baizhu/artifacts1
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Weapons
-    value: faq/dendro/baizhu/weapons
+    value: pretc/dendro/baizhu/weapons
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
-    value: faq/dendro/baizhu/teambuilding
+    value: pretc/dendro/baizhu/teambuilding
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: External Links
-    value: faq/dendro/baizhu/external
+    value: pretc/dendro/baizhu/external
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
