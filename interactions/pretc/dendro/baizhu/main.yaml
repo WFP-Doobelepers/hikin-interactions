@@ -61,6 +61,11 @@ options: #dropdown
     description: "WFP resources for Baizhu FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
+  - label: Baizhu vs Nahida
+    value: pretc/dendro/baizhu/baizhunahida
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
   - label: External Links
     value: pretc/dendro/baizhu/external
     description: "WFP resources for Baizhu FAQ."
