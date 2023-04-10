@@ -5,7 +5,7 @@ embeds:
       His medicinal knowledge is encyclopedic, and his personal intrigues subtle.
     color: 5810290
     fields:
-      - name: 'Baizhu Mastersheet by NatC#9175, snowy#4028, Tsubasa#0387, Sir Von | Skill Deficiency Cult#7672, KB#1111:'
+      - name: 'Baizhu Mastersheet by NatC#9175, snowy#4028, Tsubasa#0387, Sir Von | Skill Deficiency Cult#7672, KB#1111, sigurd#3854'
         value: >-
           [Google
           Sheet](https://docs.google.com/spreadsheets/d/1E01Rs3-qKIVeLfh2L0vp14b_nmgTa89G7gapZytI7zA/edit#gid=981902297)
@@ -70,9 +70,4 @@ buttons:
   - label: WFP FAQ
     url: https://wangshengfp.org/faq/baizhu
     emoji: ${ EMOJIS.WFP_LOGO }
-    style: LINK
-
-  - label: KQM Guide
-    url: https://keqingmains.com/baizhu
-    emoji: :logont:945530991240421386
     style: LINK
