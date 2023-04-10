@@ -1,11 +1,9 @@
 embeds:
   - title: |-
-      __Baizhu or Nahida?__
-
-      <${EMOJIS.BAIZHU}> ⚡ <${EMOJIS.NAHIDA}>
+      __Baizhu or Nahida?__ 
     description: |-
-      
-      **Baizhu Pros**
+
+      <${EMOJIS.BAIZHU}>  **Baizhu Pros**
 
       <${EMOJIS.DENDRO}> Strong, consistent healing from his Elemental Skill and Burst.
 
@@ -15,7 +13,7 @@ embeds:
 
       <${EMOJIS.DENDRO}> Very easy to build due to not requiring many stats.
 
-      **Nahida Pros**
+      <${EMOJIS.NAHIDA}> **Nahida Pros**
 
       <${EMOJIS.DENDRO}> AoE, consistent Skill DMG, providing 1.5U Dendro per application.
 
@@ -48,7 +46,6 @@ embeds:
       **ER Requirements : **
 
       Finally, when being run as a solo Dendro unit, Baizhu’s ER Reqs are much higher than Nahida’s, who doesn’t rely as heavily on her Elemental Burst. This can result in players having to run not only Prototype Amber, but also even an Energy Recharge% Sands in extreme scenarios. Even though it’s not a great hit to his personal damage, it can be harder to build for, on top of all the other differences mentioned.
-
 
       In the end though, this doesn’t mean Nahida is “just better” than Baizhu. They perform drastically different roles and can’t truly replace one another in a solo Dendro scenario. However, when When they are run together, Nahida and Baizhu cover each other’s weaknesses. Nahida provides strong off-field damage, as well as high Dendro application, and Baizhu provides large amounts of healing and defensive utility. To sweeten the duo, Nahida’s Elemental Mastery buff on top of Dendro Resonance means Baizhu’s Reaction DMG Bonus buff gives more Effective EM to the on-field character. Although they do drastically different things solo, when together, they create a strong Double Dendro core for teams to build around.
     color: 5810290

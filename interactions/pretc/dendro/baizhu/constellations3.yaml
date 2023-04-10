@@ -4,7 +4,7 @@ embeds:
 - title: |-
     **C5 - The Hidden Ebb and Flow**
   description: |-
-    *Increases the Level of **Universal Diagnosis** by 3*
+    > *Increases the Level of **Universal Diagnosis** by 3*
 
     Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh’s damage comes from his Normal Attacks and/or Blooms. This means that you won’t be getting much in terms of extra damage.
   color: 5810290
@@ -33,7 +33,7 @@ embeds:
 - title: >- 
     **C6 -  Elimination of Malicious Qi**
   description: >- 
-    *Increases the DMG dealt by **Holistic Revivification's Spiritveins** by 8% of Baizhu's Max HP. Additionally, when **Gossamer Sprite** or **Gossamer Sprite: Splice** hit opponents, there is a 100% chance of generating one of **Holistic Revivification's Seamless Shields**. This effect can only be triggered once by a Gossamer Sprite or Gossamer Sprite: Splice*
+    > *Increases the DMG dealt by **Holistic Revivification's Spiritveins** by 8% of Baizhu's Max HP. Additionally, when **Gossamer Sprite** or **Gossamer Sprite: Splice** hit opponents, there is a 100% chance of generating one of **Holistic Revivification's Seamless Shields**. This effect can only be triggered once by a Gossamer Sprite or Gossamer Sprite: Splice*
 
 
     Adds HP% DMG scaling to his Elemental Burst, which makes its damage more noticeable. When his Elemental Skill or his Constellation 2 hits an opponent, a new shield is created when he uses his Elemental Burst, increasing his Dendro application. This Constellation adds roughly around six more applications of Dendro into a 20s rotation, making it possible to run Baizhu as your solo Dendro character in certain teams where you normally would not be able to. 

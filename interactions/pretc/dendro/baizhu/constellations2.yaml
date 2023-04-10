@@ -4,7 +4,7 @@ embeds:
 - title: >-
     **C3 - All Aspects Stabilized**
   description: |-
-    *Increases the Level of **Holistic Revivification** by 3.*
+    > *Increases the Level of **Holistic Revivification** by 3.*
 
     Adds three levels to his Elemental Burst. A relatively straightforward Constellation, increasing his almost negligible damage on his Burst ever so slightly. It also marginally increases Shield Strength and healing on his Elemental Burst, but his shield will still be relatively weak, and his healing will still be more than enough without this Constellation.
   color: 5810290
@@ -34,7 +34,7 @@ embeds:
 - title: |-
     **C4 - Ancient Art of Perception**
   description: |-
-    *For 15s after Holistic Revivification is used, Baizhu will increase all nearby party members' Elemental Mastery by 80*
+    > *For 15s after Holistic Revivification is used, Baizhu will increase all nearby party members' Elemental Mastery by 80*
 
     When Baizhu uses his Elemental Burst, he gives party members an additional 80 Elemental Mastery. While this may seem like a very good Constellation, since he will mostly be used in Dendro Reaction based teams, 80 Elemental Mastery is not as much as you might think. 
     
