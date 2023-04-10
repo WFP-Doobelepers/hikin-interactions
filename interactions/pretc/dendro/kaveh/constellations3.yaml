@@ -6,7 +6,7 @@ embeds:
     *Increases the Level of **Artistic Ingenuity** by 3.*
 
     Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh’s damage comes from his Normal Attacks and/or Blooms. This means that you won’t be getting much in terms of extra damage.
-  color: 3174527
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 12.93%
@@ -30,7 +30,7 @@ embeds:
 
 
     The Pairidaeza’s Light damage itself is nothing to write home about in a standard EM-centric build. Even if you reached 2000 ATK, you’d only get about 1200 damage from it, which is pitiful next to even one extra Bloom.
-  color: 3174527
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 1.22%

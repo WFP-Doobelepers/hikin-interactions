@@ -20,7 +20,7 @@ embeds:
     **EM**: At C1, Kaveh only needs about 100-200 EM to outheal Blooms, Bountiful Blooms, or Burgeons. This threshold can go up to 800 EM if you’re at C0 — for more details, check the mastersheet. Of course, you’ll still be taking damage from enemies, so you’ll want more EM if you don’t intend to run a healer. EM is also extra valuable on Kaveh since he’ll trigger a few Blooms himself. 
 
     **ATK%/CRIT**: Kaveh tends to be ATK deficient to the point that ATK% rolls can be better than CRIT ones. CRIT can be better once you have enough ATK and if you’re using Favonius Greatsword — use optimizer if you’re unsure. 
-  color: 3174527
+  color: 15256483
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235764793028799/selfvsheal.png?width=1104&height=580
   footer:

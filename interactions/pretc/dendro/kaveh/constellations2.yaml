@@ -7,7 +7,7 @@ embeds:
     *Increases the Level of **Painted Dome** by 3.*
 
     Kaveh’s Burst holds great priority given its boost to Bloom damage, but having higher Talent levels increases that boost marginally. You only get about an extra 2% per Talent level, so you get an extra 8% Bloom DMG Bonus in total going from Talent Level 9 to 12. The bonus is quite small in the grand scheme of things, but it won’t hurt you. It is not recommended to aim for this constellation in particular
-  color: 3174527
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 5.72%
@@ -29,7 +29,7 @@ embeds:
     In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 2.0% from C3. This constellation will gain more value the lower the EM your team has.
 
     The fact that Kaveh must trigger the Cores to obtain the C4 bonus conflicts with Nilou teams. Bountiful Cores explode almost immediately after being created, which means it’s nearly impossible for Kaveh to detonate himself. Therefore, this constellation has little synergy with Nilou teams.
-  color: 3174527
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 11.90%

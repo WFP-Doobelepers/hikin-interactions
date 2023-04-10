@@ -13,7 +13,7 @@ embeds:
     
 
     🏛️ He has high ER needs, which incentivizes bringing a second Dendro unit. He can still play as a solo Dendro, but you’ll have to invest in a lot of ER (check ER Requirement for more details).
-  color: 3174527
+  color: 15256483
 
 - title: >-
     __Bloom Team__
@@ -27,7 +27,7 @@ embeds:
 
     Kaveh’s utilities are geared towards Bloom teams — he can drive, heal himself, buff Blooms, and instantly detonate Cores, giving him a special spot in such teams. Due to Bloom’s mechanics, it’ll often be the Hydro unit(s) triggering them. As such, they usually favour EM builds, but their base Hydro DMG may be high enough that they still appreciate ATK/CRIT stats. Depending on how much Hydro and Dendro application you have, Kaveh still claims ownership of a few Dendro Cores here and there. The 4th slot can be a Dendro unit to supply extra Elemental application, contribute to Dendro Resonance, and battery Kaveh. Alternatively, you can use a Flex unit such as Kazuha or Sucrose to provide grouping and buffs. Bear in mind that without a second Dendro character, Kaveh becomes Energy-deficient and *he* becomes the one triggering Blooms. You can choose to play him as a solo Dendro, but he won’t be generating many Blooms anyway due to his mild Dendro application (especially before C6). It is recommended to play Bloom compositions in AoE stages. 
   
-  color: 3174527
+  color: 15256483
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235763538940065/bloom.png?width=1439&height=331
 
@@ -48,7 +48,7 @@ embeds:
 
     Contrary to what the last week of beta changes said, testing shows that Kaveh’s Normal Attacks still Shatter, and with it our Fridge dreams are also shattered. 
   
-  color: 3174527
+  color: 15256483
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094258621031923712/Kavehnilouhydrodendro.png?width=1439&height=331
 
@@ -84,7 +84,7 @@ embeds:
     <${EMOJIS.FLEX}> **Flex Slots:** Kazuha, Sucrose, Heizou, Venti, Bennett, Zhongli (Based off the wording, Kaveh’s A1 will not trigger with a shield)
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1094235763870281778/burgeon_hb.png?width=1439&height=331
-  color: 3174527
+  color: 15256483
   footer:
     text: 'Authored by redd'
     icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png
