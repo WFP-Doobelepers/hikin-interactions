@@ -1,0 +1,66 @@
+---
+content:
+embeds:
+- title: >-
+    __TALENTS__
+  description: |-
+
+    A large portion of Baizhu’s healing, shielding, and buffing scales with his Max HP. Thus, if you wish to utilize his kit to the fullest, leveling him to 90 should be a valid consideration.
+    
+    **Talent Priority**
+    
+    Elemental Burst > Elemental Skill > Normal Attack 
+
+    
+  color: 15256483
+  image:
+     url: https://media.discordapp.net/attachments/1087300734372020315/1094270802020540476/Untitled92_20230115154451.png?width=952&height=185
+
+- title: |-
+    __**TALENT OVERVIEW**__
+    
+    **Normal Attacks: The Classics of Acupuncture**
+  description: |-
+    Baizhu’s Normal Attack multipliers are slightly lower than Nahida’s. That being said, although the latter can be run on-field in certain scenarios, Baizhu prefers stacking HP% and ER% over any other offensive stats. Hence, there is little to no reason to run him on-field if your team does not need the additional Dendro application, unless you specifically wish to build him to do so. 
+    
+    However, be prepared for  Baizhu’s extremely small Normal Attack hitboxes, which will require you to essentially facehug your opponents in order to hit them.
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_A_Catalyst_MD.png
+  color: 15256483
+
+- title: >-
+    **Elemental Skill: Universal Diagnosis**
+  description: |-
+    *CD* : ***10s***
+
+    Baizhu’s Skill will create a **Gossamer Sprite** that will either travel in the direction Baizhu is facing (assuming there are no enemies) or attack an enemy, dealing Dendro DMG and hitting them up to three times in single-target or bouncing to different enemies in multi-target scenarios, prioritizing enemies that haven’t been previously hit by Gossamer Sprite. 
+    
+    Upon either reaching the end of its travel path or hitting enemies three times, the Gossamer Sprite will return to the party, healing all nearby party members by a percentage of Baizhu’s Max HP. 
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_S_Baizhuer_01.png
+  color: 15256483
+
+- title: >-
+    **Elemental Burst: Holistic Revivification**
+  description: |-
+    *CD* : ***20s***
+    *Energy Cost* : ***80***
+
+    Baizhu’s Burst makes him enter the **Pulsing Clarity** state for 14 seconds, generating a **Seamless Shield** that absorbs Dendro DMG with 250% effectiveness and reforms every 2.5 seconds after its initial creation.
+    
+    Although Baizhu’s shielding prowess isn’t his forte (1.36% Max HP + 156 at T9 - about 836HP absorption w/ Baizhu having 50,000 Max HP), the constant refreshing and healing every 2.5 seconds means that your active character should be well-protected, even in teams that are more dangerous to play in nature (e.g. Nilou Bloom).
+
+    Furthermore, thanks to the shields, your active character will also have noticeably increased resistance to interruption, even considering how small the shields are.
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_E_Baizhuer_01.png
+  color: 15256483
+
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+    
+buttons:
+- customId: liveInteraction#pretc/dendro/baizhu/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

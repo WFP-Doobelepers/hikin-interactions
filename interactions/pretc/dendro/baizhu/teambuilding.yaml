@@ -1,0 +1,110 @@
+---
+content:
+embeds:
+- title: |-
+    __TEAM BUILDING__
+      
+    **Quicken**
+  description: |-
+    
+    **Baizhu | Electro | Electro / Dendro | Flex*
+
+    For defensive options in Quicken teams, Baizhu competes strongly with characters like Zhongli and Yaoyao. Zhongli generally takes the place of an Anemo character, due to providing Universal Resistance Shred on top of immense comfort.
+
+    On the other hand, Yaoyao is able to keep the team healthy while providing enough Dendro application to easily sustain a Quicken aura if players are using their more prominent Dendro characters elsewhere. Baizhu is able to fill the same role of Dendro Applicator and healer while providing up to 40% Quicken Reaction DMG.
+
+    Unfortunately, his personal damage is rather poor and he can’t effectively build the CRIT or EM stats needed to provide meaningful Spreads to the team. Although Zhongli doesn’t do this either, his Universal Resistance Shred goes a long way in boosting the output of the team’s main damage dealers. Alongside Nahida, Baizhu can make a strong Double Dendro core, though it won’t be setting any DPS records.
+
+    __**Teammates**__
+
+    <${EMOJIS.ELECTRO}> **Electro options:** Keqing / Raiden / Fischl / Yae / Sara / Beidou
+    
+    <${EMOJIS.DENDRO}> **Dendro options:** Nahida / Tighnari / Alhaitham / Collei / Dendro Traveler
+    
+    <${EMOJIS.FLEX}> **Flex options:** Anemo / Any above Electro / Any above Dendro
+  color: 15256483
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095002800506806292/quicken.png?width=1439&height=331
+
+- title: >-
+    **Hyperbloom**
+  description: |-
+
+    **Baizhu | Electro | Hydro | Flex**
+
+    Baizhu is also able to bring defensive utility to Hyperbloom teams. However, his role is more contested here due to the existence of Kuki, covering the roles of both Hyperbloom trigger and healer. If players find Kuki’s healing to not be enough, both characters can be ran together due to Kuki still being a strong Hyperbloom trigger. Alternatively, she can be replaced for Raiden, due to her frequent off-field Elemental Skill hits.
+
+    The main downside to Baizhu in Hyperbloom teams is his A4 Passive being effectively useless, due to only being applied to the on-fielder. It also only lasts 6 seconds at a time, meaning that it generally isn’t worth swapping to your Hyperbloom trigger just for the buff. If running Baizhu, players may also wish to bring a second Dendro character for consistent application, due to Baizhu’s Elemental Burst being single-target and applying a lot slower than Bloom Reactions can hit.
+
+    __**Teammates**__
+
+    <${EMOJIS.ELECTRO}> **Electro options:** Raiden / Kuki
+    
+    <${EMOJIS.HYDRO}> **Hydro options:** Xingqiu / Yelan / Kokomi / Ayato
+    
+    <${EMOJIS.FLEX}> **Flex options:** Anemo / Dendro / Yae / Fischl / Any above Hydro
+  
+  color: 15256483
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095033744072650762/hb.png?width=1439&height=331
+
+- title: |-
+    **Quickbloom**
+  description: |-
+    **Baizhu | Electro | Hydro | Flex**
+    
+    A variation on Hyperbloom teams that allows for both Quicken and Hyperbloom Reactions to be triggered simultaneously. For Quickbloom teams specifically, Baizhu’s main standout partner is Cyno, due to him utilizing both the Reaction DMG buffs from Baizhu’s A4 Passive as well as benefiting from the increased Interruption Resistance and more healing than current popular alternatives (such as Kuki). Baizhu’s staggered Dendro application can also be a benefit in multiwave content, due to not expiring once the first wave dies.
+
+    In Quickbloom, players have the choice to run a second Dendro for more consistent application, or a second Electro to capitalize on Aggravates and Electro Resonance. However, characters such as Cyno may have Energy issues in Double Dendro scenarios without multiple Favonius weapons.
+
+    __**Teammates**__
+    <${EMOJIS.ELECTRO}> **Electro (Quickbloom Options):** Cyno / Keqing / Raiden / Kuki / Yae / Fischl
+
+    <${EMOJIS.HYDRO}> **Hydro Options:** Xingqiu / Yelan / Kokomi
+     
+    <${EMOJIS.FLEX}> **Flex Slots:** Anemo / Dendro / Any above Electro
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095034686960574615/quickbloom.png?width=1439&height=331
+  color: 15256483
+
+- title: |-
+    **Burgeon**
+  description: |-
+    **Baizhu | Pyro | Hydro | Flex**
+    
+    Although Baizhu’s Dendro application isn’t great in AoE, he can be used as a defensive option in Burgeon teams, providing more comfort to players who aren’t comfortable playing Thoma on a full EM build as the only defensive option.
+
+    Despite this, Burgeon teams will generally still want a second Dendro character for consistent Dendro application, as well as enabling Dendro Resonance, increasing the overall EM of the team. However, like Hyperbloom teams, Burgeon teams also generally rely on an off-field trigger, making Baizhu’s A4 Passive effectively useless again.
+    
+    __**Teammates**__
+    <${EMOJIS.PYRO}> **Pyro Options:** Thoma
+
+    <${EMOJIS.HYDRO}> **Hydro Options:** Ayato / Xingqiu / Yelan / Kokomi
+     
+    <${EMOJIS.FLEX}> **Flex Slots:** Anemo / Dendro / Bennett / Any above Hydro
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095036058724483175/burgeon.png?width=1439&height=331
+  color: 15256483
+  
+- title: |-
+    **Nilou Bloom**
+  description: |-
+    **Baizhu | Pyro | Hydro | Flex**
+    
+    In Nilou Bloom teams, Baizhu has his strength as an alternative to Yaoyao. Although his Burst application is relatively Single-target locked, it’s staggered over the duration of 14 seconds compared to Yaoyao’s Burst, which instead concentrates its AoE Dendro Application into a short period. 
+
+    On top of large amounts of healing, he also provides shields, which may not be the largest, but still absorb Dendro DMG with 250% effectiveness, adding extra comfort and Interruption Resistance to the team. Finally, Baizhu also provides up to 100% Bloom Reaction DMG to teammates when healing with his Burst.
+
+    Due to the quickswap nature of Nilou teams, this buff can quite easily be applied to several party members in a rotation, increasing its usefulness. At the end of the day, he’s another defensive Dendro option that players can slot into Nilou teams over Yaoyao if they’d like.
+
+    __**Teammates**__
+    <${EMOJIS.HYDRO}> **Hydro Options:** Kokomi / Xingqiu / Yelan / Ayato / Candace 
+
+    <${EMOJIS.DENDRO}> **Dendro Options:** Nahida / Collei / Dendro Traveler / Alhaitham 
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095036058724483175/burgeon.png?width=1439&height=331
+  color: 15256483
+  
+  footer:
+    text: 'Authored by redd'
+    icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png

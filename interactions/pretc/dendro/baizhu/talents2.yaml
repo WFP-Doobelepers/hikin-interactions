@@ -1,0 +1,45 @@
+---
+content:
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Five Fortunes Forever**
+  description: |-
+    Baizhu’s Ascension 1 Talent has two components to it, being somewhat similar in nature to a Constellation 0 Bennett. When your active character is below 50% HP, Baizhu will gain an additional 20% Healing Bonus, enabling him to more reliably keep your active character healthy.
+
+    On the other hand, when your active character’s HP is equal to or above 50%, Baizhu will gain 25% Dendro DMG Bonus, which can be helpful when the team does not require the excess healing.
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_05.png
+  color: 15256483
+
+- title: >-
+    **Ascension 4 Passive: All Things Are of the Earth**
+  description: >-
+    Baizhu’s Ascension 4 Talent gives him some much needed team buffing to help set him apart from other defensive characters, providing characters healed by his Burst 2% Bloom Reaction DMG and 0.8% Quicken Reaction DMG for every 1,000 Max HP he has, up to 50,000. This means he can provide up to 100% Bloom and 40% Quicken Reaction DMG at 50,000 HP, incentivising players to stack HP on Baizhu.
+
+    Thankfully, Baizhu doesn’t particularly care for stats outside of HP and ER, meaning building for this Passive doesn’t hinder his performance. Unfortunately, this buff only lasts six seconds until it needs to be refreshed again, meaning it doesn’t benefit off-field teammates much, if at all.
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_06.png
+  color: 15256483
+
+- title: >-
+    **Overworld Passive: Herbal Nourishment**
+  description: >-
+    Baizhu’s Overworld Passive heals the active character slightly when collecting certain harvestable items. A simple yet convenient Passive when exploring.
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_07.png
+  color: 15256483
+
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+
+buttons:
+- customId: liveInteraction#pretc/dendro/baizhu/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

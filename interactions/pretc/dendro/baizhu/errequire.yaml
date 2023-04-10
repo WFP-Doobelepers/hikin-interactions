@@ -1,0 +1,17 @@
+---
+content:
+embeds:
+- title: __Energy Recharge REQUIREMENT__
+  description: |-
+    Baizhu’s Elemental Skill generates three Particles with a 50% chance of four upon first hitting an enemy. Due to having an 80 cost Burst, Baizhu’s Energy requirements are extremely high. Thankfully, both Prototype Amber and his signature weapon, Jadefall’s Splendor, grant Flat Energy. Hence, they are vital in making his requirements manageable. 
+    
+    In quickswap-style teams, Baizhu can fit two Skill casts helping to reduce his Energy requirements by around 30%. All calculations use Prototype Amber R5 and assume he’s off-field when Favonius is triggered, due to Baizhu never wanting to take increased field time.
+
+    For a more accurate approximation of his requirements for your rotation, please use the Energy Recharge calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+  color: 15256483
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+  
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1094976312600445079/erreq.png?width=1439&height=445

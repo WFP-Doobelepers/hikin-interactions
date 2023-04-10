@@ -1,0 +1,40 @@
+---
+content:
+embeds:
+- title: __CREDITS__
+  color: 3439221
+  fields:
+  - name: 'Leads:'
+    value: "<@148100838861176832>"
+  - name: 'Authors:'
+    value: "<@148100838861176832>, <@280016643558604800>, <@178766970450214912>"
+  - name: 'Calculations:'
+    value: "<@148100838861176832>, <@94978723341668352>, <@377496350155079690>, <@651556217315000360>, <@560160964759257104>"
+  - name: 'Framecounts:'
+    value: "<@377496350155079690>"
+  - name: 'Consulting:'
+    value: "<@366206663533002774>, <@280016643558604800>, <@94978723341668352>, <@147571130943799296>"
+  - name: 'Resources:'
+    value: |-
+      [Baizhu Mastersheet](https://docs.google.com/spreadsheets/d/1E01Rs3-qKIVeLfh2L0vp14b_nmgTa89G7gapZytI7zA/edit#gid=2065034468)
+      [Baizhu Frames Mastersheet](https://docs.google.com/spreadsheets/d/1mtysF-UgyMopt70zKSxPnA9WXuVOwN6HCatDjBaoC9E/edit#gid=0)
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. 
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1094952617249079446/Fs1flKdaIAAeEVJ.png?width=1186&height=662
+- title: __OVERVIEW__
+  description: |-
+    
+    Baizhu is a 5-star defensive character, providing high amounts of healing through both his Elemental Skill and Burst. 
+
+    On top of this, his Ascension 4 Passive provides a substantial Dendro Reaction DMG buff to characters healed by his Elemental Burst, based on his Max HP. This incentivises players to build him with as much HP as possible, which is made easier by his HP% Ascension stat. His personal damage will be relatively low in exchange for the comfort he provides. 
+
+    In terms of teams, Baizhu is quite flexible, finding a spot in most teams where his sustained Dendro application and defensive utility is appreciated. Baizhu also has relatively low field time, needing only to cast his Skill, Burst, and then swap off.
+  color: 3439221
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/baizhuer_082_icon.webp?x15385

@@ -1,0 +1,28 @@
+---
+content:
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <${EMOJIS.SANDS}> *Sands of Eon:* HP% or ER%
+    <${EMOJIS.GOBLET}> *Goblet of Eonothem:* HP%
+    <${EMOJIS.CIRCLET}> *Circlet of Logos:* HP% or HB%
+
+    Due to Baizhu contributing very little team damage, it's best to focus strictly on his defensive utility by building mainly for HP%. On top of this, his A4 Passive scales with his Max HP up to 50k, meaning players should try to get as close to 50k HP as possible after meeting his Energy requirements.
+
+    Since Baizhu's Burst has a high energy cost and he has low Energy generation, some players may need to run an Energy Recharge% Sands to accommodate his needs. HP% Circlet tends to be better overall than Healing Bonus%, however it is a valid option if players have nothing else.
+
+    **Substats:** ER% (Until ER Reqs are met) > HP% (Until 50k) > EM (If Nilou Bloom)
+
+    Baizhu doesn’t need many stats at all, as players are able to cap out his A4 Passive at KQM investment with little to no HP substats. This allows players to focus on his Energy Recharge, the main caveat of his kit. Once both of these stats reach their recommended level, there aren’t really any stats he benefits from, making him quite cheap to build. In Nilou Bloom teams specifically, extra EM substats wouldn’t hurt.
+  color: 15256483
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1094235764793028799/selfvsheal.png?width=1104&height=580
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+
+buttons:
+- customId: liveInteraction#pretc/dendro/kaveh/artifacts2
+  label: Artifact Sets
+  style: PRIMARY
+  emoji: "▶️"
