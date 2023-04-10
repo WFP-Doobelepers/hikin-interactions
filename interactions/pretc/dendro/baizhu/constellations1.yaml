@@ -6,7 +6,7 @@ embeds:
 
   description: |-
     **NOTE: Unless your Baizhu is specifically built to maximize damage, his personal DPS should not be your primary target of optimization. DPS numbers below are calculated with Baizhu optimized for a support build, so performance will vary if you decide to build him for damage.**
-  color: 15256483
+  color: 5810290
 
 - title: |-
     **C1 - Attentive Observation**
@@ -14,7 +14,7 @@ embeds:
    > *Universal Diagnosis gains 1 additional charge.*
 
    This Constellation gives Baizhu’s Elemental Skill an extra charge. This Constellation can help with achieving slightly more Dendro application and healing while also giving his rotations more flexibility and forgiveness. Being able to get in an extra Elemental Skill in a rotation also helps with his Energy issues. 
-  color: 15256483
+  color: 5810290
   fields:
   - name: "*Aggravate DPS Increase from C0:*"
     value: 9.80%
@@ -42,7 +42,7 @@ embeds:
     
     This Constellation seems to not have a requirement to trigger besides dealing damage to enemies, and seems to just activate whenever Baizhu is on the team. The ability to apply extra Dendro without taking any extra field time makes this Constellation pretty decent in certain teams with characters that need to stay on-field for longer durations, such as Cyno.
 
-  color: 15256483
+  color: 5810290
   fields:
   - name: "*Aggravate DPS Increase from C0:*"
     value: 45.73%

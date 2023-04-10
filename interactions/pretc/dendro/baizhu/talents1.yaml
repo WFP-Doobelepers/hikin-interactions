@@ -12,7 +12,7 @@ embeds:
     Elemental Burst > Elemental Skill > Normal Attack 
 
     
-  color: 15256483
+  color: 5810290
   image:
      url: https://media.discordapp.net/attachments/1087300734372020315/1094270802020540476/Untitled92_20230115154451.png?width=952&height=185
 
@@ -26,7 +26,7 @@ embeds:
     However, be prepared for  Baizhu’s extremely small Normal Attack hitboxes, which will require you to essentially facehug your opponents in order to hit them.
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_A_Catalyst_MD.png
-  color: 15256483
+  color: 5810290
 
 - title: >-
     **Elemental Skill: Universal Diagnosis**
@@ -38,7 +38,7 @@ embeds:
     Upon either reaching the end of its travel path or hitting enemies three times, the Gossamer Sprite will return to the party, healing all nearby party members by a percentage of Baizhu’s Max HP. 
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_S_Baizhuer_01.png
-  color: 15256483
+  color: 5810290
 
 - title: >-
     **Elemental Burst: Holistic Revivification**
@@ -53,7 +53,7 @@ embeds:
     Furthermore, thanks to the shields, your active character will also have noticeably increased resistance to interruption, even considering how small the shields are.
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_E_Baizhuer_01.png
-  color: 15256483
+  color: 5810290
 
   footer:
     text: 'Authored by: NatC'

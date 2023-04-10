@@ -12,7 +12,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_05.png
-  color: 15256483
+  color: 5810290
 
 - title: >-
     **Ascension 4 Passive: All Things Are of the Earth**
@@ -23,7 +23,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_06.png
-  color: 15256483
+  color: 5810290
 
 - title: >-
     **Overworld Passive: Herbal Nourishment**
@@ -32,7 +32,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_07.png
-  color: 15256483
+  color: 5810290
 
   footer:
     text: 'Authored by: NatC'

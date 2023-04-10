@@ -7,7 +7,7 @@ embeds:
     *Increases the Level of **Holistic Revivification** by 3.*
 
     Adds three levels to his Elemental Burst. A relatively straightforward Constellation, increasing his almost negligible damage on his Burst ever so slightly. It also marginally increases Shield Strength and healing on his Elemental Burst, but his shield will still be relatively weak, and his healing will still be more than enough without this Constellation.
-  color: 15256483
+  color: 5810290
   fields:
   - name: "*Aggravate DPS Increase from C0:*"
     value: 50.92%
@@ -40,7 +40,7 @@ embeds:
     
     If your main focus is Elemental Mastery sharing for Baizhu, just equipping a 4PC Instructor set alone will give 120 Elemental Mastery for the whole team. While adding an extra 80 Elemental Mastery will still be a damage increase for the team, it’s not the biggest.
 
-  color: 15256483
+  color: 5810290
   fields:
   - name: "*Aggravate DPS Increase from C0:*"
     value: 50.92%

@@ -2,7 +2,7 @@
 content:
 embeds:
 - title: __CREDITS__
-  color: 3439221
+  color: 5810290
   fields:
   - name: 'Leads:'
     value: "<@148100838861176832>"
@@ -32,7 +32,7 @@ embeds:
     On top of this, his Ascension 4 Passive provides a substantial Dendro Reaction DMG buff to characters healed by his Elemental Burst, based on his Max HP. This incentivises players to build him with as much HP as possible, which is made easier by his HP% Ascension stat. His personal damage will be relatively low in exchange for the comfort he provides. 
 
     In terms of teams, Baizhu is quite flexible, finding a spot in most teams where his sustained Dendro application and defensive utility is appreciated. Baizhu also has relatively low field time, needing only to cast his Skill, Burst, and then swap off.
-  color: 3439221
+  color: 5810290
   footer:
     text: 'Authored by: Leifa'
     icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662

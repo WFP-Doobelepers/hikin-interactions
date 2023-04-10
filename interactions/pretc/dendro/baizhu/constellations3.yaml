@@ -7,7 +7,7 @@ embeds:
     *Increases the Level of **Universal Diagnosis** by 3*
 
     Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh’s damage comes from his Normal Attacks and/or Blooms. This means that you won’t be getting much in terms of extra damage.
-  color: 15256483
+  color: 5810290
   fields:
   - name: "*Aggravate DPS Increase from C0:*"
     value: 102.55%
@@ -39,7 +39,7 @@ embeds:
     Adds HP% DMG scaling to his Elemental Burst, which makes its damage more noticeable. When his Elemental Skill or his Constellation 2 hits an opponent, a new shield is created when he uses his Elemental Burst, increasing his Dendro application. This Constellation adds roughly around six more applications of Dendro into a 20s rotation, making it possible to run Baizhu as your solo Dendro character in certain teams where you normally would not be able to. 
     A decent Constellation, but overall underwhelming compared to other limited 5-star C6s.
 
-  color: 15256483
+  color: 5810290
   fields:
   - name: "*Aggravate DPS Increase from C0:*"
     value: 169.44%
