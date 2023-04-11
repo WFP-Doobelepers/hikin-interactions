@@ -9,14 +9,14 @@ embeds:
     Adds three levels to his Elemental Burst. A relatively straightforward Constellation, increasing his almost negligible damage on his Burst ever so slightly. It also marginally increases Shield Strength and healing on his Elemental Burst, but his shield will still be relatively weak, and his healing will still be more than enough without this Constellation.
   color: 5810290
   fields:
-  - name: "*Aggravate DPS Increase from C0:*"
-    value: 50.92%
-  - name: "*Aggravate DPS Increase from C2:*"
-    value: 3.56%   
+  - name: "*Team Aggravate DPS Increase from C0:*"
+    value: 3.83%
+  - name: "*Team Aggravate DPS Increase from C2:*"
+    value: 0.10%
   - name: "*Team Bloom DPS Increase from C0:*"
-    value: ??
+    value: 3.87%
   - name: "*Team Bloom DPS Increase from C2:*"
-    value: ??
+    value: 0.07%
   - name: "*Total Team Healing Increase from C0:*"
     value: 52.7%
   - name: "*Total Team Healing Increase from C2:*"
@@ -42,14 +42,14 @@ embeds:
 
   color: 5810290
   fields:
-  - name: "*Aggravate DPS Increase from C0:*"
-    value: 50.92%
-  - name: "*Aggravate DPS Increase from C3:*"
-    value: 3.56%   
+  - name: "*Team Aggravate DPS Increase from C0:*"
+    value: 5.43%
+  - name: "*Team Aggravate DPS Increase from C3:*"
+    value: 2.53%  
   - name: "*Team Bloom DPS Increase from C0:*"
-    value: ??
+    value: 5.55%
   - name: "*Team Bloom DPS Increase from C3:*"
-    value: ??
+    value: 1.62%
   - name: "*Total Team Healing Increase from C0:*"
     value: 52.7%
   - name: "*Total Team Healing Increase from C3:*"

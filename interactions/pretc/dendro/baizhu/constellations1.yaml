@@ -16,10 +16,10 @@ embeds:
    This Constellation gives Baizhu’s Elemental Skill an extra charge. This Constellation can help with achieving slightly more Dendro application and healing while also giving his rotations more flexibility and forgiveness. Being able to get in an extra Elemental Skill in a rotation also helps with his Energy issues. 
   color: 5810290
   fields:
-  - name: "*Aggravate DPS Increase from C0:*"
-    value: 9.80%
+  - name: "*Team Aggravate DPS Increase from C0:*"
+    value: 1.23%
   - name: "*Team Bloom DPS Increase from C0:*"
-    value: ??
+    value: 0.41%
   - name: "*Total Team Healing Increase from C0:*"
     value: 0%
   - name: "*Single Target Increase from C0:*"
@@ -44,14 +44,14 @@ embeds:
 
   color: 5810290
   fields:
-  - name: "*Aggravate DPS Increase from C0:*"
-    value: 45.73%
-  - name: "*Aggravate DPS Increase from C1:*"
-    value: 32.72%   
+  - name: "*Team Aggravate DPS Increase from C0:*"
+    value: 2.73%
+  - name: "*Team Aggravate DPS Increase from C1:*"
+    value: 1.48%
   - name: "*Team Bloom DPS Increase from C0:*"
-    value: ??
+    value: 3.80%
   - name: "*Team Bloom DPS Increase from C1:*"
-    value: ??
+    value: 3.37%
   - name: "*Total Team Healing Increase from C0:*"
     value: 43%
   - name: "*Total Team Healing Increase from C1:*"
