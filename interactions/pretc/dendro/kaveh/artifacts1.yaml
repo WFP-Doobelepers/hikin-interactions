@@ -17,7 +17,7 @@ embeds:
 
     **ER**: Most of Kaveh’s utilities are locked behind his Elemental Burst. Needless to say, having enough ER to Burst every rotation is first priority. Check the above section or use an ER calculator to determine how much ER you’ll need.
 
-    **EM**: At C1, Kaveh only needs about 100-200 EM to outheal Blooms, Bountiful Blooms, or Burgeons. This threshold can go up to 800 EM if you’re at C0 — for more details, check the mastersheet. Of course, you’ll still be taking damage from enemies, so you’ll want more EM if you don’t intend to run a healer. EM is also extra valuable on Kaveh since he’ll trigger a few Blooms himself. 
+    **EM**:  EM is helpful for both reaction damage and Kaveh's healing. With C1 active, he needs about 300-400 EM to out-heal Blooms, Bountiful Blooms, or Burgeons triggered by a teammate with 1000 EM. Since C1 only has about 50% uptime, expect to build at least 500-600 EM. In fact, you'll probably even want more EM since enemies will also be damaging you or if Kaveh is C0. If you're already running a healer, EM isn't as necessary. Check the mastersheet for more details on EM thresholds.
 
     **ATK%/CRIT**: Kaveh tends to be ATK deficient to the point that ATK% rolls can be better than CRIT ones. CRIT can be better once you have enough ATK and if you’re using Favonius Greatsword — use optimizer if you’re unsure. 
   color: 15256483
