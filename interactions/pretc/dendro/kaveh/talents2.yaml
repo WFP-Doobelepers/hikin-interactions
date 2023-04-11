@@ -7,7 +7,6 @@ embeds:
     **Ascension 1 Passive: An Architect’s Undertaking**
   description: >-
     Kaveh regenerates HP based off 300% of his EM every time he is damaged by Bloom, Burgeon, or Hyperbloom. With 800 EM and C1, Kaveh heals himself for 3000 HP. Each 100 points of EM equals 375 HP worth of healing (at C1).  This Passive can be triggered once every 0.5s, which conveniently aligns with Bloom, Burgeon, and Hyperbloom’s self-damage cooldowns, but note that it may be difficult to get hit by your own Hyperblooms due to its small AoE. This Talent is a significant boon to Kaveh’s survivability and makes EM more valuable; unfortunately, it does not heal the rest of the team.
-    With a 70 Cost Burst and 18s CD, Dehya’s Energy Recharge requirements are massive at 200% or more with a Favonius weapon on the team and multiple Pyro teammates, and without exceptional payoff.
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_05.png
