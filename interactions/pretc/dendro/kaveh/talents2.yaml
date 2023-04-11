@@ -1,7 +1,7 @@
 ---
 content:
 embeds:
-- title: >-
+- title: |-
     __Passives__
 
     **Ascension 1 Passive: An Architect’s Undertaking**
@@ -11,7 +11,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_05.png
-  color: 7203178
+  color: 15256483
 
 - title: >-
     **Ascension 4 Passive: A Craftsman’s Curious Conceptions**
@@ -20,7 +20,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_06.png
-  color: 7203178
+  color: 15256483
 
 - title: >-
     **Overworld Passive: The Art of Budgeting**
@@ -29,7 +29,11 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Yoimiya_07.png
-  color: 7203178
+  color: 15256483
+
+  footer:
+    text: 'Authored by: redd'
+    icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png
 
 buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/talents1

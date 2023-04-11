@@ -1,0 +1,53 @@
+embeds:
+  - title: |-
+      __Baizhu or Nahida?__ 
+    description: |-
+
+      <${EMOJIS.BAIZHU}>  **Baizhu Pros**
+
+      <${EMOJIS.DENDRO}> Strong, consistent healing from his Elemental Skill and Burst.
+
+      <${EMOJIS.DENDRO}> Interruption Resistance from his small, refreshing shields.
+
+      <${EMOJIS.DENDRO}> Quicken and Bloom Reaction DMG% buff, which doesn’t diminish alongside Elemental Mastery.
+
+      <${EMOJIS.DENDRO}> Very easy to build due to not requiring many stats.
+
+      <${EMOJIS.NAHIDA}> **Nahida Pros**
+
+      <${EMOJIS.DENDRO}> AoE, consistent Skill DMG, providing 1.5U Dendro per application.
+
+      <${EMOJIS.DENDRO}> Able to drive off-field characters with ranged, on-field Normal Attacks with decent AoE.
+
+      <${EMOJIS.DENDRO}> Large Elemental Mastery buff, which affects all reactions.
+
+      <${EMOJIS.DENDRO}> Good, staggered, off-field particle generation.
+    color: 5810290
+
+  - title: |-
+      __Analysis__
+    description: |-
+      Due to both being 5-star Dendro Catalyst characters who also provide an Elemental Reaction buff through their passives, people will be quick to call Baizhu a “Defensive Nahida”. However, they are not interchangeable.
+
+      **Burst Particle AoE : ** 
+      
+      For starters, Baizhu’s Elemental Burst projectiles are extremely small, hence they’re effectively single-target locked. This means that in AoE scenarios he will not only struggle to apply Dendro, but also not consistently refresh Deepwood’s Resistance Shred. In comparison, Nahida’s Elemental Skill consistently applies Dendro to all enemies marked by her Skill, easily keeping Deepwood’s Resistance Shred active on all targets. 
+
+      **Dendro Application : **
+
+      On top of this, Baizhu’s Elemental application is significantly weaker than Nahida’s. Baizhu’s Elemental Burst application is only 1U, compared to Nahida’s 1.5U, meaning that as a solo Dendro unit, he won’t be enabling nearly as many reactions as Nahida. This is notable for teams such as Quickbloom, where your Quicken aura will not only be wiped out quicker, but fewer Bloom Cores will be created from it as well. 
+
+      On the other hand, this means his Elemental Burst hits will almost always be applying Dendro onto an Electro-Charged aura, resulting in both a Bloom Core and Quicken aura again. Unfortunately, this interaction isn’t enough for his application to allow for more Elemental Reactions off one Dendro aura compared to Nahida. 
+
+      **Buffing Teammates : **
+
+      Thirdly, although Baizhu and Nahida both boost their teammates’ Reaction DMG through their passives, Baizhu’s buff is Quicken and Bloom Reaction DMG%, while Nahida’s is pure Elemental Mastery. This means that Nahida’s buff will be less effective when there are already other Elemental Mastery sources on the team. In contrast, Baizhu’s A4 does not suffer the same diminishing returns as EM does, making it better in situations where characters would already be building a lot of Elemental Mastery.
+
+      **ER Requirements : **
+
+      Finally, when being run as a solo Dendro unit, Baizhu’s ER Reqs are much higher than Nahida’s, who doesn’t rely as heavily on her Elemental Burst. This can result in players having to run not only Prototype Amber, but also even an Energy Recharge% Sands in extreme scenarios. Even though it’s not a great hit to his personal damage, it can be harder to build for, on top of all the other differences mentioned.
+
+      In the end though, this doesn’t mean Nahida is “just better” than Baizhu. They perform drastically different roles and can’t truly replace one another in a solo Dendro scenario. However, when When they are run together, Nahida and Baizhu cover each other’s weaknesses. Nahida provides strong off-field damage, as well as high Dendro application, and Baizhu provides large amounts of healing and defensive utility. To sweeten the duo, Nahida’s Elemental Mastery buff on top of Dendro Resonance means Baizhu’s Reaction DMG Bonus buff gives more Effective EM to the on-field character. Although they do drastically different things solo, when together, they create a strong Double Dendro core for teams to build around.
+    color: 5810290
+
+      

@@ -2,23 +2,27 @@
 content:
 embeds:
 - title: __CREDITS__
-  color: 7203178
+  color: 15256483
   fields:
   - name: 'Leads:'
     value: "<@510286757879742474>"
   - name: 'Authors:'
-    value: "<@510286757879742474>, Featherlatte#0974, <@128341430757359616>, <@463998487067885600>"
+    value: "<@510286757879742474>, <@1092084118256361602>, <@128341430757359616>, <@463998487067885600>"
   - name: 'Calculations:'
     value: "<@510286757879742474>, <@128341430757359616>"
   - name: 'Framecounts:'
     value: "<@367160010335191054>"
+  - name: 'Consultation:'
+    value: '<@463998487067885600>, <@366206663533002774>'
+  - name: 'Editor:'
+    value: '<@280016643558604800>'
   - name: 'Resources:'
     value: |-
-      [Alhaitham Mastersheet](https://docs.google.com/spreadsheets/d/1SMQhJm0uA8thrnE-2OPcXb98tzT6EcoNy7PYIyqL0Ms/edit?usp=sharing)
-      [Alhaitham Frames Mastersheet](https://docs.google.com/spreadsheets/d/1D9uFBSk1fICRzX2n0sAVxHrCS3k_Kl_hAZ3lTr4MuaM/edit?usp=sharing)
-      
-                                     
-      "*Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*"
+      [Kaveh Mastersheet](https://docs.google.com/spreadsheets/d/1SMQhJm0uA8thrnE-2OPcXb98tzT6EcoNy7PYIyqL0Ms/edit?usp=sharing)
+      [Kaveh Frames Mastersheet](https://docs.google.com/spreadsheets/d/1D9uFBSk1fICRzX2n0sAVxHrCS3k_Kl_hAZ3lTr4MuaM/edit?usp=sharing)
+  - name: 'DISCLAIMER'
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
   image:
     url: https://media.discordapp.net/attachments/1080438890772578375/1093948156410069116/image.png?width=1439&height=651
 - title: __OVERVIEW__
@@ -26,8 +30,9 @@ embeds:
     Kaveh is a Dendro on-field, supportive driver/enabler that specializes in Bloom teams. His kit gives him the ability to instantly rupture Dendro Cores, buff said Rupture DMG, and heal himself when hit by ensuing explosions. 
 
     As indicated by his kit, Kaveh works best in Bloom teams. If not paired with Nilou, Kaveh's teams are not limited to Dendro and Hydro units only, which allows for more team variety. During his Burst duration, he can grant himself valuable Interruption Resistance and respectable self-healing, setting him apart from existing Dendro drivers. 
-  color: 7203178
+  color: 15256483
   footer:
     text: 'Authored by: Latte'
+    icon_url: https://media.discordapp.net/attachments/1087300734372020315/1094509952661463041/793d2518c2f5b8ddf774fd199707c4c1.png?width=225&height=225
   thumbnail:
     url: https://genshin.honeyhunterworld.com/img/kaveh_081_icon_70.webp?x78105

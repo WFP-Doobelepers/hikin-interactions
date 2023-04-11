@@ -1,12 +1,12 @@
 ---
 content:
 embeds:
-- title: C5 - Sagacity
+- title: **C5 - Treasures of Bonkhanak**
   description: |-
     *Increases the Level of **Artistic Ingenuity** by 3.*
 
     Unfortunately, the damage of the Skill itself is quite low, since most of Kaveh’s damage comes from his Normal Attacks and/or Blooms. This means that you won’t be getting much in terms of extra damage.
-  color: 7203178
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 12.93%
@@ -30,7 +30,7 @@ embeds:
 
 
     The Pairidaeza’s Light damage itself is nothing to write home about in a standard EM-centric build. Even if you reached 2000 ATK, you’d only get about 1200 damage from it, which is pitiful next to even one extra Bloom.
-  color: 7203178
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 1.22%
@@ -44,6 +44,7 @@ embeds:
     value: 3/5
   footer:
     text: 'Authored by: jd'
+    icon_url: https://images-ext-1.discordapp.net/external/yiPxZb6p5OT2A__G_9Y9k76wNKVYyqTHoqsphczZNv0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/128341430757359616/9d40b88e2047b47f0001cbd39fbf0d44.png?width=662&height=662
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_04.png
 

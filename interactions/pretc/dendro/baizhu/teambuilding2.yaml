@@ -1,0 +1,52 @@
+---
+content:
+embeds:
+- title: |-
+    **Burgeon**
+  description: |-
+    **Baizhu | Pyro | Hydro | Flex**
+    
+    Although Baizhu’s Dendro application isn’t great in AoE, he can be used as a defensive option in Burgeon teams, providing more comfort to players who aren’t comfortable playing Thoma on a full EM build as the only defensive option.
+
+    Despite this, Burgeon teams will generally still want a second Dendro character for consistent Dendro application, as well as enabling Dendro Resonance, increasing the overall EM of the team. However, like Hyperbloom teams, Burgeon teams also generally rely on an off-field trigger, making Baizhu’s A4 Passive effectively useless again.
+    
+    __**Teammates**__
+    
+    <${EMOJIS.PYRO}> **Pyro Options:** Thoma
+
+    <${EMOJIS.HYDRO}> **Hydro Options:** Ayato / Xingqiu / Yelan / Kokomi
+     
+    <${EMOJIS.FLEX}> **Flex Slots:** Anemo / Dendro / Bennett / Any above Hydro
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095036058724483175/burgeon.png?width=1439&height=331
+  color: 5810290
+  
+- title: |-
+    **Nilou Bloom**
+  description: |-
+    **Baizhu | Pyro | Hydro | Flex**
+    
+    In Nilou Bloom teams, Baizhu has his strength as an alternative to Yaoyao. Although his Burst application is relatively Single-target locked, it’s staggered over the duration of 14 seconds compared to Yaoyao’s Burst, which instead concentrates its AoE Dendro Application into a short period. 
+
+    On top of large amounts of healing, he also provides shields, which may not be the largest, but still absorb Dendro DMG with 250% effectiveness, adding extra comfort and Interruption Resistance to the team. Finally, Baizhu also provides up to 100% Bloom Reaction DMG to teammates when healing with his Burst.
+
+    Due to the quickswap nature of Nilou teams, this buff can quite easily be applied to several party members in a rotation, increasing its usefulness. At the end of the day, he’s another defensive Dendro option that players can slot into Nilou teams over Yaoyao if they’d like.
+
+    __**Teammates**__
+
+    <${EMOJIS.HYDRO}> **Hydro Options:** Kokomi / Xingqiu / Yelan / Ayato / Candace 
+
+    <${EMOJIS.DENDRO}> **Dendro Options:** Nahida / Collei / Dendro Traveler / Alhaitham 
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095036058724483175/burgeon.png?width=1439&height=331
+  color: 5810290
+  
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+
+buttons:
+- customId: liveInteraction#pretc/dendro/baizhu/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

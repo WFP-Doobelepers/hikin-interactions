@@ -1,0 +1,78 @@
+---
+content:
+embeds:
+- title: |-
+    __TEAM BUILDING__
+      
+    **Quicken**
+  description: |-
+    
+    **Baizhu | Electro | Electro / Dendro | Flex**
+
+    For defensive options in Quicken teams, Baizhu competes strongly with characters like Zhongli and Yaoyao. Zhongli generally takes the place of an Anemo character, due to providing Universal Resistance Shred on top of immense comfort.
+
+    On the other hand, Yaoyao is able to keep the team healthy while providing enough Dendro application to easily sustain a Quicken aura if players are using their more prominent Dendro characters elsewhere. Baizhu is able to fill the same role of Dendro Applicator and healer while providing up to 40% Quicken Reaction DMG.
+
+    Unfortunately, his personal damage is rather poor and he can’t effectively build the CRIT or EM stats needed to provide meaningful Spreads to the team. Although Zhongli doesn’t do this either, his Universal Resistance Shred goes a long way in boosting the output of the team’s main damage dealers. Alongside Nahida, Baizhu can make a strong Double Dendro core, though it won’t be setting any DPS records.
+
+    __**Teammates**__
+
+    <${EMOJIS.ELECTRO}> **Electro options:** Keqing / Raiden / Fischl / Yae / Sara / Beidou
+    
+    <${EMOJIS.DENDRO}> **Dendro options:** Nahida / Tighnari / Alhaitham / Collei / Dendro Traveler
+    
+    <${EMOJIS.FLEX}> **Flex options:** Anemo / Any above Electro / Any above Dendro
+  color: 5810290
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095002800506806292/quicken.png?width=1439&height=331
+
+- title: |-
+    **Hyperbloom**
+  description: |-
+    **Baizhu | Electro | Hydro | Flex**
+
+    Baizhu is also able to bring defensive utility to Hyperbloom teams. However, his role is more contested here due to the existence of Kuki, covering the roles of both Hyperbloom trigger and healer. If players find Kuki’s healing to not be enough, both characters can be ran together due to Kuki still being a strong Hyperbloom trigger. Alternatively, she can be replaced for Raiden, due to her frequent off-field Elemental Skill hits.
+
+    The main downside to Baizhu in Hyperbloom teams is his A4 Passive being effectively useless, due to only being applied to the on-fielder. It also only lasts 6 seconds at a time, meaning that it generally isn’t worth swapping to your Hyperbloom trigger just for the buff. If running Baizhu, players may also wish to bring a second Dendro character for consistent application, due to Baizhu’s Elemental Burst being single-target and applying a lot slower than Bloom Reactions can hit.
+
+    __**Teammates**__
+
+    <${EMOJIS.ELECTRO}> **Electro options:** Raiden / Kuki
+    
+    <${EMOJIS.HYDRO}> **Hydro options:** Xingqiu / Yelan / Kokomi / Ayato
+    
+    <${EMOJIS.FLEX}> **Flex options:** Anemo / Dendro / Yae / Fischl / Any above Hydro
+  
+  color: 5810290
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095033744072650762/hb.png?width=1439&height=331
+
+- title: |-
+    **Quickbloom**
+  description: |-
+    **Baizhu | Electro | Hydro | Flex**
+    
+    A variation on Hyperbloom teams that allows for both Quicken and Hyperbloom Reactions to be triggered simultaneously. For Quickbloom teams specifically, Baizhu’s main standout partner is Cyno, due to him utilizing both the Reaction DMG buffs from Baizhu’s A4 Passive as well as benefiting from the increased Interruption Resistance and more healing than current popular alternatives (such as Kuki). Baizhu’s staggered Dendro application can also be a benefit in multiwave content, due to not expiring once the first wave dies.
+
+    In Quickbloom, players have the choice to run a second Dendro for more consistent application, or a second Electro to capitalize on Aggravates and Electro Resonance. However, characters such as Cyno may have Energy issues in Double Dendro scenarios without multiple Favonius weapons.
+
+    __**Teammates**__
+    
+    <${EMOJIS.ELECTRO}> **Electro (Quickbloom Options):** Cyno / Keqing / Raiden / Kuki / Yae / Fischl
+
+    <${EMOJIS.HYDRO}> **Hydro Options:** Xingqiu / Yelan / Kokomi
+     
+    <${EMOJIS.FLEX}> **Flex Slots:** Anemo / Dendro / Any above Electro
+  image:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095034686960574615/quickbloom.png?width=1439&height=331
+  color: 5810290
+
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+
+buttons:
+- customId: liveInteraction#pretc/dendro/baizhu/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

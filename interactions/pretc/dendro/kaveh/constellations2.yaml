@@ -7,32 +7,37 @@ embeds:
     *Increases the Level of **Painted Dome** by 3.*
 
     Kaveh’s Burst holds great priority given its boost to Bloom damage, but having higher Talent levels increases that boost marginally. You only get about an extra 2% per Talent level, so you get an extra 8% Bloom DMG Bonus in total going from Talent Level 9 to 12. The bonus is quite small in the grand scheme of things, but it won’t hurt you. It is not recommended to aim for this constellation in particular
-  color: 7203178
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 5.72%
   - name: "*DPS Increase from C2:*"
     value: 1.07%
+  - name: "*Team Bloom DPS Increase from C2:*"
+    value: ~1.4%
   - name: "*Rating:*"
     value: 2/5
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_U_Kaveh_02.png
 
-- title: C4 - Elucidation
+- title: |- 
+    **C4 - Feast of Apadana**
   description: |-
     *Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.*
 
     If you’re running Bloom Kaveh, this is one of his best Constellations. Unfortunately, for any other build, you won’t be getting much benefit. It is important to note that this Constellation does not work with Burgeons or Hyperblooms, which limits his choice of teammates. However, it does make Kaveh an excellent support for Bloom teams that don’t utilize Nilou, as it brings a heavy amount of damage to the table with proper management. The Cores are still reliant upon the EM of the character who created them, and gain the 60% DMG Bonus as long as Kaveh triggers its eruption. 
 
-    In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 3.41% from C3. This constellation will gain more value the lower the EM your team has.
+    In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 2.0% from C3. This constellation will gain more value the lower the EM your team has.
 
     The fact that Kaveh must trigger the Cores to obtain the C4 bonus conflicts with Nilou teams. Bountiful Cores explode almost immediately after being created, which means it’s nearly impossible for Kaveh to detonate himself. Therefore, this constellation has little synergy with Nilou teams.
-  color: 7203178
+  color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
     value: 11.90%
   - name: "*DPS Increase from C3:*"
     value: 5.84%
+  - name: "*Team Bloom DPS Increase from C3:*"
+    value: ~2.0%
   - name: "*Rating:*"
     value: 3/5
   thumbnail:
@@ -40,7 +45,8 @@ embeds:
 
   footer:
     text: 'Authored by: jd'
-    
+    icon_url: https://images-ext-1.discordapp.net/external/yiPxZb6p5OT2A__G_9Y9k76wNKVYyqTHoqsphczZNv0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/128341430757359616/9d40b88e2047b47f0001cbd39fbf0d44.png?width=662&height=662
+
 buttons:
 
 - customId: liveInteraction#pretc/dendro/kaveh/constellations1

@@ -8,7 +8,7 @@ embeds:
     
     
     Elemental Burst > Normal Attack > Elemental Skill 
-  color: 7203178
+  color: 15256483
   image:
      url: https://media.discordapp.net/attachments/1087300734372020315/1094270802020540476/Untitled92_20230115154451.png?width=952&height=185
 - description: >-
@@ -16,55 +16,57 @@ embeds:
 
     
     Normal Attack > Elemental Skill > Elemental Burst
-  color: 7203178
+  color: 15256483
   image:
      url: https://media.discordapp.net/attachments/1087300734372020315/1094270802234462390/Untitled92_20230115154452.png?width=952&height=185
 
-- title: >- 
+- title: |- 
     __**TALENT OVERVIEW**__
-
 
     **Normal Attacks: Schematic Setup**
   description: >-
     Aside from the funny animations, Kaveh’s Normal and Charged Attacks aren’t particularly impressive. They do gain a Dendro Infusion after using his Burst, though.
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_A_04.png
-  color: 7203178
+  color: 15256483
 
 - title: >-
     **Elemental Skill: Artistic Ingenuity**
-  description: >-
-    __**CD : 6s**__
-
+  description: |-
+    *CD* : ***6s***
 
     A Skill cast generates **two Dendro Particles** and **detonates all Dendro Cores** in its radius, triggering Bloom instantly. Note that Kaveh does not claim ownership of the Blooms – whoever generated the Dendro Core still retains ownership. 
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_S_Kaveh_01.png
-  color: 7203178
+  color: 15256483
 
 - title: >-
     **Elemental Burst: Painted Dome** 
-  description: >-
-    __**CD : 20s**__
+  description: |-
+    *CD* : ***20s***
+    *Energy Cost* : ***80***
 
-    __**Energy Cost : 80**__
-
-
-    The most important part of Kaveh’s kit. Upon cast, all Dendro Cores are ruptured immediately (similar to his Elemental Skill). Kaveh’s Burst grants him two important features: his Normal Attacks gain a **Dendro Infusion**, and the entire team gains a **Bloom Reaction DMG Bonus**. Additionally, he gains Interruption Resistance. Bear in mind that these effects are only active while Kaveh is **on-field**, and will be canceled if you swap out. Though his kit states that these effects have a **duration of 12s**, it’s possible to extend this via hitlag. The high Energy Cost and the fact that most of Kaveh’s utilities are locked behind his Burst does reduce his flexibility. 
+    The most important part of Kaveh’s kit. Upon cast, all Dendro Cores are ruptured immediately (similar to his Elemental Skill). Kaveh’s Burst grants him two important features: his Normal Attacks gain a **Dendro Infusion**, and the entire team gains a **Bloom Reaction DMG Bonus**. 
+    
+    Additionally, he gains Interruption Resistance. Bear in mind that these effects are only active while Kaveh is **on-field**, and will be canceled if you swap out. Though his kit states that these effects have a **duration of 12s**, it’s possible to extend this via hitlag. The high Energy Cost and the fact that most of Kaveh’s utilities are locked behind his Burst does reduce his flexibility. 
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_E_Kaveh_01.png
-  color: 7203178
+  color: 15256483
 
-- title : Effective EM Buff
+- title : |-
+    __Effective EM Buff__
   description: |-
-    The Bloom Reaction DMG Bonus that Kaveh provides scales with his Elemental Burst’s Talent level. It’s a miniscule increase for his personal damage, but the team DPS you gain makes his Burst your first talent priority. At Talent Level 9, this translates to 8% more Bloom DMG, assuming the trigger has 800 EM. However, this DMG Bonus does not apply to Hyperbloom, Burgeon, or Spread, so if you plan to play such teams, his Burst can be prioritized last. Here is a look at how much effective EM Kaveh’s buff equates to at Talent Level 9:
-  color: 7203178
+    The Bloom Reaction DMG Bonus that Kaveh provides scales with his Elemental Burst’s Talent level. It’s a miniscule increase for his personal damage, but the team DPS you gain makes his Burst your first talent priority. 
+    
+    At Talent Level 9, this translates to 8% more Bloom DMG, assuming the trigger has 800 EM. However, this DMG Bonus does not apply to Hyperbloom, Burgeon, or Spread, so if you plan to play such teams, his Burst can be prioritized last. Here is a look at how much effective EM Kaveh’s buff equates to at Talent Level 9:
+  color: 15256483
   image:
     url: https://media.discordapp.net/attachments/1080438890772578375/1093933752058646528/image.png?width=1080&height=662
 
   footer:
     text: 'Authored by: redd'
+    icon_url: https://images-ext-2.discordapp.net/external/6tVaUxectogf8lZc5X8fWTGd2tbzlG6I5AtVbWYYLNI/https/cdn.discordapp.com/embed/avatars/4.png
     
 buttons:
 - customId: liveInteraction#pretc/dendro/kaveh/talents2

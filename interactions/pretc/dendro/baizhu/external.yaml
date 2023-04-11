@@ -2,10 +2,10 @@
 content:
 embeds:
 - title: __EXTERNAL LINKS__
-  color: 15256483
+  color: 5810290
   fields:
   - name: 'Project Amber:'
-    value: "[Character Database](https://ambr.top/en/archive/avatar/10000081/kaveh?mode=profile)"
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000082/baizhu?mode=profile)"
   - name: Honey Hunter World
     value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
   - name: Genshin Impact JP Twitter
@@ -13,9 +13,9 @@ embeds:
   - name: Genshin Impact EN Twitter
     value: "[Asset Resources](https://twitter.com/GenshinImpact)"
   footer:
-    text: Credits to redd, Latte, jd, sigurd and Athena for the Kaveh FAQ! || WFP Theorycrafting
+    text: Credits to NatC, Leifa, gerryoat, KB, Tsubasa, snowy, Sir Von, sigurd, and Athena for the Baizhu FAQ! || WFP Theorycrafting
   
     icon_url: https://media.discordapp.net/attachments/1087300734372020315/1094584155267932222/GUTAAAAo5_-_mr1_thonk.png?width=662&height=662
   
   image:
-    url: https://media.discordapp.net/attachments/1084456231432892501/1094426059564400701/ezgif-1-0ae38425f1.png?width=1031&height=661
+    url: https://media.discordapp.net/attachments/1087300734372020315/1095083327561662610/genshin-impact-baizhu-card-1-ce0a.png?width=1017&height=562

@@ -1,0 +1,5 @@
+interaction: pretc/dendro/baizhu/main
+description: "Opens WFP Resources on Baizhu"
+emoji: <${EMOJIS.ALHAITHAM}>
+
+name: Baizhu

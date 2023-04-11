@@ -1,0 +1,73 @@
+content: null
+embeds:
+  - title: >-
+      The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. 
+      His medicinal knowledge is encyclopedic, and his personal intrigues subtle.
+    color: 5810290
+    fields:
+      - name: 'Baizhu Mastersheet by NatC#9175, snowy#4028, Tsubasa#0387, Sir Von | Skill Deficiency Cult#7672, KB#1111, sigurd#3854'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1E01Rs3-qKIVeLfh2L0vp14b_nmgTa89G7gapZytI7zA/edit#gid=981902297)
+      - name: Baizhu Frames Mastersheet by Sir Von | Skill Deficiency Cult#7672
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1mtysF-UgyMopt70zKSxPnA9WXuVOwN6HCatDjBaoC9E/edit#gid=0)
+    author:
+      name: Baizhu FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/baizhuer_082_side_icon.webp?x15385
+    image:
+      url: https://genshin.honeyhunterworld.com/img/baizhuer_082_gacha_splash.webp?x15385
+
+options: #dropdown
+    
+  - label: Overview
+    value: pretc/dendro/baizhu/overview
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Talents
+    value: pretc/dendro/baizhu/talents1
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+  
+  - label: Constellations
+    value: pretc/dendro/baizhu/constellations1
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+   
+  - label: ER Requirements
+    value: pretc/dendro/baizhu/errequire
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Artifacts
+    value: pretc/dendro/baizhu/artifacts1
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Weapons
+    value: pretc/dendro/baizhu/weapons
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Teambuilding
+    value: pretc/dendro/baizhu/teambuilding1
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Baizhu vs Nahida
+    value: pretc/dendro/baizhu/baizhunahida
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: External Links
+    value: pretc/dendro/baizhu/external
+    description: "WFP resources for Baizhu FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/baizhu
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK

@@ -33,7 +33,7 @@ For example, when creating an FAQ for various Genshin Impact Characters, the fol
    
 ### __Adding a Character Command under Hikin :__
 
-Suppose we need to add the Genshin Impact Character "Hu Tao" to display under one of our pre-existiing commands "FAQ", we first need to create a `character.yaml` file for that character under the appropriate element folder, in this case `hutao.yaml` under `"commands/faq/pyro"`.
+Suppose we need to add the Genshin Impact Character "Hu Tao" to display under one of our pre-existing commands "FAQ", we first need to create a `character.yaml` file for that character under the appropriate element folder, in this case `hutao.yaml` under `"commands/faq/pyro"`.
 
 <img src="https://user-images.githubusercontent.com/66517217/226590378-87b66629-2d38-4880-907e-47add689f8cd.png" width = "300">
 
