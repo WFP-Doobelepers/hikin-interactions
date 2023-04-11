@@ -58,11 +58,11 @@ embeds:
 
     __**Teammates**__
     
-    <${EMOJIS.ELECTRO}> **Electro (Quickbloom Options):** Cyno / Keqing / Raiden / Kuki / Yae / Fischl
+    <${EMOJIS.ELECTRO}> **Electro (Quickbloom options):** Cyno / Keqing / Raiden / Kuki / Yae / Fischl
 
-    <${EMOJIS.HYDRO}> **Hydro Options:** Xingqiu / Yelan / Kokomi
+    <${EMOJIS.HYDRO}> **Hydro options:** Xingqiu / Yelan / Kokomi
      
-    <${EMOJIS.FLEX}> **Flex Slots:** Anemo / Dendro / Any above Electro
+    <${EMOJIS.FLEX}> **Flex options:** Anemo / Dendro / Any above Electro
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1095034686960574615/quickbloom.png?width=1439&height=331
   color: 5810290

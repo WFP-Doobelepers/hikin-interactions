@@ -12,11 +12,11 @@ embeds:
     
     __**Teammates**__
     
-    <${EMOJIS.PYRO}> **Pyro Options:** Thoma
+    <${EMOJIS.PYRO}> **Pyro options:** Thoma
 
-    <${EMOJIS.HYDRO}> **Hydro Options:** Ayato / Xingqiu / Yelan / Kokomi
+    <${EMOJIS.HYDRO}> **Hydro options:** Ayato / Xingqiu / Yelan / Kokomi
      
-    <${EMOJIS.FLEX}> **Flex Slots:** Anemo / Dendro / Bennett / Any above Hydro
+    <${EMOJIS.FLEX}> **Flex options:** Anemo / Dendro / Bennett / Any above Hydro
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1095036058724483175/burgeon.png?width=1439&height=331
   color: 5810290
@@ -34,9 +34,9 @@ embeds:
 
     __**Teammates**__
 
-    <${EMOJIS.HYDRO}> **Hydro Options:** Kokomi / Xingqiu / Yelan / Ayato / Candace 
+    <${EMOJIS.HYDRO}> **Hydro options:** Kokomi / Xingqiu / Yelan / Ayato / Candace 
 
-    <${EMOJIS.DENDRO}> **Dendro Options:** Nahida / Collei / Dendro Traveler / Alhaitham 
+    <${EMOJIS.DENDRO}> **Dendro options:** Nahida / Collei / Dendro Traveler / Alhaitham 
   image:
     url: https://cdn.discordapp.com/attachments/1087300734372020315/1095387811122778142/niloubloom.png
   color: 5810290
