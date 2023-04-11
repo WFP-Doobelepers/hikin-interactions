@@ -47,15 +47,15 @@ embeds:
     value: 6.90%
   - name: "*Team Bloom DPS Increase from C0:*"
     value: 6.02%
-  - name: "*Team Bloom DPS Increase from C4:*"
+  - name: "*Team Bloom DPS Increase from C5:*"
     value: 0.31%
   - name: "*Total Team Healing Increase from C0:*"
     value: 109.8%
-  - name: "*Total Team Healing Increase from C4:*"
+  - name: "*Total Team Healing Increase from C5:*"
     value: 22.9%
   - name: "*Single Target Increase from C0:*"
     value: 114.1%
-  - name: "*Single Target Increase from C4:*"
+  - name: "*Single Target Increase from C5:*"
     value: 58.2%
   - name: "*Rating:*"
     value: 3/5
