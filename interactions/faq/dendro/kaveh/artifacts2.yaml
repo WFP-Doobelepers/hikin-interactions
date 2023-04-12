@@ -64,7 +64,7 @@ embeds:
     url: https://library.keqingmains.com/img/artifacts/icon/Gilded_Dreams.png
 
 buttons:
-- customId: liveInteraction#pretc/dendro/kaveh/artifacts1
+- customId: liveInteraction#faq/dendro/kaveh/artifacts1
   label: Previous
   style: PRIMARY
   emoji: "◀️"

@@ -50,7 +50,7 @@ embeds:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_04.png
 
 buttons:
-- customId: liveInteraction#pretc/dendro/kaveh/constellations2
+- customId: liveInteraction#faq/dendro/kaveh/constellations2
   label: Previous
   style: PRIMARY
   emoji: "◀️"

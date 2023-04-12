@@ -69,12 +69,12 @@ embeds:
 
 buttons:
 
-- customId: liveInteraction#pretc/dendro/baizhu/constellations1
+- customId: liveInteraction#faq/dendro/baizhu/constellations1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
 
-- customId: liveInteraction#pretc/dendro/baizhu/constellations3
+- customId: liveInteraction#faq/dendro/baizhu/constellations3
   label: Next
   style: PRIMARY
   emoji: "▶️"
