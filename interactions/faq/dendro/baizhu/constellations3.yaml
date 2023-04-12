@@ -68,7 +68,7 @@ embeds:
 
 
 buttons:
-- customId: liveInteraction#pretc/dendro/baizhu/constellations2
+- customId: liveInteraction#faq/dendro/baizhu/constellations2
   label: Previous
   style: PRIMARY
   emoji: "◀️"

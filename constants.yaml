@@ -16,8 +16,8 @@ IMAGES:
 INFOGRAPHICS:
 
 PRETC:
-  - "pretc/dendro/baizhu/main"
-  - "pretc/dendro/kaveh/main"
+  - "faq/dendro/baizhu/main"
+  - "faq/dendro/kaveh/main"
 
 EMOJIS:
   SANDS: ":sands:1094559345364185119"
