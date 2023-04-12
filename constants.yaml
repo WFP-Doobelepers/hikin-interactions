@@ -15,6 +15,10 @@ IMAGES:
 
 INFOGRAPHICS:
 
+PRETC:
+  - "pretc/dendro/baizhu/main"
+  - "pretc/dendro/kaveh/main"
+
 EMOJIS:
   SANDS: ":sands:1094559345364185119"
   GOBLET: ":goblet:1094559512968581130"
