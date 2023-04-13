@@ -29,4 +29,4 @@ options:
   - label: Xiangling
     value: infographics/pyro/xiangling/main
     description: WFP resources on Xiangling!
-    emoji: <${EMOJIS.Xiangling}>
+    emoji: <${EMOJIS.XIANGLING}>
