@@ -1,0 +1,4 @@
+interaction: infographics/pyro/xiangling/main
+description: "Opens WFP resources on Xiangling"
+match: ${ TRIGGER_PREFIX }xiangling(?:\s|$)
+ignoreCase: true
