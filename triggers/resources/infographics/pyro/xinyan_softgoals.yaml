@@ -1,4 +1,0 @@
-interaction: infographics/pyro/xinyan/softgoals
-description: "Opens WFP softgoals on Xinyan"
-match: ${ TRIGGER_PREFIX }xinyansoftgoals(?:\s|$)
-ignoreCase: true

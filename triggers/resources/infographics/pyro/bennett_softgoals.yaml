@@ -1,4 +1,0 @@
-interaction: infographics/pyro/bennett/softgoals
-description: "Opens WFP softgoals on Bennett"
-match: ${ TRIGGER_PREFIX }bennettsoftgoals(?:\s|$)
-ignoreCase: true

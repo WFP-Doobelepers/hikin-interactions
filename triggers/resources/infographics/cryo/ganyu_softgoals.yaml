@@ -1,4 +1,0 @@
-interaction: infographics/cryo/ganyu/softgoals
-description: "Opens WFP softgoals on Ganyu"
-match: ${ TRIGGER_PREFIX }ganyusoftgoals(?:\s|$)
-ignoreCase: true
