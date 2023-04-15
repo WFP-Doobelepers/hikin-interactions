@@ -1,0 +1,12 @@
+embeds:
+  - color: 11798279
+    author:
+      name: Mastersheets
+    description: >-
+      All WFP Character Mastersheets.
+
+options:
+- label: Wanderer FAQ
+  value: faq/anemo/faruzan/overview
+  description: WFP resources for Wanderer Mastersheet.
+  emoji: <${EMOJIS.WANDERER}>
