@@ -7,6 +7,6 @@ embeds:
 
 options:
 - label: Wanderer FAQ
-  value: faq/anemo/faruzan/overview
+  value: https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390
   description: WFP resources for Wanderer Mastersheet.
   emoji: <${EMOJIS.WANDERER}>
