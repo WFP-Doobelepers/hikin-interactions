@@ -1,4 +1,0 @@
-interaction: infographics/pyro/xiangling/softgoals
-description: "Opens WFP softgoals on Xiangling"
-match: ${ TRIGGER_PREFIX }xianglingsoftgoals(?:\s|$)
-ignoreCase: true

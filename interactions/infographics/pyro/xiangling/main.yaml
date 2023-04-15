@@ -1,0 +1,38 @@
+content: null
+embeds:
+- title: Xiangling
+  description: |-
+    • Pyro
+    • Polearm
+    • Off-field DPS
+  color: 15303453
+  author:
+    name: Xiangling
+    icon_url: https://cdn.discordapp.com/attachments/1087300734372020315/1096090134031646940/FEOQGSwagAEn6bN_copy.jpg
+  footer:
+    text: 'by Athena#2444 (author) and ang tahimik#9252 (designer) || WFP Theorycrafting'
+
+  image:
+    url: >-
+      https://cdn.discordapp.com/attachments/1073894725322543184/1096064876843110582/Xiangling-01.png
+  thumbnail:
+    url: >-
+      https://media.discordapp.net/attachments/1016639002851430461/1027918597525356606/unknown.png
+
+options:
+#dropdown
+- label: Softgoals
+  value: infographics/pyro/xiangling/softgoals
+  description: WFP resources for Xiangling Softgoals.
+  emoji: ${ EMOJIS.PYRO_BOX }
+
+- label: Constellations
+  value: infographics/pyro/xiangling/constellations
+  description: WFP resources for Xiangling Constellations.
+  emoji: ${ EMOJIS.PYRO_BOX }
+
+buttons:
+- label: KQM Website
+  url: https://keqingmains.com/xiangling/
+  emoji: :logont:945530991240421386
+  style: LINK

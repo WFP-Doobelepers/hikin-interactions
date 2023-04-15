@@ -25,3 +25,8 @@ options:
     value: infographics/pyro/yoimiya/main
     description: WFP resources on Yoimiya!
     emoji: <${EMOJIS.YOIMIYA}>
+
+  - label: Xiangling
+    value: infographics/pyro/xiangling/main
+    description: WFP resources on Xiangling!
+    emoji: <${EMOJIS.XIANGLING}>

@@ -1,4 +1,0 @@
-interaction: infographics/electro/kuki/softgoals
-description: "Opens WFP softgoals on Kuki Shinobu"
-match: ${ TRIGGER_PREFIX }kukisoftgoals(?:\s|$)
-ignoreCase: true

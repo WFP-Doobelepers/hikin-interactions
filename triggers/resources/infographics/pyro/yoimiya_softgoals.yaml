@@ -1,4 +1,0 @@
-interaction: infographics/pyro/yoimiya/softgoals
-description: "Opens WFP softgoals on Yoimiya"
-match: ${ TRIGGER_PREFIX }yoimiyasoftgoals(?:\s|$)
-ignoreCase: true

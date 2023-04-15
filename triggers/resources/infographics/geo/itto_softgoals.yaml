@@ -1,4 +1,0 @@
-interaction: infographics/geo/itto/softgoals
-description: "Opens WFP softgoals on Arataki Itto"
-match: ${ TRIGGER_PREFIX }ittosoftgoals(?:\s|$)
-ignoreCase: true

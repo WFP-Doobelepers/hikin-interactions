@@ -1,4 +1,0 @@
-interaction: infographics/hydro/yelan/softgoals
-description: "Opens WFP softgoals on Yelan"
-match: ${ TRIGGER_PREFIX }yelansoftgoals(?:\s|$)
-ignoreCase: true

@@ -1,4 +1,0 @@
-interaction: infographics/cryo/shenhe/softgoals
-description: "Opens WFP softgoals on Shenhe"
-match: ${ TRIGGER_PREFIX }shenhesoftgoals(?:\s|$)
-ignoreCase: true

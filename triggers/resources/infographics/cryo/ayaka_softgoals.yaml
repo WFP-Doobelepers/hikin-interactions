@@ -1,4 +1,0 @@
-interaction: infographics/cryo/ayaka/softgoals
-description: "Opens WFP softgoals on Kamisato Ayaka"
-match: ${ TRIGGER_PREFIX }ayakasoftgoals(?:\s|$)
-ignoreCase: true
