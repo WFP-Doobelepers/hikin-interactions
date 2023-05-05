@@ -1,4 +1,4 @@
 interaction: faq/dendro/baizhu/main
-description: "Opens Pretc Test"
+description: "Opens WFP Resources on Baizhu FAQ"
 match: ${ TRIGGER_PREFIX }baizhufaq(?:\s|$)
 ignoreCase: true
