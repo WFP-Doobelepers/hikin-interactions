@@ -1,0 +1,31 @@
+embeds:
+  - color: 3634295
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/dendro.png
+options: 
+
+  - label: Alhaitham
+    value: faq/dendro/alhaitham
+    description: WFP mastersheet resources on Alhaitham!
+    emoji: <${EMOJIS.ALHAITHAM}>
+
+  - label: Collei
+    value: faq/dendro/collei
+    description: WFP mastersheet resources on the Collei
+    emoji: <${EMOJIS.COLLEI}>
+
+  - label: Nahida
+    value: faq/dendro/nahida
+    description: WFP mastersheet resources on Nahida!
+    emoji: <${EMOJIS.NAHIDA}>
+
+  - label: Tighnari
+    value: faq/dendro/tighnari
+    description: WFP mastersheet resources on Tighnari!
+    emoji: <${EMOJIS.TIGHNARI}>
+
+  - label: Yaoyao
+    value: faq/dendro/yaoyao
+    description: WFP mastersheet resources on Yaoyao!
+    emoji: <${EMOJIS.YAOYAO}>

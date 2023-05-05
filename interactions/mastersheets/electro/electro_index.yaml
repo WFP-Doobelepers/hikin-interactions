@@ -1,0 +1,16 @@
+embeds:
+  - color: 3634295
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/electro.png
+options: 
+
+  - label: Cyno
+    value: faq/electro/cyno
+    description: WFP mastersheet resources on Cyno!
+    emoji: <${EMOJIS.CYNO}>
+
+  - label: 
+    value: faq/electro/kuki
+    description: WFP mastersheet resources on the Kuki!
+    emoji: <${EMOJIS.KUKI}>

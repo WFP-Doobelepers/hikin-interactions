@@ -5,8 +5,38 @@ embeds:
     description: >-
       All WFP Character Mastersheets.
 
-options:
-- label: Wanderer FAQ
-  value: https://docs.google.com/spreadsheets/d/1e2e5ITnHVbT8tyJBqgfO89BWbPX5HcDxMdUm98ECZ0M/edit#gid=913995390
-  description: WFP resources for Wanderer Mastersheet.
-  emoji: <${EMOJIS.WANDERER}>
+options: 
+  - label: Anemo
+    value: mastersheets/anemo/anemo_index
+    description: Mastersheets for Anemo vision holders
+    emoji: ${ EMOJIS.ANEMO }
+
+  - label: Cryo
+    value: mastersheets/cryo/cryo_index
+    description: Mastersheets for Cryo vision holders
+    emoji: ${ EMOJIS.CRYO }
+
+  - label: Dendro
+    value: mastersheets/dendro/dendro_index
+    description: Mastersheets for Dendro vision holders
+    emoji: ${ EMOJIS.DENDRO }
+
+  - label: Electro
+    value: mastersheets/electro/electro_index
+    description: Mastersheets for Electro vision holders
+    emoji: ${ EMOJIS.ELECTRO }
+
+  - label: Geo
+    value: mastersheets/geo/geo_index
+    description: Mastersheets for Geo vision holders
+    emoji: ${ EMOJIS.GEO }
+
+  - label: Hydro
+    value: mastersheets/hydro/hydro_index
+    description: Mastersheets for Hydro vision holders
+    emoji: ${ EMOJIS.HYDRO }
+
+  - label: Pyro
+    value: mastersheets/pyro/pyro_index
+    description: Mastersheets for Pyro vision holders
+    emoji: ${ EMOJIS.PYRO }
