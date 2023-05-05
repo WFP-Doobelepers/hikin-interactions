@@ -25,11 +25,7 @@ embeds:
   description: |-
     *Dendro Cores created from Bloom reactions Kaveh triggers will deal 60% more DMG when they burst.*
 
-    If you’re running Bloom Kaveh, this is one of his best Constellations. Unfortunately, for any other build, you won’t be getting much benefit. It is important to note that this Constellation does not work with Burgeons or Hyperblooms, which limits his choice of teammates. However, it does make Kaveh an excellent support for Bloom teams that don’t utilize Nilou, as it brings a heavy amount of damage to the table with proper management. The Cores are still reliant upon the EM of the character who created them, and gain the 60% DMG Bonus as long as Kaveh triggers its eruption. 
-
-    In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 8 of the team’s 40 Blooms, Kaveh’s team enjoys an increase of about 2.0% from C3. This constellation will gain more value the lower the EM your team has.
-
-    The fact that Kaveh must trigger the Cores to obtain the C4 bonus conflicts with Nilou teams. Bountiful Cores explode almost immediately after being created, which means it’s nearly impossible for Kaveh to detonate himself. Therefore, this constellation has little synergy with Nilou teams.
+    This constellation gives a straight bonus to Kaveh’s Bloom DMG, which is helpful if you intend on running him as a main DPS or driver. Unfortunately, he might still struggle to keep up with other Bloom DPS, since his own multipliers are quite low. Kaveh’s bonus will not apply to Burgeon or Hyperblooms, so his choice of teammates is limited if you want to take advantage of this. Kaveh will need a decent amount of ownership in order to do the best with this bonus.
   color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"
@@ -39,7 +35,7 @@ embeds:
   - name: "*Team Bloom DPS Increase from C3:*"
     value: ~2.0%
   - name: "*Rating:*"
-    value: 3/5
+    value: 2/5
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Kaveh_03.png
 
