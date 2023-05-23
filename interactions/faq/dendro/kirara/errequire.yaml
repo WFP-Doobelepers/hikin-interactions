@@ -5,8 +5,6 @@ embeds:
   description: |-
     Kirara has two sources of particle generation — the first being the 3 particles generated upon hitting an enemy either with a Tap Skill or at the end of a Hold Skill, and the second when she crashes into enemies in her Hold Skill state, generating at most 1 particle every 4 seconds. Kirara has a 60 Burst Cost, meaning her ER requirements are comfortably met in quickswap teams where she can get 2 short Hold Skills in. Additionly, Kirara is often run with a second Dendro, making her ER requirements even easier to meet. 
 
-    In quickswap-style teams, Baizhu can fit two Skill casts helping to reduce his Energy requirements by around 30%. All calculations use Prototype Amber R5 and assume he’s off-field when Favonius is triggered, due to Baizhu never wanting to take increased field time.
-
     All values below assume two short Hold Skills. Second Dendro is assumed to be Nahida unless with Tighnari / Alhaitham. Fav particles are caught off-field by Kirara.
 
     Kirara’s Energy requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).

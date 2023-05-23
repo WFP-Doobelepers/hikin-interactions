@@ -10,7 +10,7 @@ embeds:
   color: 12638905
   fields:
   - name: "*Rating:*"
-    value: 0/5
+    value: 2/5
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_U_Momoka_01.png
 

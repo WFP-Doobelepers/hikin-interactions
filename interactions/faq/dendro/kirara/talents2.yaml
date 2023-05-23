@@ -15,7 +15,7 @@ embeds:
     **Elemental Skill: Meow-teor Kick**
   description: |-
     *CD (Tap)* : ***8s***
-    *CD (Hold)* : ***12s***
+    *CD (Hold)* : ***9-12s***
 
     There are two variations to Kirara’s Skill — a pressed and a held version. Her Tap Skill initiates a **Tail-Flicking Flying Kick**, dealing AoE Dendro DMG while briefly applying Dendro to herself. It will also create a **Shield of Safe Transport** that lasts for 12s, the duration of which will be refreshed if a new shield is applied on top of it.
     
