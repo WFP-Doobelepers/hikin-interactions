@@ -4,9 +4,9 @@ embeds:
 - title: >-
     __TALENTS__
   description: |-
-    ## Talent Priority
+    ### Talent Priority
     
-    Elemental Skill > Elemental Burst
+    ### Elemental Skill > Elemental Burst > Normal Attack
 
     **Analysis**
 
@@ -20,7 +20,7 @@ embeds:
      url: https://media.discordapp.net/attachments/1087300734372020315/1110289478096003203/Skill_A_Catalyst_MD.png?width=657&height=176
 
 - title: |-
-    # TALENT OVERVIEW
+    __TALENT OVERVIEW__
     
     **Normal Attack: Boxcutter**
   description: |-
