@@ -51,12 +51,7 @@ options: #dropdown
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
-    value: faq/dendro/kirara/teambuilding1
-    description: "WFP resources for Kirara FAQ."
-    emoji: ${ EMOJIS.DENDRO_BOX }
-
-  - label: Kirara vs Nahida
-    value: faq/dendro/kirara/kiraranahida
+    value: faq/dendro/kirara/teambuilding
     description: "WFP resources for Kirara FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
