@@ -8,65 +8,38 @@ embeds:
   description: |-
    _Every 8,000 Max HP Kirara possesses will cause her to create 1 extra Cat Grass Cardamom when she uses Secret Art: Surprise Dispatch. A maximum of 4 extra can be created this way._
 
-   This Constellation gives Baizhu’s Elemental Skill an extra charge. This Constellation can help with achieving slightly more Dendro application and healing while also giving his rotations more flexibility and forgiveness. Being able to get in an extra Elemental Skill in a rotation also helps with his Energy issues. 
+   Gives Kirara the ability to create up to 4 extra bomblets depending on her Max HP, which is very likely if you were to build her as a shieldbot. A nice bit of extra Dendro application which could situationally be useful, although her damage is still nothing special.
+
   color: 5810290
-  fields:
-  - name: "*Team Aggravate DPS Increase from C0:*"
-    value: 1.23%
-  - name: "*Team Bloom DPS Increase from C0:*"
-    value: 0.41%
-  - name: "*Total Team Healing Increase from C0:*"
-    value: 0%
-  - name: "*Single Target Increase from C0:*"
-    value: 0%    
+  fields:    
   - name: "*Rating:*"
-    value: 2/5
+    value: 1/5
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_01.png
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_01.png
 
 - title: >- 
-    **C2 - Incisive Discernment**
+    **Constellation 2 - Perfectly Packaged**
   description: |-
-    > *When your own active character hits a nearby opponent with their attacks, Baizhu will unleash a Gossamer Sprite: Splice.*
-    >   
-    > *Gossamer Sprite: Splice will initiate 1 attack before returning, dealing 250% of Baizhu's ATK as Dendro DMG and healing for 20% of Universal Diagnosis's Gossamer Sprite's normal healing.*
-    >   
-    > *DMG dealt this way is considered Elemental Skill DMG. This effect can be triggered once every 5s.*
+    _When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, she will grant other party members she crashes into Critical Transport Shields._
+    _The DMG absorption of Critical Transport Shield is 40% of the maximum absorption Meow-teor Kick's normal Shields of Safe Transport are capable of, and will absorb Dendro DMG with 250% effectiveness._
+    _Critical Transport Shields last 12s and can be triggered once on each character every 10s._
 
-    This Constellation adds negligible damage and a decent amount of healing. The most important part of this Constellation is that it adds an extra instance of Dendro application every 5s. This extra Dendro application can be very helpful for reaction teams that rely heavily on Baizhu for Dendro application. 
-    
-    This Constellation seems to not have a requirement to trigger besides dealing damage to enemies, and seems to just activate whenever Baizhu is on the team. The ability to apply extra Dendro without taking any extra field time makes this Constellation pretty decent in certain teams with characters that need to stay on-field for longer durations, such as Cyno.
+    A Constellation that is nice in co-op, granting mini-shields to allies who Kirara collides with. That being said, these shields can only be created in co-op, rendering this Constellation worthless in normal play.
 
   color: 5810290
   fields:
-  - name: "*Team Aggravate DPS Increase from C0:*"
-    value: 2.73%
-  - name: "*Team Aggravate DPS Increase from C1:*"
-    value: 1.48%
-  - name: "*Team Bloom DPS Increase from C0:*"
-    value: 3.80%
-  - name: "*Team Bloom DPS Increase from C1:*"
-    value: 3.37%
-  - name: "*Total Team Healing Increase from C0:*"
-    value: 43%
-  - name: "*Total Team Healing Increase from C1:*"
-    value: 43%
-  - name: "*Single Target Increase from C0:*"
-    value: 13.6%
-  - name: "*Single Target Increase from C1:*"
-    value: 13.6%
   - name: "*Rating:*"
-    value: 3/5
+    value: 0/5
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_02.png
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_02.png
 
 
   footer:
-    text: 'Authored by: gerryoat'
-    icon_url: https://images-ext-1.discordapp.net/external/KeKetA5X3TnuCqaHFC4YlPWd_akYzE9YD_Xf1x28FpU/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/178766970450214912/2777746df3b047d06bee92400eaa9f9c.png?width=176&height=176
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
 
 buttons:
-- customId: liveInteraction#faq/dendro/baizhu/constellations2
+- customId: liveInteraction#faq/dendro/kirara/constellations2
   label: Next
   style: PRIMARY
   emoji: "▶️"
