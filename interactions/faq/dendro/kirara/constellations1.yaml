@@ -6,7 +6,7 @@ embeds:
 
     **Constellation 1 - Material Circulation**
   description: |-
-   _Every 8,000 Max HP Kirara possesses will cause her to create 1 extra Cat Grass Cardamom when she uses Secret Art: Surprise Dispatch. A maximum of 4 extra can be created this way._
+   > *Every 8,000 Max HP Kirara possesses will cause her to create 1 extra Cat Grass Cardamom when she uses Secret Art: Surprise Dispatch. A maximum of 4 extra can be created this way.*
 
    Gives Kirara the ability to create up to 4 extra bomblets depending on her Max HP, which is very likely if you were to build her as a shieldbot. A nice bit of extra Dendro application which could situationally be useful, although her damage is still nothing special.
 
@@ -20,9 +20,11 @@ embeds:
 - title: >- 
     **Constellation 2 - Perfectly Packaged**
   description: |-
-    _When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, she will grant other party members she crashes into Critical Transport Shields._
-    _The DMG absorption of Critical Transport Shield is 40% of the maximum absorption Meow-teor Kick's normal Shields of Safe Transport are capable of, and will absorb Dendro DMG with 250% effectiveness._
-    _Critical Transport Shields last 12s and can be triggered once on each character every 10s._
+    > *When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, she will grant other party members she crashes into Critical Transport Shields.*
+    > 
+    > *The DMG absorption of Critical Transport Shield is 40% of the maximum absorption Meow-teor Kick's normal Shields of Safe Transport are capable of, and will absorb Dendro DMG with 250% effectiveness.*
+    > 
+    > *Critical Transport Shields last 12s and can be triggered once on each character every 10s.*
 
     A Constellation that is nice in co-op, granting mini-shields to allies who Kirara collides with. That being said, these shields can only be created in co-op, rendering this Constellation worthless in normal play.
 
@@ -30,6 +32,8 @@ embeds:
   fields:
   - name: "*Rating:*"
     value: 0/5
+  - name: "*Rating for playing with your casual friends that are bad*"
+    value: 3/5
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_02.png
 

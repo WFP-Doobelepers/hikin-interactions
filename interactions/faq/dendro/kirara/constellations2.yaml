@@ -2,79 +2,47 @@
 content:
 embeds:
 - title: >-
-    **C3 - All Aspects Stabilized**
+    **Constellation 3 - Universal Recognition**
   description: |-
-    > *Increases the Level of **Holistic Revivification** by 3.*
+    > *Increases the Level of Meow-teor Kick by 3.*
 
-    Adds three levels to his Elemental Burst. A relatively straightforward Constellation, increasing his almost negligible damage on his Burst ever so slightly. It also marginally increases Shield Strength and healing on his Elemental Burst, but his shield will still be relatively weak, and his healing will still be more than enough without this Constellation.
+    Three extra levels to Kirara’s Skill means that she has stronger shields and slightly more damage from her Skill. A solid Constellation for Kirara.
   color: 5810290
   fields:
-  - name: "*Team Aggravate DPS Increase from C0:*"
-    value: 3.83%
-  - name: "*Team Aggravate DPS Increase from C2:*"
-    value: 0.10%
-  - name: "*Team Bloom DPS Increase from C0:*"
-    value: 3.87%
-  - name: "*Team Bloom DPS Increase from C2:*"
-    value: 0.07%
-  - name: "*Total Team Healing Increase from C0:*"
-    value: 52.7%
-  - name: "*Total Team Healing Increase from C2:*"
-    value: 6.58%
-  - name: "*Single Target Increase from C0:*"
-    value: 26.2%
-  - name: "*Single Target Increase from C2:*"
-    value: 11.2%
   - name: "*Rating:*"
     value: 0/5
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_U_Baizhuer_01.png
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Momoka_01.png
 
 
 - title: |-
-    **C4 - Ancient Art of Perception**
+    **Constellation 4 - Steed of Skanda**
   description: |-
-    > *For 15s after Holistic Revivification is used, Baizhu will increase all nearby party members' Elemental Mastery by 80*
+    > *After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200% of her ATK as Dendro DMG. DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s. This CD is shared between all party members.*
 
-    When Baizhu uses his Elemental Burst, he gives party members an additional 80 Elemental Mastery. While this may seem like a very good Constellation, since he will mostly be used in Dendro Reaction based teams, 80 Elemental Mastery is not as much as you might think. 
-    
-    If your main focus is Elemental Mastery sharing for Baizhu, just equipping a 4PC Instructor set alone will give 120 Elemental Mastery for the whole team. While adding an extra 80 Elemental Mastery will still be a damage increase for the team, it’s not the biggest.
+    This Constellation is an interesting one. If your active character is protected by any of Kirara’s shields, their Normal / Charged / Plunging Attacks will trigger a coordinated attack, dealing Dendro DMG that scales off of Kirara’s Attack. This effect can be triggered a maximum of once every 3.8 seconds, and its CD is shared between all party members, meaning that it can only be triggered every 3.8 seconds as well in co-op.
+
+    Sadly, due to Kirara preferring to be built as a shieldbot, the damage from this is very meagre, and will not contribute a lot. That being said, this gives her off-field Dendro application similar to Collei’s, and theoretically opens up the possibility of running her off-field in Hyperbloom teams.
 
   color: 5810290
   fields:
-  - name: "*Team Aggravate DPS Increase from C0:*"
-    value: 5.43%
-  - name: "*Team Aggravate DPS Increase from C3:*"
-    value: 2.53%  
-  - name: "*Team Bloom DPS Increase from C0:*"
-    value: 5.55%
-  - name: "*Team Bloom DPS Increase from C3:*"
-    value: 1.62%
-  - name: "*Total Team Healing Increase from C0:*"
-    value: 52.7%
-  - name: "*Total Team Healing Increase from C3:*"
-    value: 6.58%
-  - name: "*Single Target Increase from C0:*"
-    value: 26.2%
-  - name: "*Single Target Increase from C3:*"
-    value: 11.2%
   - name: "*Rating:*"
     value: 2/5
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_03.png
 
   footer:
-    text: 'Authored by: gerryoat'
-    icon_url: https://images-ext-1.discordapp.net/external/KeKetA5X3TnuCqaHFC4YlPWd_akYzE9YD_Xf1x28FpU/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/178766970450214912/2777746df3b047d06bee92400eaa9f9c.png?width=176&height=176
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
 
 buttons:
 
-- customId: liveInteraction#faq/dendro/baizhu/constellations1
+- customId: liveInteraction#faq/dendro/kirara/constellations1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
 
-- customId: liveInteraction#faq/dendro/baizhu/constellations3
+- customId: liveInteraction#faq/dendro/kirara/constellations3
   label: Next
   style: PRIMARY
   emoji: "▶️"
