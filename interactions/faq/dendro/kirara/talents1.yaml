@@ -2,28 +2,26 @@
 content:
 embeds:
 - title: >-
-    __TALENTS__
+    # TALENTS
   description: |-
-    **Talent Priority**
+    ## Talent Priority
     
     Elemental Skill > Elemental Burst
 
     **Analysis**
 
-    Since Kirara’s shields and a bit of her damage scale off of HP, having high levels on her is nice for primarily more shield absorption, with the added damage being the icing on the cake. Leveling her to 90 is preferred, but is by no means necessary to take full advantage of her kit. 
-    
-
+    Since Kirara’s shields and a portion of her damage scale off of HP, having high levels on her is nice for primarily more shield absorption, with the added damage being the icing on the cake. Leveling her to 90 is preferred, but is by no means necessary to take full advantage of her kit. 
     
   color: 5810290
   image:
      url: https://media.discordapp.net/attachments/1087300734372020315/1110289478096003203/Skill_A_Catalyst_MD.png?width=657&height=176
 
 - title: |-
-    __**TALENT OVERVIEW**__
+    # TALENT OVERVIEW
     
     **Normal Attack: Boxcutter**
   description: |-
-    Kirara has attack multipliers that are similar to Shinobu’s throughout her normal attack sequence. Unfortunately, with abysmally low base attack and no other added gimmicks to it, there is little to no reason to make use of her attack string unless you specifically wish to build her to do so.
+    Kirara has attack multipliers that are similar to Shinobu’s throughout her Normal Attack sequence. Unfortunately, with abysmally low base attack and no other added gimmicks to it, there is little to no reason to make use of her attack string unless you specifically wish to build her to do so.
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_A_01.png
   color: 5810290
@@ -34,9 +32,9 @@ embeds:
     *CD (Tap)* : ***8s***
     *CD (Hold)* : ***12s***
 
-    There are two variations to Kirara’s Skill - a pressed and a held version. Her pressed Skill has her do a **Tail-Flicking Flying Kick**, dealing AoE Dendro Damage while briefly applying Dendro to herself. It will also create a **Shield of Safe Transport** that lasts for 12s, the duration of which will be refreshed if a new shield is applied on top of it.
+    There are two variations to Kirara’s Skill — a pressed and a held version. Her Tap Skill initiates a **Tail-Flicking Flying Kick**, dealing AoE Dendro DMG while briefly applying Dendro to herself. It will also create a **Shield of Safe Transport** that lasts for 12s, the duration of which will be refreshed if a new shield is applied on top of it.
     
-    Her held Skill deploys a shield similar to the one that is created from her pressed Skill. On top of this, Kirara will curl up into a box, dealing damage to enemies she crashes into in a fashion similar to Sayu’s Skill. At the end of her Skill, she will unleash a **Flipclaw Strike**, dealing AoE Dendro Damage. The longer her Skill is held, the longer its cooldown will be at the end.
+    Her Hold Skill deploys a shield similar to the one that is created from her pressed Skill. On top of this, Kirara will curl up into a box, dealing damage to enemies she crashes into in a fashion similar to Sayu’s Skill. At the end of her Skill, she will unleash a **Flipclaw Strike**, dealing AoE Dendro DMG. The longer her Skill is held, the longer its cooldown will be at the end.
 
     It’s worth noting that in the held Skill state, Kirara’s movement and climbing speed will be increased, making it possible for her to traverse climbable terrain more quickly in her box state at the cost of increased stamina consumption.
 
