@@ -1,22 +1,24 @@
 ---
 content:
 embeds:
-- title: __CREDITS AND SHEET LINK REMIND ME TO CHANGE THIS LATER PLEASE THANKS__
+- title: __CREDITS__
   color: 12638905
   fields:
   - name: 'Leads:'
-    value: "<@148100838861176832>"
+    value: "<@148100838861176832>, <@280016643558604800>"
   - name: 'Authors:'
-    value: "<@148100838861176832>, <@280016643558604800>, <@178766970450214912>"
+    value: "<@148100838861176832>, <@651556217315000360>"
   - name: 'Calculations:'
-    value: "<@148100838861176832>, <@94978723341668352>, <@377496350155079690>, <@463998487067885600>, <@651556217315000360>, <@560160964759257104>"
+    value: "<@148100838861176832>, <@651556217315000360>, <@348414134636904452>"
   - name: 'Framecounts:'
     value: "<@367160010335191054>"
   - name: 'Consulting:'
-    value: "<@366206663533002774>, <@280016643558604800>, <@463998487067885600>, <@94978723341668352>, <@939432470384894007>"
+    value: "<@280016643558604800>"
+  - name: 'Verification and Editing'
+    value: "<@366206663533002774>, <@463998487067885600>, <@94978723341668352>, <@583951991789584400>"
   - name: 'Resources:'
     value: |-
-      [Kirara Mastersheet](xyz)
+      [Kirara Mastersheet](https://docs.google.com/spreadsheets/d/1FJpKA_ea2OLMYglyomjL87peTOgRG16qdvIFlnEzRhM/edit#gid=981902297)
       [Kirara Frames Mastersheet](https://docs.google.com/spreadsheets/d/1uEVDO4WqobtvX9l728MsWcb2F-QsDOW4EnNa3cbojrc/edit#gid=0)
   - name: DISCLAIMER
     value: |-
