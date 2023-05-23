@@ -1,0 +1,66 @@
+---
+content:
+embeds:
+- title: |-
+    __Artifact Sets__
+
+    **4PC Deepwood Memories**  
+  description: >-
+    If Baizhu is the only Dendro character on your team, in teams revolving around Bloom Reactions, the 30% Dendro Resistance Shred from Deepwood is very valuable. However, Baizhu can struggle to consistently apply this effect to all enemies in bigger AoE scenarios. This is due to his Skill only targeting three enemies per use, and his Burst consisting of primarily single-target projectiles. The 2PC bonus, however, doesn’t do much for him at all due to Baizhu not being built for damage anyways. As the solo Dendro character in Quicken teams, there’s no reason to run this set due to Baizhu being the only one dealing Dendro DMG. If he’s run with other Dendro characters, they can make better use of the 4PC set bonus as they will probably trigger it more consistently than Baizhu.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
+
+- title: >-
+    **4PC Ocean-Hued Clam**
+  description: |-
+    Due to Baizhu’s large amount of healing, he can make consistent Clam bubbles while his Burst is active. Clam can be a decent upgrade to Baizhu’s personal damage, but other artifact sets may be more beneficial to team damage depending on the scenario.
+    
+    For example, Quicken teams may appreciate other buffs, such as ATK or EM, more than this set’s buff to personal damage. In teams such as Nilou Bloom, Kokomi can cap out Clam bubbles a lot more consistently compared to Baizhu. However, Kokomi likes to build full EM in that setup, which a lot of players may not be able to do with 4PC Clam. Because of this, running Kokomi on triple EM FoPL / GD and Baizhu on 4PC Clam is a viable option.
+
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Ocean-Hued_Clam.png
+
+- title: >-
+    **4PC Instructor**
+  description: >-
+    If Baizhu is being used mainly for his buffing passive, 4pc Instructor can provide a larger overall Effective EM buff, even if Baizhu’s passive isn’t being maxed out. This is due to his A4 requiring a lot of investment for the amount it actually provides. Although his healing and shielding will suffer due to 4-star artifact stats, his healing scaling is high enough that this shouldn’t be a big hit on survivability for most players.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Instructor.png
+
+- title: >-
+    **4PC Noblesse Oblige**
+  description: >-
+    The increase to Elemental Burst DMG isn’t notable here due to Baizhu’s low personal damage. However, the team-wide ATK% buff can be useful in Quicken teams with more external EM buffs than ATK buffs.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Noblesse_Oblige.png
+
+- title: >-
+    **4PC Maiden Beloved**
+  description: >-
+     If you don’t think Baizhu’s already high healing is enough, a 4PC Maiden set can increase that even more, resulting in very overkill amounts of healing. Generally not recommended, but it can work.
+
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Maiden_Beloved.png
+
+- title: >-
+    **2PC HP/HB/ER**
+  description: >-
+    If you’re struggling for artifacts, these are some 2pc sets that can work: HP% for his healing, shielding, and A4 Passive; Healing Bonus% for just his healing; and Energy Recharge% for getting his Elemental Burst back more consistently. Running a 2pc mixed set over a 4pc set isn’t much of a difference in team DPS, so if you don’t want to invest hugely in Baizhu, throwing high HP% pieces together can work just fine.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Gilded_Dreams.png
+
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+
+buttons:
+- customId: liveInteraction#faq/dendro/baizhu/artifacts1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

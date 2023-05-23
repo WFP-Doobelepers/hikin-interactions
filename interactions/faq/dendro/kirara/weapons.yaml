@@ -1,0 +1,71 @@
+---
+content:
+embeds:
+- title: __WEAPONS__
+  description: >-
+    Weapon rankings depend on how many reactions Kaveh procs. As a general rule, EM-based weapons become better the more Blooms Kaveh can trigger and also provide stronger heals. In low Bloom scenarios, ATK and CRIT weapons tend to overshadow their EM counterparts.
+  color: 5810290
+
+- title: |-
+    __**Recommended**__
+
+    **Jadefall’s Splendor**
+  description: >-
+    Baizhu’s Signature weapon, providing a large amount of HP% from its substat, as well as Flat Energy and Elemental DMG Bonus from the passive whenever he casts his Burst or creates shields. This synergises perfectly with his kit, getting him closer to maxing out his A4 Passive. Although he doesn’t make great use of the DMG Bonus, due to his already low personal damage, the flat energy lowers his ER Reqs immensely, providing up to 27 Flat Energy consistently.
+  color: 5810290
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Morax.png
+
+- title: >-
+    **A Thousand Floating Dreams**
+  description: >-
+    Despite being a more offensive catalyst, providing both Elemental Mastery and DMG%, it also provides 40 Elemental Mastery to the party, increasing Baizhu’s buffing potential. Due to not providing any Energy, players will most likely need to run an Energy Recharge% Sands to reliably Burst off cooldown. However, if players do have enough ER, this weapon becomes competitive with Jadefall in terms of team DPS, especially in teams that lack external EM buffs.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/A_Thousand_Floating_Dreams.png
+
+- title: >-
+    **Prototype Amber**
+  description: >-
+    Basically a budget version of Jadefall, providing HP% from the substat, as well as Flat Energy and party-wide healing when casting his Elemental Burst. At R5, this will provide 18 Flat Energy, which still lowers his ER Reqs a lot. Due to Baizhu focusing fully on healing and Energy Recharge, the difference between these weapons isn’t major, meaning Amber is a very good F2P-friendly option for him.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Prototype_Amber.png
+
+- title: |-
+    __**Alternatives**__
+
+    **Everlasting Moonglow**
+  description: >-
+    An HP% stat stick, providing the same amount of HP% as Jadefall, as well as Healing Bonus. This may help players cap out Baizhu’s A4 Passive easier. However, there is still not much difference between the substats of Moonglow and Prototype Amber, making this weapon not that great.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Everlasting_Moonglow.png
+
+- title: |-
+    **Favonius Codex**
+  description: |-
+    The usual universal option for characters who either have high Energy requirements or don’t have a weapon they particularly prefer, providing Energy Recharge from the substat and Clear Particles from the passive. Favonius can help lower team ER Reqs, but Prototype Amber will generally help out more due to the large amount of Flat Energy it provides, assuming you need Energy in the first place. Also bear in mind that because Baizhu typically doesn’t equip CRIT Rate% Circlets, he might not proc Favonius’s passive consistently.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Favonius_Codex.png
+
+- title: >-
+    **Hakushin Ring**
+  description: >-
+    A more supportive option, providing Energy Recharge from the substat and a team-wide Elemental DMG Bonus upon triggering an Elemental Reaction. If Baizhu can reliably trigger Quicken, this can be a nice alternative for both Aggravate and Spread teams, assuming Baizhu has enough Energy Recharge to reliably Burst every rotation.
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Hakushin_Ring.png
+
+- title: >-
+    **Thrilling Tales of Dragon Slayers (R5)**  
+  description: >-
+    A 3-star weapon, providing HP% from the substat and a large ATK% buff to the next character to take the field. Although the substat can help you max out Baizhu’s A4 easier, he may struggle to easily Burst due to not having enough Energy, requiring you to run an Energy Recharge% Sands as well. 
+  color: 5810290
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Thrilling_Tales_of_Dragon_Slayers.png
+
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662

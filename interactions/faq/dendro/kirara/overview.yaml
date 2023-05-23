@@ -1,0 +1,41 @@
+---
+content:
+embeds:
+- title: __CREDITS AND SHEET LINK REMIND ME TO CHANGE THIS LATER PLEASE THANKS__
+  color: 5810290
+  fields:
+  - name: 'Leads:'
+    value: "<@148100838861176832>"
+  - name: 'Authors:'
+    value: "<@148100838861176832>, <@280016643558604800>, <@178766970450214912>"
+  - name: 'Calculations:'
+    value: "<@148100838861176832>, <@94978723341668352>, <@377496350155079690>, <@463998487067885600>, <@651556217315000360>, <@560160964759257104>"
+  - name: 'Framecounts:'
+    value: "<@367160010335191054>"
+  - name: 'Consulting:'
+    value: "<@366206663533002774>, <@280016643558604800>, <@463998487067885600>, <@94978723341668352>, <@939432470384894007>"
+  - name: 'Resources:'
+    value: |-
+      [Kirara Mastersheet](xyz)
+      [Kirara Frames Mastersheet](https://docs.google.com/spreadsheets/d/1uEVDO4WqobtvX9l728MsWcb2F-QsDOW4EnNa3cbojrc/edit#gid=0)
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions. 
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://www.pockettactics.com/wp-content/sites/pockettactics/2023/05/genshin-impact-kirara-5.jpeg
+- title: __OVERVIEW__
+  description: |-
+    
+    Kirara is a 4-star Dendro Sword shielder, providing shields via her Skill and a tiny bit of extra damage from her Burst. That being said, it is not recommended to build Kirara for damage in spite of her decently high multipliers on her Burst due to her lack of access to amplifying reactions that take advantage of said multipliers, as well as the loss in shield strength.
+
+    What’s worth noting is that Kirara’s shield has extra absorption against Dendro DMG. This means that she could be an interesting slot-in in Bloom / Burgeon teams if one wishes to take advantage of the increased absorption. If not, she can very easily be slotted into quickswap teams due to her low cooldown on her Tap Skill.
+
+
+    
+  color: 5810290
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/momoka_061_icon.webp?x53383

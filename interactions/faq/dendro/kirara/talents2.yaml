@@ -1,0 +1,41 @@
+---
+content:
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Bewitching, Betwitching Tails**
+  description: |-
+    During Kirara’s held Skill state, crashing into enemies grants her a stack of **Reinforced Packaging** obtainable every 0.5s, up to a maximum of 3 stacks. When her held Skill ends, each stack of Reinforced Packaging will grant Kirara a Shield of Safe Transport, refreshing the duration of her shield and stacking on top of her existing shield up to the maximum that her Skill will allow. A very nice passive that helps with both Kirara’s shield strength and uptime.
+  
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_05.png
+  color: 5810290
+
+- title: >-
+    **Ascension 4 Passive: Pupillary Variance**
+  description: |-
+     Increases the damage from Kirara’s Skill and Burst, scaling with her maximum HP. Helps ever so slightly with Kirara’s damage when building her as a shieldbot, but nothing to write home about.
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_06.png
+  color: 5810290
+
+- title: >-
+    **Overworld Passive: Cat's Creeping Carriage**
+  description: >-
+    Makes wild animals that produce meat when killed not be startled when characters in the same active party as Kirara approaches them. Helps when gathering ingredients for food, although do note that this will only work for the first enemy in the vicinity.
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Aloy_07.png
+  color: 5810290
+
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+
+buttons:
+- customId: liveInteraction#faq/dendro/kirara/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

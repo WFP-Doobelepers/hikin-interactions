@@ -1,0 +1,69 @@
+---
+content:
+embeds:
+- title: >-
+    __TALENTS__
+  description: |-
+    **Talent Priority**
+    
+    Elemental Skill > Elemental Burst
+
+    **Analysis**
+
+    Since Kirara’s shields and a bit of her damage scale off of HP, having high levels on her is nice for primarily more shield absorption, with the added damage being the icing on the cake. Leveling her to 90 is preferred, but is by no means necessary to take full advantage of her kit. 
+    
+
+    
+  color: 5810290
+  image:
+     url: https://media.discordapp.net/attachments/1087300734372020315/1110289478096003203/Skill_A_Catalyst_MD.png?width=657&height=176
+
+- title: |-
+    __**TALENT OVERVIEW**__
+    
+    **Normal Attack: Boxcutter**
+  description: |-
+    Kirara has attack multipliers that are similar to Shinobu’s throughout her normal attack sequence. Unfortunately, with abysmally low base attack and no other added gimmicks to it, there is little to no reason to make use of her attack string unless you specifically wish to build her to do so.
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_A_01.png
+  color: 5810290
+
+- title: >-
+    **Elemental Skill: Meow-teor Kick**
+  description: |-
+    *CD (Tap)* : ***8s***
+    *CD (Hold)* : ***12s***
+
+    There are two variations to Kirara’s Skill - a pressed and a held version. Her pressed Skill has her do a **Tail-Flicking Flying Kick**, dealing AoE Dendro Damage while briefly applying Dendro to herself. It will also create a **Shield of Safe Transport** that lasts for 12s, the duration of which will be refreshed if a new shield is applied on top of it.
+    
+    Her held Skill deploys a shield similar to the one that is created from her pressed Skill. On top of this, Kirara will curl up into a box, dealing damage to enemies she crashes into in a fashion similar to Sayu’s Skill. At the end of her Skill, she will unleash a **Flipclaw Strike**, dealing AoE Dendro Damage. The longer her Skill is held, the longer its cooldown will be at the end.
+
+    It’s worth noting that in the held Skill state, Kirara’s movement and climbing speed will be increased, making it possible for her to traverse climbable terrain more quickly in her box state at the cost of increased stamina consumption.
+
+    Kirara’s shields also have increased Dendro absorption, meaning that she could be an option for certain bloom-based teams.
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_S_Momoka_01.png
+  color: 5810290
+
+- title: >-
+    **Elemental Burst: Secret Art: Surprise Dispatch**
+  description: |-
+    *CD* : ***15s***
+    *Energy Cost* : ***60***
+    
+    Kirara smashes enemies with a **Special Delivery Package**, dealing a large chunk of AoE Dendro Damage to enemies. After the explosion, the package will split up into a total of 6 **Cat Grass Cardamoms**, little bomblets similar to Klee’s. When enemies come into contact with said bomblets OR if left alone for 12 seconds, they will explode, dealing AoE Dendro Damage to enemies surrounding them. A nice bit of extra damage along with Dendro application, although since Kirara’s ideally built as a shieldbot, the damage might not be as impactful as the numbers imply.
+
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_E_Momoka_01.png
+  color: 5810290
+
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+    
+buttons:
+- customId: liveInteraction#faq/dendro/kirara/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
