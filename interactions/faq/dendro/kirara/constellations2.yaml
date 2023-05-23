@@ -18,7 +18,9 @@ embeds:
 - title: |-
     **Constellation 4 - Steed of Skanda**
   description: |-
-    > *After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200% of her ATK as Dendro DMG. DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s. This CD is shared between all party members.*
+    > *After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200% of her ATK as Dendro DMG. 
+    > 
+    > DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s. This CD is shared between all party members.*
 
     This Constellation is an interesting one. If your active character is protected by any of Kirara’s shields, their Normal / Charged / Plunging Attacks will trigger a coordinated attack, dealing Dendro DMG that scales off of Kirara’s Attack. This effect can be triggered a maximum of once every 3.8 seconds, and its CD is shared between all party members, meaning that it can only be triggered every 3.8 seconds as well in co-op.
 
