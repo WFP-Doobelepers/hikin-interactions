@@ -1,12 +1,9 @@
 ---
 content:
 embeds:
-- title: __WEAPONS__
-  description: >-
-    Weapon rankings depend on how many reactions Kaveh procs. As a general rule, EM-based weapons become better the more Blooms Kaveh can trigger and also provide stronger heals. In low Bloom scenarios, ATK and CRIT weapons tend to overshadow their EM counterparts.
-  color: 5810290
-
-- title: |-
+- title: |- 
+    __WEAPONS__
+    
     __**Recommended**__
 
     **Jadefall’s Splendor**
