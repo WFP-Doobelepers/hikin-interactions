@@ -2,7 +2,7 @@
 content:
 embeds:
 - title: __CREDITS AND SHEET LINK REMIND ME TO CHANGE THIS LATER PLEASE THANKS__
-  color: 5810290
+  color: 12638905
   fields:
   - name: 'Leads:'
     value: "<@148100838861176832>"
@@ -32,7 +32,7 @@ embeds:
     What’s worth noting is that Kirara’s shield has extra absorption against Dendro DMG. This means that she could be an interesting slot-in in Bloom / Burgeon teams if one wishes to take advantage of the increased absorption. If not, she can very easily be slotted into quickswap teams due to her low cooldown on her Tap Skill.
 
     
-  color: 5810290
+  color: 12638905
   footer:
     text: 'Authored by: NatC'
     icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352

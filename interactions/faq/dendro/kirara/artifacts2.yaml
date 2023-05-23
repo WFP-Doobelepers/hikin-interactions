@@ -4,60 +4,62 @@ embeds:
 - title: |-
     __Artifact Sets__
 
-    **4PC Deepwood Memories**  
+    **2PC HP / 2PC HP**
   description: >-
-    If Baizhu is the only Dendro character on your team, in teams revolving around Bloom Reactions, the 30% Dendro Resistance Shred from Deepwood is very valuable. However, Baizhu can struggle to consistently apply this effect to all enemies in bigger AoE scenarios. This is due to his Skill only targeting three enemies per use, and his Burst consisting of primarily single-target projectiles. The 2PC bonus, however, doesn’t do much for him at all due to Baizhu not being built for damage anyways. As the solo Dendro character in Quicken teams, there’s no reason to run this set due to Baizhu being the only one dealing Dendro DMG. If he’s run with other Dendro characters, they can make better use of the 4PC set bonus as they will probably trigger it more consistently than Baizhu.
-  color: 5810290
+    This option shines brightly with Kirara’s kit, allowing her to maximize HP% and ensure maximum uptime on defensive capabilities in exchange for potential 4pc benefits. This option is also very good for maximizing the value of Kirara’s A4 Passive by stacking a ton of Max HP, allowing her to deal more damage from her Meow-teor Kick and Burst. 
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
+    url: https://media.discordapp.net/attachments/1087300734372020315/1110552551880925204/Portraits_Tenacity_of_the_MillelithVourukashas_Glow.png?width=352&height=352
 
 - title: >-
-    **4PC Ocean-Hued Clam**
+    **4PC Tenacity of the Millelith**
   description: |-
-    Due to Baizhu’s large amount of healing, he can make consistent Clam bubbles while his Burst is active. Clam can be a decent upgrade to Baizhu’s personal damage, but other artifact sets may be more beneficial to team damage depending on the scenario.
-    
-    For example, Quicken teams may appreciate other buffs, such as ATK or EM, more than this set’s buff to personal damage. In teams such as Nilou Bloom, Kokomi can cap out Clam bubbles a lot more consistently compared to Baizhu. However, Kokomi likes to build full EM in that setup, which a lot of players may not be able to do with 4PC Clam. Because of this, running Kokomi on triple EM FoPL / GD and Baizhu on 4PC Clam is a viable option.
+   Tenacity of the Millelith is a stellar option on Kirara if playing her on field using her Hold Skill, which can allow her to maintain the shield bonus fairly consistently and give her teammates an additional 20% ATK. This option, however, does not fare well when Kirara is played as a quickswap shielder and kept off-field most of the time, which brings the uptime of the 4pc buff to near negligible.
 
-  color: 5810290
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/artifacts/icon/Ocean-Hued_Clam.png
+    url: https://library.keqingmains.com/img/artifacts/icon/Tenacity_of_the_Millelith.png
 
 - title: >-
-    **4PC Instructor**
+    **4PC Instructors**
   description: >-
-    If Baizhu is being used mainly for his buffing passive, 4pc Instructor can provide a larger overall Effective EM buff, even if Baizhu’s passive isn’t being maxed out. This is due to his A4 requiring a lot of investment for the amount it actually provides. Although his healing and shielding will suffer due to 4-star artifact stats, his healing scaling is high enough that this shouldn’t be a big hit on survivability for most players.
-  color: 5810290
+    A common choice for support characters. 4pc Instructor’s offers a 120 EM buff to all party members, which can be very valuable in Dendro teams that Kirara might be run in since Dendro reactions scale with EM.
+  color: 12638905
   thumbnail:
     url: https://library.keqingmains.com/img/artifacts/icon/Instructor.png
 
 - title: >-
-    **4PC Noblesse Oblige**
+    **4PC Deepwood Memories**
   description: >-
-    The increase to Elemental Burst DMG isn’t notable here due to Baizhu’s low personal damage. However, the team-wide ATK% buff can be useful in Quicken teams with more external EM buffs than ATK buffs.
-  color: 5810290
+    As Kirara can be played in Dendro teams as the shielder, she can offer to carry Deepwood if no other party members like Nahida are present to do so. Players must note that Kirara does not maintain good uptime on the 4pc buff if she is off-field.
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/artifacts/icon/Noblesse_Oblige.png
+    url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
 
 - title: >-
-    **4PC Maiden Beloved**
+    **2PC HP / 2PC ER**
   description: >-
-     If you don’t think Baizhu’s already high healing is enough, a 4PC Maiden set can increase that even more, resulting in very overkill amounts of healing. Generally not recommended, but it can work.
+    A combination of HP% and ER% (when playing Kirara as a Burst DPS) is a good option to meet the ER requirements for her burst while still maintaining HP% sands on her. 
 
-  color: 5810290
+  color: 12638905
   thumbnail:
     url: https://library.keqingmains.com/img/artifacts/icon/Maiden_Beloved.png
 
 - title: >-
-    **2PC HP/HB/ER**
-  description: >-
-    If you’re struggling for artifacts, these are some 2pc sets that can work: HP% for his healing, shielding, and A4 Passive; Healing Bonus% for just his healing; and Energy Recharge% for getting his Elemental Burst back more consistently. Running a 2pc mixed set over a 4pc set isn’t much of a difference in team DPS, so if you don’t want to invest hugely in Baizhu, throwing high HP% pieces together can work just fine.
-  color: 5810290
+    **4PC Noblesse Oblige **
+  description: |-
+
+    Another universal support artifact, Noblesse Oblige offers a decent Burst DMG Bonus to Kirara which can be useful if she is being played for her Burst, alongside a teamwide 20% attack boost.
+
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/artifacts/icon/Gilded_Dreams.png
+    url: https://library.keqingmains.com/img/artifacts/icon/Noblesse_Oblige.png
+
+   
 
   footer:
-    text: 'Authored by: Leifa'
-    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+    text: 'Authored by: snowy'
+    icon_url: https://images-ext-2.discordapp.net/external/Us_8zPQ10o9vcBL2RVQ8N9rqBvKOKjj81pxAqgVncnc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/92c89dc47f6a51d83eb25862791ce5f2.png?width=352&height=352
 
 buttons:
 - customId: liveInteraction#faq/dendro/baizhu/artifacts1

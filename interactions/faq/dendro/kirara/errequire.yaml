@@ -3,15 +3,17 @@ content:
 embeds:
 - title: __Energy Recharge Requirement__
   description: |-
-    Baizhu’s Elemental Skill generates three Particles with a 50% chance of four upon first hitting an enemy. Due to having an 80 cost Burst, Baizhu’s Energy requirements are extremely high. Thankfully, both Prototype Amber and his signature weapon, Jadefall’s Splendor, grant Flat Energy. Hence, they are vital in making his requirements manageable. 
-    
+    Kirara has two sources of particle generation — the first being the 3 particles generated upon hitting an enemy either with a Tap Skill or at the end of a Hold Skill, and the second when she crashes into enemies in her Hold Skill state, generating at most 1 particle every 4 seconds. Kirara has a 60 Burst Cost, meaning her ER requirements are comfortably met in quickswap teams where she can get 2 short Hold Skills in. Additionly, Kirara is often run with a second Dendro, making her ER requirements even easier to meet. 
+
     In quickswap-style teams, Baizhu can fit two Skill casts helping to reduce his Energy requirements by around 30%. All calculations use Prototype Amber R5 and assume he’s off-field when Favonius is triggered, due to Baizhu never wanting to take increased field time.
 
-    For a more accurate approximation of his requirements for your rotation, please use the Energy Recharge calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
-  color: 5810290
+    All values below assume two short Hold Skills. Second Dendro is assumed to be Nahida unless with Tighnari / Alhaitham. Fav particles are caught off-field by Kirara.
+
+    Kirara’s Energy requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+  color: 12638905
   footer:
-    text: 'Authored by: Leifa'
-    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
   
   image:
-    url: https://media.discordapp.net/attachments/1087300734372020315/1094976312600445079/erreq.png?width=1439&height=445
+    url: https://media.discordapp.net/attachments/1087300734372020315/1110546564180607040/image.png?width=1439&height=523

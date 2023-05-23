@@ -3,24 +3,23 @@ content:
 embeds:
 - title: __ARTIFACTS__
   description: |-
-    <${EMOJIS.SANDS}> *Sands of Eon:* HP% or ER%
+    <${EMOJIS.SANDS}> *Sands of Eon:* HP%
     <${EMOJIS.GOBLET}> *Goblet of Eonothem:* HP%
-    <${EMOJIS.CIRCLET}> *Circlet of Logos:* HP% or HB%
+    <${EMOJIS.CIRCLET}> *Circlet of Logos:* HP%
 
-    Due to Baizhu contributing very little team damage, it's best to focus strictly on his defensive utility by building mainly for HP%. On top of this, his A4 Passive scales with his Max HP up to 50k, meaning players should try to get as close to 50k HP as possible after meeting his Energy requirements.
+    Due to Kirara having very little damage contribution, maximizing her Skill’s shielding utility by building her purely on HP% as a shieldbot is the best way to make use of her kit. On top of that, Kirara’s Ascension 4 Passive introduces additional HP% scalings to her Meow-teor Kick and Elemental Burst, allowing her to sneak some extra damage even if her build is full HP%.
 
-    Since Baizhu's Burst has a high energy cost and he has low Energy generation, some players may need to run an Energy Recharge% Sands to accommodate his needs. HP% Circlet tends to be better overall than Healing Bonus%, however it is a valid option if players have nothing else.
+    Unlike Baizhu, Kirara does not require a Burst activation to deploy defensive utility, which she can provide with her Skill instead. This means unless the player is willing to play her purely for her Burst, there is no requirement to build ER% on her. 
 
-    **Substats:** ER% (Until ER Reqs are met) > HP% (Until 50k) > EM (If Nilou Bloom)
+    **Substats:** ER% (Until ER Reqs are met) > HP%/HP > ATK%/ATK/CRIT%/CRIT DMG%
 
-    Baizhu doesn’t need many stats at all, as players are able to cap out his A4 Passive at KQM investment with little to no HP substats. This allows players to focus on his Energy Recharge, the main caveat of his kit. Once both of these stats reach their recommended level, there aren’t really any stats he benefits from, making him quite cheap to build. In Nilou Bloom teams specifically, extra EM substats wouldn’t hurt.
-  color: 5810290
+  color: 12638905
   footer:
-    text: 'Authored by: Leifa'
-    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+    text: 'Authored by: snowy'
+    icon_url: https://images-ext-2.discordapp.net/external/Us_8zPQ10o9vcBL2RVQ8N9rqBvKOKjj81pxAqgVncnc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/92c89dc47f6a51d83eb25862791ce5f2.png?width=352&height=352
 
 buttons:
-- customId: liveInteraction#faq/dendro/baizhu/artifacts2
+- customId: liveInteraction#faq/dendro/kirara/artifacts2
   label: Artifact Sets
   style: PRIMARY
   emoji: "▶️"

@@ -10,7 +10,7 @@ embeds:
 
    Gives Kirara the ability to create up to 4 extra bomblets depending on her Max HP, which is very likely if you were to build her as a shieldbot. A nice bit of extra Dendro application which could situationally be useful, although her damage is still nothing special.
 
-  color: 5810290
+  color: 12638905
   fields:    
   - name: "*Rating:*"
     value: 1/5
@@ -28,11 +28,11 @@ embeds:
 
     A Constellation that is nice in co-op, granting mini-shields to allies who Kirara collides with. That being said, these shields can only be created in co-op, rendering this Constellation worthless in normal play.
 
-  color: 5810290
+  color: 12638905
   fields:
   - name: "*Rating:*"
     value: 0/5
-  - name: "*Rating for playing with your casual friends that are bad*"
+  - name: "*Rating for playing with your casual friends that are bad:*"
     value: 3/5
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_02.png

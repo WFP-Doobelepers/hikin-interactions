@@ -10,7 +10,7 @@ embeds:
   
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_05.png
-  color: 5810290
+  color: 12638905
 
 - title: >-
     **Ascension 4 Passive: Pupillary Variance**
@@ -19,7 +19,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_06.png
-  color: 5810290
+  color: 12638905
 
 - title: >-
     **Utility Passive: Cat's Creeping Carriage**
@@ -28,7 +28,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/UI_Talent_S_Aloy_07.png
-  color: 5810290
+  color: 12638905
 
   footer:
     text: 'Authored by: NatC'

@@ -3,69 +3,75 @@ content:
 embeds:
 - title: __WEAPONS__
   description: >-
-    Weapon rankings depend on how many reactions Kaveh procs. As a general rule, EM-based weapons become better the more Blooms Kaveh can trigger and also provide stronger heals. In low Bloom scenarios, ATK and CRIT weapons tend to overshadow their EM counterparts.
-  color: 5810290
+    Kirara’s weapon choices are all relatively straightforward with a couple of key goals in mind — shield the team as much as possible while contributing other forms of utility and buffs if possible. Sadly, at the time of writing this, there are only two swords in the game that boost HP, both of which would be better utilized on other relevant characters if you have them.
+
+    You could also opt for more offensive choices if you wish for Kirara to do more damage, but as has been mentioned previously, this is not recommended as you give up a lot of shielding to do so, which is Kirara’s primary forte.
+  color: 12638905
 
 - title: |-
     __**Recommended**__
 
-    **Jadefall’s Splendor**
+    **Favonius Sword**
   description: >-
-    Baizhu’s Signature weapon, providing a large amount of HP% from its substat, as well as Flat Energy and Elemental DMG Bonus from the passive whenever he casts his Burst or creates shields. This synergises perfectly with his kit, getting him closer to maxing out his A4 Passive. Although he doesn’t make great use of the DMG Bonus, due to his already low personal damage, the flat energy lowers his ER Reqs immensely, providing up to 27 Flat Energy consistently.
-  color: 5810290
+    The best all-around weapon for Kirara, decreasing her own as well as her teammates’ Energy Requirements. She can also trigger its passive fairly often, with her own cooldowns lining up very nicely with the cooldown on an R3/4 weapon, depending on whether you use the Tap or Hold version of her Skill. Do keep in mind that without building CRIT Rate, you might find some difficulty in triggering its passive consistently.
+  color: 12638905
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Morax.png
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Favonius_Sword.png
 
 - title: >-
-    **A Thousand Floating Dreams**
+    **Key of Khaj-Nisut**
   description: >-
-    Despite being a more offensive catalyst, providing both Elemental Mastery and DMG%, it also provides 40 Elemental Mastery to the party, increasing Baizhu’s buffing potential. Due to not providing any Energy, players will most likely need to run an Energy Recharge% Sands to reliably Burst off cooldown. However, if players do have enough ER, this weapon becomes competitive with Jadefall in terms of team DPS, especially in teams that lack external EM buffs.
-  color: 5810290
+    Kirara’s premier weapon of choice, boasting a massive HP substat along with a passive that not only further increases her Max HP, but also gives herself more EM based on her max HP, with her teammates getting a small portion of said EM buff with full stacks. This makes it particularly valuable in Dendro teams which can make use of the teamwide EM buff, especially Nilou Bloom. Unless you have two Keys, however, this weapon is best used on Nilou herself, with Kirara holding something else instead. Do note that the Key passive can stack, so running two Keys in a single team is not out of the question.
+    
+    If possible, it is also recommended to stay in Kirara’s Hold Skill state long enough to gain maximum stacks on Key, triggering the latter portion of its passive once it is fully stacked.
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/weapons/icon_ascended/A_Thousand_Floating_Dreams.png
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Key_of_Khaj-Nisut.png
 
 - title: >-
-    **Prototype Amber**
+    **Sacrificial Sword**
   description: >-
-    Basically a budget version of Jadefall, providing HP% from the substat, as well as Flat Energy and party-wide healing when casting his Elemental Burst. At R5, this will provide 18 Flat Energy, which still lowers his ER Reqs a lot. Due to Baizhu focusing fully on healing and Energy Recharge, the difference between these weapons isn’t major, meaning Amber is a very good F2P-friendly option for him.
-  color: 5810290
+    Offers less general batterying than Favonius Sword in exchange for more Dendro particles created. Also theoretically gives Kirara the ability to instantly max out her shielding at the start of every rotation by using two consecutive Tap Skill instances, though this has yet to be tested in game. It is also recommended to have Sac Sword at R3 at minimum in order for it to line up properly with Kirara’s Tap Skill cooldowns, if used almost instantly off cooldown.
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/weapons/icon_ascended/Prototype_Amber.png
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Sacrificial_Sword.png
 
 - title: |-
     __**Alternatives**__
 
-    **Everlasting Moonglow**
+    **Primordial Jade Cutter**
   description: >-
-    An HP% stat stick, providing the same amount of HP% as Jadefall, as well as Healing Bonus. This may help players cap out Baizhu’s A4 Passive easier. However, there is still not much difference between the substats of Moonglow and Prototype Amber, making this weapon not that great.
-  color: 5810290
+   Kirara’s best weapon for damage, giving her a whopping 44% CRIT Rate and an extra bit of HP from its passive, along with extra attack based on her Max HP. This synergizes very well with Kirara’s kit, increasing Kirara’s shielding and A4 damage while giving a ton of raw offensive stats. Once again, unless you really like Kirara and/or you have nobody else to use this weapon on, it is recommended to put this on somebody else who could make better use of it, like Xingqiu or Ayato.
+
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/weapons/icon_ascended/Everlasting_Moonglow.png
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Primordial_Jade_Cutter.png
 
 - title: |-
-    **Favonius Codex**
+    **Sapwood Blade**
   description: |-
-    The usual universal option for characters who either have high Energy requirements or don’t have a weapon they particularly prefer, providing Energy Recharge from the substat and Clear Particles from the passive. Favonius can help lower team ER Reqs, but Prototype Amber will generally help out more due to the large amount of Flat Energy it provides, assuming you need Energy in the first place. Also bear in mind that because Baizhu typically doesn’t equip CRIT Rate% Circlets, he might not proc Favonius’s passive consistently.
-  color: 5810290
+    Kirara’s best craftable option, giving her a nice chunk of ER from its substat along with a bit of extra EM for whoever picks up its leaf after Kirara triggers a Dendro reaction. Less valuable if Kirara is not being used in Dendro teams though, so adjust accordingly.
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/weapons/icon_ascended/Favonius_Codex.png
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Sapwood_Blade.png
 
 - title: >-
-    **Hakushin Ring**
+    **Freedom-Sworn**
   description: >-
-    A more supportive option, providing Energy Recharge from the substat and a team-wide Elemental DMG Bonus upon triggering an Elemental Reaction. If Baizhu can reliably trigger Quicken, this can be a nice alternative for both Aggravate and Spread teams, assuming Baizhu has enough Energy Recharge to reliably Burst every rotation.
-  color: 5810290
+    Another limited gacha weapon. Kirara can activate Freedom-Sworn’s passive with relative ease in the right team, making her a surprisingly good holder of this weapon. The main drawback to this weapon is that you have to carefully watch your cooldowns, or you might begin your second rotation too early, resulting in Kirara not proccing its passive.
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/weapons/icon_ascended/Hakushin_Ring.png
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Freedom-Sworn.png
 
 - title: >-
-    **Thrilling Tales of Dragon Slayers (R5)**  
+    **Festering Desire**
   description: >-
-    A 3-star weapon, providing HP% from the substat and a large ATK% buff to the next character to take the field. Although the substat can help you max out Baizhu’s A4 easier, he may struggle to easily Burst due to not having enough Energy, requiring you to run an Energy Recharge% Sands as well. 
-  color: 5810290
+    This is an event-limited weapon, so you may not have access to it. If you do, however, it is worth considering if you run Kirara as an on-field Dendro driver, providing a small bit of ER from its substat as well as extra damage on her Skill.
+  color: 12638905
   thumbnail:
-    url: https://library.keqingmains.com/img/weapons/icon_ascended/Thrilling_Tales_of_Dragon_Slayers.png
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Festering_Desire.png
 
   footer:
-    text: 'Authored by: Leifa'
-    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=662&height=662
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+    

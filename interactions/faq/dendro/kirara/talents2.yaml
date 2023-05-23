@@ -9,7 +9,7 @@ embeds:
     Kirara has attack multipliers that are similar to Shinobu’s throughout her Normal Attack sequence. Unfortunately, with abysmally low base attack and no other added gimmicks to it, there is little to no reason to make use of her attack string unless you specifically wish to build her to do so.
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_A_01.png
-  color: 5810290
+  color: 12638905
 
 - title: >-
     **Elemental Skill: Meow-teor Kick**
@@ -27,7 +27,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_S_Momoka_01.png
-  color: 5810290
+  color: 12638905
 
 - title: >-
     **Elemental Burst: Secret Art: Surprise Dispatch**
@@ -39,7 +39,7 @@ embeds:
 
   thumbnail:
     url: https://api.ambr.top/assets/UI/Skill_E_Momoka_01.png
-  color: 5810290
+  color: 12638905
 
   footer:
     text: 'Authored by: NatC'
