@@ -2,7 +2,7 @@
 content:
 embeds:
 - title: >-
-    # TALENTS
+    __TALENTS__
   description: |-
     ## Talent Priority
     
@@ -12,6 +12,9 @@ embeds:
 
     Since Kirara’s shields and a portion of her damage scale off of HP, having high levels on her is nice for primarily more shield absorption, with the added damage being the icing on the cake. Leveling her to 90 is preferred, but is by no means necessary to take full advantage of her kit. 
     
+    It’s worth noting that in her Hold Skill state, Kirara’s movement and climbing speed will be increased, making it possible for her to traverse climbable terrain more quickly in her box state at the cost of increased stamina consumption.
+    
+    Kirara’s shields also have increased Dendro absorption, meaning that she could be an option for certain Bloom-based teams.
   color: 5810290
   image:
      url: https://media.discordapp.net/attachments/1087300734372020315/1110289478096003203/Skill_A_Catalyst_MD.png?width=657&height=176
