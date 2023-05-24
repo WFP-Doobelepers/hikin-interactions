@@ -31,7 +31,7 @@ embeds:
   - name: "*Rating:*"
     value: 2/5
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_03.png
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_04.png
 
   footer:
     text: 'Authored by: NatC'
