@@ -1,0 +1,4 @@
+interaction: faq/dendro/kirara/main
+description: "Opens WFP resources for Kirara"
+match: ${ TRIGGER_PREFIX }kirarafaq(?:\s|$)
+ignoreCase: true

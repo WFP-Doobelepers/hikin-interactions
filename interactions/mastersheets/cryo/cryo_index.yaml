@@ -1,0 +1,16 @@
+embeds:
+  - color: 3634295
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/cryo.png
+options: 
+
+  - label: Layla
+    value: faq/cryo/layla
+    description: WFP mastersheet resources on Layla!
+    emoji: <${EMOJIS.LAYLA}>
+
+  - label: Mika
+    value: faq/cryo/mika
+    description: WFP mastersheet resources on the Wanderer!
+    emoji: <${EMOJIS.MIKA}>

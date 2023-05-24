@@ -1,0 +1,50 @@
+---
+content:
+embeds:
+- title: >-
+    **Constellation 3 - Universal Recognition**
+  description: |-
+    > *Increases the Level of Meow-teor Kick by 3.*
+
+    Three extra levels to Kirara’s Skill means that she has stronger shields and slightly more damage from her Skill. A solid Constellation for Kirara.
+  color: 12638905
+  fields:
+  - name: "*Rating:*"
+    value: 2/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Momoka_01.png
+
+
+- title: |-
+    **Constellation 4 - Steed of Skanda**
+  description: |-
+    > *After active character(s) protected by Shields of Safe Transport or Critical Transport Shields hit opponents with Normal, Charged, or Plunging Attacks, Kirara will perform a coordinated attack with them using Small Cat Grass Cardamoms, dealing 200% of her ATK as Dendro DMG. 
+    > 
+    > DMG dealt this way is considered Elemental Burst DMG. This effect can be triggered once every 3.8s. This CD is shared between all party members.*
+
+    This Constellation is an interesting one. If your active character is protected by any of Kirara’s shields, their Normal / Charged / Plunging Attacks will trigger a coordinated attack, dealing Dendro DMG that scales off of Kirara’s Attack. This effect can be triggered a maximum of once every 3.8 seconds, and its CD is shared between all party members, meaning that it can only be triggered every 3.8 seconds as well in co-op.
+
+    Sadly, due to Kirara preferring to be built as a shieldbot, the damage from this is very meagre, and will not contribute a lot. That being said, this gives her off-field Dendro application similar to Collei’s, and theoretically opens up the possibility of running her off-field in Hyperbloom teams.
+
+  color: 12638905
+  fields:
+  - name: "*Rating:*"
+    value: 2/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Baizhuer_03.png
+
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+
+buttons:
+
+- customId: liveInteraction#faq/dendro/kirara/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/dendro/kirara/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

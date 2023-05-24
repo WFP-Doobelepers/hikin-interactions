@@ -1,0 +1,68 @@
+---
+content:
+embeds:
+- title: |-
+    __Artifact Sets__
+
+    **2PC HP / 2PC HP**
+  description: >-
+    This option shines brightly with Kirara’s kit, allowing her to maximize HP% and ensure maximum uptime on defensive capabilities in exchange for potential 4pc benefits. This option is also very good for maximizing the value of Kirara’s A4 Passive by stacking a ton of Max HP, allowing her to deal more damage from her Meow-teor Kick and Burst. 
+  color: 12638905
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1110552551880925204/Portraits_Tenacity_of_the_MillelithVourukashas_Glow.png?width=352&height=352
+
+- title: >-
+    **4PC Tenacity of the Millelith**
+  description: |-
+   Tenacity of the Millelith is a stellar option on Kirara if playing her on field using her Hold Skill, which can allow her to maintain the shield bonus fairly consistently and give her teammates an additional 20% ATK. This option, however, does not fare well when Kirara is played as a quickswap shielder and kept off-field most of the time, which brings the uptime of the 4pc buff to near negligible.
+
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Tenacity_of_the_Millelith.png
+
+- title: >-
+    **4PC Instructors**
+  description: >-
+    A common choice for support characters. 4pc Instructor’s offers a 120 EM buff to all party members, which can be very valuable in Dendro teams that Kirara might be run in since Dendro reactions scale with EM.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Instructor.png
+
+- title: >-
+    **4PC Deepwood Memories**
+  description: >-
+    As Kirara can be played in Dendro teams as the shielder, she can offer to carry Deepwood if no other party members like Nahida are present to do so. Players must note that Kirara does not maintain good uptime on the 4pc buff if she is off-field.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Deepwood_Memories.png
+
+- title: >-
+    **2PC HP / 2PC ER**
+  description: >-
+    A combination of HP% and ER% (when playing Kirara as a Burst DPS) is a good option to meet the ER requirements for her burst while still maintaining HP% sands on her. 
+
+  color: 12638905
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1087300734372020315/1110555061265891329/Portraits_Tenacity_of_the_MillelithEmblem_of_Severed_Fate.png?width=352&height=352
+
+- title: >-
+    **4PC Noblesse Oblige **
+  description: |-
+
+    Another universal support artifact, Noblesse Oblige offers a decent Burst DMG Bonus to Kirara which can be useful if she is being played for her Burst, alongside a teamwide 20% attack boost.
+
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/artifacts/icon/Noblesse_Oblige.png
+
+   
+
+  footer:
+    text: 'Authored by: snowy'
+    icon_url: https://images-ext-2.discordapp.net/external/Us_8zPQ10o9vcBL2RVQ8N9rqBvKOKjj81pxAqgVncnc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/92c89dc47f6a51d83eb25862791ce5f2.png?width=352&height=352
+
+buttons:
+- customId: liveInteraction#faq/dendro/baizhu/artifacts1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

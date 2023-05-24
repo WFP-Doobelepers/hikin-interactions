@@ -1,0 +1,44 @@
+---
+content:
+embeds:
+- title: |-
+    __TEAM BUILDING__
+
+  description: |-
+    Kirara’s entire kit is centered towards maximizing defensive utility by stacking HP% on herself. The two variations of her E can make her centered as a quick-swap shielder when Skill is tapped and a Dendro driver when Skill is held. In the off field role, she does not offer anything besides a strong shield and gives no teamwide buffs. After C4 is unlocked however, Kirara has potential to play in Hyperbloom and Quicken teams as an off-field shielder due to her coordinated attacks, where the player can expect Dendro application similar to Collei’s. However in most scenarios, the amount of Dendro Kirara applies may not be enough even with C4 if she is the solo Dendro character in the team. It is recommended to run Kirara with another Dendro character to ensure enough Dendro application when needed.
+
+    Overall, Kirara finds tough competition from shielders like Zhongli, which can offer a universal RES Shred, and Baizhu, who has better off-field Dendro application, though he is more Burst-centric unlike Kirara. 
+
+    Kirara’s personal damage, like Baizhu’s, is rather poor, and she exists in a team purely for a defensive purpose and a slot-in for enabling Dendro Resonance, hence she does not benefit from any CRIT or EM stats. However, Baizhu and Zhongli both offer a decent buff/debuff of their own to compensate for their lack of personal damage.
+  color: 12638905
+
+- title: |-
+    **Quicken**
+  description: |-
+    
+    **Kirara | Electro | Electro/Dendro | Flex**
+
+    Kirara provides adequate off-field shielding in Quicken scenarios where she is swapped out after deploying her shield. Since Kirara is off-field, her dendro application is minimal — in this case, running her with a character with sufficient Dendro application to make up for her own would be advantageous.
+
+    When C4 is unlocked, Kirara can potentially feel more comfortable in being a solo Dendro character in single target situations because of the additional coordinated attacks applying Dendro on enemies.
+
+    __**Teammates**__
+
+    <${EMOJIS.ELECTRO}> **Electro options:** Keqing / Raiden / Fischl / Yae / Sara / Beidou
+    
+    <${EMOJIS.DENDRO}> **Dendro options:** Nahida / Tighnari / Alhaitham / Collei / Dendro Traveler
+    
+    <${EMOJIS.FLEX}> **Flex options:** Anemo / Any above Electro / Any above Dendro
+  color: 12638905
+  image:
+    url: https://raw.githubusercontent.com/WFP-Doobelepers/hikin-interactions/test/interactions/faq/dendro/kirara/assets/quicken.png
+
+  footer:
+    text: 'Authored by: snowy'
+    icon_url: https://images-ext-2.discordapp.net/external/Us_8zPQ10o9vcBL2RVQ8N9rqBvKOKjj81pxAqgVncnc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/92c89dc47f6a51d83eb25862791ce5f2.png?width=352&height=352
+
+buttons:
+- customId: liveInteraction#faq/dendro/kirara/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

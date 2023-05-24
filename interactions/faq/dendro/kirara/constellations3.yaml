@@ -1,0 +1,42 @@
+---
+content:
+embeds:
+- title: |-
+    **Constellation 5 - A Thousand Miles in a Day**
+  description: |-
+    > *Increases the Level of Secret Art: Surprise Dispatch by 3.*
+
+    Increases Kirara’s Burst Talent level by 3, giving her more damage on her Burst and the subsequent bomblets. Again, not a particularly good Constellation by merit of Kirara preferring to build HP instead of damage.
+  color: 12638905
+  fields:
+  - name: "*Rating:*"
+    value: 1/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Momoka_02.png
+
+- title: >- 
+    **Constellation 6 - Countless Sights to See**
+  description: |- 
+    > *All nearby party members will gain 12% All Elemental DMG Bonus within 15s after Kirara uses her Elemental Skill or Burst.*
+    
+    Provides a nice bit of Elemental DMG Bonus for 15 seconds after Kirara uses her Skill and/or Burst, enabling the party to do more damage all-around. 
+    
+    A solid Constellation, with its main downside being locked behind Constellation 6.
+
+  color: 12638905
+  fields:
+  - name: "*Rating:*"
+    value: 2/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_03.png
+  
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+
+
+buttons:
+- customId: liveInteraction#faq/dendro/baizhu/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

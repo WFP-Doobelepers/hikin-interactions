@@ -1,0 +1,4 @@
+interaction: mastersheets/character_index
+description: "Opens WFP Resources on Character Mastersheets"
+match: ${ TRIGGER_PREFIX }mastersheets(?:\s|$)
+ignoreCase: true

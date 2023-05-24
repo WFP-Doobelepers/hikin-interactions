@@ -1,0 +1,21 @@
+embeds:
+  - color: 3634295
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/anemo.png
+options: 
+
+  - label: Faruzan
+    value: faq/anemo/faruzan
+    description: WFP mastersheet resources on Faruzan!
+    emoji: "<:Faruzan:1050444217522061374>"
+
+  - label: Wanderer
+    value: faq/anemo/wanderer
+    description: WFP mastersheet resources on the Wanderer!
+    emoji: "<:Wanderer:1050444214829330472>"
+
+  - label: Shikanoin Heizou
+    value: faq/anemo/heizou
+    description: WFP mastersheet resources on Shikanoin Hiezou!
+    emoji: <${EMOJIS.HEIZOU}>
