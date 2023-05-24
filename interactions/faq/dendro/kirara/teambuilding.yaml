@@ -31,7 +31,8 @@ embeds:
     <${EMOJIS.FLEX}> **Flex options:** Anemo / Any above Electro / Any above Dendro
   color: 12638905
   image:
-    url: assets/quicken.png
+    url:
+https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/quicken.png
 
 - title: |-
     **Nilou Bloom**
