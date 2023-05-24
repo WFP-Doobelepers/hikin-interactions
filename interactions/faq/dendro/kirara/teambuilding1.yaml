@@ -31,7 +31,7 @@ embeds:
     <${EMOJIS.FLEX}> **Flex options:** Anemo / Any above Electro / Any above Dendro
   color: 12638905
   image:
-    url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/quicken.png
+    url: https://raw.githubusercontent.com/WFP-Doobelepers/hikin-interactions/test/interactions/faq/dendro/kirara/assets/quicken.png
 
   footer:
     text: 'Authored by: snowy'
