@@ -31,9 +31,7 @@ embeds:
     <${EMOJIS.FLEX}> **Flex options:** Anemo / Any above Electro / Any above Dendro
   color: 12638905
   image:
-    url:
-https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/quicken.png
-
+    url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/quicken.png
 
 - title: |-
     **Nilou Bloom**
@@ -52,8 +50,7 @@ https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq
 
   color: 12638905
   image:
-    url: 
-https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/niloubloom.png
+    url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/niloubloom.png
 
 - title: |-
     **Hyperbloom / Burgeon**
@@ -74,8 +71,7 @@ https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq
      
     <${EMOJIS.FLEX}> **Flex options:** Anemo / Dendro / Any above Electro
   image:
-    url: 
-https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/hyperbloom.png
+    url: https://github.com/WFP-Doobelepers/hikin-interactions/blob/test/interactions/faq/dendro/kirara/assets/hyperbloom.png
   color: 12638905
 
   footer:
