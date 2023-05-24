@@ -51,7 +51,7 @@ options: #dropdown
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
-    value: faq/dendro/kirara/teambuilding
+    value: faq/dendro/kirara/teambuilding1
     description: "WFP resources for Kirara FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
