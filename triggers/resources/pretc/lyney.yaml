@@ -1,0 +1,4 @@
+interaction: faq/dendro/lyney/main
+description: "Opens Pretc Test"
+match: ${ TRIGGER_PREFIX }lyneyfaq(?:\s|$)
+ignoreCase: true
