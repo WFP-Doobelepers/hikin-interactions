@@ -1,71 +1,167 @@
+content: null
 embeds:
-- title: |-
-    __TALENTS__
+  - title: |-
+      __TALENT PRIORITY__
 
-    Leveling priority (on-field): Burst > Skill > Normal Attack
-  color: 12784917
-  image:
-    url: https://media.discordapp.net/attachments/914675194939969587/1079617710335463424/dehya_talents_proper_2.png
-- title: 'Leveling priority (off-field): Skill > Burst > Normal Attack'
-  color: 12784917
-  footer:
-    text: 'Authored by: Emiliabyss'
-    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
-  image:
-    url: https://media.discordapp.net/attachments/914675194939969587/1079617710574542868/dehya_talents_proper.png
-- description: "**Analysis:**\n\nSome, but not much, of Dehya’s scaling includes HP,
-    and since Dehya needs all the stats she can get, it may be advised to level her
-    to 90.\n\nDehya’s multipliers on her Normal Attacks are lower than Xinyan’s (a
-    4-star Pyro Claymore wielder), with the same number of hits. Knowing this, it
-    is not advised to use Dehya’s Normal Attacks at all. Instead, decide whether you
-    will play Dehya on-field or off-field, and then level the corresponding Talents
-    as listed above.\n\nDehya’s Skill has two uses that deal different amounts of
-    damage. The first Skill use deals damage and creates a “Fiery Sanctum,” a field
-    that attacks in coordination with your teammates, similar to Albedo’s Skill. The
-    rate of coordinated attacks is once every 2.5 seconds, and while slow Pyro application
-    is good to ensure you Burgeon instead of trigger Burning, 2.5 seconds is too slow
-    and offers too few instances of Pyro application to be exploitable. The second
-    Skill use deals more damage and can move the Fiery Sanctum to a new location without
-    affecting its total 12s field time. This is what makes Burgeon Dehya viable. While
-    her Skill is active, she also acts as a true bodyguard, taking a portion (from
-    30-50%) of her teammates’ damage across ten seconds.\n\nDehya’s Burst lasts about
-    four seconds, though with the initial cast animation and the finishing blow animation,
-    it’s more like eight or nine. Dehya throws aside her Claymore in order to bludgeon
-    enemies with her fists. By mashing the attack button, you can get up to ten punches
-    within the Burst’s duration. The finishing attack is not particularly strong,
-    so in tight rotations, it may be beneficial to swap out of Dehya before the final
-    attack to save two seconds of field time. There are no other special effects on
-    Dehya’s Burst: just damage. \n\nWith a 70 Cost Burst and 18s CD, Dehya’s Energy
-    Recharge requirements are massive at 200% or more *with* a Favonius weapon on
-    the team *and* multiple Pyro teammates, and without exceptional payoff.\n\nDehya’s
-    First Ascension Passive reduces the damage she *actually* takes (which is good!)
-    and offers limited Interruption Resistance to her teammates, ensuring they can
-    use their Talents quickly and swap off without much worry.\n\nFor her Fourth Ascension
-    Passive, once Dehya is at 40% HP or lower, she will instantly recover 20% of her
-    HP, and then another 6% of her HP at 2s intervals, up to a maximum of 10 seconds
-    (five 6% HP healing bursts, for a total of 30%). The Passive can activate once
-    every 20 seconds, and it ensures Dehya can continue mitigating her team’s damage
-    in subsequent rotations.\n\nFinally, her Utility Passive grants the team 10% Movement
-    Speed in the overworld during daytime."
-  color: 12784917
-- title: __COMBOS__
-  description: |-
-    Dehya’s combos are straightforward, regardless of whether you are playing her on-field or off-field.
+      **Normal Attack > Elemental Skill = Elemental Burst**
+    description: >-
+      ## __Analysis__
 
-    **On-Field:**
-    - Use Dehya’s Skill and create a Fiery Sanctum.
-    - Swap to teammates to lay down their buffs and activate their Skills/Bursts.
-    - Swap back to Dehya and use her Skill again, if not at least to move the Fiery Sanctum somewhere more convenient.
-    - Deploy Dehya’s Burst and button mash either until the Burst ends on its own, or swap before the long wind-up for her finishing attack.
 
-    **Off-Field:**
-    - Set up Dendro Cores with teammates (Dendro and Hydro teammates required)
-    - Use Dehya’s Skill to apply Pyro and set up a Fiery Sanctum.
-    - Swap to teammates and use their abilities to ensure Dendro Cores are made between coordinated attacks.
-    - Use Dehya’s Skill a second time to reposition the Sanctum as needed and get another instance of Pyro application.
+      - All Pyrotechnic Strike damage scales off of Lyney’s Normal Attack
+      talent, and his Charged Attacks themselves do a significant amount of
+      damage, so maxing Lyney’s Normal Attack talent is first priority.
 
-    The off-field rotation can be re-arranged according to the team composition; just make sure to get as many Burgeon reactions as possible with her.
-  color: 12784917
-  footer:
-    text: 'Authored by: Emiliabyss'
-    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
+
+      - After his NA talent, leveling either of his Skill or Burst talents
+      provide similar returns, so they should be leveled in tandem. Leveling
+      Lyney’s Skill talent is slightly more valuable if Bursting only once every
+      2 rotations, and leveling his Burst talent pulls ahead slightly if
+      Bursting every rotation.
+    color: 11015743
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1087300734372020315/1139700643129467100/lyney_talents-01.png
+  - title: |-
+      __TALENT OVERVIEW__
+
+      **Normal Attack: Card Force Translocation**
+    description: >-
+      Lyney has a Charged Attack mechanic similar to the likes of Ganyu or
+      Tighnari, where Charged Attacks can be charged past the typical
+      fully-charged state for a unique attack. In Lyney’s case, a Charge Level 2
+      Attack fires a Prop Arrow, which summons a Grin-Malkin Hat upon hitting
+      anything. 
+
+
+      The Grin-Malkin Hat is a taunt much like Amber’s Baron Bunny, and shares
+      many of Baron Bunny’s mechanics. It is detonated at the end of its
+      duration (4s), or if it is destroyed early by an enemy. However, there are
+      a few more methods to detonate Grin-Malkin Hats. Only one Grin-Malkin Hat
+      can exist on the field at C0, and if Lyney summons another Grin-Malkin Hat
+      while one is already on the field, the previous one will detonate. Players
+      can also detonate Grin-Malkin Hats with Lyney’s Skill.
+
+
+      When a Grin-Malkin Hat is detonated by any method other than Lyney’s
+      Skill, it unleashes a Pyrotechnic Strike that targets a nearby enemy.
+      These Pyrotechnic Strikes have a relatively small radius and so are mostly
+      single-target, but can actually hit multiple enemies if they are grouped
+      closely enough. 
+
+
+      Additionally, if he is above 60% HP, when Lyney fires a Prop Arrow, he
+      consumes 20% of his own max HP in order to obtain a Prop Surplus stack.
+      These Prop Surplus stacks increase the damage of his Skill, and can stack
+      up to 5 times. Note that even without taking external damage, Lyney will
+      only be able to build 3 stacks without a healer, as he will reach the 60%
+      HP threshold within 3 Charged Attacks. This means it is important to run
+      Lyney with a healer, even when overlooking the obvious question of
+      survivability.  
+
+
+      Finally, Lyney’s Prop Arrows summon an instance of Pneuma-aligned damage
+      every 6s, which has negligible damage but crucially, triggers an
+      Annihilation reaction when hitting an Ousia-aligned enemy that may make
+      enemies significantly easier to fight. This will be hugely beneficial in
+      the early patches of Fontaine, during which there are a limited number of
+      characters that can deal Pneuma-aligned damage.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139703293854097560/bow_NA.png
+  - title: '**Elemental Skill: Bewildering Lights**'
+    description: >-
+      *CD : **15s***
+
+
+      Lyney’s Skill heals himself for 20% of his Max HP and deals a single
+      instance of AoE Pyro damage that increases with each Prop Surplus stack he
+      has at cast in a fashion similar to Heizou’s Skill. With stacks, his Skill
+      becomes a potent AoE nuke, but its 15s cooldown means he can only cast it
+      once per rotation. 
+
+
+      Lyney’s Skill will additionally detonate any Grin-Malkin Hats that exist
+      on-field upon cast. Grin-Malkin Hats that are detonated by Lyney’s Skill
+      will unleash Pyrotechnic Strikes, but these Pyrotechnic Strikes uniquely
+      have a much larger AoE than usual.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139703293338198036/lyney_E.png
+  - title: '**Elemental Burst: Wondrous Trick: Miracle Parade**'
+    description: >-
+      *CD : **15s**
+
+      Energy Cost : **60***
+
+
+      Lyney’s Burst turns himself into a giant Grin-Malkin Cat (not to be
+      confused with the Grin-Malkin Hat!) for 3s that can prance around. When
+      the Grin-Malkin Cat gets close to enemies, it deals a maximum of 1
+      instance of Pyro damage to them. 
+
+
+      Lyney’s Skill button will be transformed into a special button while in
+      his Grin-Malkin Cat state, and pressing this special button will end the
+      Grin-Malkin Cat state early. Pressing this special button will *not* cast
+      his Skill.
+
+
+      When Lyney’s Grin Malkin Cat state ends — whether naturally or through the
+      special button — Lyney will unleash yet another AoE Pyro nuke.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139703293610836088/lyney_Q.png
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Perilous Performance**
+    description: >-
+      Lyney’s A1 further incentivizes running a healer by increasing his damage
+      and refunding flat Energy if he consumes HP while firing a Prop Arrow,
+      which is only feasible after a point with a healer. The damage increase is
+      minor but appreciated. The flat Energy refund can be quite substantial as
+      Lyney fires about 3-5 Prop Arrows per rotation, netting him about 9-15
+      flat Energy.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139704768114217070/UI_Talent_S_Liney_05.png
+  - title: '**Ascension 4 Passive: Conclusive Ovation**'
+    description: >-
+      Lyney’s A4 is where his kit becomes especially interesting. A4 grants
+      Lyney an absolutely massive buff (60% DMG at base) if he attacks enemies
+      affected by Pyro that increases with every Pyro teammate (20% DMG per
+      teammates, up to a maximum of 100% DMG total). Lyney effectively never
+      runs solo Pyro, so he will always have at least a whopping 80% DMG from
+      this passive. 
+
+
+      This passive greatly incentivizes teams that can maintain a constant Pyro
+      aura, especially mono Pyro teams, which tend to have a greater number of
+      Pyro units. It also discourages teams that utilize reactions that may
+      interfere with a Pyro aura, such as Overload or Vaporize. 
+
+
+      While Lyney can technically still be played in teams that don’t maintain a
+      constant Pyro aura on enemies, it will come with great loss to his damage
+      and not much in return in most cases.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139704768344899594/UI_Talent_S_Liney_06.png
+  - title: '**Utility Passive: Trivial Observations**'
+    description: >-
+      Displays Fontaine-specific resources in the minimap. Useful passive for
+      exploring Fontaine.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139704768688836679/UI_Talent_S_Liney_07.png
