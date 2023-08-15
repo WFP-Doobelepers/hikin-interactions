@@ -1,29 +1,39 @@
 content: null
 embeds:
   - title: __CREDITS__
-    color: 815477
+    color: 11015743
     fields:
-      - name: 'Leads:'
-        value: <@293169816741740556>, <@463998487067885600>
-      - name: 'Authors:'
-        value: <@293169816741740556>, <@463998487067885600>, <@280016643558604800>
+      - name: 'Lead:'
+        value: <@397825812956446752>
+      - name: 'Author:'
+        value: <@397825812956446752>
       - name: 'Calculations:'
-        value: <@293169816741740556>, <@463998487067885600>, <@651556217315000360>
+        value: <@397825812956446752>
       - name: 'Framecounts:'
-        value: <@377496350155079690>
+        value: <@280016643558604800>, <@377496350155079690>
+      - name: 'Consulting:'
+        value: <@280016643558604800>, <@708791985200431174>, <@209617229216612352>
       - name: 'Content Verification:'
-        value: |-
-          Calculations: <@366206663533002774>
-          Writing: <@812178562822963210>
+        value: >-
+          Calculations: <@641127310539620352>
+
+          Writing: <@583951991789584400>, <@94978723341668352>,
+          <@812178562822963210>
       - name: 'Transcription:'
-        value: <@812178562822963210>, <@651556217315000360>, <@703887128303763507>
+        value: <@812178562822963210>, <@366206663533002774>, <@651556217315000360>
       - name: 'Resources:'
         value: >-
-          [Lynette
-          Mastersheet](https://docs.google.com/spreadsheets/d/1pF1a-7jH7s9DPuWyp-K6gP11R3Ht5N5RLbKuwK5jk_0/edit#gid=1076481734)
+          [Lyney Constellation Comparison
+          Sheet](https://docs.google.com/spreadsheets/d/1uP8efjoOr-byYysMaC5pqx0Rhrjso7R_J89RBUbfcZU/edit?usp=sharing)
 
-          [Lynette Frames
-          Mastersheet](https://docs.google.com/spreadsheets/d/1ImWE-TP6rrEvzqWYZVeJtwlFpMqwWOPT1yUOuc_Xa9M/edit#gid=0)
+          [Lyney Weapon Comparison
+          Sheet](https://docs.google.com/spreadsheets/d/1aj7Izl_dyl57V7ky7ICqqu6j1Vg7t_wPW9bpA9fIxMg/edit?usp=sharing)
+
+          [Lyney Artifact Comparison
+          Sheet](https://docs.google.com/spreadsheets/d/1gFM16DECq1BJvEyNmi4kDstCSuRCZGTwl8uperJGOqw/edit?usp=sharing)
+
+          [Lyney Teams
+          Sheet](https://docs.google.com/spreadsheets/d/1c-kQdNuIhk5hON_kL8fmMPqr5Yn7ytBYT2YGbUV1d_U/edit?usp=sharing)
       - name: DISCLAIMER
         value: >-
           *Pre-TC is volatile and, as always, perpetually subject to change
@@ -35,52 +45,28 @@ embeds:
           additionally, are not established yet, and as with everything in TC,
           the content in this FAQ should be taken with a grain of salt.*
     image:
-      url: https://pbs.twimg.com/media/F0FXdL8XsAA7SEU?format=jpg&name=large
+      url: >-
+        https://cdn.discordapp.com/attachments/1094753710288150778/1139695621217996870/1691794182510.png
   - title: __OVERVIEW__
     description: >-
-      Lynette is a 4-star Anemo Sword character who is the first “Ousia-aligned”
-      character to be released in the Fontaine era of Genshin Impact. While the
-      Ousia alignment on her Skill can help solve puzzles and exploit boss
-      weaknesses, she is a support character who can buff her teammates with a
-      pseudo-Noblesse Oblige set on one of her passives. With all six
-      Constellations, she can infuse her sword with Anemo upon using her Skill
-      and can deal modest damage with the help of Faruzan and Bennett.
+      Lyney is a Pyro Bow user whose kit revolves around summoning Grin-Malkin
+      Hats with his Charged Attacks or Burst, then subsequently detonating them
+      to trigger high-damage Pyrotechnic Strikes. His damage is primarily
+      single-target, though this can be mitigated by running a powerful grouper
+      or a sub-DPS with AOE damage.
 
 
-      At C0, her team options are quite restrictive; National teams may struggle
-      with Lynette due to her Burst application interfering with Xiangling’s
-      reaction triggers, leaving her only able to use her low-power Skill before
-      switching out. Her other potentially viable playstyles are locked behind
-      her C6, which allows her to drive with Anemo infusion. However, with C6,
-      she can be the trigger for Hyperbloom reactions if you have an Electro
-      character who fails to hit Dendro cores like Fischl.
-
-
-      That said, the majority of the time, Lynette will serve as a dedicated
-      support, rather than a DPS. 
-
-
-      Compared to other Viridescent Venerer-wielders, Lynette falls behind.
-      While her Burst taunts enemies, her crowd control is severely lacking
-      compared to Sucrose, another 4-star Anemo character who can be acquired
-      for free through Paimon’s Bargains. In Hyperbloom teams, Sucrose remains a
-      stronger option due to her being able to share her Elemental Mastery stat,
-      whereas Lynette’s teamwide ATK buff is less relevant, and Sucrose’s Anemo
-      application is not dependent on an infusion like Lynette, offering Sucrose
-      more consistency. For raw damage in An3mo teams, 4-star Heizou is a fierce
-      competition and doesn’t need to rely on an infusion through max
-      Constellations to deal respectable Anemo damage. 
-
-
-      To summarize, Lynette is seldom the best choice for any circumstance
-      outside of being an Anemo character with the Ousia alignment. When it
-      comes to support, ATK damage, and reactions, other 4-stars and 5-stars are
-      more efficient at their jobs. Lynette’s true power evaluation, then,
-      depends on exactly how essential Ousia alignment becomes from 4.0 onward.
-    color: 815477
+      Because he takes up much of his teams’ field time, his teammates are
+      typically characters who buff or supplement his damage in some way while
+      occupying relatively little field time. However, his teams are limited by
+      his Aimed Shot gameplay, making popular options like Xingqiu a hassle to
+      use. Furthermore, his Ascension 4 Talent highly encourages Mono Pyro and
+      other mostly reaction-less teams by greatly rewarding maintaining a Pyro
+      aura on enemies and stacking multiple Pyro teammates.
+    color: 11015743
     footer:
-      text: 'Authored by: Emiliabyss'
+      text: 'Authored by: kol'
       icon_url: >-
-        https://cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?size=4096
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
     thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Linette.png
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Liney.png
