@@ -26,7 +26,7 @@ options:
   description: WFP resources for Lyney FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Talents
-  value: faq/pyro/lyney/talents
+  value: faq/pyro/lyney/talents1
   description: WFP resources for Lyney FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Constellations
