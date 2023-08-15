@@ -1,0 +1,5 @@
+interaction: faq/pyro/lyney/main
+description: "Opens WFP resources on Lyney"
+emoji: <${EMOJIS.LYNEY}>
+ 
+name: Lyney
