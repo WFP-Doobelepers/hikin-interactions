@@ -19,4 +19,44 @@ embeds:
     icon_url: https://media.discordapp.net/attachments/1139854891729289246/1139863909222842378/liney_084_side_icon.png
   image:
     url: https://media.discordapp.net/attachments/1139854891729289246/1139859625156546670/liney_084_gacha_splash.png?width=736&height=468
-attachments: []
+
+options:
+- label: Overview
+  value: faq/pyro/lyney/overview
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Talents
+  value: faq/pyro/lyney/talents
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Constellations
+  value: faq/pyro/lyney/constellations
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Artifacts
+  value: faq/pyro/lyney/artifacts
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Weapons
+  value: faq/pyro/lyney/weapons
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Teambuilding
+  value: faq/pyro/lyney/teambuilding1
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: External Links
+  value: faq/pyro/lyney/external
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+
+buttons:
+- label: WFP FAQ
+  url: https://wangshengfp.org/faq/lyney
+  emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
+
+- label: KQM Guide
+  url: https://keqingmains.com/lyney/
+  emoji: :logont:945530991240421386
+  style: LINK
