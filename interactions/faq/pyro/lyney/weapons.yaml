@@ -1,0 +1,117 @@
+content: null
+embeds:
+  - title: __WEAPONS__
+    description: >-
+      Dehya’s weapons depend on whether she is built for reaction or
+      non-reaction damage. Non-reaction damage (on-field) focuses on ER%, CRIT%,
+      and ATK%, while reaction damage (off-field) focuses instead on pure
+      Elemental Mastery.
+
+
+      Here I will list the main recommendations, from her signature weapon to
+      the most freely accessible weapon. However, for a more complete idea of
+      weapon rankings, please refer to the mastersheet included here, make a
+      copy, and play with the filters to examine the relationships with buffs in
+      more detail.
+    color: 12784917
+  - title: |-
+      **ON-FIELD DEHYA**
+
+      1. Beacon of the Reed Sea
+    description: >-
+      It gives CRIT Rate, ATK%, and (when not shielded) HP%. It’s basically a
+      stat stick for Dehya meant to appeal to all of her on-field attributes.
+      There are no other special effects to this weapon. Just use your Skill
+      twice for the maximum ATK% buff and play as normal.
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12511_awaken_icon.webp
+  - title: 2. Redhorn Stonethresher
+    description: CRIT DMG% stat stick. Passive is irrelevant.
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12510_awaken_icon.webp
+  - title: Other Options
+    description: >-
+      **3. Akuoumaru (R5; 270 Energy across team)** 
+
+      Makes Dehya’s Burst stronger. You’ll notice these weapons don’t really
+      have much to say other than “it gives a bunch of stats”
+
+
+      **4. Wolf’s Gravestone / The Unforged (or Akuoumaru R3)**
+
+      Both give lots of ATK%, and the passives are mostly equal. No other weapon
+      affects their placement regardless of whether the passive is active or
+      not.
+
+
+      ** 5. Blackcliff Slasher / Serpent Spine (any refinement) / Luxurious
+      Sea-Lord**
+
+      Dehya cannot maintain stacks even if shielded, since she takes damage
+      while off-field as well. Pick whichever weapon is easiest to build based
+      on your artifact substats. Serpent Spine still edges out above the other
+      two due to having non-zero uptime on the buff. 
+
+
+      **6. Favonius Greatsword**
+
+      Favonius Greatsword is by far the worst Claymore for Dehya’s personal
+      damage out of this ranking, except in a selective number of circumstances.
+      For example, with Ayaka, Rosaria, and Bennett, Dehya needs Favonius
+      Greatsword to function in order to help manage team ER requirements, and
+      this team can deal more damage and provide better Elemental coverage than
+      a Mono Pyro team. It is also useful if you struggle to find an ER Sands.
+      However, it is 5-7% below the next best free-to-play option, making it a
+      “bare-minimum” choice.
+    color: 12784917
+    image:
+      url: >-
+        https://discord.com/channels/791074691841523742/914675194939969587/1079386250433265805
+  - title: |-
+      **OFF-FIELD (BURGEON) DEHYA**
+
+      1. Makhaira Aquamarine (any refinement)
+    description: >-
+      It only barely falls behind the personal damage of the new event weapon,
+      Mailed Flower. However, its teamwide Flat ATK buff based on Dehya’s
+      Elemental Mastery is what makes this weapon stand as the top-choice. It’s
+      not worth breaking the bank, but if you have it, use it. 
+
+      R5 is of course better, but R3 and R1 do not fall far behind in personal
+      damage.
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12415_awaken_icon.webp
+  - title: 2. Mailed Flower (R5)
+    description: >-
+      Best for personal damage, but only by 1%. However, it ***is free*** and
+      getting R5 of a limited 4-star weapon is usually ***not free.***
+    color: 12784917
+    thumbnail:
+      url: https://genshin.honeyhunterworld.com/img/i_n12418_awaken_icon.webp
+  - title: Other Options
+    description: >-
+      **3. Rainslasher (any refinement) **
+
+      This assumes any amount of uptime on Rainslasher’s passive. 
+
+
+      **4. Bloodtainted Greatsword**
+
+      The easiest possible weapon to obtain for Dehya.
+
+
+      **5. The Bell (any refinement)**
+
+      Not recommended, but it functions.  You’re better off with an Elemental
+      Mastery weapon.
+    color: 12784917
+    footer:
+      text: 'Authored by: Emiliabyss'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png
+    thumbnail:
+      url: >-
+        https://cdn.discordapp.com/attachments/914675194939969587/1079425720574558259/xNO0nVUABCvwXBeC0FXfd6jEAAAAASUVORK5CYII.png

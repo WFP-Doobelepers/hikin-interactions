@@ -1,0 +1,62 @@
+embeds:
+- description: "**Vaporize**\nDehya/Bennett/Hydro/Anemo\nHydro options: Kokomi/Mona/Nilou\nAnemo
+    options: Kazuha/Venti\n\nWhen it comes to Vaporize, Dehya’s Burst is unable to
+    trigger both Yelan and Xingqiu, the current premium Hydro enablers for Vape teams.
+    Because of this, you are left with using Kokomi, Mona, Nilou, or an Anemo character
+    (namely Kazuha or Venti for their absorbed Bursts) in order to Vaporize with Dehya.
+    With each character comes their respective caveats, such as Pyro holding Absorption
+    priority with Anemo characters, and the fact that these characters are all 5☆.
+    \n\n**Mona** - Provides short off-field Hydro application as well as her Omen
+    buff. Unfortunately, her Elemental Skill duration is slightly shorter than Dehya’s
+    entire Skill duration, so other sources of Hydro may be necessary for consistent
+    Vapes, either from other Hydro characters or Hydro-absorbed Anemo skills.\n\n**Kokomi**
+    - Although she overshadows Dehya’s defensive utility, Kokomi brings sustained
+    off-field Hydro application as well as on-field driving capabilities to fill any
+    possible downtime. \n\n**Nilou** - If all you want is Hydro application, Nilou
+    provides enough over a long period of time for Dehya to consistently Vape, provided
+    no other teammates eat up any of her Hydro Gauge. Nilou is a viable option; however,
+    she isn’t recommended if other Hydro characters are available due to her lack
+    of offensive and defensive utility.\n\n**Kazuha** - Remains the premium support
+    for buffing Dehya and other PECH (Pyro, Electro, Cryo or Hydro) party members
+    with Double Swirl. Kazuha also provides CC which helps with survivability and
+    positioning due to Dehya’s limited range.  \n\n**Venti** - Another Anemo option
+    for his superior CC, access to VV, and Energy refund. Has a larger CC range than
+    Kazuha and can help alleviate Energy problems for teammates. However, absorbing
+    Pyro means that Dehya won’t get any Vaporizes due to Venti’s fast Elemental application.\n\n**Bennett**
+    - Although he makes Dehya’s defensive utility somewhat redundant, his buffing,
+    healing and battery capability make him the best Pyro support for this team."
+  color: 12784917
+  image:
+    url: https://media.discordapp.net/attachments/964616918336159814/1079378022987214859/MwAAAABJRU5ErkJggg.png?width=960&height=223
+- description: |-
+    **Burgeon**
+    Dehya/Dendro/Hydro/Flex
+    Dendro options: Nahida/Yaoyao/Collei/DMC
+    Hydro options: Ayato/Xingqiu/Yelan
+    Flex options: Kazuha/Venti/Any above Hydro or Dendro options.
+
+    When it comes to Burgeon, Dehya can be slotted in this archetype due to her Skill-based Pyro application as well as her good defensive utility. However, she is the least cost-effective for this role due to Thoma’s easy accessibility as a 4☆, better Pyro application, stronger defensive utility, and more Burgeon frequency compared to Dehya. Additionally, since her coordinated attacks are very slow, you would proc more Blooms than Burgeons, wasting the EM she's currently building.
+
+    **Nahida** - The go-to option for Dendro teams, providing high Elemental application both on and off-field, as well as good off-field damage and a massive EM buff for the on-fielder. Dehya can make use of this EM buff if she ever gets to use her Burst and has off-field Hydro sources other than Xingqiu / Yelan. However, this generally won’t happen, meaning other Dendro options such as DMC or Collei may be more optimal freeing up Nahida for other teams.
+
+    **Any Hydro Character** - Due to Dehya not using her Elemental Burst, she hardly has to take any field time. This allows for on-fielders such as Ayato to drive the team, or for off-fielders such as Xingqiu and Yelan to be used alongside Dehya with another driver.
+
+    **Collei/DMC** - F2P Dendro options that just apply Dendro to enable Burgeon teams. Their personal damage isn’t anything special, but due to the decent number of Blooms, it may be worth building them for some EM to make sure those Cores aren’t entirely wasted. If all you need is application, these two will be more efficient to use, saving Nahida for another team.
+
+    **Yaoyao** - Another Dendro option who was recently free in the 3.4 Lantern Rite event, Yaoyao provides both healing and Dendro application. She can be very nice to keep players topped up if Dehya’s damage mitigation isn’t enough; however, falling below 70% HP means Yaoyao will now be healing the player and not applying Dendro to enemies, resulting in fewer or no Dendro Cores. On the one hand, her Burst provides ample healing alongside Dendro application, allowing for an emergency top up on health and Dendro if need be. On the other hand, if players can survive using only one of the two’s defensive utility, why bring the other over a more offensive alternative?
+
+    **Kazuha** - High Swirl DMG, DMG% buff, VV holder for PECH teammates, and CC. Simple but effective for providing the team with buffs and grouping, allowing for all enemies to be hit by cores. Additionally, Pyro absorption can allow him to proc more Dendro Cores for some high EM Burgeons. However, this may result in Burning, resulting in no Cores at all.
+
+    **Venti** - Another Anemo option for his wide-ranged CC, VV access and Energy refund. Venti also can proc Burgeons with a Pyro Swirl; however, the same caveats as Kazuha can occur.
+  color: 12784917
+  image:
+    url: https://media.discordapp.net/attachments/964616918336159814/1079378130487218297/1h1V1QhbDZRlVFKgooymZFSQ0aR8TSimvArK62FTutch8nMIIIAAAggsFoG7DrcWy8AZBwIIIIAAAggggAACCCCAAAIIIIAAAoRbrAEEEEAAAQQQQAABBBBAAAEEEEAAgZYVINxq2alj4AgggAACCCCAAAIIIIAAAggggAAChFusAQQQQAABBBBAAAEEEEAAAQQQQACBlhUg3GrZqWPgCCCAAAIIIIAAAggggAACCCCAAAKEW6wBBBBAAAEEEEAAAQQQQAABBBBAAIGWFSDcatmpYAIIIAAAggggAACCCCAAAIIIIAAAoRbrAEEEEAAAQQQQAABBBBAAAEEEEAAgZYVINxq2alj4AgggAACCCCAAAIIIIAAAggggAAChFusAQQQQAABBBBAAAEEEEAAAQQQQACBlhUg3GrZqWPgCCCAAAIIIIAAAggggAACCCCAAAKEW6wBBBBAAAEEEEAAAQQQQAABBBBAAIGWFfgLujxi6zVGBSYAAAAASUVOR..png?width=960&height=223
+buttons:
+- customId: liveInteraction#faq/pyro/dehya/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/dehya/teambuilding3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
