@@ -1,0 +1,58 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Perilous Performance**
+    description: >-
+      Lyney’s A1 further incentivizes running a healer by increasing his damage
+      and refunding flat Energy if he consumes HP while firing a Prop Arrow,
+      which is only feasible after a point with a healer. The damage increase is
+      minor but appreciated. The flat Energy refund can be quite substantial as
+      Lyney fires about 3-5 Prop Arrows per rotation, netting him about 9-15
+      flat Energy.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139704768114217070/UI_Talent_S_Liney_05.png
+  - title: '**Ascension 4 Passive: Conclusive Ovation**'
+    description: >-
+      Lyney’s A4 is where his kit becomes especially interesting. A4 grants
+      Lyney an absolutely massive buff (60% DMG at base) if he attacks enemies
+      affected by Pyro that increases with every Pyro teammate (20% DMG per
+      teammates, up to a maximum of 100% DMG total). Lyney effectively never
+      runs solo Pyro, so he will always have at least a whopping 80% DMG from
+      this passive. 
+
+
+      This passive greatly incentivizes teams that can maintain a constant Pyro
+      aura, especially mono Pyro teams, which tend to have a greater number of
+      Pyro units. It also discourages teams that utilize reactions that may
+      interfere with a Pyro aura, such as Overload or Vaporize. 
+
+
+      While Lyney can technically still be played in teams that don’t maintain a
+      constant Pyro aura on enemies, it will come with great loss to his damage
+      and not much in return in most cases.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139704768344899594/UI_Talent_S_Liney_06.png
+  - title: '**Utility Passive: Trivial Observations**'
+    description: >-
+      Displays Fontaine-specific resources in the minimap. Useful passive for
+      exploring Fontaine.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139704768688836679/UI_Talent_S_Liney_07.png
+
+ buttons:
+- customId: liveInteraction#faq/pyro/lyney/talents4
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"

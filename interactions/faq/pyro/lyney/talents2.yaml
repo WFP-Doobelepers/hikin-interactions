@@ -1,0 +1,60 @@
+content: null
+embeds:
+   - title: |-
+      __TALENT OVERVIEW__
+
+      **Normal Attack: Card Force Translocation**
+    description: >-
+      Lyney has a Charged Attack mechanic similar to the likes of Ganyu or
+      Tighnari, where Charged Attacks can be charged past the typical
+      fully-charged state for a unique attack. In Lyney’s case, a Charge Level 2
+      Attack fires a Prop Arrow, which summons a Grin-Malkin Hat upon hitting
+      anything. 
+
+
+      The Grin-Malkin Hat is a taunt much like Amber’s Baron Bunny, and shares
+      many of Baron Bunny’s mechanics. It is detonated at the end of its
+      duration (4s), or if it is destroyed early by an enemy. However, there are
+      a few more methods to detonate Grin-Malkin Hats. Only one Grin-Malkin Hat
+      can exist on the field at C0, and if Lyney summons another Grin-Malkin Hat
+      while one is already on the field, the previous one will detonate. Players
+      can also detonate Grin-Malkin Hats with Lyney’s Skill.
+
+
+      When a Grin-Malkin Hat is detonated by any method other than Lyney’s
+      Skill, it unleashes a Pyrotechnic Strike that targets a nearby enemy.
+      These Pyrotechnic Strikes have a relatively small radius and so are mostly
+      single-target, but can actually hit multiple enemies if they are grouped
+      closely enough. 
+
+
+      Additionally, if he is above 60% HP, when Lyney fires a Prop Arrow, he
+      consumes 20% of his own max HP in order to obtain a Prop Surplus stack.
+      These Prop Surplus stacks increase the damage of his Skill, and can stack
+      up to 5 times. Note that even without taking external damage, Lyney will
+      only be able to build 3 stacks without a healer, as he will reach the 60%
+      HP threshold within 3 Charged Attacks. This means it is important to run
+      Lyney with a healer, even when overlooking the obvious question of
+      survivability.  
+
+
+      Finally, Lyney’s Prop Arrows summon an instance of Pneuma-aligned damage
+      every 6s, which has negligible damage but crucially, triggers an
+      Annihilation reaction when hitting an Ousia-aligned enemy that may make
+      enemies significantly easier to fight. This will be hugely beneficial in
+      the early patches of Fontaine, during which there are a limited number of
+      characters that can deal Pneuma-aligned damage.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139703293854097560/bow_NA.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/talents1
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/lyney/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

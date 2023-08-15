@@ -1,0 +1,37 @@
+content: null
+embeds:
+  - title: '**Elemental Burst: Wondrous Trick: Miracle Parade**'
+    description: >-
+      *CD : **15s**
+
+      Energy Cost : **60***
+
+
+      Lyney’s Burst turns himself into a giant Grin-Malkin Cat (not to be
+      confused with the Grin-Malkin Hat!) for 3s that can prance around. When
+      the Grin-Malkin Cat gets close to enemies, it deals a maximum of 1
+      instance of Pyro damage to them. 
+
+
+      Lyney’s Skill button will be transformed into a special button while in
+      his Grin-Malkin Cat state, and pressing this special button will end the
+      Grin-Malkin Cat state early. Pressing this special button will *not* cast
+      his Skill.
+
+
+      When Lyney’s Grin Malkin Cat state ends — whether naturally or through the
+      special button — Lyney will unleash yet another AoE Pyro nuke.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139703293610836088/lyney_Q.png
+
+ buttons:
+- customId: liveInteraction#faq/pyro/lyney/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/lyney/talents5
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
