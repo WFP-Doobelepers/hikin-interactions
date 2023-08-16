@@ -49,7 +49,7 @@ embeds:
         https://media.discordapp.net/attachments/1087300734372020315/1139706386578677872/UI_Talent_S_Liney_03.png
 
 buttons:
-- customId: liveInteraction#faq/pyro/dehya/constellations1
+- customId: liveInteraction#faq/pyro/lyney/constellations2
   label: Next
   style: PRIMARY
   emoji: "▶️"

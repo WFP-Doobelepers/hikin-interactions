@@ -53,7 +53,7 @@ embeds:
         https://media.discordapp.net/attachments/1087300734372020315/1139706387455299674/UI_Talent_S_Liney_04.png
 
 buttons:
-- customId: liveInteraction#faq/pyro/dehya/constellations2
+- customId: liveInteraction#faq/pyro/lyney/constellations2
   label: Previous
   style: PRIMARY
   emoji: "◀️"
