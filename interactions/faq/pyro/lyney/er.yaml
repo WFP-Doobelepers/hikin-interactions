@@ -1,0 +1,29 @@
+content: null
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: >-
+      Lyney generates 5 particles per Skill, but only casts a single Skill per
+      rotation, which leaves his Energy situation with much room to improve.
+      Thankfully, his A1 grants some much-needed flat Energy everytime he
+      consumes HP through his Charged Attack, an effect that is easily achieved
+      with help from a healer. Lyney also runs alongside at least one other Pyro
+      unit, further lowering his ER requirements. 
+
+
+      However, even with all that, Lyney’s 60-cost Burst means he needs a
+      substantial amount of ER to Burst every rotation, except in the most
+      Energy-heavy of teams. As a result, more often than not, Lyney prefers to
+      not build any ER and instead Burst every other rotation. 
+
+
+      Energy requirements will vary based on your team and rotation. For a more
+      accurate estimate, please use the Energy Recharge calculator linked
+      [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/if3iynSp3sMVO-2nmEfjS9mdvvraxrgnw4pZl-oAUnY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1094753710288150778/1139711134996377730/image.png

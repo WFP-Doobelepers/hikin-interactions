@@ -37,6 +37,10 @@ options:
   value: faq/pyro/lyney/combos
   description: WFP resources for Lyney FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
+- label: ER Requirements
+  value: faq/pyro/lyney/er
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
 - label: Artifacts
   value: faq/pyro/lyney/artifacts
   description: WFP resources for Lyney FAQ.
