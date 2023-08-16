@@ -1,0 +1,77 @@
+---
+content:
+embeds:
+- title: __WEAPONS__
+  description: >-
+    Kirara’s weapon choices are all relatively straightforward with a couple of key goals in mind — shield the team as much as possible while contributing other forms of utility and buffs if possible. Sadly, at the time of writing this, there are only two swords in the game that boost HP, both of which would be better utilized on other relevant characters if you have them.
+
+    You could also opt for more offensive choices if you wish for Kirara to do more damage, but as has been mentioned previously, this is not recommended as you give up a lot of shielding to do so, which is Kirara’s primary forte.
+  color: 12638905
+
+- title: |-
+    __**Recommended**__
+
+    **Favonius Sword**
+  description: >-
+    The best all-around weapon for Kirara, decreasing her own as well as her teammates’ Energy Requirements. She can also trigger its passive fairly often, with her own cooldowns lining up very nicely with the cooldown on an R3/4 weapon, depending on whether you use the Tap or Hold version of her Skill. Do keep in mind that without building CRIT Rate, you might find some difficulty in triggering its passive consistently.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Favonius_Sword.png
+
+- title: >-
+    **Key of Khaj-Nisut**
+  description: >-
+    Kirara’s premier weapon of choice, boasting a massive HP substat along with a passive that not only further increases her Max HP, but also gives herself more EM based on her max HP, with her teammates getting a small portion of said EM buff with full stacks. This makes it particularly valuable in Dendro teams which can make use of the teamwide EM buff, especially Nilou Bloom. Unless you have two Keys, however, this weapon is best used on Nilou herself, with Kirara holding something else instead.
+    
+    If possible, it is also recommended to stay in Kirara’s Hold Skill state long enough to gain maximum stacks on Key, triggering the latter portion of its passive once it is fully stacked.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Key_of_Khaj-Nisut.png
+
+- title: >-
+    **Sacrificial Sword**
+  description: >-
+    Offers less general batterying than Favonius Sword in exchange for more Dendro particles created. Also theoretically gives Kirara the ability to instantly max out her shielding at the start of every rotation by using two consecutive Tap Skill instances, though this has yet to be tested in game. It is also recommended to have Sac Sword at R3 at minimum in order for it to line up properly with Kirara’s Tap Skill cooldowns, if used almost instantly off cooldown.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Sacrificial_Sword.png
+
+- title: |-
+    __**Alternatives**__
+
+    **Primordial Jade Cutter**
+  description: >-
+   Kirara’s best weapon for damage, giving her a whopping 44% CRIT Rate and an extra bit of HP from its passive, along with extra attack based on her Max HP. This synergizes very well with Kirara’s kit, increasing Kirara’s shielding and A4 damage while giving a ton of raw offensive stats. Once again, unless you really like Kirara and/or you have nobody else to use this weapon on, it is recommended to put this on somebody else who could make better use of it, like Xingqiu or Ayato.
+
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Primordial_Jade_Cutter.png
+
+- title: |-
+    **Sapwood Blade**
+  description: |-
+    Kirara’s best craftable option, giving her a nice chunk of ER from its substat along with a bit of extra EM for whoever picks up its leaf after Kirara triggers a Dendro reaction. Less valuable if Kirara is not being used in Dendro teams though, so adjust accordingly.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Sapwood_Blade.png
+
+- title: >-
+    **Freedom-Sworn**
+  description: >-
+    Another limited gacha weapon. Kirara can activate Freedom-Sworn’s passive with relative ease in the right team, making her a surprisingly good holder of this weapon. The main drawback to this weapon is that you have to carefully watch your cooldowns, or you might begin your second rotation too early, resulting in Kirara not proccing its passive.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Freedom-Sworn.png
+
+- title: >-
+    **Festering Desire**
+  description: >-
+    This is an event-limited weapon, so you may not have access to it. If you do, however, it is worth considering if you run Kirara as an on-field Dendro driver, providing a small bit of ER from its substat as well as extra damage on her Skill.
+  color: 12638905
+  thumbnail:
+    url: https://library.keqingmains.com/img/weapons/icon_ascended/Festering_Desire.png
+
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+    

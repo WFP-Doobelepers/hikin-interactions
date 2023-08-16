@@ -1,0 +1,67 @@
+content: null
+embeds:
+  - title: >-
+      A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.
+    color: 12638905
+    fields:
+      - name: 'Kirara Mastersheet by NatC#9175, TiniMeow#8695:'
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1FJpKA_ea2OLMYglyomjL87peTOgRG16qdvIFlnEzRhM/edit#gid=981902297)
+      - name: Kirara Frames Mastersheet by jrm.spirit#2671
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1uEVDO4WqobtvX9l728MsWcb2F-QsDOW4EnNa3cbojrc/edit#gid=0)
+    author:
+      name: Kirara FAQ
+      icon_url: https://genshin.honeyhunterworld.com/img/momoka_061_side_icon.webp?x53383
+    image:
+      url: https://genshin.honeyhunterworld.com/img/momoka_061_gacha_splash.webp?x53383
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/dendro/kirara/overview
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Talents
+    value: faq/dendro/kirara/talents1
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+  
+  - label: Constellations
+    value: faq/dendro/kirara/constellations1
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+   
+  - label: ER Requirements
+    value: faq/dendro/kirara/errequire
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Artifacts
+    value: faq/dendro/kirara/artifacts1
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Weapons
+    value: faq/dendro/kirara/weapons
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: Teambuilding
+    value: faq/dendro/kirara/teambuilding1
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+  - label: External Links
+    value: faq/dendro/kirara/external
+    description: "WFP resources for Kirara FAQ."
+    emoji: ${ EMOJIS.DENDRO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/kirara
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
