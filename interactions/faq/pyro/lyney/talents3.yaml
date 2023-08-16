@@ -21,7 +21,7 @@ embeds:
       url: >-
         https://media.discordapp.net/attachments/1087300734372020315/1139703293338198036/lyney_E.png
         
- buttons:
+buttons:
 - customId: liveInteraction#faq/pyro/lyney/talents2
   label: Next
   style: PRIMARY
