@@ -1,77 +1,59 @@
 ---
-content:
+content: null
 embeds:
-- title: __**TEAMBUILDING**__
-  description: "For all of the teams listed and more, Dehya can also be used as a
-    general defensive option thanks to the utility she provides, an example of such
-    a team could be VV Hu tao or Melt Ganyu.\n\n**Reverse Melt**\nDehya/Cryo/Bennett/Flex\nCyro
-    options: Kaeya/Rosaria/Ayaka\nFlex options: Anemo/Zhongli \n\nWhen it comes to
-    Melt teams, due to Dehya’s slow Pyro application, she can be used to Melt off
-    fast Cryo applicators or have them Melt off her coordinated attacks. While this
-    is all fine and dandy, Dehya runs into quite a number of issues in this comp.
-    For starters, her multipliers aren't up to par to be worth Melting, as the slot
-    she takes up could be used for an additional Cryo character for more damage and/or
-    buffing as well as Cryo Resonance. Nahida can also be used for additional Pyro
-    application through the use of Burning and a substantial EM buff for your Cryo
-    carry Zhongli is another unit that comes to mind for not only providing better
-    defensive utility than Dehya, but also buffing all party members due to his RES
-    Shred. Even without considering Zhongli as a potential flex unit, Dehya’s defensive
-    utility is already contested by Bennett, since he is already hard slotted into
-    the team by virtue of his ATK buff, healing, and lack of Energy problems.\n\n**Kazuha**
-    - Remains the premium support for buffing Dehya and/or Cryo party members with
-    Double Swirl. One thing to note is that Double Swirling for both Cryo and Pyro
-    is extremely hard to do; this more often than not forces players to pick and choose
-    whether or not you will be buffing your Cryo carry (i.e Rosaria or Dehya) for
-    your rotation. Kazuha also provides CC, which helps with team survivability and
-    positioning due to Dehya’s limited range.  \n\n**Nahida** - Provides high Elemental
-    application both on and off-field, as well as enabling Burnmelt for your Cryo
-    character(s), on top of providing good off-field damage and a massive EM buff
-    for the on-fielder. Both Dehya, if she ever gets to use her Burst, and your Cyro
-    carry can make use of this EM buff, resulting in a greater increase in damage.\n\n**Rosaria**
-    - Deals good damage and provides a teamwide CRIT Rate buff, which alleviates some
-    stat pressure for other carries, as well as being a good Cryo applicator for Dehya
-    to Melt consistently. \n\n**Ayaka** - Together with Kaeya or Rosaria and Bennett,
-    offers Dehya a chance at performing as an on-field Melt carry. Rosaria and Bennett
-    are both essential for batterying their respective DPS, and with Bennett's buffs,
-    Rosaria's CRIT Rate, Pyro and Cryo Resonance, Dehya can unleash her flurry of
-    flaming punches straight through Ayaka's Blizzard and Rosaria's Burst ticks. One
-    thing to note is that Ayaka is going to be your primary source of damage. With
-    that in mind, Ayaka's ER should be accommodated in order to not have severe issues
-    in DPR downtime when playing this comp.\n\n**Bennett** - Although he invalidates
-    Dehya’s defensive utility, Bennett remains a must-have with Dehya in teams where
-    she bursts in, because not only does Dehya have significant her Energy issues
-    without him, but also Bennett buffs her damage output considerably — to the point
-    where Dehya suffers tremendous losses without him."
-  color: 12784917
-  image:
-    url: https://media.discordapp.net/attachments/964616918336159814/1079377790295605278/w7MI9ALTAAAAAElFTkSuQmCC.png?width=960&height=223
-- description: "**Regarding Ganyu and Dehya **\nDehya/Bennett/Ganyu/Flex \nFlex: Zhongli/Nahida/Sucrose/Kazuha\n\nThere
-    is another team that Dehya surprisingly fits well in — Ganyu Melt — due to Dehya’s
-    ability to increase other characters’ Interruption Resistance within her Skill.
-    Units like Ganyu, who are particularly vulnerable to interruption, benefit greatly
-    from this skill. It is important to note that Dehya also runs into a severe issue
-    involving set ups with Ganyu, as Dehya’s Elemental Skill tick doesn't line up
-    well with Ganyu’s Charged Attack charging time. This results in a scenario where
-    Ganyu’s first CA will be Melted, but additional CA’s will end up as cannon fodder
-    for Dehya’s Skill. Adding another Pyro applicator could fix this issue, but that
-    could end up creating more issues with team-building. \n\nAdditionally, the slot
-    that Dehya takes up could typically be given to another character with more overall
-    benefit, such as Nahida and her EM buffing, or Kazuha as a 4VV holder and Elemental
-    DMG% buffer.  \n\n**Sucrose** is another alternative to the aforementioned characters,
-    providing both 4VV and EM sharing, but she runs into problems of her own, such
-    as her Burst’s high Energy Cost. \n\nYet another alternative is **Zhongli**, who
-    not only has very strong defensive utility, but also can run buffer sets like
-    4TotM. However, in choosing to run him, Dehya’s main purpose in the team becomes
-    redundant, with the only loss being less Pyro application. For many players after
-    Version 3.5, Dehya may become a more accessible option than Zhongli with her addition
-    to the standard banner. \n\nUltimately, she provides another unique option to
-    slot in Ganyu Melt teams, but the issues that arise from using her substantially
-    decrease her overall value to the comp."
-  color: 12784917
-  image:
-    url: https://media.discordapp.net/attachments/964616918336159814/1079379669830340718/u8vkAAAAASUVORK5CYII.png?width=960&height=223
+  - title: __TEAM BUILDING__
+    description: '### **Lyney | Bennett | Defensive Flex | Offensive Flex**'
+    color: 11015743
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139722998824325180/vRLXOkm2ZQAAAAAASUVORK5CYII.png?width=1025&height=236
+  - description: >-
+      Thanks to his HP consumption mechanics, Lyney wants at least one healer to
+      keep him alive and allow him to build Prop Surplus stacks and activate his
+      A1. Bennett provides this, but additionally provides a massive ATK boost
+      and 4pc Noblesse Oblige to greatly improve Lyney’s damage. Furthermore, as
+      a Pyro unit, Bennett counts towards stacks on Lyney’s A4 and signature
+      weapon. To top it all off, he helps generate Pyro particles to fund Lyney
+      and other energy-hungry Pyro units. Because Bennett is able to provide so
+      much utility in just one slot, it is highly recommended to run him
+      alongside Lyney in every one of Lyney’s teams. Players may opt to replace
+      him with another healer, but will do so to much worse effect. 
+
+      It is recommended to run a healing-focused build on Bennett (HP%/HB
+      artifacts) in Lyney teams, in order to ensure that Lyney receives
+      sufficient healing to stay above the 60% HP threshold. The damage lost on
+      Bennett from building for healing instead of damage is not significant in
+      Lyney teams.
+
+
+      Bennett aside, because Lyney’s Charged Attack playstyle makes him highly
+      susceptible to interruption as well as his damage suffering greatly from
+      being interrupted, Lyney appreciates a shielder or character who can
+      provide interruption resistance. 
+
+
+      Lastly, Lyney wants a more offensively oriented unit in his team to buff
+      and/or supplement his damage. Generally speaking, teams that focus on
+      buffing Lyney’s personal damage are preferred in single-target scenarios,
+      where Lyney excels. Conversely, in multi-target situations, it is more
+      beneficial to bring Venti or a unit who can deal AoE damage to compensate
+      for Lyney’s relatively low amount of AoE damage. 
+
+
+      While not recommended, if players feel confident in their ability to play
+      Lyney without a shielder, they can opt to bring a second offensive flex
+      unit instead. 
+
+
+      It is essential that Lyney’s teammates do not interfere with maintaining a
+      constant Pyro aura on enemies, and are compatible with his Charged Attack
+      playstyle, which somewhat limits his options.
+    color: 11015743
+
+
+
 buttons:
-- customId: liveInteraction#faq/pyro/dehya/teambuilding2
+- customId: liveInteraction#faq/pyro/lyney/teambuilding2
   label: Next
   style: PRIMARY
   emoji: "▶️"

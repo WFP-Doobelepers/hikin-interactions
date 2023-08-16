@@ -1,40 +1,75 @@
+content: null
 embeds:
-- description: "**Mono Pyro**\nDehya/Bennett/Pyro DPS/Kazuha\n\nIn comparison to her
-    other team options, Mono Pyro alleviates much of Dehya’s Energy needs, which makes
-    it a comfortable and viable option. That's the good news, now here's the bad.
-    Not only are all the members, excluding Dehya, some of the most highly contested
-    characters in terms of usage, but also Dehya does considerably less damage and
-    requires more ER than Klee, another Mono Pyro DPS. While Klee, thanks to her 4th
-    Ascension Passive, decreases the team's Energy requirements, allowing Kazuha,
-    Xiangling, and herself to build more into damage rather than ER, Dehya imposes
-    her high Energy needs on the rest of the team. Her defensive utility is also rendered
-    useless due to Bennett’s healing capabilities, thus slotting her in is a less
-    ideal choice than other Pyro characters. \n\n**Kazuha** - Remains the premium
-    support for Dehya and other party members due to his DMG% buff, which both Xiangling
-    and Dehya like very much. Kazuha also provides CC, which helps with survivability
-    and overall DPS due to Dehya’s and Xiangling’s limited ranges \n\n**Bennett**
-    - Although he makes some of Dehya’s defensive utility redundant, because Bennett
-    provides substantial buffs to both her and Xiangling as well as plentiful Energy
-    and healing, he ends up being the best Pyro support for this team. \n\n**Xiangling**
-    - A strong consistent source of off-field damage, allowing you to gain more benefits
-    from running another unit on-field. One thing to note is that Xiangling will require
-    quite a bit of funneling to consistently use her Burst, and this is more so the
-    case due to Dehya’s high Energy costs.\n\n**Hu Tao** - A strong on-field carry
-    that can make use of Dehya as a Zhongli replacement. Unlike C4 Yanfei or Thoma,
-    Dehya’s defensive utility isn't tied to her Burst, so she doesn’t suffer from
-    Energy problems. This means Dehya can simply be used as a 4pc ToTM bot in order
-    to supply Hutao with buffs and defensive utility.     \n\n**Klee** - Functions
-    as an on-field DPS in this team thanks to her rather flexible Elemental Skill.
-    Compared to Xiangling, Klee has much more lenient Energy requirements, which is
-    something Dehya would prefer. Using Klee also eases the need for Bennett funnels."
-  color: 12784917
-  footer:
-    text: 'Authored by: Kuro_kami91 and Leifa'
-  image:
-    url: https://media.discordapp.net/attachments/964616918336159814/1079378273567522816/AaB2Xq6uIt2jAAAAAElFTkSuQmCC.png?width=960&height=223
+  - description: >-
+      ### <:flex:1094549077280169984> **Offensive Flex Options:**
+
+      **Kazuha**: Kazuha’s ability to buff Lyney’s Pyro DMG% and use 4pc
+      Viridescent Venerer all while syncing up with Lyney’s 15s cooldowns makes
+      him the ideal unit for maximizing Lyney’s personal damage. He additionally
+      provides a considerable amount of personal damage, and some grouping of
+      debatable usefulness.
+
+
+      **Venti**: Venti’s powerful grouping uniquely allows Lyney to take
+      advantage of the small AoE on his Pyrotechnic Strikes, allowing Lyney to
+      deal with groups of enemies as long as they can be lifted by Venti’s
+      Burst. Venti also does significant damage in his own right in such
+      situations, and he can use 4pc Viridescent Venerer to shred enemy Pyro
+      RES. Additionally, he can refund 15 Flat Energy to Lyney and all other
+      Pyro units in the team, which is hugely beneficial to reducing ER
+      requirements.
+
+      However, Venti struggles in single-target situations or against enemies
+      that his Burst cannot lift, so it is not recommended to bring him against
+      those lineups.
+
+
+      **Xiangling**: Xiangling is a powerful Pyro sub-DPS who provides strong
+      AoE damage from off-field while also allowing Lyney to max out on his A4
+      and signature weapon passive effects. Bennett is more essential than ever
+      with Xiangling the team, as she greatly appreciates his Pyro particle
+      generation and is able to take full advantage of his ATK buffs. 
+
+      However, her Burst requires Lyney to play at point-blank range, which
+      players may find unpleasant to play.  If players are struggling to pilot
+      Lyney because Xiangling forces them to play at point-black range, causing
+      Lyney to miss out on Charged Attacks, then any damage gained from running
+      Xiangling may be canceled out. In such cases, it is recommended that
+      players opt not to run Xiangling with Lyney. 
+
+
+      **C2 Klee**: An expensive buffing option who can provide DEF shred,
+      Thrilling Tales of Dragon Slayer, and allow Lyney to max out on his A4 and
+      signature weapon passive effects.
+
+
+      **Heizou / Sucrose**: If Kazuha is otherwise occupied, players can also
+      use Heizou or Sucrose as a generic Anemo support by equipping them with
+      4pc Viridescent Venerer and Thrilling Tales of Dragon Slayer. 
+
+      Heizou gains a slight advantage by being able to contribute some extra
+      damage, and Sucrose’s EM share is entirely useless in Lyney teams (unless
+      running double offensive flex with Rosaria), so her talents may be better
+      utilized elsewhere.  
+
+
+      **Other Anemos**: Other Anemo characters such as Lynette, AMC, Jean, and
+      Sayu can all be used to hold 4pc Viridescent Venerer’s. None of them are
+      particularly standout otherwise.
+
+
+      **Albedo**: Albedo can be run as an easy-to-play sub-DPS. With Zhongli,
+      Lyney and himself can gain some buffs from Geo Resonance; otherwise,
+      Albedo simply provides off-field damage while not interfering much with
+      the Pyro auras Lyney wants.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/if3iynSp3sMVO-2nmEfjS9mdvvraxrgnw4pZl-oAUnY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png
 
 buttons:
-- customId: liveInteraction#faq/pyro/dehya/teambuilding2
+- customId: liveInteraction#faq/pyro/lyney/teambuilding2
   label: Previous
   style: PRIMARY
   emoji: "◀️"
