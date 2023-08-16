@@ -1,20 +1,24 @@
----
-content:
+content: null
 embeds:
-- title: __EXTERNAL LINKS__
-  color: 12784917
-  fields:
-  - name: Project Amber
-    value: "[Character Database](https://ambr.top/en/archive/avatar/10000077/yaoyao)"
-  - name: Honey Hunter
-    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
-  - name: Genshin Impact JP Twitter
-    value: "[Asset Resources](https://twitter.com/Genshin_7)"
-  - name: Genshin Impact EN Twitter
-    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
-  footer:
-    text: Credits to Emiliabyss, Athena, Kuro_kami91, NatC and Leifa for the Dehya
-      FAQ! || WFP Theorycrafting
-    icon_url: https://media.discordapp.net/attachments/791659083429445643/931376057209196594/servericon.gif
-  image:
-    url: https://cdn.discordapp.com/attachments/964616918336159814/1079372441396199444/dehyaofficial.png
+  - title: __EXTERNAL LINKS__
+    color: 11015743
+    fields:
+      - name: Project Amber
+        value: >-
+          [Character
+          Database](https://ambr.top/en/archive/avatar/10000084/lyney)
+      - name: Honey Hunter World
+        value: >-
+          [Character Database and Asset
+          Resources](https://genshin.honeyhunterworld.com/?lang=EN)
+      - name: Genshin Impact JP Twitter
+        value: '[Asset Resources](https://twitter.com/Genshin_7)'
+      - name: Genshin Impact EN Twitter
+        value: '[Asset Resources](https://twitter.com/GenshinImpact)'
+    footer:
+      text: Credits to kol for the Lyney FAQ! || WFP Theorycrafting
+      icon_url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1094584155267932222/GUTAAAAo5_-_mr1_thonk.png?width=662&height=662
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1087300734372020315/1139725780360896554/image.png
