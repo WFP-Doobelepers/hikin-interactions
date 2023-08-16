@@ -52,8 +52,6 @@ embeds:
       text: 'Authored by: kol'
       icon_url: >-
         https://images-ext-1.discordapp.net/external/if3iynSp3sMVO-2nmEfjS9mdvvraxrgnw4pZl-oAUnY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15023_4.png
 
 buttons:
 - customId: liveInteraction#faq/pyro/lyney/artifacts2
