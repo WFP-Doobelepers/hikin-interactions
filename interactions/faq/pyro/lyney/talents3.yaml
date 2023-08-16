@@ -1,10 +1,10 @@
 content: null
 embeds:
-  - title: '**Elemental Skill: Bewildering Lights**'
+  - title: |-
+      '**Elemental Skill: Bewildering Lights**'
     description: >-
       *CD : **15s***
-
-
+      
       Lyney’s Skill heals himself for 20% of his Max HP and deals a single
       instance of AoE Pyro damage that increases with each Prop Surplus stack he
       has at cast in a fashion similar to Heizou’s Skill. With stacks, his Skill
