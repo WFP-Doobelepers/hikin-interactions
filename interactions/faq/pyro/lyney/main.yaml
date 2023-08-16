@@ -30,7 +30,7 @@ options:
   description: WFP resources for Lyney FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Constellations
-  value: faq/pyro/lyney/constellations
+  value: faq/pyro/lyney/constellations1
   description: WFP resources for Lyney FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Artifacts

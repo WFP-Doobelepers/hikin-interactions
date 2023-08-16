@@ -23,7 +23,7 @@ options:
   description: WFP resources for Dehya FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Constellations
-  value: faq/pyro/dehya/constellations1
+  value: faq/pyro/dehya/constellations
   description: WFP resources for Dehya FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Artifacts
