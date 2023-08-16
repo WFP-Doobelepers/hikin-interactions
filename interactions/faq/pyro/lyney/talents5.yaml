@@ -51,7 +51,7 @@ embeds:
       url: >-
         https://media.discordapp.net/attachments/1087300734372020315/1139704768688836679/UI_Talent_S_Liney_07.png
 
- buttons:
+buttons:
 - customId: liveInteraction#faq/pyro/lyney/talents4
   label: Next
   style: PRIMARY
