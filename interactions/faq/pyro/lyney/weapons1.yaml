@@ -52,7 +52,6 @@ embeds:
     color: 11015743
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Proto.png
-    color: 11015743
     footer:
       text: 'Authored by: kol'
       icon_url: >-
