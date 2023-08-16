@@ -42,7 +42,7 @@ options:
   description: WFP resources for Lyney FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Artifacts
-  value: faq/pyro/lyney/artifacts
+  value: faq/pyro/lyney/artifacts1
   description: WFP resources for Lyney FAQ.
   emoji: ${ EMOJIS.PYRO_BOX }
 - label: Weapons
