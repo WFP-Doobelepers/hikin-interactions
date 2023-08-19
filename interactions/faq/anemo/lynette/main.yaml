@@ -1,67 +1,70 @@
 content: null
 embeds:
   - title: >-
-      A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society.
-    color: 12638905
+      A magic assistant of few words, her emotions are as inscrutable as any
+      cat's.
+    color: 815477
     fields:
-      - name: 'Kirara Mastersheet by NatC#9175, TiniMeow#8695:'
+      - name: Lynette Mastersheet by emiliabyss
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1FJpKA_ea2OLMYglyomjL87peTOgRG16qdvIFlnEzRhM/edit#gid=981902297)
-      - name: Kirara Frames Mastersheet by jrm.spirit#2671
+          Sheet](https://docs.google.com/spreadsheets/d/1pF1a-7jH7s9DPuWyp-K6gP11R3Ht5N5RLbKuwK5jk_0/edit#gid=1076481734)
+      - name: Lynette Frames Mastersheet by sirvaughan
         value: >-
           [Google
-          Sheet](https://docs.google.com/spreadsheets/d/1uEVDO4WqobtvX9l728MsWcb2F-QsDOW4EnNa3cbojrc/edit#gid=0)
+          Sheet](https://docs.google.com/spreadsheets/d/1ImWE-TP6rrEvzqWYZVeJtwlFpMqwWOPT1yUOuc_Xa9M/edit#gid=0)
     author:
-      name: Kirara FAQ
-      icon_url: https://genshin.honeyhunterworld.com/img/momoka_061_side_icon.webp?x53383
+      name: Lynette FAQ
+      icon_url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1139863909436772432/linette_083_side_icon.png
     image:
-      url: https://genshin.honeyhunterworld.com/img/momoka_061_gacha_splash.webp?x53383
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1139859770350780426/linette_083_gacha_splash.png?width=516&height=468
 
 options: #dropdown
     
   - label: Overview
-    value: faq/dendro/kirara/overview
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/overview
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Talents
-    value: faq/dendro/kirara/talents1
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/talents1
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
   
   - label: Constellations
-    value: faq/dendro/kirara/constellations1
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/constellations1
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
    
   - label: ER Requirements
-    value: faq/dendro/kirara/errequire
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/errequire
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Artifacts
-    value: faq/dendro/kirara/artifacts1
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/artifacts1
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Weapons
-    value: faq/dendro/kirara/weapons
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/weapons
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: Teambuilding
-    value: faq/dendro/kirara/teambuilding1
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/teambuilding1
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
   - label: External Links
-    value: faq/dendro/kirara/external
-    description: "WFP resources for Kirara FAQ."
+    value: faq/dendro/lynette/external
+    description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.DENDRO_BOX }
 
 buttons:
   - label: WFP FAQ
-    url: https://wangshengfp.org/faq/kirara
+    url: https://wangshengfp.org/faq/lynette
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
