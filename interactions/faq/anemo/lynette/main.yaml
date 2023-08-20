@@ -49,7 +49,7 @@ options: #dropdown
     emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Weapons
-    value: faq/anemo/lynette/weapons
+    value: faq/anemo/lynette/weapons1
     description: "WFP resources for Lynette FAQ."
     emoji: ${ EMOJIS.ANEMO_BOX }
 
