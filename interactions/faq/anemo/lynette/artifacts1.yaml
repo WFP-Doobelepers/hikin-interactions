@@ -1,25 +1,33 @@
 ---
 content:
 embeds:
-- title: __ARTIFACTS__
-  description: |-
-    <${EMOJIS.SANDS}> *Sands of Eon:* HP%
-    <${EMOJIS.GOBLET}> *Goblet of Eonothem:* HP%
-    <${EMOJIS.CIRCLET}> *Circlet of Logos:* HP%
+content: null
+embeds:
+  - title: __ARTIFACTS__
+    description: >-
+      <:sands:1094559345364185119> *Sands of Eon:* ER/EM/ATK%
 
-    Due to Kirara having very little damage contribution, maximizing her Skill’s shielding utility by building her purely on HP% as a shieldbot is the best way to make use of her kit. On top of that, Kirara’s Ascension 4 Passive introduces additional HP% scalings to her Meow-teor Kick and Elemental Burst, allowing her to sneak some extra damage even if her build is full HP%.
+      <:goblet:1094559512968581130> *Goblet of Eonothem:* Anemo DMG%/EM
 
-    Unlike Baizhu, Kirara does not require a Burst activation to deploy defensive utility, which she can provide with her Skill instead. This means unless the player is willing to play her purely for her Burst, there is no requirement to build ER% on her. 
+      <:circlet:1094559608581922966> *Circlet of Logos:* CRIT/EM
 
-    **Substats:** ER% (Until ER Reqs are met for Burst Kirara) > HP% > HP > ATK%/ATK/CRIT%/CRIT DMG%
 
-  color: 12638905
-  footer:
-    text: 'Authored by: snowy'
-    icon_url: https://images-ext-2.discordapp.net/external/Us_8zPQ10o9vcBL2RVQ8N9rqBvKOKjj81pxAqgVncnc/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/92c89dc47f6a51d83eb25862791ce5f2.png?width=352&height=352
+      Lynette prefers ATK% or ER / Anemo DMG% / CRIT in general, but it is only
+      marginally better than other combinations of main stats in most cases. In
+      Hyperbloom or reaction-focused teams where she is the trigger, EM or ER /
+      EM / EM should be used instead. Her Burst can be important depending on
+      the team, therefore, enough ER should be built to suit her needs.
+
+
+      **Substats:** ER (Until ER Reqs) > EM (If Hyperbloom) > CRIT > ATK
+    color: 815477
+    footer:
+        text: 'Authored by: sigurd and Leifa'
+        icon_url: >-
+          https://cdn.discordapp.com/avatars/463998487067885600/88f9fa278b0d72e5dbdac8ac8bb99055.png?size=4096
 
 buttons:
-- customId: liveInteraction#faq/dendro/kirara/artifacts2
+- customId: liveInteraction#faq/anemo/lynette/artifacts2
   label: Artifact Sets
   style: PRIMARY
   emoji: "▶️"

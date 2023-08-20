@@ -1,17 +1,74 @@
 ---
 content:
 embeds:
-- title: __Energy Recharge Requirement__
-  description: |-
-    Kirara has two sources of particle generation — the first being the 3 particles generated upon hitting an enemy either with a Tap Skill or at the end of a Hold Skill, and the second when she crashes into enemies in her Hold Skill state, generating at most 1 particle every 4 seconds. Kirara has a 60 Burst Cost, meaning her ER requirements are comfortably met in quickswap teams where she can get 2 short Hold Skills in. Additionly, Kirara is often run with a second Dendro, making her ER requirements even easier to meet. 
+content: null
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: >-
+      Lynette’s Energy requirements are quite high without a plethora of support
+      through Favonius weapons and Anemo teammates. In 25s rotations and an
+      Energy-rich team, these requirements plummet, though longer rotations will
+      mainly be useful only when Lynette’s infusion at C6 is unlocked. However,
+      even at C0, she has a 12s cooldown on her Skill, which allows her to use
+      it twice per long rotation.
 
-    All values below assume two short Hold Skills. Second Dendro is assumed to be Nahida unless with Tighnari / Alhaitham. Fav particles are caught off-field by Kirara.
 
-    Kirara’s Energy requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
-  color: 12638905
-  footer:
-    text: 'Authored by: NatC'
-    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
-  
+      We tested Energy Recharge requirements for teams grouped into three
+      categories: *General Use* (National, Freeze, etc.), *An3mo* (C6 Lynette
+      with C6 Faruzan and Kazuha), and *Hyperbloom* teams (Collei/DMC/Nahida,
+      Xingqiu, and Fischl, C6 Lynette is the trigger).
+
+
+      ### **General Use**
+
+      National (1 Fav on Team) - 230%
+
+      National (1 Fav + Lynette Fav) - 180%
+
+      Freeze (1 Fav on Team) - 220%
+
+      Freeze (1 Fav + Lynette Fav) - 180%
+
+      ### **An3mo (C6 Lynette)**
+
+      No Fav - 150%
+
+      1 Fav - 140%
+
+      2 Fav - 135%
+
+      ### **Hyperbloom (C6 Lynette)**
+
+      *ER needs will vary slightly depending on how consistently you can keep Oz
+      up (whether you Burst every rotation or slightly desync) and which Dendro
+      character you use between Collei, DMC, and Nahida)*
+
+
+      Collei 1E, No Fav - 155-160%
+
+      Collei 2E, No Fav - 145%-155%
+
+      Collei 1E + Fav - 140%-150%
+
+      Collei 2E + Fav - 135%-145%
+
+      DMC 1E + Fav - 145%-150%
+
+      DMC 2E + Fav - 140%-145%
+
+      Nahida, No Fav - 135%-145%
+
+
+
+      Lynette’s Energy requirements will vary based on your team and rotation.
+      For a more accurate estimate, please use the Energy Recharge calculator
+      linked
+      [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    color: 815477
+    footer:
+      text: 'Authored by: Emiliabyss'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?size=4096
+
   image:
     url: https://media.discordapp.net/attachments/1087300734372020315/1110546564180607040/image.png?width=1439&height=523
