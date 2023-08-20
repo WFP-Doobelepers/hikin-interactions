@@ -1,0 +1,79 @@
+content: null
+embeds:
+  - title: |-
+      __Recommended for An3mo__
+
+      **Mistsplitter Reforged (N1 after E)**
+    description: >-
+      The best-in-slot for Lynette’s damage by far, assuming full stacks and an
+      infused N1 immediately after her Skill use. When buffed by C6 Faruzan and
+      C5 or below Bennett, she can almost scratch 15k DPS within her 6-7s field
+      time. About 10% greater than the next best option in terms of damage.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Narukami.png
+  - title: '**Primordial Jade Cutter**'
+    description: >-
+      A generically good CRIT weapon for almost anyone, giving her a whopping
+      44% CRIT Rate and an extra bit of HP from its passive, along with extra
+      attack based on her Max HP. Lynette doesn’t care as much about her HP
+      stat, but it’s useful for the CRIT Rate regardless.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Morax.png
+  - title: '**Haran Geppaku Futsu**'
+    description: >-
+      Another solid option. Lynette can use the passive quite well with her
+      infusion.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Amenoma.png
+  - title: '**Light of Foliar Incision (N1 after E)**'
+    description: >-
+      Another CRIT stick. The passive is nice to have but doesn't provide a
+      meaningful increase due to Lynette generally building for ATK and CRIT
+      rather than EM.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Ayus.png
+  - title: '**Wolf-Fang R5**'
+    description: >-
+      The dynamic-buffing CRIT Rate is useful on both her Skill and Burst, and
+      offers surprising damage potential as a 4-star weapon.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Boreas.png
+  - title: '**The Black Sword R5**'
+    description: >-
+      A solid CRIT Rate weapon obtainable through Battle Pass. The Normal and
+      Charged Attack damage buff is very much appreciated when Lynette is
+      attacking in An3mo teams. The lifegain is a nice bonus but inessential.
+      Many players already have a few of these already if they’re a regular
+      Battle-Pass renewer.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Bloodstained.png
+  - title: '**Other 5-Star Swords besides Aquila and Key**'
+    description: >-
+      There isn’t much to say about other weapons other than “they do decent
+      damage.” This includes Freedom Sworn, Summit Shaper, and Skyward Blade.
+    color: 815477
+  - title: '**Amenoma Kageuchi R5**'
+    description: >-
+      The best craftable option for damage, lessening Lynette’s Energy needs in
+      An3mo teams even further. This allows Lynette to invest almost purely into
+      damage. Lion’s Roar R5 can tie if you can maintain 100% passive uptime.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Bakufu.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/weapons1
+  label: Previous
+  style: General Weapons
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/lynette/weapons3
+  label: Hyperbloom Weapons
+  style: PRIMARY
+  emoji: "▶️"
