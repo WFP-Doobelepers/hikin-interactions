@@ -69,8 +69,8 @@ embeds:
 
 buttons:
 - customId: liveInteraction#faq/anemo/lynette/weapons1
-  label: Previous
-  style: General Weapons
+  label: General Weapons
+  style: PRIMARY
   emoji: "◀️"
 
 - customId: liveInteraction#faq/anemo/lynette/weapons3
