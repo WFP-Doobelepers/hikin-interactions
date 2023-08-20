@@ -1,42 +1,51 @@
 ---
 content:
 embeds:
-- title: |-
-    **Constellation 5 - A Thousand Miles in a Day**
-  description: |-
-    > *Increases the Level of Secret Art: Surprise Dispatch by 3.*
+  - title: '**Constellation 5 - Obscuring Ambiguity**'
+    description: >-
+      > *Increases the Level of Enigmatic Feint by 3.
 
-    Increases Kirara’s Burst Talent level by 3, giving her more damage on her Burst and the subsequent bomblets. Again, not a particularly good Constellation by merit of Kirara preferring to build HP instead of damage.
-  color: 12638905
-  fields:
-  - name: "*Rating:*"
-    value: 1/5
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_U_Momoka_02.png
+      > Maximum upgrade level is 15.*
 
-- title: >- 
-    **Constellation 6 - Countless Sights to See**
-  description: |- 
-    > *All nearby party members will gain 12% All Elemental DMG Bonus within 15s after Kirara uses her Elemental Skill or Burst.*
-    
-    Provides a nice bit of Elemental DMG Bonus for 15 seconds after Kirara uses her Skill and/or Burst, enabling the party to do more damage all-around. 
-    
-    A solid Constellation, with its main downside being locked behind Constellation 6.
 
-  color: 12638905
-  fields:
-  - name: "*Rating:*"
-    value: 2/5
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_03.png
-  
-  footer:
-    text: 'Authored by: NatC'
-    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+      Three extra levels to Lynette’s Burst, granting more damage from both the
+      Bogglecat Box and Vivid Shots. However, like her Constellation 3, her
+      damage contribution to the team isn’t massive.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Linette_02.png
+  - title: '**Constellation 6 - Guarded Smile**'
+    description: >-
+      > *When Lynette uses Enigmatic Feint's Enigma Thrust, she will gain an
+      Anemo Infusion and 20% Anemo DMG Bonus for 6s.*
 
+
+      Her last Constellation grants a new playstyle to Lynette, allowing her to
+      take the field for a portion of your rotation, whilst also gaining a 20%
+      Anemo DMG Bonus, increasing the damage from the rest of her kit. This
+      Constellation allows her to drive teams such as Hyperbloom, where EM stats
+      can be valuable compared to her traditional ADC build. The increased field
+      time also lowers her Energy requirements, allowing more offensive substats
+      in her gear. Anemo Infusions also allow for Lynette to swirl other
+      infusions off her weapon, allowing for unique double swirl setups with
+      other infusions such as C6 Bennett, Chongyun or Candace.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 3.5/5
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139706387455299674/UI_Talent_S_Liney_04.png
 
 buttons:
-- customId: liveInteraction#faq/dendro/baizhu/constellations2
+- customId: liveInteraction#faq/anemo/lynette/constellations2
   label: Previous
   style: PRIMARY
   emoji: "◀️"

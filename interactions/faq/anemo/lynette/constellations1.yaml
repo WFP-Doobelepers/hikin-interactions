@@ -1,49 +1,48 @@
----
-content:
+content: null
 embeds:
-- title: |-
-    __CONSTELLATIONS__
+  - title: |-
+      __CONSTELLATIONS__
 
-    **Constellation 1 - Material Circulation**
-  description: |-
-   > *Every 8,000 Max HP Kirara possesses will cause her to create 1 extra Cat Grass Cardamom when she uses Secret Art: Surprise Dispatch. A maximum of 4 extra can be created this way.*
-
-   Gives Kirara the ability to create up to 4 extra bomblets depending on her Max HP, which is very likely if you were to build her as a shieldbot. A nice bit of extra Dendro application which could situationally be useful, although her damage is still nothing special.
-
-  color: 12638905
-  fields:    
-  - name: "*Rating:*"
-    value: 1/5
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_01.png
-
-- title: >- 
-    **Constellation 2 - Perfectly Packaged**
-  description: |-
-    > *When Kirara is in the Urgent Neko Parcel state of Meow-teor Kick, she will grant other party members she crashes into Critical Transport Shields.*
-    > 
-    > *The DMG absorption of Critical Transport Shield is 40% of the maximum absorption Meow-teor Kick's normal Shields of Safe Transport are capable of, and will absorb Dendro DMG with 250% effectiveness.*
-    > 
-    > *Critical Transport Shields last 12s and can be triggered once on each character every 10s.*
-
-    A Constellation that is nice in co-op, granting mini-shields to allies who Kirara collides with. That being said, these shields can only be created in co-op, rendering this Constellation worthless in normal play.
-
-  color: 12638905
-  fields:
-  - name: "*Rating:*"
-    value: 0/5
-  - name: "*Rating for playing with your casual friends that are bad:*"
-    value: 3/5
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_02.png
+      **Constellation 1 - A Cold Blade Like a Shadow**
+    description: >-
+      > *When Enigmatic Feint's Enigma Thrust hits an opponent with Shadowsign,
+      a vortex will be created at that opponent's position that will pull nearby
+      opponents in.*
 
 
-  footer:
-    text: 'Authored by: NatC'
-    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
+      Grants Lynette some extra utility in the form of grouping. The grouping is
+      about the same size as Sucrose/Faruzan’s Skill grouping whilst having the
+      same pull speed as Kazuha’s Skill. The grouping also lasts long enough to
+      actually pull light enemies together, making it quite reliable.
+      Unfortunately, it only activates upon hitting an opponent with her Hold
+      Skill rather than Tap or Hold, and with her Skill’s relatively easy chance
+      to miss even when locked on, you’ll need to be careful when using it.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 2.5/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_01.png
+  - title: '**Constellation 2 - Endless Mysteries**'
+    description: >-
+      > *Whenever the Bogglecat Box summoned by Magic Trick: Astonishing Shift
+      fires a Vivid Shot, it will fire an extra Vivid Shot.*
+
+
+      A rather nice Constellation, increasing the Elemental Application from her
+      Vivid Shots to once every wave rather than once every other wave. This
+      effectively doubles the amount of reactions from her Elemental Burst and
+      can be especially useful in Hyperbloom teams upon swirling Electro,
+      allowing for easy off-field Hyperbloom triggers.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 3/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_02.png
 
 buttons:
-- customId: liveInteraction#faq/dendro/kirara/constellations2
+- customId: liveInteraction#faq/anemo/lynette/constellations2
   label: Next
   style: PRIMARY
   emoji: "▶️"
