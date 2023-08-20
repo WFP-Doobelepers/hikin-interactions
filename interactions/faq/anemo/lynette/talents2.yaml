@@ -1,57 +1,68 @@
----
-content:
+content: null
 embeds:
-- title: |-
-    __TALENT OVERVIEW__
-    
-    **Normal Attack: Boxcutter**
-  description: |-
-    Kirara has attack multipliers that are similar to Shinobu’s throughout her Normal Attack sequence. Unfortunately, with abysmally low base attack and no other added gimmicks to it, there is little to no reason to make use of her attack string unless you specifically wish to build her to do so.
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/Skill_A_01.png
-  color: 12638905
+  - title: |-
+      __TALENT OVERVIEW__
 
-- title: >-
-    **Elemental Skill: Meow-teor Kick**
-  description: |-
-    *CD (Tap)* : ***8s***
-    *CD (Hold)* : ***9-12s***
+      **Normal Attack: Rapid Ritesword**
+    description: >-
+      Lynette performs a quick, 4-hit attack string with a multihit on the 3rd
+      attack. At C0, these are underwhelming due to Lynette not being suited for
+      Physical DMG, but her C6 grants a short Anemo Infusion, allowing her to
+      have some on-field presence.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_A_01.png
+  - title: '**Elemental Skill: Enigmatic Feint**'
+    description: >-
+      *CD : **12s***
 
-    There are two variations to Kirara’s Skill — a pressed and a held version. Her Tap Skill initiates a **Tail-Flicking Flying Kick**, dealing AoE Dendro DMG while briefly applying Dendro to herself. It will also create a **Shield of Safe Transport** that lasts for 12s, the duration of which will be refreshed if a new shield is applied on top of it.
-    
-    Her Hold Skill deploys a shield similar to the one that is created from her pressed Skill. On top of this, Kirara will curl up into a box, dealing damage to enemies she crashes into in a fashion similar to Sayu’s Skill. At the end of her Skill, she will unleash a **Flipclaw Strike**, dealing AoE Dendro DMG. The longer her Skill is held, the longer its cooldown will be at the end.
 
-    It’s worth noting that in the held Skill state, Kirara’s movement and climbing speed will be increased, making it possible for her to traverse climbable terrain more quickly in her box state at the cost of increased stamina consumption.
+      Lynette’s Skill has both a Tap and Hold function. On Tap, Lynette
+      unleashes **Enigma Thrust**, thrusting forward with her sword. Once Enigma
+      Thrust hits an opponent, Lynette will restore 25% of her Max HP and then
+      proceed to lose 6% of her Max HP every second for 4 seconds.
 
-    Kirara’s shields also have increased Dendro absorption, meaning that she could be an option for certain bloom-based teams.
 
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/Skill_S_Momoka_01.png
-  color: 12638905
+      On Hold, Lynette enters the **Pilfering Shadow** state, increasing her
+      Movement SPD for 2.5 seconds. During this state, a **Shadowsign** mark
+      will appear over a nearby enemy, which marks the enemy Lynette will target
+      upon ending her Skill, where she will then perform the same Enigma Thrust
+      as her Tap Skill. 
 
-- title: >-
-    **Elemental Burst: Secret Art: Surprise Dispatch**
-  description: |-
-    *CD* : ***15s***
-    *Energy Cost* : ***60***
-    
-    Kirara smashes enemies with a **Special Delivery Package**, dealing a large chunk of AoE Dendro DMG to enemies. After the explosion, the package will split up into a total of 6 **Cat Grass Cardamoms**, little bomblets similar to Klee’s. When enemies come into contact with said bomblets OR if left alone for 12 seconds, they will explode, dealing AoE Dendro DMG to enemies surrounding them. A nice bit of extra damage along with Dendro application, though her primary utility as a shieldbot means that the damage might not be as impactful as the numbers imply.
 
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/Skill_E_Momoka_01.png
-  color: 12638905
+      When Lynette unleashes an Enigma Thrust, she will also activate her Arkhe
+      Attack, **Surging Blade**, dealing Ousia-aligned Anemo DMG to the enemy
+      hit, and has a cooldown of once every 10 seconds. Arkhe Attacks do not
+      apply an element and deal very little damage, however, it will cause an
+      Annihilation reaction when coming into contact with the opposite Arkhe
+      energy. At this point in time, Lynette is our only source of Ousia-aligned
+      attacks, giving her a possible role against Pneuma-aligned enemies or
+      mechanics.
 
-  footer:
-    text: 'Authored by: NatC'
-    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
-    
+
+      Lynette’s Skill generates 4 Anemo particles on a 12 second cooldown,
+      allowing her to generate a large amount of particles in a short period
+      with C4 or Sacrificial Sword. However, the cooldown on her Skill alongside
+      her high Burst cost results in her having relatively high Energy
+      requirements when played off-field. Unfortunately, as of the time of
+      writing, both Lynette’s Arkhe Attack and her Skill also have a tendency to
+      whiff on enemies, making gaining particles and annihilating against
+      Pneuma-aligned enemies cumbersome.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_S_Linette_01.png
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
 buttons:
-- customId: liveInteraction#faq/dendro/kirara/talents1
+- customId: liveInteraction#faq/anemo/lynette/talents1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
 
-- customId: liveInteraction#faq/dendro/kirara/talents3
+- customId: liveInteraction#faq/anemo/lynette/talents3
   label: Next
   style: PRIMARY
   emoji: "▶️"

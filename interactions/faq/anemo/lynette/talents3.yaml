@@ -1,41 +1,43 @@
----
-content:
+content: null
 embeds:
-- title: |-
-    __Passives__
+  - title: '**Elemental Burst: Magic Trick: Astonishing Shift**'
+    description: >-
+      *CD : **18s**
 
-    **Ascension 1 Passive: Bewitching, Betwitching Tails**
-  description: |-
-    During Kirara’s held Skill state, crashing into enemies grants her a stack of **Reinforced Packaging** obtainable every 0.5s, up to a maximum of 3 stacks. When her held Skill ends, each stack of Reinforced Packaging will grant Kirara a Shield of Safe Transport, refreshing the duration of her shield and stacking on top of her existing shield up to the maximum that her Skill will allow. A very nice passive that helps with both Kirara’s shield strength and uptime.
-  
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_05.png
-  color: 12638905
+      Energy Cost : **70***
 
-- title: >-
-    **Ascension 4 Passive: Pupillary Variance**
-  description: |-
-     Increases the damage from Kirara’s Skill and Burst, scaling with her maximum HP. Helps ever so slightly with Kirara’s damage when building her as a shieldbot, but nothing to write home about.
 
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Momoka_06.png
-  color: 12638905
+      Lynette hits around her in an AoE whilst summoning a **Bogglecat Box**,
+      which taunts enemies and deals Anemo DMG every second. When the Bogglecat
+      Box is hit by a Cryo, Pyro, Hydro or Electro attack, it absorbs the
+      element and starts firing **Vivid Shots**, one every 2.3 seconds.
 
-- title: >-
-    **Utility Passive: Cat's Creeping Carriage**
-  description: >-
-    Prevents wild animals that produce meat when killed from getting startled when characters in the same active party as Kirara approach them. Helps when gathering ingredients for food, although do note that this will only work for the first enemy in the vicinity.
 
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Aloy_07.png
-  color: 12638905
-
-  footer:
-    text: 'Authored by: NatC'
-    icon_url: https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png?width=352&height=352
-
+      Her Burst is her highest source of damage, lasting for 12 seconds on an 18
+      second cooldown with a 70 Energy Cost. It has similar properties to other
+      abilities in the game, such as Amber’s Baron Bunny, in which it can be
+      pushed around easily by players and enemies. The Bogglecat Box also shares
+      the same absorption rules as Dendro Traveler, absorbing the first Element
+      it comes into contact with. With C2, the Elemental application from her
+      Vivid Shots doubles to once every wave, compared to once every other wave,
+      allowing her to trigger more reactions against enemies. Her Burst is also
+      dynamic, meaning buffs such as Marechaussee Hunter will grant all 3 stacks
+      to her Burst, rather than snapshotting 1 or 2 stacks upon casting.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_E_Linette_01.png
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+        
 buttons:
-- customId: liveInteraction#faq/dendro/kirara/talents2
+- customId: liveInteraction#faq/anemo/lynette/talents2
   label: Previous
   style: PRIMARY
   emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/lynette/talents4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,42 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Sophisticated Energy**
+    description: >-
+      After using her Burst, based on the amount of different elements in the
+      team, Lynette will give a teamwide ATK boost. Pure Anemo offers 8%,
+      whereas a 3 Anemo team gets 12%. The most common distribution (three
+      elements) offers 16%, and in a rainbow team (all different elements), the
+      passive gives 20%. This buff lasts for 10s.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_05.png
+  - title: '**Ascension 4 Passive: Props Positively Prepped**'
+    description: >-
+      Once Lynette's Elemental Burst absorbs an element, it gains a 15% DMG
+      Bonus for the rest of its duration. This helps increase the damage
+      provided by her Burst and scales in usefulness depending on how quickly
+      you can cause it to absorb an element.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_06.png
+  - title: '**Utility Passive: Loci-Based Mnemonics**'
+    description: >-
+      Lynette shows the location of Recovery Orbs on the minimap whilst
+      underwater and increases the HP and stamina gained from these by 25%,
+      letting players explore Fontaine's new underwater areas more easily.
+    color: 815477
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_07.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/talents3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
