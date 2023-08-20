@@ -5,83 +5,83 @@ embeds:
       __Artifact Sets__
 
       **4PC Viridescent Venerer**
-    description: >-
-      Like most other Anemo supports / Sub-DPSes, Viridescent Venerer is
-      Lynette’s Best-in-Slot set, performing extremely well when compared to
-      other sets. When comparing sets for her solo DPS, 4pc VV is only
-      outperformed marginally <0-4%>  in certain niche team comps. When
-      comparing it to other sets for her team’s overall DPS, 4pc VV easily beats
-      all other sets due to the excellent debuff it inflicts, allowing her
-      swirls to reduce the enemy’s resistance based on the element swirled by
-      40%.
-    color: 815477
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15002_4.png
-  - title: '**4PC Emblem of Severed Fate**'
-    description: >-
-      Due to Lynette’s relatively high ER Requirements at C0, as well as most of
-      her damage coming from her Burst, 4pc Emblem of Severed Fate is her
-      highest personal damage Artifact set. This set can be an option for
-      off-field playstyles or before C6 in teams that don’t gain a lot from
-      Viridescent Venerer.
-    color: 815477
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15020_4.png
-  - title: '**4PC Gilded Dreams**'
-    description: >-
-      An option not too far behind for personal damage whilst giving a mix of
-      ATK% and EM. This set excels when using Lynette as a driver for Hyperbloom
-      when built with 3 EM main stats.
-    color: 815477
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15026_4.png
-  - title: '**4PC Flower of Paradise Lost**'
-    description: >-
-      An option over Gilded Dreams that grants slightly more Hyperbloom damage
-      in exchange for lower Swirl and Aggravate damage.
-    color: 815477
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15028_4.png
-  - title: '**4PC Marechaussee Hunter**'
-    description: >-
-      Due to Lynette’s Skill healing and then slowly draining her HP, she is
-      able to activate the 4pc effect of Marechaussee Hunter, granting her large
-      amounts of CRIT Rate. However, as the set only procs on-field, the stacks
-      will not stay for her Burst’s whole duration unless she is played on-field
-      at C6.
-    color: 815477
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15031_4.png
-  - title: '**4PC Desert Pavilion Chronicle**'
-    description: >-
-      A set only recommended at C6, due to providing 40% Normal, Charged and
-      Plunging Attack DMG after hitting an enemy with a Charged Attack. With the
-      2pc effect granting extra DMG%, it is another option Lynette can use to
-      further boost her personal damage.
-    color: 815477
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15027_4.png
-  - title: '**4PC Noblesse Oblige**'
-    description: >-
-      If there is not already a Noblesse user on the team, Lynette doesn’t lose
-      too much from running it, as her personal damage isn’t high in most teams.
-      However, it is recommended to use 4pc VV instead for team buffs if there
-      is no other 4pc VV user on the team.
-    color: 815477
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15007_4.png
-  - title: '**2PC Anemo / ATK / ER / EM**'
-    description: >-
-      General 2pc options that Lynette can use to boost her personal damage or
-      reach ER requirements.
-    color: 815477
-    footer:
-      text: 'Authored by: sigurd and Leifa'
-      icon_url: >-
-        https://cdn.discordapp.com/avatars/463998487067885600/88f9fa278b0d72e5dbdac8ac8bb99055.png?size=4096
-    thumbnail:
-      url: >-
-        https://media.discordapp.net/attachments/1087300734372020315/1139756683606900826/0cSte3ijdJAAAAAElFTkSuQmCC.png
+  description: >-
+    Like most other Anemo supports / Sub-DPSes, Viridescent Venerer is
+    Lynette’s Best-in-Slot set, performing extremely well when compared to
+    other sets. When comparing sets for her solo DPS, 4pc VV is only
+    outperformed marginally <0-4%>  in certain niche team comps. When
+    comparing it to other sets for her team’s overall DPS, 4pc VV easily beats
+    all other sets due to the excellent debuff it inflicts, allowing her
+    swirls to reduce the enemy’s resistance based on the element swirled by
+    40%.
+  color: 815477
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15002_4.png
+- title: '**4PC Emblem of Severed Fate**'
+  description: >-
+    Due to Lynette’s relatively high ER Requirements at C0, as well as most of
+    her damage coming from her Burst, 4pc Emblem of Severed Fate is her
+    highest personal damage Artifact set. This set can be an option for
+    off-field playstyles or before C6 in teams that don’t gain a lot from
+    Viridescent Venerer.
+  color: 815477
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15020_4.png
+- title: '**4PC Gilded Dreams**'
+  description: >-
+    An option not too far behind for personal damage whilst giving a mix of
+    ATK% and EM. This set excels when using Lynette as a driver for Hyperbloom
+    when built with 3 EM main stats.
+  color: 815477
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15026_4.png
+- title: '**4PC Flower of Paradise Lost**'
+  description: >-
+    An option over Gilded Dreams that grants slightly more Hyperbloom damage
+    in exchange for lower Swirl and Aggravate damage.
+  color: 815477
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15028_4.png
+- title: '**4PC Marechaussee Hunter**'
+  description: >-
+    Due to Lynette’s Skill healing and then slowly draining her HP, she is
+    able to activate the 4pc effect of Marechaussee Hunter, granting her large
+    amounts of CRIT Rate. However, as the set only procs on-field, the stacks
+    will not stay for her Burst’s whole duration unless she is played on-field
+    at C6.
+  color: 815477
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15031_4.png
+- title: '**4PC Desert Pavilion Chronicle**'
+  description: >-
+    A set only recommended at C6, due to providing 40% Normal, Charged and
+    Plunging Attack DMG after hitting an enemy with a Charged Attack. With the
+    2pc effect granting extra DMG%, it is another option Lynette can use to
+    further boost her personal damage.
+  color: 815477
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15027_4.png
+- title: '**4PC Noblesse Oblige**'
+  description: >-
+    If there is not already a Noblesse user on the team, Lynette doesn’t lose
+    too much from running it, as her personal damage isn’t high in most teams.
+    However, it is recommended to use 4pc VV instead for team buffs if there
+    is no other 4pc VV user on the team.
+  color: 815477
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15007_4.png
+- title: '**2PC Anemo / ATK / ER / EM**'
+  description: >-
+    General 2pc options that Lynette can use to boost her personal damage or
+    reach ER requirements.
+  color: 815477
+  footer:
+    text: 'Authored by: sigurd and Leifa'
+    icon_url: >-
+      https://cdn.discordapp.com/avatars/463998487067885600/88f9fa278b0d72e5dbdac8ac8bb99055.png?size=4096
+  thumbnail:
+    url: >-
+      https://media.discordapp.net/attachments/1087300734372020315/1139756683606900826/0cSte3ijdJAAAAAElFTkSuQmCC.png
 buttons:
 - customId: liveInteraction#faq/anemo/lynette/artifacts1
   label: Previous
