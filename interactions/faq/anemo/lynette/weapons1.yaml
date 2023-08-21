@@ -79,6 +79,10 @@ embeds:
     color: 815477
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Mitsurugi.png
+    footer:
+      text: 'Authored by: Emiliabyss'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?size=4096
 
 buttons:
 - customId: liveInteraction#faq/anemo/lynette/weapons2

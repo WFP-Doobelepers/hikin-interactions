@@ -40,6 +40,10 @@ embeds:
         value: 3/5
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_02.png
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
 
 buttons:
 - customId: liveInteraction#faq/anemo/lynette/constellations2
