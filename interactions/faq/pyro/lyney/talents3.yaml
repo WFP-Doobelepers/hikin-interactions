@@ -2,7 +2,7 @@ content: null
 embeds:
   - title: |-
       **Elemental Skill: Bewildering Lights**
-    description: >-
+    description: |-
       *CD : **15s***
       
       Lyney’s Skill heals himself for 20% of his Max HP and deals a single
@@ -10,7 +10,6 @@ embeds:
       has at cast in a fashion similar to Heizou’s Skill. With stacks, his Skill
       becomes a potent AoE nuke, but its 15s cooldown means he can only cast it
       once per rotation. 
-
 
       Lyney’s Skill will additionally detonate any Grin-Malkin Hats that exist
       on-field upon cast. Grin-Malkin Hats that are detonated by Lyney’s Skill
@@ -20,6 +19,10 @@ embeds:
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/1087300734372020315/1139703293338198036/lyney_E.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
         
 buttons:
 - customId: liveInteraction#faq/pyro/lyney/talents2

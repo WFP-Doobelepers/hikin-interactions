@@ -25,6 +25,10 @@ embeds:
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/1087300734372020315/1139703293610836088/lyney_Q.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
 
 buttons:
 - customId: liveInteraction#faq/pyro/lyney/talents3

@@ -4,6 +4,7 @@ embeds:
       __TALENT PRIORITY__
 
       **Normal Attack > Elemental Skill = Elemental Burst**
+    color: 11015743
     image:
       url: >-
         https://cdn.discordapp.com/attachments/1087300734372020315/1139700643129467100/lyney_talents-01.png
@@ -22,6 +23,10 @@ embeds:
       2 rotations, and leveling his Burst talent pulls ahead slightly if
       Bursting every rotation.
     color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
 
 
 buttons:
