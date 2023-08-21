@@ -43,6 +43,10 @@ embeds:
         value: 2.5/5
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_Talent_S_Liney_02.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
 
 buttons:
 - customId: liveInteraction#faq/pyro/lyney/constellations1

@@ -49,8 +49,10 @@ embeds:
       constant Pyro aura on enemies, and are compatible with his Charged Attack
       playstyle, which somewhat limits his options.
     color: 11015743
-
-
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
 
 buttons:
 - customId: liveInteraction#faq/pyro/lyney/teambuilding2

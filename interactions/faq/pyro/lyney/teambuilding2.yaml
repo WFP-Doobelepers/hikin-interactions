@@ -38,6 +38,10 @@ embeds:
       otherwise all four mostly perform similarly. Note that Baizhu extends
       rotations.
     color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
 
 buttons:
 - customId: liveInteraction#faq/pyro/lyney/teambuilding1
