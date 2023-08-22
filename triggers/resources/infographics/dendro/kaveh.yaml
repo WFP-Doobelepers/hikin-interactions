@@ -1,0 +1,4 @@
+interaction: faq/dendro/kaveh/main
+description: "Opens Pretc Test"
+match: ${ TRIGGER_PREFIX }kavehfaq(?:\s|$)
+ignoreCase: true

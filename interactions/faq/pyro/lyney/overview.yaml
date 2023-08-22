@@ -1,0 +1,72 @@
+content: null
+embeds:
+  - title: __CREDITS__
+    color: 11015743
+    fields:
+      - name: 'Lead:'
+        value: <@397825812956446752>
+      - name: 'Author:'
+        value: <@397825812956446752>
+      - name: 'Calculations:'
+        value: <@397825812956446752>
+      - name: 'Framecounts:'
+        value: <@280016643558604800>, <@377496350155079690>
+      - name: 'Consulting:'
+        value: <@280016643558604800>, <@708791985200431174>, <@209617229216612352>
+      - name: 'Content Verification:'
+        value: >-
+          Calculations: <@641127310539620352>
+
+          Writing: <@583951991789584400>, <@94978723341668352>,
+          <@812178562822963210>
+      - name: 'Transcription:'
+        value: <@812178562822963210>, <@366206663533002774>, <@651556217315000360>
+      - name: 'Resources:'
+        value: >-
+          [Lyney Constellation Comparison
+          Sheet](https://docs.google.com/spreadsheets/d/1uP8efjoOr-byYysMaC5pqx0Rhrjso7R_J89RBUbfcZU/edit?usp=sharing)
+
+          [Lyney Weapon Comparison
+          Sheet](https://docs.google.com/spreadsheets/d/1aj7Izl_dyl57V7ky7ICqqu6j1Vg7t_wPW9bpA9fIxMg/edit?usp=sharing)
+
+          [Lyney Artifact Comparison
+          Sheet](https://docs.google.com/spreadsheets/d/1gFM16DECq1BJvEyNmi4kDstCSuRCZGTwl8uperJGOqw/edit?usp=sharing)
+
+          [Lyney Teams
+          Sheet](https://docs.google.com/spreadsheets/d/1c-kQdNuIhk5hON_kL8fmMPqr5Yn7ytBYT2YGbUV1d_U/edit?usp=sharing)
+      - name: DISCLAIMER
+        value: >-
+          *Pre-TC is volatile and, as always, perpetually subject to change
+          until release (and sometimes later!). Please note that these are
+          theoretical suggestions. 
+
+          Everything described in this FAQ is a good faith analysis based on the
+          little information about the character’s kit that we know. Team calcs,
+          additionally, are not established yet, and as with everything in TC,
+          the content in this FAQ should be taken with a grain of salt.*
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1094753710288150778/1139695621217996870/1691794182510.png
+  - title: __OVERVIEW__
+    description: >-
+      Lyney is a Pyro Bow user whose kit revolves around summoning Grin-Malkin
+      Hats with his Charged Attacks or Burst, then subsequently detonating them
+      to trigger high-damage Pyrotechnic Strikes. His damage is primarily
+      single-target, though this can be mitigated by running a powerful grouper
+      or a sub-DPS with AOE damage.
+
+
+      Because he takes up much of his teams’ field time, his teammates are
+      typically characters who buff or supplement his damage in some way while
+      occupying relatively little field time. However, his teams are limited by
+      his Aimed Shot gameplay, making popular options like Xingqiu a hassle to
+      use. Furthermore, his Ascension 4 Talent highly encourages Mono Pyro and
+      other mostly reaction-less teams by greatly rewarding maintaining a Pyro
+      aura on enemies and stacking multiple Pyro teammates.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Liney.png

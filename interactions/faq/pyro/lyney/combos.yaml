@@ -1,0 +1,51 @@
+content: null
+embeds:
+  - title: __COMBOS__
+    description: >-
+      Lyney’s rotations generally will look like the following:
+
+
+      Zhongli hE if using him > Bennett EQ > Setup with offensive supports e.g.
+      Kazuha tEQ > Setup with shielder or defensive supports e.g. Yanfei EQ >
+      Lyney combo (~15s)
+
+
+      or
+
+
+      Zhongli hE if using him > Bennett EQ > Setup with offensive supports e.g.
+      Xiangling EQ > Setup with shielder or defensive supports e.g. Yanfei EQ >
+      Lyney combo > Bennett E > Supports cast E or Lyney CA (~20s)
+    color: 11015743
+  - title: '**General Lyney Combo Notes:**'
+    description: >-
+      - With the exception of with 4pc Shimenawa’s Reminiscence, Lyney wants to
+      cast his Skill at the very end of his combo to maximize stacks. When
+      running 4pc Shime, Lyney wants to cast his Skill at the beginning of his
+      combo or after one Charged Attack instead of at the end of his combo.
+
+
+      - Casting Lyney’s Burst at the start of the combo allows Lyney to obtain
+      Energy in the first rotation, while casting Burst at the end allows it to
+      receive the fully stacked 4pc MH bonus. Players may also cast Lyney’s
+      Burst after two Charged Attacks as a compromise, and to ensure that the
+      4pc VV effect is active during Lyney’s Burst.
+
+
+      - It is recommended that players cancel Lyney’s Burst early so as to not
+      waste time in his Grin-Malkin Cat state.
+
+
+      - If Bursting every other rotation, in rotations during which Lyney does
+      not Burst, insert a Charged Attack where he would otherwise Burst.
+
+
+      - Lyney will usually fire 3-4 Charged Attacks per combo, not including any
+      Charged Attacks he does in place of a Burst. Generally speaking, as long
+      as everything fits into the primary window of buffs, it’s worth slightly
+      extending rotations to get in another Charged Attack.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/if3iynSp3sMVO-2nmEfjS9mdvvraxrgnw4pZl-oAUnY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png

@@ -1,0 +1,26 @@
+content: null
+embeds:
+  - title: __EXTERNAL LINKS__
+    color: 815477
+    fields:
+      - name: Project Amber
+        value: >-
+          [Character
+          Database](https://ambr.top/en/archive/avatar/10000083/lynette)
+      - name: Honey Hunter World
+        value: >-
+          [Character Database and Asset
+          Resources](https://genshin.honeyhunterworld.com/?lang=EN)
+      - name: Genshin Impact JP Twitter
+        value: '[Asset Resources](https://twitter.com/Genshin_7)'
+      - name: Genshin Impact EN Twitter
+        value: '[Asset Resources](https://twitter.com/GenshinImpact)'
+    footer:
+      text: >-
+        Credits to Emiliabyss, sigurd, and Leifa for the Lynette FAQ! || WFP
+        Theorycrafting
+      icon_url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1094584155267932222/GUTAAAAo5_-_mr1_thonk.png?width=662&height=662
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1087300734372020315/1139787649087983626/image.png

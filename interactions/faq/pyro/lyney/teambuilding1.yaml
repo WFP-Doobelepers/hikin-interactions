@@ -1,0 +1,61 @@
+---
+content: null
+embeds:
+  - title: __TEAM BUILDING__
+    description: '### **Lyney | Bennett | Defensive Flex | Offensive Flex**'
+    color: 11015743
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139722998824325180/vRLXOkm2ZQAAAAAASUVORK5CYII.png?width=1025&height=236
+  - description: >-
+      Thanks to his HP consumption mechanics, Lyney wants at least one healer to
+      keep him alive and allow him to build Prop Surplus stacks and activate his
+      A1. Bennett provides this, but additionally provides a massive ATK boost
+      and 4pc Noblesse Oblige to greatly improve Lyney’s damage. Furthermore, as
+      a Pyro unit, Bennett counts towards stacks on Lyney’s A4 and signature
+      weapon. To top it all off, he helps generate Pyro particles to fund Lyney
+      and other energy-hungry Pyro units. Because Bennett is able to provide so
+      much utility in just one slot, it is highly recommended to run him
+      alongside Lyney in every one of Lyney’s teams. Players may opt to replace
+      him with another healer, but will do so to much worse effect. 
+
+      It is recommended to run a healing-focused build on Bennett (HP%/HB
+      artifacts) in Lyney teams, in order to ensure that Lyney receives
+      sufficient healing to stay above the 60% HP threshold. The damage lost on
+      Bennett from building for healing instead of damage is not significant in
+      Lyney teams.
+
+
+      Bennett aside, because Lyney’s Charged Attack playstyle makes him highly
+      susceptible to interruption as well as his damage suffering greatly from
+      being interrupted, Lyney appreciates a shielder or character who can
+      provide interruption resistance. 
+
+
+      Lastly, Lyney wants a more offensively oriented unit in his team to buff
+      and/or supplement his damage. Generally speaking, teams that focus on
+      buffing Lyney’s personal damage are preferred in single-target scenarios,
+      where Lyney excels. Conversely, in multi-target situations, it is more
+      beneficial to bring Venti or a unit who can deal AoE damage to compensate
+      for Lyney’s relatively low amount of AoE damage. 
+
+
+      While not recommended, if players feel confident in their ability to play
+      Lyney without a shielder, they can opt to bring a second offensive flex
+      unit instead. 
+
+
+      It is essential that Lyney’s teammates do not interfere with maintaining a
+      constant Pyro aura on enemies, and are compatible with his Charged Attack
+      playstyle, which somewhat limits his options.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

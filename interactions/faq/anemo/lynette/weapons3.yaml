@@ -1,0 +1,51 @@
+content: null
+embeds:
+  - title: |-
+      __Recommended for Hyperbloom Trigger__
+
+      **Freedom-Sworn**
+    description: >-
+      The obvious 5-star choice for an EM sword-wielder. It provides a ton of
+      Elemental Mastery while also buffing the team. The bonus to her Normal,
+      Charged, and Plunging Attack damage isn’t a significant boost, but it is
+      well-appreciated.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Widsith.png
+  - title: '**Xiphos Moonlight R3+**'
+    description: >-
+      If you want something that performs similarly to Freedom Sworn but don’t
+      want to wish for a 5-star weapon, Xiphos Moonlight is a great choice. It
+      also acts as a pseudo-Favonius weapon by increasing the team’s’ Energy
+      Recharge. R5 has no impact on personal damage performance compared to R3,
+      but the Energy Recharge buff to the party will be greater at higher
+      refinements.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Pleroma.png
+  - title: '**Iron Sting R5**'
+    description: >-
+      Best craftable for her personal damage while also outranking other
+      options, including other 5-star weapons. There’s not much to say about
+      this, other than it is a solid stat stick.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Exotic.png
+  - title: '**Sapwood Blade R5**'
+    description: >-
+      This craftable does less damage, but can offer a leaf that buffs Elemental
+      Mastery. This is probably better on support builds, but is still worth
+      mentioning.
+    color: 815477
+    footer:
+      text: 'Authored by: Emiliabyss'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?size=4096
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Arakalari.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/weapons2
+  label: An3mo Weapons
+  style: PRIMARY
+  emoji: "◀️"

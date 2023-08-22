@@ -1,0 +1,64 @@
+content: null
+embeds:
+  - title: |-
+      __WEAPONS__
+
+      __Recommended__
+
+      **The First Great Magic**
+    description: >-
+      Tailor-made for Lyney, TFGM provides CRIT DMG% and CA DMG%, as well as
+      ATK% that increases with each additional Pyro unit in Lyney’s team. TFGM
+      is his BiS even in teams with only 2 Pyro units (including Lyney himself).
+      It is about 7% better than the next best option when fully stacked, and 3%
+      better with only 2 stacks.
+    color: 11015743
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Pledge.png
+  - title: '**Aqua Simulacra / Thundering Pulse**'
+    description: >-
+      Aqua’s passive is slightly dubious for Lyney given that his Charged Attack
+      playstyle allows him to maintain distance from enemies, and TPulse’s
+      stacking passive is entirely useless, but they are nonetheless his
+      strongest weapons after TFGM just by being 5-star bows with a CRIT DMG%
+      secondary stat. Aqua pulls ahead slightly if its passive is maintained;
+      otherwise, TPulse is slightly stronger.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://cdn.discordapp.com/attachments/1087300734372020315/1139719796225736704/H2wAAAAAElFTkSuQmCC.png
+  - title: '**Skyward Harp**'
+    description: >-
+      Despite Lyney potentially overcapping on CR because of Harp’s CR secondary
+      stat, its 5-star stats and CRIT DMG in its passive allows it to be a
+      strong option nonetheless.
+    color: 11015743
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Dvalin.png
+  - title: '**Song of Stillness**'
+    description: >-
+      The recommended F2P weapon of choice. SoS’s ceiling is slightly lower than
+      Prototype Crescent when accounting for refines, but it is more reliable
+      than its craftable counterpart.
+    color: 11015743
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Vorpal.png
+  - title: '**Prototype Crescent**'
+    description: >-
+      An alternative to SoS but only if players can reliably trigger its
+      passive. At max refinement and with its passive active, PC has the highest
+      ceiling of any 4-star weapon for Lyney (not by much), but it suffers
+      massively without its passive.
+    color: 11015743
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Proto.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/if3iynSp3sMVO-2nmEfjS9mdvvraxrgnw4pZl-oAUnY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/weapons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

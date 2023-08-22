@@ -1,0 +1,39 @@
+content: null
+embeds:
+  - title: '**4PC Retracing Bolide / Wanderer’s Troupe / Desert Pavilion’s Chronicle**'
+    description: >-
+      Other decent, consistent alternatives to 4pc Lavawalker, but only
+      affecting Lyney’s Charged Attacks. Retracing Bolide requires good shield
+      uptime.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1140936508073836594/AtNPxJDMZGNwAAAAAElFTkSuQmCC.png
+  - title: '**4PC Shimenawa’s Reminiscence**'
+    description: >-
+      4pc Shime should only be used in teams where Lyney casts his Burst once
+      per two rotations. Otherwise, Lyney’s ER requirement will increase to the
+      point where 4pc Shime becomes a DPS loss. In the situations where it does
+      work, 4pc Shime is slightly stronger than 4pc Lavawalker, although still
+      markedly weaker than 4pc MH.
+    color: 11015743
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15019_4.png
+  - title: '**4PC Vermillion Hereafter**'
+    description: >-
+      In direct opposition to 4pc Shime, 4pc VH should only be used in teams
+      where Lyney casts his Burst every rotation. In the situations where it
+      works, it can be about on par with 4pc Lavawalker.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/if3iynSp3sMVO-2nmEfjS9mdvvraxrgnw4pZl-oAUnY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15023_4.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/artifacts1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

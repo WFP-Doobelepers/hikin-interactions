@@ -1,0 +1,36 @@
+content: null
+embeds:
+  - title: |-
+      __TALENT PRIORITY__
+
+      **Normal Attack > Elemental Skill = Elemental Burst**
+    color: 11015743
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1087300734372020315/1139700643129467100/lyney_talents-01.png
+  - description: >-
+      ## __Analysis__
+
+
+      - All Pyrotechnic Strike damage scales off of Lyney’s Normal Attack
+      talent, and his Charged Attacks themselves do a significant amount of
+      damage, so maxing Lyney’s Normal Attack talent is first priority.
+
+
+      - After his NA talent, leveling either of his Skill or Burst talents
+      provide similar returns, so they should be leveled in tandem. Leveling
+      Lyney’s Skill talent is slightly more valuable if Bursting only once every
+      2 rotations, and leveling his Burst talent pulls ahead slightly if
+      Bursting every rotation.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,59 @@
+content: null
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - Whimsical Wonders**
+    description: >-
+      > *Lyney can have 2 Grin-Malkin Hats present at once. Additionally, Prop
+      Arrows will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of
+      Prop Surplus. This effect can occur once every 15s.*
+
+
+      In practice, C1 allows Lyney to detonate one additional Grin-Malkin Hat
+      per rotation. C1 gains little value in teams where Lyney does not max out
+      Prop Surplus stacks naturally, but ultimately is a relatively modest
+      increase in damage.
+    color: 11015743
+    fields:
+      - name: '*DPS Increase from C0:*'
+        value: 6.7%
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139706386335399977/UI_Talent_S_Liney_01.png
+  - title: '**Constellation 2 - Locquacious Cajoling**'
+    description: >-
+      > *When Lyney is on the field, he will gain a stack of Crisp Focus every
+      2s. This will increase his CRIT DMG by 20%. Max 3 stacks. This effect will
+      be canceled when Lyney leaves the field.*
+
+
+      C2 is a relatively straightforward stacking buff to Lyney’s CRIT DMG.
+      Thanks to buffs from his teammates, his BiS artifact set, and his A4
+      Talent, among other things, Lyney tends to be oversaturated in all manner
+      of offensive stats. However, Lyney can only obtain CRIT DMG from artifact
+      stats and his weapon, making it a little more difficult to come by than
+      most. As a result, C2 provides a substantial boost to Lyney’s damage.
+    color: 11015743
+    fields:
+      - name: '*DPS Increase from C0:*'
+        value: 18.6%
+      - name: '*DPS Increase from C1:*'
+        value: 11.1%
+      - name: '*Rating:*'
+        value: 2/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139706386578677872/UI_Talent_S_Liney_03.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

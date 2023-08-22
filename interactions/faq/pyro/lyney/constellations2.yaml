@@ -1,0 +1,59 @@
+content: null
+embeds:
+  - title: '**Constellation 3 - Prestidigitation**'
+    description: >-
+      > *Increases the Level of Normal Attack: Card Force Translocation by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      The first ever Constellation to increase Normal Attack Talent levels,
+      Lyney’s C3 provides a strong boost to all of his Charged Attack and
+      Pyrotechnic Strike damage. C3 is Lyney’s 2nd strongest Constellation for
+      personal damage, falling behind only C6.
+    color: 11015743
+    fields:
+      - name: '*DPS Increase from C0:*'
+        value: 33.2%
+      - name: '*DPS Increase from C2:*'
+        value: 12.3%
+      - name: '*Rating:*'
+        value: 2/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139706386800988272/UI_Talent_U_Liney_01.png
+  - title: '**Constellation 4 - Well-Versed, Well-Rehearsed**'
+    description: >-
+      > *After an opponent is hit by Lyney's Pyro Charged Attack, this
+      opponent's Pyro RES will be decreased by 25% for 6s.*
+
+
+      C4 is a solid increase to all of Lyney’s damage in all teams, but its
+      value increases further if running a character in Lyney’s team who can
+      additionally take advantage of the Pyro RES shred it provides, most
+      notably Xiangling. With Xiangling in his team, C4 is a 9.4% DPS increase
+      in team damage over C3.
+    color: 11015743
+    fields:
+      - name: '*DPS Increase from C0:*'
+        value: 45.8%
+      - name: '*DPS Increase from C3:*'
+        value: 9.5%
+      - name: '*Rating:*'
+        value: 2.5/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liney_02.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/lyney/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

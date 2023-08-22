@@ -1,0 +1,49 @@
+content: null
+embeds:
+  - title: |-
+      __Alternatives__
+
+      **Amos' Bow**
+    description: >-
+      Amos’ Bow is a decent choice for Lyney: stronger than 4-star options, but
+      not exceptionally so.
+    color: 11015743
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Amos.png
+  - title: '**Polar Star / Hunter’s Path**'
+    description: >-
+      The 5-star CR bows are strong assuming players are not running 4pc MH on
+      Lyney, but that assumes players are, in fact, not running 4pc MH. In the
+      recommended scenario in which Lyney is using 4pc MH, the 5-star CR bows
+      suffer greatly as Lyney quickly overcaps on CR.
+    color: 11015743
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1140939635711803462/qwAAAAAElFTkSuQmCC.png
+  - title: '**Blackcliff Warbow**'
+    description: >-
+      Lyney is unlikely to get stacks on Blackcliff in most situations given
+      that his single-target focus means his best use case is bossing. Without
+      stacks, Blackcliff is a very boring but decent option. Not worth buying
+      for Lyney.
+    color: 11015743
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Blackrock.png
+  - title: '**Scion of the Blazing Sun**'
+    description: >-
+      The new BP bow has a useful passive, but suffers the same problem of
+      overcapping CR as 5-star CR bows do.  Players might find themselves better
+      off just using Song of Stillness.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/if3iynSp3sMVO-2nmEfjS9mdvvraxrgnw4pZl-oAUnY/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Bow_Gurabad.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/weapons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

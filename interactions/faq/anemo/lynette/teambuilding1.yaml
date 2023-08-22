@@ -1,0 +1,38 @@
+content: null
+embeds:
+  - title: __TEAM BUILDING__
+    description: >-
+      At C0, Lynette leans much more to a general Anemo slot in for teams,
+      especially against Pneuma-aligned enemies and mechanics. Her Skill gives
+      short but fast mobility whilst her Burst gives fast, off-field Anemo DMG.
+      With constellations, she gains grouping, increased Absorption application,
+      an extra Skill charge and an Anemo Infusion, granting her more utility and
+      flexibility.
+
+
+      However, due to her skill being Single-Target and having a tendency to
+      miss both the initial hit and Ousia follow-up, she may struggle to
+      actually annihilate Arkhe mechanics. 
+
+
+      Lynette’s field time varies depending on your build and team:
+
+      - **General Use**: 2-4s
+
+      - **An3mo**: 6-7s; when Normal Attacking with infusion, N2C is best for
+      damage.
+
+      - **Hyperbloom**: 6-7s+6-7s or 12-13s (whether you infuse two separate
+      times, or use all your field time at once); when Normal Attacking with
+      infusion, N3D is best for Swirl count.
+    color: 815477
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?size=4096
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

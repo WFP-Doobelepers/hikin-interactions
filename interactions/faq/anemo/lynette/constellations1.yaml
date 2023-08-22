@@ -1,0 +1,52 @@
+content: null
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - A Cold Blade Like a Shadow**
+    description: >-
+      > *When Enigmatic Feint's Enigma Thrust hits an opponent with Shadowsign,
+      a vortex will be created at that opponent's position that will pull nearby
+      opponents in.*
+
+
+      Grants Lynette some extra utility in the form of grouping. The grouping is
+      about the same size as Sucrose/Faruzan’s Skill grouping whilst having the
+      same pull speed as Kazuha’s Skill. The grouping also lasts long enough to
+      actually pull light enemies together, making it quite reliable.
+      Unfortunately, it only activates upon hitting an opponent with her Hold
+      Skill rather than Tap or Hold, and with her Skill’s relatively easy chance
+      to miss even when locked on, you’ll need to be careful when using it.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 2.5/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_01.png
+  - title: '**Constellation 2 - Endless Mysteries**'
+    description: >-
+      > *Whenever the Bogglecat Box summoned by Magic Trick: Astonishing Shift
+      fires a Vivid Shot, it will fire an extra Vivid Shot.*
+
+
+      A rather nice Constellation, increasing the Elemental Application from her
+      Vivid Shots to once every wave rather than once every other wave. This
+      effectively doubles the amount of reactions from her Elemental Burst and
+      can be especially useful in Hyperbloom teams upon swirling Electro,
+      allowing for easy off-field Hyperbloom triggers.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 3/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_02.png
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,70 @@
+---
+content:
+embeds:
+- title: A famed Fontainian magician who possesses great stage presence as well as
+    gift of the gab. Audiences are enthralled by his exquisite skills, and they hang
+    on to his every clever word.
+  color: 11015743
+  fields:
+  - name: Lyney Constellation Comparison Sheet by kolvii
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1uP8efjoOr-byYysMaC5pqx0Rhrjso7R_J89RBUbfcZU/edit?usp=sharing)"
+  - name: Lyney Weapon Comparison Sheet by kolvii
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1aj7Izl_dyl57V7ky7ICqqu6j1Vg7t_wPW9bpA9fIxMg/edit?usp=sharing)"
+  - name: Lyney Artifact Comparison Sheet by kolvii
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1gFM16DECq1BJvEyNmi4kDstCSuRCZGTwl8uperJGOqw/edit?usp=sharing)"
+  - name: Lyney Teams Sheet by kolvii
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1c-kQdNuIhk5hON_kL8fmMPqr5Yn7ytBYT2YGbUV1d_U/edit?usp=sharing)"
+  author:
+    name: Lyney FAQ
+    icon_url: https://media.discordapp.net/attachments/1139854891729289246/1139863909222842378/liney_084_side_icon.png
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1139859625156546670/liney_084_gacha_splash.png?width=736&height=468
+
+options:
+- label: Overview
+  value: faq/pyro/lyney/overview
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Talents
+  value: faq/pyro/lyney/talents1
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Constellations
+  value: faq/pyro/lyney/constellations1
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Combos
+  value: faq/pyro/lyney/combos
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: ER Requirements
+  value: faq/pyro/lyney/er
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Artifacts
+  value: faq/pyro/lyney/artifacts1
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Weapons
+  value: faq/pyro/lyney/weapons1
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: Teambuilding
+  value: faq/pyro/lyney/teambuilding1
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+- label: External Links
+  value: faq/pyro/lyney/external
+  description: WFP resources for Lyney FAQ.
+  emoji: ${ EMOJIS.PYRO_BOX }
+
+buttons:
+- label: WFP FAQ
+  url: https://wangshengfp.org/faq/lyney
+  emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
+
+- label: KQM Guide
+  url: https://keqingmains.com/lyney/
+  emoji: :logont:945530991240421386
+  style: LINK

@@ -1,0 +1,91 @@
+content: null
+embeds:
+  - title: __WEAPONS__
+    description: >-
+      Due to Lynette’s three potential playstyles, it’s important to clarify
+      that the rankings will be vastly different depending on your ideal
+      playstyle. 
+
+
+      General-Use playstyles require Energy Recharge weapons in order to meet
+      Energy requirements. CRIT weapons cannot reach 220+% in KQMC standards,
+      which severely limits your options.
+
+
+      An3mo playstyles as an on-field DPS prefer CRIT weapons, due to her much
+      lower Energy requirements.
+
+
+      Hyperbloom playstyles prefer Energy Recharge or Elemental Mastery weapons,
+      since she will be triggering the Hyperbloom reactions. Keep in mind that
+      Favonius Sword overshoots her energy needs in this team.
+    color: 815477
+  - title: |-
+      __Recommended for General Use (C0+; National, Freeze, etc.)__
+
+      **Favonius Sword**
+    description: >-
+      The best all-around weapon for Lynette, decreasing her own as well as her
+      teammates’ Energy requirements. Do keep in mind that without building CRIT
+      Rate, you might find some difficulty in triggering its passive
+      consistently.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Zephyrus.png
+  - title: '**Sapwood Blade**'
+    description: >-
+      A solid craftable option that can boost a character’s Elemental Mastery
+      for a short time. Only opt for this over Favonius Sword  when energy needs
+      are quite comfortable across the team, but this is still a potent option
+      in some circumstances.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Arakalari.png
+  - title: '**Sacrificial Sword**'
+    description: >-
+      Offers less general batterying than Favonius Sword in exchange for more
+      Anemo particles created. If the trigger on the passive occurs, it solves
+      100% of Lynette’s Energy Recharge requirements, but since it maxes out at
+      an 80% chance at R5, this is not guaranteed. It can also situationally add
+      time to Lynette’s rotation.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Fossil.png
+  - title: '**Fleuve Cendre Ferryman**'
+    description: >-
+      This weapon is almost purely an Energy Recharge stick, but it solves
+      almost all of Lynette’s Energy requirements.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Machination.png
+  - title: '**Amenoma Kageuchi**'
+    description: >-
+      Another sword that mainly exists to provide Energy. It has no other
+      special uses.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Bakufu.png
+  - title: '**Festering Desire R5**'
+    description: >-
+      Energy Recharge stick. The extra CRIT Rate on Skill uses and Skill DMG
+      isn’t much of a boon.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Magnum.png
+  - title: '**Skyrider Sword R5**'
+    description: >-
+      Not to be confused with the 5-Star Skyward Blade, though the two perform
+      similarly. This is the barebones 3-star option.
+    color: 815477
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Mitsurugi.png
+    footer:
+      text: 'Authored by: Emiliabyss'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?size=4096
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/weapons2
+  label: An3mo Weapons
+  style: PRIMARY
+  emoji: "▶️"

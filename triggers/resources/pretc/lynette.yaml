@@ -1,0 +1,4 @@
+interaction: faq/anemo/lynette/main
+description: "Opens Pretc Test"
+match: ${ TRIGGER_PREFIX }lynettefaq(?:\s|$)
+ignoreCase: true

@@ -1,0 +1,51 @@
+content: null
+embeds:
+  - title: '**Constellation 3 - Cognition-Inverting Gaze**'
+    description: >-
+      > *Increases the Level of Magic Trick: Astonishing Shift by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      Three extra levels to Lynette’s Skill, granting her slightly more damage.
+      Her damage contribution, however, isn’t massive to begin with.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Linette_01.png
+  - title: '**Constellation 4 - Tacit Coordination**'
+    description: >-
+      > *Increases Enigmatic Feint's charges by 1.*
+
+
+      Lynette makes quite good use of an extra Skill charge, allowing her to
+      frontload Anemo Particles, doubles her grouping potential and lets her fit
+      20-second rotations, where she alternates between 1 and 2 Skill casts per
+      rotation. Keep in mind, her Ousia-aligned Arkhe Attack only triggers once
+      every 10 seconds, meaning she will only send out one Arkhe Attack if you
+      use two Skills back to back. In 20s rotations, she essentially gains one
+      extra skill use every *other* rotation. In 25s rotations, she can maintain
+      her Anemo infusion for over 10s.
+    color: 815477
+    fields:
+      - name: '*Rating:*'
+        value: 3/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Linette_03.png
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/lynette/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,54 @@
+embeds:
+  - title: __Teammates__
+    description: |-
+      ### <:flex:1094549077280169984> **Defensive Flex Options:**
+
+      **Zhongli**: Zhongli is a very strong candidate for the defensive flex
+      position, providing a hefty shield that can maintain full uptime and
+      syncing with Lyney’s 15s cooldowns. He even gains an offensive edge with
+      his universal 20% RES shred. He can hold 4pc Tenacity of the Millelith or
+      4pc Archaic Petra, although Archaic Petra may be inconvenient to use. 
+
+      **Yanfei**: Yanfei’s C4 makes her a strong Pyro shielder that Lyney can
+      make use of. Being Pyro allows Yanfei to contribute to stacks on Lyney’s
+      A4 and signature weapon. Furthermore, if Yanfei can obtain enough ER
+      without Prototype Amber or an ER weapon, and players are willing to
+      sacrifice shield strength for offensive power, she can hold Thrilling
+      Tales of Dragon Slayers to buff Lyney. However, it is worth noting that
+      Yanfei’s C4 shield being tied to her Burst forces rotations to be extended
+      to upwards of 20s.
+
+      **Dehya**: Even though Dehya isn’t a shielder, her A1 talent allows her to
+      provide the interruption resistance Lyney wants, and her damage mitigation
+      similarly increases Lyney’s survivability. She can also hold 4pc Tenacity
+      of the Millelith to buff Lyney. Because she is a Pyro unit, she can also
+      contribute to stacks on Lyney’s A4 and signature weapon. However, she
+      forces rotations to be extended to a minimum of 20s and has poor uptime.
+
+      **Xinyan**: With C2, Xinyan can build high ER (around 230%) to Burst every
+      rotation to fit into 15s rotations, guarantee a Favonius Greatsword proc,
+      and hold 4pc Tenacity of the Millelith. As a Pyro unit, she can also
+      contribute to stacks on Lyney’s A4 and signature weapon. However, without C2, she loses the ability to guarantee a Level 3 shield
+      and the benefits that come with it, and extends rotations with her 18s
+      Skill cooldown.
+
+      **Layla / Kirara / Diona / Baizhu**: All viable shielders, none of whom
+      are especially notable in Lyney teams. Layla can provide some additional
+      chip damage, while Diona and Baizhu provide a little extra healing, but
+      otherwise all four mostly perform similarly. Note that Baizhu extends
+      rotations.
+    color: 11015743
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/lyney/teambuilding3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

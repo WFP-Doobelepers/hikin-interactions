@@ -1,0 +1,79 @@
+---
+content:
+embeds:
+  - title: '**An3mo**'
+    description: >-
+      ### **Lynette | Faruzan | Anemo | Flex**
+
+      Due to Lynette being an Anemo character that generally builds for ATK and
+      CRIT over EM stats, she finds a nice place in An3mo. Bennett is highly
+      recommended for the flex slot of this team due to the large attack buff he
+      brings on top of general survivability. However, he must be C5 or lower,
+      due to Lynette’s infusion being swirled away by the Pyro Infusion granted
+      by his Burst. C6 Faruzan is also another large increase, lowering her and
+      the team's ER requirements whilst also dealing good off-field damage,
+      allowing C6 Lynette or another Anemo character to take the field.
+
+
+      __**Teammates**__
+
+
+      <:anemo:1094545726748508250> **Anemo options:** Kazuha / Venti / Heizou /
+      Sucrose
+
+
+      <:flex:1094549077280169984> **Flex options:** Bennett C5 / Zhongli
+    color: 815477
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139785676200624138/wOXbDMnJhNy6wAAAABJRU5ErkJggg.png?width=1025&height=236
+  - title: '**Hyperbloom**'
+    description: >-
+      ### **Lynette C6 | Electro | Hydro | Dendro**
+
+      With Lynette’s C6 granting an Anemo Infusion, she is able to drive
+      on-field in Hyperbloom teams, constantly swirling Electro with her
+      Elemental Burst and Normal Attacks to trigger Aggravate and Hyperblooms.
+      Although Electro is last in her Burst Absorption priority, it grants more
+      Hyperblooms than a Hydro Absorption due to characters like Xingqiu and
+      Yelan having high enough Hydro Application to wipe Quicken Auras. Nahida
+      and Baizhu are options, but both come with their own detriments that make
+      them worth reconsidering. First, Nahida’s 1.5U Dendro application on her
+      Skill, whilst also applying on the triggering of reactions can remove
+      Electro Auras from enemies. This interferes with Swirl reactions to
+      consistently trigger Hyperblooms. Second, Baizhu’s application may be good
+      enough for Quicken teams, but cannot generate sufficient Dendro Cores as
+      the sole Dendro applicator in Hyperbloom. Yaoyao is an alternative if
+      players need a Dendro healer but performs better in AoE scenarios compared
+      to Single-Target due to the random targeting on her Skill. Kuki is another
+      viable option due to consolidating both healing and great Hyperbloom
+      triggers, but leads to Lynette feeling out of place, not getting many
+      Swirls or Hyperblooms.
+
+
+      __**Teammates**__
+
+
+      <:electro:1094545575992623115> **Electro options:** Fischl / Beidou / Yae
+      / Kuki
+
+
+      <:hydro:1094545501493403709> **Hydro options:** Kokomi / Xingqiu / Yelan
+
+
+      <:dendro:1094441547170316359> **Dendro options:** Nahida / Baizhu / Collei
+      / Dendro Traveler / Yaoyao
+    color: 815477
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?size=4096
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1087300734372020315/1139786153688580176/QAAAABJRU5ErkJggg.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/lynette/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

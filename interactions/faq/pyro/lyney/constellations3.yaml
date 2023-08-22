@@ -1,0 +1,59 @@
+content: null
+embeds:
+  - title: '**Constellation 5 - To Pierce Enigmas**'
+    description: >-
+      > *Increases the Level of Wondrous Trick: Miracle Parade by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      C5 is a mostly negligible damage increase, especially in teams where Lyney
+      only Bursts once every two rotations.
+    color: 11015743
+    fields:
+      - name: '*DPS Increase from C0:*'
+        value: 48.1%
+      - name: '*DPS Increase from C4:*'
+        value: 1.5%
+      - name: '*Rating:*'
+        value: 0.5/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139706387241377953/UI_Talent_U_Liney_02.png
+  - title: '**Constellation 6 - Guarded Smile**'
+    description: >-
+      > *When Lyney fires a Prop Arrow, he will fire a Pyrotechnic Strike:
+      Reprised that will deal 80% of a Pyrotechnic Strike's DMG. This DMG is
+      considered Charged Attack DMG.*
+
+
+      Lyney’s C6 is his best Constellation, with the additional attack on every
+      Charged Attack being a relatively straightforward but significant boost to
+      Lyney’s damage.
+
+
+      Overall, Lyney’s Constellations increase his damage while changing little
+      about his playstyle. It is worth noting that teams that focus on directly
+      buffing Lyney’s damage benefit the most from his Constellations, since
+      they further increase the damage gain from each Constellation.
+    color: 11015743
+    fields:
+      - name: '*DPS Increase from C0:*'
+        value: 96.9%
+      - name: '*DPS Increase from C5:*'
+        value: 33.0%
+      - name: '*Rating:*'
+        value: 3.5/5
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/88e0796fc8eabdbd166099e7069aad32.png?size=4096
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1139706387455299674/UI_Talent_S_Liney_04.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/lyney/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
