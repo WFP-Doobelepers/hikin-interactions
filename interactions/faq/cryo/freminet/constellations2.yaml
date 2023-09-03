@@ -1,6 +1,6 @@
 content: null
 embeds:
-- title: "**Constellation 3 - Song of the Eddies and Bleached Sands**"
+  - title: "**Constellation 3 - Song of the Eddies and Bleached Sands**"
     description: |-
       > *Increases the Level of Normal Attack: Flowing Eddies by 3.
       > Maximum upgrade level is 15.*
@@ -46,11 +46,11 @@ embeds:
       icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
 
 buttons:
-- customId: liveInteraction#faq/cryo/freminet/constellations1
-  label: Previous
-  style: PRIMARY
-  emoji: "◀️"
-- customId: liveInteraction#faq/cryo/freminet/constellations3
-  label: Next
-  style: PRIMARY
-  emoji: "▶️"
+  - customId: liveInteraction#faq/cryo/freminet/constellations1
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"
+  - customId: liveInteraction#faq/cryo/freminet/constellations3
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"
