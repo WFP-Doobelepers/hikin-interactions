@@ -11,9 +11,8 @@ embeds:
     description: |-
       ## __Analysis__
       - Freminet’s Skill comprises the majority of his damage, and should be the first leveling priority. Normal Attacks are mostly used to increase his Skill’s Shattering Pressure damage, but because they are interwoven so often between Skill uses, they end up comprising a significant amount of his damage. Freminet’s Burst is solely used for its Subnautical Hunter status, which does not improve with Talent levels.
-    color: 4085111
     footer:
-      text: 'Authored by: teacupp.co'
+      text: "Authored by: teacupp.co"
       icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
 
 buttons:
