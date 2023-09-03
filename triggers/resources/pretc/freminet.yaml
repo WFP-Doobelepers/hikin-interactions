@@ -1,0 +1,4 @@
+interaction: faq/cryo/freminet/main
+description: "Opens Pretc Test"
+match: ${ TRIGGER_PREFIX }freminetfaq(?:\s|$)
+ignoreCase: true
