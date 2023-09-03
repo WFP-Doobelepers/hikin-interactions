@@ -23,12 +23,12 @@ embeds:
       Flame and Blizzard Strayer domain for him.\n\n**Substats:** ER (until requirement)
       > CRIT%> ATK%"
     color: 4085111
-  footer:
-    text: "Authored by: teacupp.co"
-    icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+    footer:
+      text: "Authored by: teacupp.co"
+      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
 
 buttons:
-- customId: liveInteraction#faq/cryo/freminet/artifacts2
-  label: Next
-  style: PRIMARY
-  emoji: "▶️"
+  - customId: liveInteraction#faq/cryo/freminet/artifacts2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"
