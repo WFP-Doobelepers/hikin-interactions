@@ -1,0 +1,60 @@
+---
+content:
+embeds:
+- title: A reserved young man who is well-versed in diving. Beneath his distant, icy
+    demeanor lies a pure heart bereft of all flaws.
+  color: 4085111
+  fields:
+  - name: Freminet Mastersheet by .athene., snowclipsed, and teacupp.co
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1_hF11-NbyqKxUpVA89oYiCJNZRORp3PX5GHPpty3cVg/edit?usp=sharing)"
+  - name: Freminet Frames Mastersheet by sirvaughan
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/13ZWGMSfBH-Imik1kYNSJbkvVIQRafvSyyTfbaH_Nj2E/edit?usp=sharing)"
+  author:
+    name: Freminet FAQ
+    icon_url: https://media.discordapp.net/attachments/1139854891729289246/1139863909684228156/freminet_085_side_icon.png
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1139859950835879987/freminet_085_gacha_splash.png?width=562&height=467
+
+options:
+- label: Overview
+  value: faq/cryo/freminet/overview
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Talents
+  value: faq/cryo/freminet/talents1
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Constellations
+  value: faq/cryo/freminet/constellations1
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Combos
+  value: faq/cryo/freminet/combos
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: ER Requirements
+  value: faq/cryo/freminet/er
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Artifacts
+  value: faq/cryo/freminet/artifacts1
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Weapons
+  value: faq/cryo/freminet/weapons1
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Teambuilding
+  value: faq/cryo/freminet/teambuilding1
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: External Links
+  value: faq/cryo/freminet/external
+  description: WFP resources for Freminet FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+buttons:
+- label: WFP FAQ
+  url: https://wangshengfp.org/faq/freminet
+  emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK

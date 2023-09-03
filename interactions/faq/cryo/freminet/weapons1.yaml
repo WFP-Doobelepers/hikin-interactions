@@ -1,0 +1,33 @@
+---
+content:
+embeds:
+  - title: |-
+      __WEAPONS__
+
+      __**Recommended**__
+
+      **Skyward Pride**
+    description:
+      General BiS for Physical Freminet before C2 — provides ER, DMG% increase,
+      and 8 Physical damage instances that also get buffed by Superconduct.
+    color: 4085111
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Dvalin.png
+  - title: "**Serpent Spine**"
+    description:
+      A Battle Pass-locked weapon that is the general BiS for the Cryo playstyle,
+      and serves as a CRIT stat stick for both Physical and Cryo playstyles. If you
+      can maintain stacks even with the long field time, the damage output can even
+      outclass some 5* options.
+    color: 4085111
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Kione.png
+    footer:
+      text: "Authored by: snowy"
+      icon_url: https://images-ext-2.discordapp.net/external/KZcZa90nR7GUMgO6A_HmxuOHvu0tr8ryI9f9kbBIiwA/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/5624783c8c938c4cbea83b3358db98e3.png?width=468&height=468
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/weapons2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

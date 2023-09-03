@@ -1,0 +1,16 @@
+---
+content:
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: |-
+      All values below assume a 21-second rotation with one Favonius proc.
+
+      Each additional Favonius proc lowers the ER requirement by ~10 – 20%. Freminet’s C2 reduces ER by  ~ 20% for the Cryo playstyle and ~25% for the Physical playstyle
+
+      Energy requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge calculator linked [here](https://docs.google.com/spreadsheets/d/1Yck2LLhSXIoPfFhjjSDaDlrs_Cee8K_ngTvVBiXFaA8/edit#gid=981902297).
+    color: 4085111
+    footer:
+      text: "Authored by: snowy"
+      icon_url: https://images-ext-2.discordapp.net/external/KZcZa90nR7GUMgO6A_HmxuOHvu0tr8ryI9f9kbBIiwA/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/5624783c8c938c4cbea83b3358db98e3.png?width=468&height=468
+    image:
+      url: https://cdn.discordapp.com/attachments/1139854891729289246/1146807789675630713/image.png
