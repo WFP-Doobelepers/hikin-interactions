@@ -1,0 +1,24 @@
+---
+content:
+embeds:
+  - title: __**Freminet vs Eula**__
+    description: |-
+      Both Freminet and Eula are Cryo Claymore units and have kits that lean towards Physical damage; despite that, they still have some key differences you may want to consider.
+
+      ### <:eula:1139837244463648848> Eula:
+      - Being a 5-star unit, Eula has higher base stats and a higher potential damage output. However, she is more difficult to obtain due to her being a limited 5-star character.
+      - Most of Eula’s DPS comes from her powerful, backloaded Burst.
+      - Eula only has a single viable build that focuses on maximizing her Physical damage.
+      - Eula’s optimal combos may be harder to remember and execute, especially if you want to maximize her Burst damage.
+      - Eula’s teams mainly need an Electro unit to trigger Superconduct and Cryo batteries/buffers.
+
+      ### <:freminet:1139837196531142766> Freminet:
+      - Freminet has lower base stats as a 4-star unit, so although he is easier to obtain, his potential damage output is lower than Eula’s.
+      - Freminet deals more stable, consistent damage throughout a rotation.
+      - Freminet has some playstyle versatility, as he can be built for either Cryo or Physical damage.
+      - Freminet has comparably easier combos where he either repeatedly uses his Normal Attacks or his Skill.
+      - Freminet wants an off-field Hydro applicator for Shatter, and either needs an Electro unit to trigger Superconduct and/or an Anemo unit to enable the 4pc VV set effect.
+    color: 4085111
+    footer:
+      text: "Authored by: Athena"
+      icon_url: https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png

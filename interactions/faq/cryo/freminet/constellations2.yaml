@@ -1,0 +1,56 @@
+content: null
+embeds:
+- title: "**Constellation 3 - Song of the Eddies and Bleached Sands**"
+    description: |-
+      > *Increases the Level of Normal Attack: Flowing Eddies by 3.
+      > Maximum upgrade level is 15.*
+
+      This is the first time a 4-star character’s Constellation 3 increases the level of their Normal Attacks — which says something about how integral they are to Freminet’s kit. Normal Attacks are frequently and prominently used to build his Pressure levels, and so this Constellation provides a welcome boost to his damage. Freminet’s C3 benefits his Physical playstyle more than his Cryo one since he interweaves more Normal Attacks in his Burst combos.
+    color: 4085111
+    fields:
+      - name: "*Physical Team DPS Increase from C0:*"
+        value: 17.78%
+      - name: "*Physical Team DPS Increase from C2:*"
+        value: 7.15%
+      - name: "*Cryo Team DPS Increase from C0:*"
+        value: 10.15%
+      - name: "*Cryo Team DPS Increase from C2:*"
+        value: 1.31%
+      - name: "*Rating:*"
+        value: |-
+          2.5/5 (Physical)
+          1/5 (Cryo)
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Freminet_01.png
+  - title: "**Constellation 4 - Dance of the Snowy Moon and Flute**"
+    description: |-
+      > *When Freminet triggers Frozen, Shatter, or Superconduct against opponents, his ATK will be increased by 9% for 6s. Max 2 stacks. This can be triggered once every 0.3s.*
+
+      As most of Freminet’s teams allows him to trigger any or all of these reactions consistently, his C4 essentially provides him with an additional 18% ATK with a high uptime.
+    color: 4085111
+    fields:
+      - name: "*Physical Team DPS Increase from C0:*"
+        value: 24.38%
+      - name: "*Physical Team DPS Increase from C3:*"
+        value: 5.61%
+      - name: "*Cryo Team DPS Increase from C0:*"
+        value: 14.89%
+      - name: "*Cryo Team DPS Increase from C3:*"
+        value: 4.30%
+      - name: "*Rating:*"
+        value: 2/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_03.png
+    footer:
+      text: "Authored by: teacupp.co"
+      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+
+buttons:
+- customId: liveInteraction#faq/cryo/freminet/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/cryo/freminet/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

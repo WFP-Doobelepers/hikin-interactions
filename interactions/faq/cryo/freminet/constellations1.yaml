@@ -1,0 +1,49 @@
+---
+content:
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - Dreams of the Seething Deep**
+    description: |-
+      > *The CRIT Rate of Pressurized Floe: Shattering Pressure will be increased by 15%.*
+
+      Although most of Freminet’s damage comes from his Skill, his C1’s CRIT buff only affects Shattering Pressure specifically, and doesn’t affect other parts of his kit such as his Normal Attack damage, Shatter damage, and other Skill damage. Still, the extra CRIT is appreciated.
+    color: 4085111
+    fields:
+      - name: "*Physical Team DPS Increase from C0:*"
+        value: 3.97%
+      - name: "*Cryo Team DPS Increase from C0:*"
+        value: 3.50%
+      - name: "*Rating:*"
+        value: 2/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_01.png
+  - title: "**Constellation 2 - Penguins and the Land of Plenty**"
+    description: |-
+      > *Unleashing Pressurized Floe: Shattering Pressure will restore 2 Energy to Freminet. If a Pressure Level 4 Shattering Pressure is unleashed, this will restore 3 Energy.*
+
+      Alleviates Freminet’s ER requirements and allows him to be built more offensively. This Constellation is slightly more beneficial for  his Physical playstyle, since his Burst combos include more instances of Level 4 Shattering Pressure. His Cryo playstyle, however, can fit more Skill casts, which makes the Energy generation difference between the two playstyles nearly negligible.
+    color: 4085111
+    fields:
+      - name: "*Physical Team DPS Increase from C0:*"
+        value: 9.92%
+      - name: "*Physical Team DPS Increase from C1:*"
+        value: 5.72%
+      - name: "*Cryo Team DPS Increase from C0:*"
+        value: 8.73%
+      - name: "*Cryo Team DPS Increase from C1:*"
+        value: 5.05%
+      - name: "*Rating:*"
+        value: 2/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_02.png
+    footer:
+      text: "Authored by: teacupp.co"
+      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/talents2
+    label: Next
+    style: PRIMARY
+    emoji: "◀️"

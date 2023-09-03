@@ -1,0 +1,5 @@
+interaction: faq/cryo/freminet/main
+description: "Opens WFP resources on Freminet"
+emoji: <${EMOJIS.FREMINET}>
+
+name: Freminet
