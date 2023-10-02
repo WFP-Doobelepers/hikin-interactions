@@ -1,20 +1,5 @@
 content: null
 embeds:
-  - color: 3066993
-    fields:
-      - name: Quoted by
-        value: <@!280016643558604800>
-        inline: true
-      - name: Author
-        value: >-
-          <@!995814404576784514> from **[#・faq
-          (Jump)](https://discord.com/channels/791074691841523742/869676879286792222/1156542486261547058)**
-        inline: true
-    author:
-      name: Neuvillette FAQ#0000 (995814404576784514)
-      icon_url: >-
-        https://cdn.discordapp.com/avatars/995814404576784514/e37fd9bd7cee2950982bc32269c92b3f.png?size=128
-    timestamp: '2023-09-27T10:46:56.245Z'
   - title: |-
       __TALENT PRIORITY__
 
