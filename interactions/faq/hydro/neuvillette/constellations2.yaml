@@ -1,6 +1,7 @@
 content: null
 embeds:
-- title: '**Constellation 3 - Ancient Postulation**'
+
+  - title: '**Constellation 3 - Ancient Postulation**'
     description: >-
       > *Increases the Level of Normal Attack: As Water Seeks Equilibrium by 3.
 
