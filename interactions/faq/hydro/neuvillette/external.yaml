@@ -1,0 +1,24 @@
+content: null
+embeds:
+  - title: __EXTERNAL LINKS__
+    color: 19345
+    fields:
+      - name: Project Amber
+        value: >-
+          [Character
+          Database](https://ambr.top/en/archive/avatar/10000087/neuvillette)
+      - name: Honey Hunter World
+        value: >-
+          [Character Database and Asset
+          Resources](https://genshin.honeyhunterworld.com/?lang=EN)
+      - name: Genshin Impact JP Twitter
+        value: '[Asset Resources](https://twitter.com/Genshin_7)'
+      - name: Genshin Impact EN Twitter
+        value: '[Asset Resources](https://twitter.com/GenshinImpact)'
+    footer:
+      text: Credits to kol and Leifa for the Neuvillette FAQ! || WFP Theorycrafting
+      icon_url: >-
+        https://media.discordapp.net/attachments/1087300734372020315/1094584155267932222/GUTAAAAo5_-_mr1_thonk.png?width=662&height=662
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141029075272609945/Neuvillette_Card.png?width=831&height=468

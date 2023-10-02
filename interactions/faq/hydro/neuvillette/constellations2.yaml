@@ -1,0 +1,59 @@
+content: null
+embeds:
+
+
+
+  - title: '**Constellation 3 - Ancient Postulation**'
+    description: >-
+      > *Increases the Level of Normal Attack: As Water Seeks Equilibrium by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      C3 increases the levels of Neuvi's most important Talent. A decent damage
+      increase.
+    color: 19345
+    fields:
+      - name: '*DPS% Increase vs. C2:*'
+        value: 20%
+      - name: '*DPS% Increase vs. C0:*'
+        value: 66%
+      - name: '*Rating:*'
+        value: 3/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521732126121984/UI_Talent_U_Neuvillette_01.png
+  - title: '**Constellation 4 - Crown of Commiseration**'
+    description: >-
+      > *When Neuvillette is on the field and is healed, 1 Sourcewater Droplet
+      will be generated. This effect can occur once every 4s.*
+
+
+      Neuvillette already has enough Sourcewater Droplets in his rotations at
+      C0, so this Constellation is useless—at least until C6. Therefore, don't
+      pull C4 unless you're planning on going to C6.
+    color: 19345
+    fields:
+      - name: '*DPS% Increase vs. C3:*'
+        value: 0%
+      - name: '*DPS% Increase vs. C0:*'
+        value: 66%
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521732335829072/UI_Talent_S_Neuvillette_03.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/neuvillette/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/neuvillette/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

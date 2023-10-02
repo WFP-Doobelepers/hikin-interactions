@@ -1,0 +1,68 @@
+content: null
+embeds:
+  - title: __CREDITS__
+    color: 19345
+    fields:
+      - name: 'Lead:'
+        value: <@397825812956446752>
+      - name: 'Authors:'
+        value: <@397825812956446752>, <@280016643558604800>
+      - name: 'Calculations:'
+        value: <@397825812956446752>
+      - name: 'Framecounts:'
+        value: <@367160010335191054>
+      - name: 'Consulting:'
+        value: >-
+          <@280016643558604800>, <@94978723341668352>, <@209617229216612352>,
+          <@503146654988501010>, <@148100838861176832>, <@583034255794503697>
+      - name: 'Content Verification:'
+        value: |-
+          Calculations: mien
+          Writing: <@503146654988501010>
+      - name: 'Transcription:'
+        value: <@812178562822963210>, <@651556217315000360>, <@703887128303763507>
+      - name: 'Resources:'
+        value: >-
+          [Neuvillette
+          Mastersheet](https://docs.google.com/spreadsheets/d/16yvjzY7-ygeyzQQoKp2aMahFu_OCPiO56fs-jBk1PnA/edit?usp=sharing)
+
+          [Neuvillette Frames
+          Mastersheet](https://docs.google.com/spreadsheets/d/1ewssmLctYjKy7EHISXTCWIh-EiONT7INrExhDnnK5g4/edit?usp=sharing)
+      - name: DISCLAIMER
+        value: >-
+          *Pre-TC is volatile and, as always, perpetually subject to change
+          until release (and sometimes later!). Please note that these are
+          theoretical suggestions.
+
+          Everything described in this FAQ is a good faith analysis based on the
+          little information about the character’s kit that we know. Team calcs,
+          additionally, are not established yet, and as with everything in TC,
+          the content in this FAQ should be taken with a grain of salt.*
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1154661940388433990/b9731e447716f06d08d3fdc72eb8cb24_8955842158016597191.png
+  - title: __OVERVIEW__
+    description: >-
+      Neuvillette is a 5-star Pneuma-aligned Hydro Catalyst whose kit revolves
+      around unleashing high-powered, long-ranged Charged Attacks. His Skill and
+      Burst can create Sourcewater Droplets, which heal him and decrease his
+      Charged Attacks’ wind-up time. Neuvillette’s attacks all have a large AoE,
+      and his Charged Attack can pierce through enemies, allowing him to hit
+      multiple enemies at once. 
+
+
+      As an on-field Hydro DPS, Neuvillette has a large variety of teams. Since
+      Neuvillette’s Charged Attacks can be interrupted, which leads to huge
+      losses in damage, he has a high reliance on shielders at C0. High field
+      time requirements, a long Skill cooldown, and an expensive Burst also tend
+      to make his rotations rather long. Due to this and the fact he scales off
+      of HP, as of 4.1, Neuvillette lacks strong buffers outside of Kazuha —
+      thus, many of his teams feature off-field damage dealers.
+    color: 19345
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141409061032701962/UI_AvatarIcon_Neuvillette.png

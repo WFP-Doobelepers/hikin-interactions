@@ -1,0 +1,80 @@
+content: null
+embeds:
+  - title: >-
+      The Chief Justice of Fontaine, known as the Iudex, is renowned for his
+      unassailable impartiality.
+    color: 19345
+    fields:
+      - name: Neuvillette Mastersheet by kolvii, featherlatte, cuzimori, and mien
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/16yvjzY7-ygeyzQQoKp2aMahFu_OCPiO56fs-jBk1PnA/edit?usp=drive_link)
+      - name: Neuvillette Frames Mastersheet by jrm.spirit
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1ewssmLctYjKy7EHISXTCWIh-EiONT7INrExhDnnK5g4/edit#gid=0)
+    author:
+      name: Neuvillette FAQ
+      icon_url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1143109201569259592/neuvillette_087_side_icon.png
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1143109169981952091/neuvillette_087_gacha_splash.png
+
+options: #dropdown
+
+  - label: Overview
+    value: faq/hydro/neuvillette/overview
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Talents
+    value: faq/hydro/neuvillette/talents1
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Constellations
+    value: faq/hydro/neuvillette/constellations1
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Combos
+    value: faq/hydro/neuvillette/combos
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Energy Recharge Requirements
+    value: faq/hydro/neuvillette/erreq
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Artifacts
+    value: faq/hydro/neuvillette/artifacts1
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Weapons
+    value: faq/hydro/neuvillette/weapons
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: Team Building
+    value: faq/hydro/neuvillette/teambuilding1
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }  
+
+  - label: External Links
+    value: faq/hydro/neuvillette/external
+    description: "WFP resources for Neuvillette FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/neuvillette
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/kuki/
+    emoji: :logont:945530991240421386
+    style: LINK

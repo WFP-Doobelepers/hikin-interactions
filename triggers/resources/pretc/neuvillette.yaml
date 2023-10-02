@@ -1,0 +1,4 @@
+interaction: faq/hydro/neuvillette/main
+description: "Opens WFP resources on Neuvillette"
+match: ${ TRIGGER_PREFIX }neuvillettefaq(?:\s|$)
+ignoreCase: true

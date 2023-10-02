@@ -1,0 +1,71 @@
+content: null
+embeds:
+  - title: '**Taser**'
+    description: "### Neuvillette | Fischl | Yae Miko or Beidou | Flex\nNeuvillette Taser teams feature Yae or Beidou as an off-field DPS, with Neuvillette to deal damage on-field and Fischl as a battery.\t\t\t\n\nBeidou excels in multi-target situations, providing off-field damage with her Burst. Neuvillette can trigger her Burst procs decently well with his Charged Attacks. She also provides interruption resistance and a shield (albeit a weak one) with her C1, potentially allowing C0 Neuvillette to comfortably run without a shielder.\n\nYae Miko also provides off-field damage, although she lacks the utilities Beidou has.\n\n__**Teammates**__\n\n<:flex:1094549077280169984> **Flex options:** Kazuha, Venti, Zhongli, any Anemo with 4pc VV, Mona/Xingqiu/Yelan"
+    color: 19345
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1150343619262287882/wAgi6mF7QAAAABJRU5ErkJggg.png
+  - title: '**Xiangling**'
+    description: >-
+      ### Neuvillette | Xiangling | Bennett | Flex
+
+      It can be difficult to control who ends up Vaporizing out of Neuvillette
+      and Xiangling — once an aura is established, neither of them can overtake
+      the other — but it actually doesn't matter because the team ends up doing
+      the same damage anyways! A decent option with AoE on both its main damage
+      dealers, although Xiangling's Burst requiring Neuvillette to play in melee
+      range negates the benefits of his range and makes some form of
+      interruption resistance much more valuable.
+
+
+      __**Teammates**__
+
+
+      <:flex:1094549077280169984> **Flex options:** Zhongli, Kazuha, any Anemo
+      with 4pc VV, Mona/Xingqiu/Yelan
+    color: 19345
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1150343725613068298/wvehFjIDn0shAAAAABJRU5ErkJggg.png
+  - title: '**Freeze**'
+    description: >-
+      ### Neuvillette | Cryo | Flex | Flex
+
+      Neuvillette can make sure of Freeze in scenarios against freezable
+      enemies, giving extra CC to his teams that may allow some players to run
+      him shielderless at C0. However, players still have access to shielders
+      such as Diona and Layla for Cryo resonance and defensive utility. Keep in
+      mind, quite a few recent enemies, as well as bosses, can’t be frozen,
+      making this playstyle limited in uses. On top of this, there are few Cryo
+      off-field characters who work well with Neuvillette’s range, resulting in
+      quite limited team options.
+
+
+      __**Teammates**__
+
+
+      <:cryo:1084834834184151172> **Cryo options:** Ganyu, Rosaria
+
+
+      <:flex:1094549077280169984> **Defensive options:** Diona, Layla, Kirara,
+      Zhongli
+
+
+      <:flex:1094549077280169984> **Flex options:** Kazuha, Venti, any Anemo
+      with 4pc VV, Shenhe, Fischl, Yae Miko, Mona/Xingqiu/Yelan
+    color: 19345
+    footer:
+      text: 'Authored by: kol and Leifa'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1153797567201689620/wNWPBjlntn63gAAAABJRU5ErkJggg.png
+
+
+buttons:
+- customId: liveInteraction#faq/hydro/neuvillette/talents1
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"

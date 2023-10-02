@@ -1,0 +1,47 @@
+content: null
+embeds:
+  - title: __ARTIFACTS__
+    description: >-
+      <:sands:1094559345364185119> *Sands of Eon:* HP%
+
+      <:goblet:1094559512968581130> *Goblet of Eonothem:* Hydro DMG% / HP%
+
+      <:circlet:1094559608581922966> *Circlet of Logos:* CRIT / HP%
+
+
+      Depending on the weapon and artifact set Neuvillette is using, HP/Hydro
+      DMG/CRIT, HP/Hydro DMG/HP, and HP/HP/CRIT are all viable options.
+
+      HP/HP/HP with good enough substats is also an option, but it is notably
+      worse in every situation.
+
+
+      HP/Hydro DMG/CRIT is almost always the best option, but more often than
+      not by a very small margin.
+
+
+      HP/Hydro DMG/HP is always highly competitive with HP/Hydro DMG/CRIT,
+      except when Neuvillette is using a non-CRIT weapon while also not running
+      4pc Marechaussee Hunter.
+
+
+      HP/HP/CRIT is competitive only when Neuvillette is using a weapon that
+      provides significantly more CRIT and/or DMG% than HP% e.g. Rite of the
+      Eternal Flow or Blackcliff Agate.
+
+
+      **Substats:** ER until requirement > CRIT DMG = CRIT Rate = HP% > Flat HP
+    color: 19345
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1150342382496264192/bAAAAAElFTkSuQmCC.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/neuvillete/artifacts2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
