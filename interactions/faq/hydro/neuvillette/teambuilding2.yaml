@@ -65,7 +65,7 @@ embeds:
 
 
 buttons:
-- customId: liveInteraction#faq/hydro/neuvillette/talents1
+- customId: liveInteraction#faq/hydro/neuvillette/teambuilding1
   label: Next
   style: PRIMARY
   emoji: "◀️"
