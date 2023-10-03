@@ -38,11 +38,6 @@ options: #dropdown
     description: "WFP resources for Neuvillette FAQ."
     emoji: ${ EMOJIS.HYDRO_BOX }
 
-  - label: Combos
-    value: faq/hydro/neuvillette/combos
-    description: "WFP resources for Neuvillette FAQ."
-    emoji: ${ EMOJIS.HYDRO_BOX }  
-
   - label: Energy Recharge Requirements
     value: faq/hydro/neuvillette/erreq
     description: "WFP resources for Neuvillette FAQ."
