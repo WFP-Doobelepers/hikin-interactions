@@ -41,7 +41,7 @@ embeds:
         https://media.discordapp.net/attachments/1139854891729289246/1150342382496264192/bAAAAAElFTkSuQmCC.png
 
 buttons:
-- customId: liveInteraction#faq/hydro/neuvillete/artifacts2
+- customId: liveInteraction#faq/hydro/neuvillette/artifacts2
   label: Next
   style: PRIMARY
   emoji: "▶️"
