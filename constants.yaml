@@ -16,6 +16,9 @@ INFOGRAPHICS:
 
 PRETC:
   # - "faq/dendro/baizhu/main"
+  - "faq/dendro/baizhu/main"
+  - "faq/dendro/kaveh/main"
+  - "faq/cryo/freminet/main"
 
 EMOJIS:
   EULADGE: ":euladge:1096678485067567146"
