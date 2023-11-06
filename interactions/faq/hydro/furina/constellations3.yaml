@@ -20,8 +20,7 @@ embeds:
     thumbnail:
       url: >-
         https://media.discordapp.net/attachments/1139854891729289246/1170300059682869248/Skill_S_Furina_01.png?ex=655889dd&is=654614dd&hm=74762fdaa295ccbc934267dabb136172fffa3fb234baba84449c76a74d71b104&=
-content: null
-embeds:
+
   - title: '**Constellation 6 - "Hear Me — Let Us Raise the Chalice of Love!"**'
     description: >-
       > *When using Salon Solitaire, Furina gains "Center of Attention" for 10s.
