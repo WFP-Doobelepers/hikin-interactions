@@ -4,13 +4,18 @@ embeds:
       name: Select a character!
       icon_url: https://library.keqingmains.com/img/elements/hydro.png
 
-options: 
+options:
   - label: Nilou
     value: faq/hydro/nilou/main
     description: WFP resources on Nilou
     emoji: <${ EMOJIS.NILOU }>
-    
+
   - label: Candace
     value: faq/hydro/candace/main
     description: WFP resources on Candace
     emoji: "<:Candace:1087355530957303808>"
+
+  - label: Neuvillette
+    value: faq/hydro/neuvillette/main
+    description: WFP resources on Neuvillette
+    emoji: "<:hydro:1094545501493403709>"
