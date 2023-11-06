@@ -1,5 +1,5 @@
 interaction: faq/dendro/baizhu/main
 description: "Opens WFP Resources on Baizhu"
-emoji: <${EMOJIS.ALHAITHAM}>
+emoji: <${EMOJIS.BAIZHU}>
 
 name: Baizhu
