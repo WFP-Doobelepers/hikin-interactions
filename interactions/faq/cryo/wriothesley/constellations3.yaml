@@ -79,7 +79,7 @@ embeds:
         https://media.discordapp.net/attachments/1139854891729289246/1141533133452361768/UI_Talent_S_Wriothesley_04.png
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/constellations2
+  - customId: liveInteraction#faq/cryo/wriothesley/constellations2
     label: Previous
     style: PRIMARY
     emoji: "◀️"

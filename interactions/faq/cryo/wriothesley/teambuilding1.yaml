@@ -19,7 +19,7 @@ embeds:
         https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/teambuilding2
+  - customId: liveInteraction#faq/cryo/wriothesley/teambuilding2
     label: Next
     style: PRIMARY
     emoji: "▶️"

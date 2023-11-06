@@ -41,7 +41,7 @@ embeds:
         https://images-ext-2.discordapp.net/external/pPHLf6cfQ_awHz9RqL4GfSdwJgZpY1KB3vpSTmGDj1E/https/api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Troupe.png
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/weapons1
+  - customId: liveInteraction#faq/cryo/wriothesley/weapons1
     label: Previous
     style: PRIMARY
     emoji: "◀️"

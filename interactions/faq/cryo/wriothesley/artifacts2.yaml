@@ -51,7 +51,7 @@ embeds:
         https://media.discordapp.net/attachments/1139854891729289246/1153685886924501113/wP2pZCdCs02sAAAAABJRU5ErkJggg.png
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/artifacts1
+  - customId: liveInteraction#faq/cryo/wriothesley/artifacts1
     label: Previous
     style: PRIMARY
     emoji: "◀️"

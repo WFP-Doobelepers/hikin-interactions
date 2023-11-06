@@ -43,7 +43,7 @@ embeds:
 
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/teambuilding3
+  - customId: liveInteraction#faq/cryo/wriothesley/teambuilding3
     label: Previous
     style: PRIMARY
     emoji: "◀️"

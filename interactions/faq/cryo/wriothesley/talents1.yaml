@@ -15,7 +15,7 @@ embeds:
         
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/talents2
+  - customId: liveInteraction#faq/cryo/wriothesley/talents2
     label: Next
     style: PRIMARY
     emoji: "▶️"
