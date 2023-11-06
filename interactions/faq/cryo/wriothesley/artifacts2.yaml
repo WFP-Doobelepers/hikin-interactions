@@ -1,0 +1,57 @@
+---
+content:
+embeds:
+  - title: |-
+      __Artifact Sets__
+
+      **4PC Marechaussee Hunter**
+    description: >-
+      4pc MH synergizes really well with Wriothesley’s kit when he’s in the
+      *Chilling Penalty state*. Each hit in this state will reduce Wriothesley’s
+      current HP, thus he can easily maintain its 4pc effects for up to 36% CRIT
+      Rate. When using this set with his Signature (or any weapon with CRIT Rate
+      as a secondary stat), he can easily overcap his CRIT Rate, hence, a CR
+      Circlet is not recommended with 4pc MH.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://images-ext-2.discordapp.net/external/EJn7mIDSDVOEG4T43Thf4eZ53_02KzIDSCNxL3G4rdM/https/api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15031_4.png
+  - title: '**4PC Shimenawa’s Reminiscence**'
+    description: >-
+      4pc SR will drain Wriothesley’s energy in exchange for 50% NA/CA DMG
+      Bonus, making Bursting frequently even harder (up to once every four
+      rotations rather than two). It also has anti synergy with his C2 that
+      buffs his Burst.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://images-ext-2.discordapp.net/external/_bhDHnIXvNmdfdpM7NOslVP83-9iSeAI_JC7kmbtXe8/https/api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15019_4.png
+  - title: '**4PC Blizzard Strayer**'
+    description: >-
+      4pc BS is only useful for Wriothesley when there’s a consistent Cryo Aura
+      (i.e Freeze/Mono Cryo). It has the potential to outperform 4pc MH when the
+      enemy can be frozen for an extended period and not get affected by Shatter
+      coming from his empowered CA. Similar to 4pc MH, a CR Circlet is not
+      recommended for this set due to overcapping CRIT Rate.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://images-ext-1.discordapp.net/external/djO3oTP0Mq80Bo1IThqJEWia_lezqhDqMyKO0tQhl3I/https/api.ambr.top/assets/UI/reliquary/UI_RelicIcon_14001_4.png
+  - title: '**2PC ATK% / Cryo DMG% / NA CA DMG%**'
+    description: >-
+      They are weaker options compared to 4pc sets, but still usable if the
+      pieces have good substats.
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1153685886924501113/wP2pZCdCs02sAAAAABJRU5ErkJggg.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/artifacts1
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"

@@ -1,0 +1,26 @@
+content: null
+embeds:
+  - title: __EXTERNAL LINKS__
+    color: 6229534
+    fields:
+      - name: Project Amber
+        value: >-
+          [Character
+          Database](https://ambr.top/en/archive/avatar/10000086/wriothesley)
+      - name: Honey Hunter World
+        value: >-
+          [Character Database and Asset
+          Resources](https://genshin.honeyhunterworld.com/?lang=EN)
+      - name: Genshin Impact JP Twitter
+        value: '[Asset Resources](https://twitter.com/Genshin_7)'
+      - name: Genshin Impact EN Twitter
+        value: '[Asset Resources](https://twitter.com/GenshinImpact)'
+    footer:
+      text: >-
+        Credits to Athena and Leifa for the Wriothesley FAQ! || WFP
+        Theorycrafting
+      icon_url: >-
+        https://media.discordapp.net/attachments/825825189958516786/1077483072829792266/GUTAAAAo5_-_mr1_thonk.png?width=468&height=468
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141029112933273741/Wriothesley_Card.png

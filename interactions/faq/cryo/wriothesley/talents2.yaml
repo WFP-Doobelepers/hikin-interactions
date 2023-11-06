@@ -1,0 +1,54 @@
+content: null
+embeds:
+  - title: |-
+      __TALENT OVERVIEW__
+
+      **Normal Attack: Forceful Fists of Frost**
+    description: >-
+      Wriothesley performs a 5-hit combo that cannot be reset by dashing or
+      using his Elemental Skill. This talent should be prioritized, since this
+      is his main source of damage, which further gets buffed by his Elemental
+      Skill – which provides additional NA DMG Bonus (same as Yoimiya/Wanderer’s
+      Skill). It's important to note that even though he is a Catalyst user, his
+      punches have hitlag like Heizou, which may make his combo feel slower than
+      expected. Note that his enhanced Charged Attacks also follow the scaling
+      of his Normal Attacks.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141532128681672895/Skill_A_Catalyst_MD.png
+  - title: '**Elemental Skill: Icefang Rush**'
+    description: >-
+      *CD: **16s***
+
+
+      After using his Skill, he enters the Chilling Penalty state, increasing
+      his interruption resistance (on par with Hu Tao) and enhancing his Normal
+      Attacks. Additionally, it comes with a penalty that makes him lose 4.5% of
+      his Max HP per hit. His Energy generation also comes with his Skill,
+      generating one Cryo particle if his NA/CA hits per two seconds. Hitlag
+      from his Normal Attacks may extend the Chilling Penalty state, however it
+      depends on the scenario to conclude if that would favor him or not. 
+
+
+      Note that when he gets lower than 50% of max HP, the Chilling Penalty
+      state will stop working, therefore it is important for him to keep his HP
+      high to not lose out on buff uptime.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141532129004617901/Skill_S_Wriothesley_01.png
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+        
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/talents1
+    label: Next
+    style: PRIMARY
+    emoji: "◀️"
+  - customId: liveInteraction#faq/cryo/freminet/talents3
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

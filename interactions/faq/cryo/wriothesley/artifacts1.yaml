@@ -1,0 +1,25 @@
+content: null
+embeds:
+  - title: __ARTIFACTS__
+    description: >-
+      <:sands:1094559345364185119> *Sands of Eon:* ATK% / EM (only for Reverse
+      Melt)
+
+      <:goblet:1094559512968581130> *Goblet of Eonothem:* Cryo DMG%
+
+      <:circlet:1094559608581922966> *Circlet of Logos:* CRIT DMG > CRIT Rate
+      (unless you are not using 4pc MH or 4pc BS)
+
+
+      **Substats:** CRIT% > ATK% = EM (for Reverse Melt) > ER
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+        
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/artifacts2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

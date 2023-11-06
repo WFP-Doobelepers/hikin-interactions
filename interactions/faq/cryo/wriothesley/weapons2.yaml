@@ -1,0 +1,47 @@
+---
+content:
+embeds:
+  - title: |-
+      __4★ Options__
+
+      **Flowing Purity**
+    description: >-
+      The new Craftable from Fontaine works extremely well with Wriothesley,
+      providing tons of additional Elemental DMG% after he clears the Bond of
+      Life passive, either through his Vaulting Fist or heals from teammates.
+      Please note that when running this weapon, Wriothesley will be unable to
+      sustain himself at all with just Charged Attacks due to the Bond of Life
+      passive preventing healing, making a healer mandatory.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://images-ext-2.discordapp.net/external/VpV-ZadAFFL7sEFVYtOkXds4skMJxd88UJVwgMcFDUo/https/api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Vorpal.png
+  - title: '**Ballad of the Boundless Blue**'
+    description: >-
+      The 4.1 event weapon is another excellent F2P choice for Wriothesley that
+      provides NA and CA DMG% for him. An ER secondary stat is occasionally
+      useful if it is enough for him to Burst every rotation.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://images-ext-2.discordapp.net/external/bLPuI-Dd0-t8OAb4vwJUHnTl5-DcnJurjeCufZEYxk0/https/api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_DandelionPoem.png
+  - title: '**The Widsith**'
+    description: >-
+      Widsith really shines when he gets ATK% or DMG% and can clear the content
+      in one rotation. Nonetheless, it is still a decent option for longer
+      battles due to the nice CRIT DMG secondary stat. EM is only useful when
+      played in a Reverse Melt team.
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+    thumbnail:
+      url: >-
+        https://images-ext-2.discordapp.net/external/pPHLf6cfQ_awHz9RqL4GfSdwJgZpY1KB3vpSTmGDj1E/https/api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Troupe.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/weapons1
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"

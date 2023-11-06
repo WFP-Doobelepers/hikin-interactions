@@ -1,0 +1,49 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: There Shall Be a Plea for Justice**
+    description: >-
+      This is what makes Wriothesley stand out from Yoimiya and Wanderer. When
+      Wriothesley's HP is less than 60%, his next Charged Attack will become
+      Rebuke: Vaulting Fist, which deals additional damage, costs no stamina,
+      and heals for 30% of his max HP with a 5-second cooldown. 
+
+
+      The long cooldown between enhanced Charged Attacks makes it difficult to
+      get more than two Charged Attacks per rotations for C0 Wriothesley, even
+      with ATK SPD. Note that means after attacking and/or getting lower than
+      50% Max HP, the remaining Normal Attacks will not get enhanced until he
+      gets healed back up, but on the other hand, adding a healer may keep him
+      too healthy to the point that he cannot get lower than 60% of his max HP
+      meaning that you cannot reliably proc his empowered CA at all.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141532129470201856/UI_Talent_S_Wriothesley_05.png
+  - title: '**Ascension 4: There Shall Be a Reckoning for Sin**'
+    description: >-
+      When Wriothesley’s current HP changes, he gets 6% ATK, up to five times. A
+      simple yet effective buff for him.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141532129713455124/UI_Talent_S_Wriothesley_06.png
+  - title: '**Utility Passive:  The Duke''s Grace**'
+    description: >-
+      When Wriothesley crafts Weapon Ascension Materials, he has a 10% chance to
+      receive double the product.
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141532129939959879/UI_Talent_Combine_Weapon_Double.png
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/talents3
+    label: Next
+    style: PRIMARY
+    emoji: "◀️"

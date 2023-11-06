@@ -1,0 +1,25 @@
+content: null
+embeds:
+  - title: __TEAM BUILDING__
+    description: >-
+      Due to Wriothesley’s long field time, he wants to be paired with
+      characters that either buff his personal damage or sub DPS characters who
+      can deal their damage whilst taking minimal field time. At C0, Wriothesley
+      is unable to self-sustain himself with his A1 Passive, meaning he will
+      eventually reach 50% HP or below, even if he doesn’t get hit. Because of
+      this, **it is recommended to run a healer with him in all teams and ignore
+      his special Charged Attacks unless he ends up proccing one.** At C1+,
+      Wriothesley’s special Charged Attack is not only easier to proc, but also
+      gains increased healing, allowing his teams to use more offensive options
+      over dedicated healers.
+    color: 6229534
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/teambuilding2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

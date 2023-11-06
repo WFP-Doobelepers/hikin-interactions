@@ -1,0 +1,44 @@
+content: null
+embeds:
+  - title: |-
+      __WEAPONS__
+
+      __5★ Options__
+
+      **Cashflow Supervision**
+    description: >-
+      Wriothesley’s BiS, providing him NA and CA DMG% per stack when his current
+      HP changes, as well as ATK SPD after 3 stacks, allowing for faster combos,
+      shorter field time, and potentially a shorter rotation. Note that with its
+      secondary stat (CRIT Rate) and either 4pc MH or BS, you can easily overcap
+      his overall CRIT Rate, thus using a CRIT DMG Circlet is recommended.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://images-ext-2.discordapp.net/external/IygO87xi_w88ENvijiHAWi9n67ig_EVjIzkbjCnzYn4/https/api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Wheatley.png
+  - title: '**Tulaytullah''s Remembrance**'
+    description: >-
+      Performs similarly to Cashflow Supervision, but without the CA DMG%. The
+      CRIT DMG secondary stat is appreciated, especially when using 4pc MH or
+      BS.
+    color: 6229534
+    thumbnail:
+      url: >-
+        https://images-ext-2.discordapp.net/external/zsLCbb86H8exOceBp9oL3yjE-BBbqDEI9TDs0-sSEls/https/api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Alaya.png
+  - title: '**Other 5★ Options**'
+    description: >-
+      All of them perform very similarly. Depending on the scenario, you may
+      choose your weapon accordingly. Please check out the
+      [mastersheet](https://docs.google.com/spreadsheets/d/1YGaDBgqcvBpb-BWadJyoPycg1Ql5OmR4Z5PcFg5cmm4/edit?usp=sharing)
+      for more info.
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+        
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/weapons2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"
