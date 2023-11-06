@@ -1,0 +1,56 @@
+content: null
+embeds:
+  - title: |-
+      __WEAPONS__
+
+      **Tome of the Eternal Flow**
+    description: >-
+      Tome of the Eternal Flow is Neuvillette’s BiS and signature weapon,
+      providing a little of everything that Neuvillette could want: high CRIT
+      DMG%, HP%, CA DMG%, and enough Energy to lower his ER reqs to 100% in most
+      teams. TotEF is significantly better (30-40%) than all other options
+      except Sacrificial Jade (TotEF is 20% better than R1 Sac Jade, and only 7%
+      better than R5 Sac Jade).
+    color: 19345
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Iudex.png
+  - title: '**Sacrificial Jade**'
+    description: >-
+      Sacrificial Jade is Neuvillette’s second-best weapon, providing both CRIT
+      Rate and HP%. At R1, It is about 10% better than the next best option, so
+      it may be a worthwhile purchase for players who do not have TotEF. Sac
+      Jade scales well with refines, which increase the amount of HP% it
+      provides to Neuvillette. Players using Sacrificial Jade should be mindful
+      of keeping Neuvillette on the field for no longer than 10s at a time, to
+      ensure that he does not lose its passive effect (EQ CAx2, for example,
+      would be too long).
+    color: 19345
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Yue.png
+  - title: >-
+      **Cashflow Supervision / Lost Prayer to the Sacred Winds / Jadefall
+      Splendor / Everlasting Moonglow / Kagura’s Verity**
+    description: >-
+      All of these 5-star weapons perform similarly on Neuvillette, providing
+      some amount of CRIT Rate or HP%, as well as small bonuses from their
+      passives.
+    color: 19345
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1150342770981085275/5nQEgcC8xk6LSmNAI0AQqBJCSzUkf85BUDDRCNAI2BZCLzUE9Cy4KBHSyNgWQj8H772h92gU0fOAAAAAElFTkSuQmCC.png
+  - title: '**Prototype Amber**'
+    description: >-
+      Prototype Amber performs similarly or slightly better than the 5-star
+      weapons listed directly above, provided that Neuvillette can use the
+      energy its passive provides. Otherwise, it still offers Neuvillette a
+      hefty amount of HP%, as well as some passive healing. Though this healing
+      is too miniscule and infrequent to be of much use to Neuvillette himself,
+      it can be helpful to heal chip damage on teammates as Neuvillette’s teams
+      tend to lack healers.
+    color: 19345
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Proto.png

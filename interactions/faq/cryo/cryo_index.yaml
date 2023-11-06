@@ -3,7 +3,7 @@ embeds:
     author:
       name: Select a character!
       icon_url: https://library.keqingmains.com/img/elements/cryo.png
-options: 
+options:
   - label: Layla
     value: faq/cryo/layla/main
     description: WFP resources on Layla!
@@ -13,3 +13,8 @@ options:
     value: faq/mika/layla/main
     description: WFP resources on Mika!
     emoji: :Mika:1087703387639914526
+
+  # - label: Freminet
+  #   value: faq/cryo/freminet/main
+  #   description: WFP resources on Freminet!
+  #   emoji: :cryo:1084834834184151172

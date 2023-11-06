@@ -1,0 +1,72 @@
+content: null
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - Venerable Institution**
+    description: >-
+      > *When Neuvillette takes the field, he will obtain 1 stack of Past
+      Draconic Glories from the Passive Talent "Heir to the Ancient Sea's
+      Authority." You must first unlock the Passive Talent "Heir to the Ancient
+      Sea's Authority."
+
+      > Additionally, his interruption resistance will be increased while using
+      the Charged Attack Empowerment: Legal Evaluation and the Charged Attack:
+      Equitable Judgment.*
+
+
+      C1 offers both a respectable DPS increase and a valuable QoL improvement.
+      The damage increase C1 provides may be even greater if it allows you to
+      swap a defensive unit for a buffer or sub-DPS.
+
+
+      However, his C1 may not provide any bonus damage if run in teams where his
+      A1 Passive is already maximized. Further, the QoL it brings can also be
+      unnecessary if getting staggered is not a concern; for example, when he is
+      paired with units that already provide ample crowd control or interruption
+      resistance.
+    color: 19345
+    fields:
+      - name: '*DPS% Increase vs. C0:*'
+        value: 11% (1 ⇾ 2 stack) - 24% (2 ⇾ 3 stack)
+      - name: '*Rating:*'
+        value: 4/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521731656351836/UI_Talent_S_Neuvillette_01.png
+
+  - title: '**Constellation 2 - Juridical Exhortation**'
+    description: >-
+      > *The Passive Talent "Heir to the Ancient Sea's Authority" will be
+      enhanced: Each stack of Past Draconic Glories will increase the CRIT DMG
+      of Charged Attack: Equitable Judgment by 14%. The maximum increase that
+      can be achieved this way is 42%.
+
+      > You must first unlock the Passive Talent "Heir to the Ancient Sea's
+      Authority."*
+
+
+      C2 increases the value of C1's additional A1 stack by offering CRIT DMG
+      per stack of A1. Otherwise, it's a relatively straightforward damage
+      increase.
+    color: 19345
+    fields:
+      - name: '*DPS% Increase vs. C1:*'
+        value: 11%
+      - name: '*DPS% Increase vs. C0:*'
+        value: 38%
+      - name: '*Rating:*'
+        value: 2.5/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521731903819796/UI_Talent_S_Neuvillette_02.png
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/neuvillette/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

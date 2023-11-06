@@ -1,0 +1,78 @@
+content: null
+embeds:
+  - title: '**Constellation 5 - Axiomatic Judgment**'
+    description: >-
+      > *Increases the Level of O Tides, I Have Returned by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      Neuvillette's Burst is a small portion of his total damage, so this
+      Constellation doesn't increase his damage much.
+    color: 19345
+    fields:
+      - name: '*DPS% Increase vs. C4:*'
+        value: 1%
+      - name: '*DPS% Increase vs. C0:*'
+        value: 67%
+      - name: '*Rating:*'
+        value: 1/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521732805595226/UI_Talent_U_Neuvillette_02.png
+  - title: '**Constellation 6 - Wrathful Recompense**'
+    description: >-
+      > *When using Charged Attack: Equitable Judgment, Neuvillette can absorb
+      nearby Sourcewater Droplets in an AoE. Each absorbed Droplet will increase
+      the duration of Charged Attack: Equitable Judgment by 1s.
+
+      > Additionally, when Equitable Judgment hits opponents, it will fire off 2
+      additional currents every 2s, each of which will deal 10% of Neuvillette's
+      Max HP as Hydro DMG. DMG dealt this way will count as DMG dealt by
+      Equitable Judgment.*
+
+
+      With C6, if a Charged Attack nears the end of its duration and there are
+      available Sourcewater Droplets nearby, Neuvillette will absorb another
+      Droplet to extend the Charged Attack’s duration by 1s. 
+
+
+      The damage improvements from this Constellation can be difficult to
+      evaluate due to how it intrinsically changes his rotations, ranging from a
+      minimum of 15% to well over 36% improvement over C5. However, the
+      additional currents mean that there will always be an improvement to his
+      DPS. His C6 also makes his C4 useful, with the additional Droplets
+      extending the duration of his CAs by about 2-3s total — equivalent to an
+      entire standard Charged Attack.
+
+
+      While the changes in his rotation can cause extensions or worsen buff
+      uptime. Neuvillete does so much damage at C6 that its boosts are almost
+      always worth capitalizing on.
+
+      However, this means that C6's value also depends on what team Neuvillette
+      is in: teams featuring short skill/buff durations (such as Kazuha teams)
+      will be worse off than those featuring long off-field skill/buff durations
+      (such as Raiden and Nahida in Hyperbloom).
+    color: 19345
+    fields:
+      - name: '*DPS% Increase vs. C5:*'
+        value: Minimum 15%
+      - name: '*DPS% Increase vs. C0:*'
+        value: Minimum 86%
+      - name: '*Rating:*'
+        value: 4/5
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521733086609449/UI_Talent_S_Neuvillette_04.png
+
+
+buttons:
+- customId: liveInteraction#faq/hydro/neuvillette/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,32 @@
+content: null
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: >-
+      2 Electro w/ Fischl: **120 - 140%**
+
+      1 Electro w/ Fischl: **130 - 150%**
+
+      Everything else: **140 - 160%**
+
+
+      Every Favonius proc lowers his ER requirements by ~10 – 20%
+
+      If using R1 Tome of the Eternal Flow, reduce each ER requirement by
+      30-40%. If using R5 Prototype Amber, reduce them by about 35-45%. .
+
+
+      Except in teams where Neuvillette only does 2 CAs per rotation (which are
+      very rare), it is absolutely essential that Neuvillette have enough ER to
+      Burst consistently every rotation; otherwise, he will not have enough
+      Sourcewater Droplets to lower all his CA charging times.
+
+
+      Neuvillette’s Energy requirements will vary based on your team and
+      rotation. For a more accurate estimate, please use the Energy Recharge
+      calculator linked
+      [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    color: 19345
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png?size=4096

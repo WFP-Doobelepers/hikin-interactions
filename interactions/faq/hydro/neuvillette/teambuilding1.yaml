@@ -1,0 +1,97 @@
+content: null
+embeds:
+  - title: __TEAM BUILDING__
+    description: "Being an on-field Hydro character opens Neuvillette up to a wide variety of team compositions that take advantage of various reactions. \n\t\nBecause Neuvillette heals himself (and also because trying to heal someone who constantly loses over 4000 HP per second is a futile endeavor), most of his teams can forgo a healer in place of a more offensively-oriented unit. However, because Neuvillette is easily knocked over while charging and casting his Charged Attacks — causing you to lose all the damage from that Charged Attack — he often wants a shielder or another character who can provide interruption resistance. This problem is mostly mitigated by C1.\t\n\nIt is recommended for Neuvillette to do 3 or 4 Charged Attacks per rotation in almost all of his teams, by doing 2 Charged Attacks the first time he enters the field, swapping out to his teammates, and then doing either 1 or 2 Charged Attacks when he next returns to field. Most teams will use some variation of: Neuvillette Burst > Team > Neuvillette CA Skill CA > Team > Neuvillette CA Skill (Optional CA) > Loop."
+    color: 19345
+  - title: '**Hypercarry**'
+    description: >-
+      ### Neuvillette | Kazuha | Offensive Flex | Offensive or Defensive Flex
+
+      Due to Neuvillette's high personal damage, teams that focus on buffing his
+      personal damage can be quite potent. Hypercarry teams scale well with
+      Constellations and investment into Neuvi, but he currently lacks many
+      options to buff his damage outside of Kazuha, providing both DMG Bonus as
+      well as RES Shred from 4 VV. Other Hydro characters such as Xingqiu or
+      Yelan can provide DMG Bonus or Hydro RES Shred but aren’t ideal due to
+      requiring Normal Attack weaving to make full use of their Elemental
+      Bursts. Mona can also provide a similar amount of DMG Bonus to Yelan
+      without weaving in Normal Attacks for extra damage. Currently, it is
+      recommended to slot him with other Sub DPS characters due to his lack of
+      self-buffing options.
+
+
+      __**Teammates**__
+
+
+      <:flex:1094549077280169984> **Offensive options:** Fischl, Yae Miko,
+      Mona/Xingqiu/Yelan
+
+
+      <:flex:1094549077280169984> **Defensive options:** Zhongli
+    color: 19345
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1150343284154171471/hxnsAAAAASUVORK5CYII.png
+  - title: '**Hyperbloom**'
+    description: >-
+      ### Neuvillette | Dendro | Electro | Flex
+
+      Neuvillette Hyperbloom teams utilize his on-field Hydro application in
+      tandem with off-field Dendro application to trigger Blooms and
+      subsequently Hyperblooms with an Electro unit for a good mix of AoE and
+      single-target damage.
+
+
+      __**Teammates**__
+
+
+      <:dendro:1094441547170316359> **Dendro options:** Nahida, Collei, Dendro
+      Traveler
+
+
+      <:electro:1094545575992623115> **Electro options:** Raiden, Kuki Shinobu
+
+
+      <:flex:1094549077280169984> **Flex options:** Zhongli, Fischl/Yae Miko,
+      Mona/Xingqiu/Yelan, any above Dendro
+    color: 19345
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1150343400692920470/A6o5jiG7MwUxAAAAAElFTkSuQmCC.png
+  - title: '**Nilou Bloom**'
+    description: >-
+      ### Neuvillette | Nilou | Core Dendro | 2nd Dendro
+
+      Neuvillette can provide on-field AoE Hydro application for Nilou Bloom
+      teams, which excel in multi-target. Because Bloom does a fair amount of
+      damage to characters themselves, players may want a healer to supplement
+      Neuvillette's own healing. Neuvillette's build does not change in Nilou
+      Bloom teams, even if he is triggering Blooms (although EM becomes a decent
+      stat to have).
+
+
+      __**Teammates**__
+
+
+      <:dendro:1094441547170316359> **Core Dendro options:** Nahida, Collei,
+      Dendro Traveler
+
+
+      <:dendro:1094441547170316359> **2nd Dendro options:** Baizhu, Kirara,
+      Yaoyao, any above Dendro
+    color: 19345
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1150343493349298237/AXIjDERikYnTAAAAAElFTkSuQmCC.png
+
+    footer:
+      text: 'Authored by: kol and Leifa'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+
+
+buttons:
+- customId: liveInteraction#faq/hydro/neuvillette/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

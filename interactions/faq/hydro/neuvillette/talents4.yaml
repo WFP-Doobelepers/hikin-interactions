@@ -1,0 +1,47 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Heir to the Ancient Sea's Authority**
+    description: >-
+      A1 is a multiplicative DMG bonus (like Yoimiya's or Wanderer's Skills) for
+      Neuvillette's CA that stacks up to 3 times for every unique reaction
+      involving Hydro. 
+
+
+      The difference between different numbers of stacks is substantial, but not
+      necessarily worth forcing team comps that maximize the number of stacks.
+    color: 19345
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521506359328798/UI_Talent_S_Neuvillette_05.png
+  - title: '**Ascension 4 Passive: Discipline of the Supreme Arbitration**'
+    description: >-
+      Since absorbed Sourcewater Droplets heal Neuvillette at the beginning of
+      his CA (and not during), Neuvillette will lose this bonus over the course
+      of his CA without external healing. Nonetheless, it is an appreciated
+      albeit minor increase to his damage.
+    color: 19345
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521506573234186/UI_Talent_S_Neuvillette_06.png
+  - title: '**Utility Passive: Gather Like the Tide**'
+    description: >-
+      Neuvillette increases the underwater sprinting speed of the party by 15%,
+      giving players an easier time when exploring Fontaine’s new underwater
+      areas.
+    color: 19345
+    footer:
+      text: 'Authored by: kol'
+      icon_url: >-
+        https://images-ext-2.discordapp.net/external/enStHNdISXtmsBWEJDl7Y3ADIT6MdQ-YSL389Vxo9a8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/397825812956446752/49f279e1a49647a8c67da65f8e890001.png
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141521506820685984/UI_Talent_S_Neuvillette_07.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/neuvillette/talents3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
