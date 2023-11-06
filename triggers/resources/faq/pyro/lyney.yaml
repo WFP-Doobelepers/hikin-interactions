@@ -1,4 +1,4 @@
 interaction: faq/pyro/lyney/main
-description: "Opens Pretc Test"
+description: "Opens Lyney FAQ"
 match: ${ TRIGGER_PREFIX }lyneyfaq(?:\s|$)
 ignoreCase: true

@@ -1,0 +1,49 @@
+---
+content:
+embeds:
+  - title: '**Reverse Melt**'
+    description: >-
+      ### Wriothesley | Pyro | Flex | Flex
+
+      Another team Wriothesley can take advantage of is Reverse Melt teams due
+      to characters like Xiangling, or mechanics such as Burning or Sunfire,
+      providing a consistent Pyro Aura for Wriothesley to melt his attacks.
+      Characters such as Bennett provide both healing and large Attack buffs,
+      which Wriothesley really appreciates, alongside large amounts of Energy
+      for Xiangling. Given that Sunfire consists of both Bennett and Jean, it
+      may be more comfy for players to use this due to the large amounts of
+      healing, with the downside of being very Circle Impact (effects are
+      limited to a certain area).
+
+
+      __**Teammates**__
+
+
+      <:pyro:1085111476584460328> **Pyro options:** Xiangling, Bennett
+
+
+      **Flex Options**
+
+      <:anemo:1094545726748508250> **Anemo options:** Kazuha, Jean, Sayu, any
+      Anemo with 4pc VV
+
+      <:cryo:1084834834184151172> **Cryo options:** Shenhe, Rosaria, Diona,
+      Mika, Layla
+
+      <:flex:1094549077280169984> **Other Flex options:** Zhongli, Nahida, Yun
+      Jin, any above Pyro, any above Anemo
+    color: 6229534
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1156256875667533884/revmelt.png?ex=65144fa1&is=6512fe21&hm=7a8faac9ba6af83a9f05a517850b0123f5638ea972914eaff4f28b22223f203e&=&width=881&height=205
+
+
+buttons:
+  - customId: liveInteraction#faq/cryo/wriothesley/teambuilding3
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"

@@ -1,0 +1,26 @@
+content: null
+embeds:
+  - title: __COMBOS__
+    description: >-
+      Generally, you want to use Wriothesley’s Vaulting Fist (indicated by the
+      red Aura around him) as soon as it is available to make use of all
+      existing buffs before they run out.
+
+
+      For C0, it is a bit tricky since you may need to do up to 8 consecutive
+      Normal Attacks before getting his HP low enough for the enhanced Charged
+      Attack to take effect. Even when you get his HP lower than 60% for the
+      second time, the cooldown might not be finished, in which you either want
+      to Burst while waiting for the Vaulting Fist, or accept that some Normal
+      Attacks will not be getting the buff from his Skill.
+
+
+      With C1+, not only is the empowered CA cooldown cut down by half, but you
+      also just need to reach the fifth Normal Attack for the Vaulting Fist
+      rather than wait for either the cooldown or HP reduction. This makes N5C
+      his best combo after C1.
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png

@@ -1,0 +1,46 @@
+---
+content:
+embeds:
+  - title: '**Mono Cryo**'
+    description: >-
+      ### Wriothesley | Shenhe | Cryo | Anemo
+
+      Thanks to the existence of Shenhe, Mono Cryo teams can be a strong option.
+      Wriothesley can use all of Shenhe’s quills quickly whilst making use of
+      both the Normal and Charged Attack DMG% and Cryo RES Shred provided by her
+      Hold Skill and Burst respectively. Characters such as Kazuha can further
+      increase the team’s damage output, although any Anemo holding 4pc
+      Viridescent Venerer also works just to shred Cryo RES. Diona not only
+      fills the required role of a healer, but also provides interruption
+      resistance through shields and large amounts of Cryo particles, lowering
+      the amount of Energy Recharge Wriothesley needs to consistently use his
+      Burst.
+
+
+      __**Teammates**__
+
+
+      <:cryo:1084834834184151172> **Cryo options:** Ganyu, Rosaria, Ayaka,
+      Kaeya, Diona, Mika, Layla
+
+
+      <:anemo:1094545726748508250> **Anemo options:** Kazuha, Sayu, Jean, any
+      Anemo with 4pc VV
+    color: 6229534
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1153687143089197167/wca4ZFibLpReAAAAABJRU5ErkJggg.png
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+  - customId: liveInteraction#faq/cryo/wriothesley/teambuilding1
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"
+  - customId: liveInteraction#faq/cryo/wriothesley/teambuilding3
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

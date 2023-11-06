@@ -1,0 +1,58 @@
+content: null
+embeds:
+  - title: __CREDITS__
+    color: 6229534
+    fields:
+      - name: 'Lead:'
+        value: <@366206663533002774>
+      - name: 'Authors:'
+        value: <@366206663533002774>, <@280016643558604800>
+      - name: 'Calculations:'
+        value: <@366206663533002774>
+      - name: 'Framecounts:'
+        value: <@377496350155079690>
+      - name: 'Consulting:'
+        value: <@209617229216612352>, <@94978723341668352>
+      - name: 'Content Verification:'
+        value: |-
+          Calculations: <@148100838861176832>
+          Writing: <@812178562822963210>
+      - name: 'Transcription:'
+        value: <@812178562822963210>, <@651556217315000360>, <@703887128303763507>
+      - name: 'Resources:'
+        value: >-
+          [Wriothesley
+          Mastersheet](https://docs.google.com/spreadsheets/d/1YGaDBgqcvBpb-BWadJyoPycg1Ql5OmR4Z5PcFg5cmm4/edit?usp=sharing)
+
+          [Wriothesley Frames
+          Mastersheet](https://docs.google.com/spreadsheets/d/11AcTGQLAjwMT1wPHyenhWmWK3AKTeVQ84XIdkU2aCsk/edit?usp=sharing)
+      - name: DISCLAIMER
+        value: >-
+          *Pre-TC is volatile and, as always, perpetually subject to change
+          until release (and sometimes later!). Please note that these are
+          theoretical suggestions.
+
+          Everything described in this FAQ is a good faith analysis based on the
+          little information about the character’s kit that we know. Team calcs,
+          additionally, are not established yet, and as with everything in TC,
+          the content in this FAQ should be taken with a grain of salt.*
+    image:
+      url: >-
+        https://images-ext-1.discordapp.net/external/w56CxB8SW8wBiq9vr-HT-HCT76oZc4prHAlLhEu1KJk/%3Fformat%3Djpg%26name%3Dlarge/https/pbs.twimg.com/media/F0FYYHPWcAA5ftj?width=898&height=468
+  - title: __OVERVIEW__
+    description: >-
+      Wriothesley is a Cryo catalyst that focuses on enhancing and dealing
+      damage with his Normal and Charged Attacks, and takes up the majority of
+      the team’s field time in order to dish out high amounts of damage. He can
+      either be played in a Cryo team (Mono Cryo or Freeze) that emphasize on
+      buffing him, or in a Reverse Melt team where he can melt his Cryo Attacks.
+      In either of those, Wriothesley teams will focus on having teammates that
+      increase Wriothesley’s damage values while taking little field time.
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141409033065086976/UI_AvatarIcon_Wriothesley.png

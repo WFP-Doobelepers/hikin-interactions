@@ -1,0 +1,108 @@
+content: null
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - Terror for the Evildoers**
+    description: >-
+      > *The Gracious Rebuke from the Passive Talent "There Shall Be a Plea for
+      Justice" is changed to this:
+
+      > When Wriothesley's HP is less than 60% or while he is in the Chilling
+      Penalty state caused by Icefang Rush, when the fifth attack of Repelling
+      Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can
+      be obtained every 2.5s.
+
+      > 
+
+      > Additionally, Rebuke: Vaulting Fist will obtain the following
+      enhancement:
+
+      > - The DMG Bonus gained will be further increased to 200%.
+
+      > - When it hits while Wriothesley is in the Chilling Penalty state, that
+      state's duration is extended by 4s. 1 such extension can occur per 1
+      Chilling Penalty duration.
+
+      > 
+
+      > You must first unlock the Passive Talent "There Shall Be a Plea for
+      Justice."*
+
+
+      Arguably one of Wriothesley’s best Constellations. This shortens the long
+      5-second cooldown of his Ascension 1 passive to 2.5 seconds, ensuring he
+      gets healed through his enhanced Charged Attacks more frequently, while
+      also giving it a massive buff. 
+
+
+      After Wriothesley’s Vaulting Fist hits an enemy, the duration of the
+      Chilling Penalty state will be extended by another 4 seconds, totaling its
+      duration to 14 seconds (and can even get extended up to 16 seconds with
+      hitlag extension). Nevertheless, it is usually not worth extending his
+      field time since most buffs, such as VV, will run out before the Chilling
+      Penalty state ends. 
+
+
+      Unbuffed Cryo DPS Increase from C0: 18.25%
+
+
+      Buffed Cryo DPS Increase from C0: 10.41%
+
+
+      Reverse Melt DPS Increase from C0: 14.21%
+    color: 6229534
+    fields:
+      - name: '***Rating:***'
+        value: 3.5/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141533131392962580/UI_Talent_S_Wriothesley_01.png
+  - title: '**Constellation 2 - Shackles for the Arrogant**'
+    description: >-
+      > *When using Darkgold Wolfbite, each Prosecution Edict stack from the
+      Passive Talent "There Shall Be a Reckoning for Sin'' will increase said
+      ability's DMG dealt by 40%.
+
+      > You must first unlock the Passive Talent "There Shall Be a Reckoning for
+      Sin."*
+
+
+      This turns Wriothesley’s Burst into a nuke after finishing his combo.
+      However, it is still not worth building Energy Recharge to burst every
+      rotation. Still a decent constellation nonetheless.
+
+
+      Unbuffed Cryo DPS Increase from C1: 13.84%
+
+
+      Buffed Cryo DPS Increase from C1: 7.66%
+
+
+      Reverse Melt DPS Increase from C1: 13.91%
+
+
+      Unbuffed Cryo DPS Increase from C1: 34.60%
+
+
+      Buffed Cryo DPS Increase from C1: 18.86%
+
+
+      Reverse Melt DPS Increase from C1: 30.09%
+    color: 6229534
+    fields:
+      - name: '***Rating:***'
+        value: 2/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141533131766239362/UI_Talent_S_Wriothesley_02.png
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/wriothesley/constellations2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

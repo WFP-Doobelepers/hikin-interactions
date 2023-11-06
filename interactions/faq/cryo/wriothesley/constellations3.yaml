@@ -1,0 +1,85 @@
+content: null
+embeds:
+  - title: '**Constellation 5 - Mercy for the Wronged**'
+    description: >-
+      > *Increases the Level of Darkgold Wolfbite by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      C5 increases his nuke potential. Nonetheless, it remains negligible when
+      he doesn't Burst every rotation.
+
+
+      Unbuffed Cryo DPS Increase from C2: 3.19%
+
+
+      Buffed Cryo DPS Increase from C2: 2.04%
+
+
+      Reverse Melt DPS Increase from C2: 3.21%
+
+
+      Unbuffed Cryo DPS Increase from C0: 76.67%
+
+
+      Buffed Cryo DPS Increase from C0: 52.33%
+
+
+      Reverse Melt DPS Increase from C0: 73.16%
+    color: 6229534
+    fields:
+      - name: '***Rating:***'
+        value: 1/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141533132907089980/UI_Talent_U_Wriothesley_02.png
+  - title: '**Constellation 6 - Esteem for the Innocent**'
+    description: >-
+      > *The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and
+      its CRIT DMG by 80%. When unleashed, it will also create an additional
+      icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as Cryo DMG.
+      DMG dealt this way is regarded as Charged Attack DMG.
+
+      > You must first unlock the Passive Talent "There Shall Be a Plea for
+      Justice."*
+
+
+      Grants additional CRIT Rate and CRIT DMG for Wriothesley’s Vaulting Fist,
+      as well as creates an additional hit that scales just like his enhanced
+      Charged Attacks and does not share ICD with his initial CA.
+
+
+      Unbuffed Cryo DPS Increase from C2: 52.62%
+
+
+      Buffed Cryo DPS Increase from C2: 32.96%
+
+
+      Reverse Melt DPS Increase from C2: 29.41%
+
+
+      Unbuffed Cryo DPS Increase from C0: 169.63%
+
+
+      Buffed Cryo DPS Increase from C0: 102.53%
+
+
+      Reverse Melt DPS Increase from C0: 124.09%
+    color: 6229534
+    fields:
+      - name: '***Rating:***'
+        value: 3.5/5
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1141533133452361768/UI_Talent_S_Wriothesley_04.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/wriothesley/constellations2
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"

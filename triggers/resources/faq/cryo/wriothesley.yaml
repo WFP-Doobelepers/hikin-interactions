@@ -1,0 +1,4 @@
+interaction: faq/cryo/wriothesley/main
+description: "Opens Wriothesley FAQ"
+match: ${ TRIGGER_PREFIX }wriothesleyfaq(?:\s|$)
+ignoreCase: true

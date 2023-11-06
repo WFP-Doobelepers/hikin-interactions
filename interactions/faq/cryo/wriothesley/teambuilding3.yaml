@@ -1,0 +1,46 @@
+---
+content:
+embeds:
+  - title: '**Freeze**'
+    description: >-
+      ### Wriothesley | Hydro | Anemo | Flex
+
+      Freeze teams follow many of the same conventions as Mono Cryo, but have
+      the addition of increased safety through freezing enemies. Unfortunately
+      this doesn’t prevent Wriothesley constantly reducing his own HP but it can
+      help players by stopping enemies from attacking, removing the risk of
+      taking any additional damage. Due to his fast Normal Attacks, Wriothesley
+      can drive Xingqiu and Yelan particularly well.
+
+
+      __**Teammates**__
+
+
+      <:hydro:1094545501493403709> **Hydro options:** Xingqiu, Yelan, Kokomi,
+      Barbara
+
+
+      <:anemo:1094545726748508250> **Anemo options:** Kazuha, Sayu, Jean, any
+      Anemo with 4pc VV
+
+
+      <:flex:1094549077280169984> **Flex options:** Zhongli, Diona, Mika, Layla,
+      Yun Jin, any above Hydro or Anemo
+    color: 6229534
+    image:
+      url: >-
+        https://cdn.discordapp.com/attachments/1139854891729289246/1153799205689757807/dFyoI6x8dNuPIfzJt5yYoCQ4ZQ6yKgGAsFaORhkI2GGwMXGk4MZIwDAxuCYQzEgrWAhTmSCHWdRWMagyk0omhE0JggwTh2QkQIUal90knY5pSbCpgKmAqYCpgKmAqYCpgKmAr8WwXDiWMxJk8TPqCAAAAAElFTkSuQmCC.png
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+  - customId: liveInteraction#faq/cryo/wriothesley/teambuilding2
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"
+  - customId: liveInteraction#faq/cryo/wriothesley/teambuilding4
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

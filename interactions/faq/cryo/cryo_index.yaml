@@ -14,7 +14,7 @@ options:
     description: WFP resources on Mika!
     emoji: :Mika:1087703387639914526
 
-  # - label: Freminet
-  #   value: faq/cryo/freminet/main
-  #   description: WFP resources on Freminet!
-  #   emoji: :cryo:1084834834184151172
+  - label: Freminet
+    value: faq/cryo/freminet/main
+    description: WFP resources on Freminet!
+    emoji: :cryo:1084834834184151172

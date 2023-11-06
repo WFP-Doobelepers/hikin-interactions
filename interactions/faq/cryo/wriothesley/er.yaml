@@ -1,0 +1,35 @@
+content: null
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: >-
+      Wriothesley’s long field time makes it hard to maintain buffs after he is
+      done with his combo .When combined with his long Burst animation, it
+      lessens the value of building ER on him. 
+
+
+      He also only generates particles while he is still in his Chilling Penalty
+      state, which also means he would not generate particles when his HP is
+      lower than 50%. Note that for most cases, instead of funneling particles
+      to him, it's usually worth more for other support characters to catch
+      their own particles instead to cast their Burst and further support him
+      while also dealing damage.
+
+
+      Assuming a 20-second rotation, Wriothesley will generate 5 Cryo particles.
+
+
+      Each Favonius proc will approximately reduce his ER Requirement by ~20 –
+      25%.
+
+
+      Energy requirements will vary based on your team and rotation. For a more
+      accurate estimate, please use the Energy Recharge calculator linked
+      [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    color: 6229534
+    footer:
+      text: 'Authored by: Athena'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1154695252473548811/image.png

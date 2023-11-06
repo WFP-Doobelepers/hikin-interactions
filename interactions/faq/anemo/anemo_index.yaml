@@ -3,8 +3,7 @@ embeds:
     author:
       name: Select a character!
       icon_url: https://library.keqingmains.com/img/elements/anemo.png
-options: 
-
+options:
   - label: Faruzan
     value: faq/anemo/faruzan/main
     description: WFP resources on Faruzan!
@@ -19,3 +18,8 @@ options:
     value: faq/anemo/heizou/main
     description: WFP resources on Shikanoin Hiezou!
     emoji: <${EMOJIS.HEIZOU}>
+
+  - label: Lynette
+    value: faq/anemo/lynette/main
+    description: WFP resources on Lynette!
+    emoji: <:anemo:1094545726748508250>

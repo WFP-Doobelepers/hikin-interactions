@@ -1,0 +1,65 @@
+---
+content: null
+embeds:
+  - title: Duke of the Fortress of Meropide, Lord Incognito of the murky depths.
+    color: 6229534
+    fields:
+      - name: Wriothesley Mastersheet by .athene.
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1YGaDBgqcvBpb-BWadJyoPycg1Ql5OmR4Z5PcFg5cmm4/edit#gid=0)
+      - name: Wriothesley Frames Mastersheet by sirvaughan
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/11AcTGQLAjwMT1wPHyenhWmWK3AKTeVQ84XIdkU2aCsk/edit?usp=sharing)
+    author:
+      name: Wriothesley FAQ
+      icon_url: >-
+        https://genshin.honeyhunterworld.com/img/wriothesley_086_side_icon.webp?x89879
+    image:
+      url: >-
+        https://genshin.honeyhunterworld.com/img/wriothesley_086_gacha_splash.webp?x89879
+
+options:
+- label: Overview
+  value: faq/cryo/wriothesley/overview
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Talents
+  value: faq/cryo/wriothesley/talents1
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Constellations
+  value: faq/cryo/wriothesley/constellations1
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Combos
+  value: faq/cryo/wriothesley/combos
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: ER Requirements
+  value: faq/cryo/wriothesley/er
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Artifacts
+  value: faq/cryo/wriothesley/artifacts1
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Weapons
+  value: faq/cryo/wriothesley/weapons1
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Teambuilding
+  value: faq/cryo/wriothesley/teambuilding1
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: External Links
+  value: faq/cryo/wriothesley/external
+  description: WFP resources for Wriothesley FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+buttons:
+- label: WFP FAQ
+  url: https://wangshengfp.org/faq/wriothesley
+  emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
