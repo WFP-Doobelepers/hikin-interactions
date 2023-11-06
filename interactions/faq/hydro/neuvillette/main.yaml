@@ -22,7 +22,6 @@ embeds:
         https://media.discordapp.net/attachments/1139854891729289246/1143109169981952091/neuvillette_087_gacha_splash.png
 
 options: #dropdown
-
   - label: Overview
     value: faq/hydro/neuvillette/overview
     description: "WFP resources for Neuvillette FAQ."
@@ -41,22 +40,22 @@ options: #dropdown
   - label: Energy Recharge Requirements
     value: faq/hydro/neuvillette/erreq
     description: "WFP resources for Neuvillette FAQ."
-    emoji: ${ EMOJIS.HYDRO_BOX }  
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Artifacts
     value: faq/hydro/neuvillette/artifacts1
     description: "WFP resources for Neuvillette FAQ."
-    emoji: ${ EMOJIS.HYDRO_BOX }  
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Weapons
     value: faq/hydro/neuvillette/weapons
     description: "WFP resources for Neuvillette FAQ."
-    emoji: ${ EMOJIS.HYDRO_BOX }  
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: Team Building
     value: faq/hydro/neuvillette/teambuilding1
     description: "WFP resources for Neuvillette FAQ."
-    emoji: ${ EMOJIS.HYDRO_BOX }  
+    emoji: ${ EMOJIS.HYDRO_BOX }
 
   - label: External Links
     value: faq/hydro/neuvillette/external
@@ -70,6 +69,6 @@ buttons:
     style: LINK
 
   - label: KQM Guide
-    url: https://keqingmains.com/kuki/
+    url: https://keqingmains.com/neuvillette/
     emoji: :logont:945530991240421386
     style: LINK
