@@ -4,9 +4,13 @@ embeds:
       name: Select a character!
       icon_url: https://library.keqingmains.com/img/elements/pyro.png
 
-options: 
-
+options:
   - label: Dehya
     value: faq/pyro/dehya/main
-    description: WFP resources on FAQ!
+    description: WFP resources on Dehya!
     emoji: <${EMOJIS.DEHYA}>
+
+  - label: Lyney
+    value: faq/pyro/lyney/main
+    description: WFP resources on Lyney!
+    emoji: <${EMOJIS.LYNEY}>

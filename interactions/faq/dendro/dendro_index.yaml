@@ -4,7 +4,7 @@ embeds:
       name: Select a character!
       icon_url: https://library.keqingmains.com/img/elements/dendro.png
 
-options: 
+options:
   - label: YaoYao
     value: faq/dendro/yaoyao/main
     description: WFP resources on YaoYao
@@ -12,7 +12,7 @@ options:
 
   - label: Alhaitham
     value: faq/dendro/alhaitham/main
-    description: WFP resources on Alhaitham 
+    description: WFP resources on Alhaitham
     emoji: <${EMOJIS.ALHAITHAM}>
 
   - label: Nahida
@@ -29,3 +29,18 @@ options:
     value: faq/dendro/collei/main
     description: WFP resources on Collei
     emoji: <${EMOJIS.COLLEI}>
+
+  - label: Kirara
+    value: faq/dendro/kirara/main
+    description: WFP resources on Kirara
+    emoji: <${EMOJIS.KIRARA}>
+
+  - label: Baizhu
+    value: faq/dendro/baizhu/main
+    description: WFP resources on Baizhu
+    emoji: <${EMOJIS.BAIZHU}>
+
+  - label: Kaveh
+    value: faq/dendro/kaveh/main
+    description: WFP resources on Kaveh
+    emoji: <${EMOJIS.KAVEH}>
