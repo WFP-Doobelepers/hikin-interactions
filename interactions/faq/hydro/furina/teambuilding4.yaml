@@ -68,7 +68,6 @@ buttons:
   label: Previous
   style: PRIMARY
   emoji: "◀️"
-
 - customId: liveInteraction#faq/hydro/furina/teambuilding5
 label: Next
 style: PRIMARY
