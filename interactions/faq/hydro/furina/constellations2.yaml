@@ -1,0 +1,67 @@
+content: null
+embeds:
+
+  - title: >-
+      **Constellation 3 - "My Secret Is Hidden Within Me, No One Will Know My
+      Name"**
+    description: >-
+      > *Increases the Level of Let the People Rejoice by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      C3 increases the levels of Furina’s Elemental Burst, granting the party
+      even more DMG Bonus and Healing Bonus per Fanfare stack. At Talent level
+      12, she’s now able to grant up to 116% DMG Bonus and 48% Incoming Healing
+      Bonus to the party. C1’s frontloaded Fanfare stacks now also grant 43.5%
+      DMG Bonus and 18% Incoming Healing bonus immediately, increasing the value
+      of an already great Constellation.
+    color: 2175370
+    fields:
+      - name: '***DPS% Increase vs. C2:***'
+        value: 7.47%
+      - name: '***DPS% Increase vs. C0:***'
+        value: 70.73%
+      - name: '***Rating:***'
+        value: 3/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300059200520232/UI_Talent_U_Furina_02.png?ex=655889dd&is=654614dd&hm=e8612541c9174cce0433aead6c0d98afdb6508d9fc47bcbbed6c9226bc9a1d1c&=
+  - title: >-
+      **Constellation 4 - "They Know Not Life, Who Dwelt in the Netherworld
+      Not!"**
+    description: >-
+      > *When the Salon Members from Salon Solitaire hit an opponent, or the
+      Singer of Many Waters restores HP to the active character, Furina will
+      restore 4 Energy. This effect triggers once every 5s.*
+
+
+      A nice Constellation to help with Furina’s Energy requirements in high ER
+      scenarios, granting her 16 Energy in 20 second rotations. This helps to
+      lower her Energy requirements by ~45%, allowing for more offensive stats
+      to be built on her.
+    color: 2175370
+    fields:
+      - name: '***DPS% Increase vs. C3:***'
+        value: 11.99%
+      - name: '***DPS% Increase vs. C0:***'
+        value: 91.2%
+      - name: '***Rating:***'
+        value: 3/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300059460575313/UI_Talent_S_Furina_03.png?ex=655889dd&is=654614dd&hm=ba17d36fa9ee9dd5dad18ee7dfa03ef8684d03006d803a56a7bd33a7dfbde9e2&=
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/furina/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

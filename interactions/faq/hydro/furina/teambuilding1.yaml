@@ -1,0 +1,78 @@
+content: null
+embeds:
+  - title: __TEAM BUILDING__
+    description: >-
+      Furina’s main condition requires either a healer or teammate with large
+      amounts of HP manipulation in order to get a decent amount of Fanfare
+      every rotation. Because of this, the best suited roles for the job are AoE
+      healers and current Fontainian DPS. If players can fulfill these
+      conditions, she can be run with almost any other characters, due to
+      providing both large amounts of off-field damage and buffing. 
+
+      Due to her wide variety of teams, some standout teammates will be listed
+      rather than set archetypes, whilst also providing a few sample teams
+      instead of an exhaustive list. For more info on a specific character,
+      please check out their respective FAQs or KQM Guides.
+    color: 2175370
+  - title: __**Fontainian Teammates**__
+    description: >-
+      Most Fontainian characters have access to HP manipulation, helping to
+      speed up Fanfare gain for the team. Although our current roster is slim,
+      future characters with these mechanics will fit with her very similarly.
+    color: 2175370
+  - title: '**Neuvillette**'
+    description: >-
+      Neuvillette is able to gain large amounts of Fanfare due to him both
+      draining and healing constantly between 60% and 100% HP when using his
+      Charged Attacks. His HP manipulation is so great, he can be played without
+      a healer and still get a good amount of Fanfare, allowing for more
+      offensive teammates to be used, at the cost of Furina’s personal damage.
+      Neuvillette also greatly benefits from his Constellation 1 when being run
+      with Furina, granting him an extra stack for his A1 Passive and 100%
+      Interruption Resistance, further amplifying the offensive pressure of his
+      teams. Neuvillette also tends to overcap his HP when healing from a
+      Charged Attack, activating Furina’s A1 Passive to provide extra healing to
+      the party.
+    color: 2175370
+    fields:
+      - name: Neuvillette / Furina / Kazuha / Charlotte
+        value: 'ER Reqs: 150%'
+      - name: Neuvillette / Furina / Fischl / Jean
+        value: 'ER Reqs: 130%'
+      - name: Neuvillette / Furina / Nahida / Raiden
+        value: 'ER Reqs: 125%'
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_AvatarIcon_Neuvillette.png?vh=2023092501
+  - title: '**Wriothesley**'
+    description: >-
+      Wriothesley also drains large amounts of his HP when he attacks during the
+      Chilling Penalty state, further increasing Fanfare gain for the team.
+      However, his total HP loss is further increased when paired with Furina,
+      making a healer a requirement in order to keep Wriothesley above 50% HP to
+      avoid disabling the Chilling Penalty state. This large amount of HP drain
+      further incentivises healers, who will now change more amounts of HP,
+      resulting in more Fanfare gained. Although Wriothesley’s C1 increases his
+      survivability, it is still recommended to run him with a healer due to the
+      extra Fanfare gained whilst keeping his off-field teammates healthy.
+    color: 2175370
+    fields:
+      - name: Wriothesley / Furina / Yelan / Mika
+        value: 'ER Reqs: 185%'
+      - name: Wriothesley / Furina / Xiangling / Baizhu
+        value: 'ER Reqs: 240% / 200% (21s vs 25s rotation)'
+      - name: Wriothesley / Furina / Shenhe / Jean
+        value: 'ER Reqs: 225%'
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_AvatarIcon_Wriothesley.png?vh=2023092501
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

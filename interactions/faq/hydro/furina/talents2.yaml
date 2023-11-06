@@ -1,0 +1,64 @@
+content: null
+embeds:
+  - title: '**Elemental Skill: Salon Solitaire**'
+    description: >-
+      *CD: **20s***
+
+
+      Furina’s Elemental Skill summons the Salon Solitaire to aid the team in
+      battle. She will summon either the Salon Members or the Singers of Many
+      Waters, based on her current Arkhe alignment. It has a long duration of 30
+      seconds and a cooldown of 20 seconds, allowing for 100% uptime, even in
+      teams with longer rotations, such as Neuvillette teams.
+
+
+      When aligned with Ousia, Furina will summon three Salon Members, who will
+      each attack enemies at different intervals (prioritizing the target of the
+      active character), dealing Hydro DMG based on Furina’s Max HP. If there
+      are party members with more than 50% HP, they will drain their HP upon
+      attacking, while also increasing the damage of the Salon Members by
+      110%/120%/130%/140%, based on the number of characters who had their HP
+      consumed. Each Salon Member deals a different amount of damage and drains
+      a different amount of HP from all teammates upon attacking. Furina’s Salon
+      Members will drain around 2.5% HP per second from all of her teammates,
+      making healers a requirement when playing her in order to maximize her
+      damage, as characters at/below 50% HP won’t have sufficient HP available
+      to drain to acquire the damage increase for her Salon Members.
+
+
+      When aligned with Pneuma, Furina will summon the Singers of Many Waters,
+      who will heal nearby active characters based on her Max HP. While this
+      means that she will provide AoE healing in co-op, in singleplayer, only
+      the current active character will be healed, meaning that she won’t be
+      able to reliably solo-sustain the whole team against her own HP draining
+      mechanics.
+
+
+      The currently active Salon Solitaire guests can be swapped at will by
+      using her Charged Attack to change her Arkhe alignment, meaning players
+      can easily swap from damage to healing if their HP gets too low. However,
+      since both guests can’t be active at the same time, she will lose out on
+      generating Energy and applying Hydro whilst the Singers of Many Waters are
+      active.
+
+
+      Currently, Furina’s Elemental Skill DOES NOT snapshot, meaning that any
+      buffs she currently has will affect her guest’s damage or healing
+      dynamically throughout their duration.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170299508513574952/Skill_S_Furina_01.png?ex=65588959&is=65461459&hm=ac4198ae6449e73927ee8681d5ba6ada50a4f0d17f2fc668be198e6a41bfe753&=
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+buttons:
+- customId: liveInteraction#faq/hydro/furina/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/furina/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

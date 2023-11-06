@@ -1,0 +1,44 @@
+content: null
+embeds:
+  - title: |-
+      __TALENT PRIORITY__
+
+      **Elemental Skill = Elemental Burst > Normal Attack**
+    description: >-
+      ## __Analysis__
+
+      - Furina’s Elemental Skill is her main source of damage, whilst her
+      Elemental Burst provides large amounts of DMG Bonus and Incoming Healing
+      Bonus. Because of this, players will want to level both talents equally.
+      Her Normal Attack talents can be ignored, unless players are using her
+      on-field at C6, in which case her Normal Attack talent levels become
+      slightly less negligible.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170308417471135764/FAQ_TALENT_PRIORITY-01.png?ex=655891a6&is=65461ca6&hm=1548e4d9486d9ff5b7be9c92cf37c50cfe37a4da2a26f536a352dae36dcd6948&=
+  - title: |-
+      __TALENT OVERVIEW__
+
+      **Normal Attack: Soloist's Solicitation**
+    description: >-
+      Furina performs a 4-hit attack string. At C0, she has almost no reason to
+      use these. However, at C6, she gains a Hydro Infusion and increased
+      scalings based on her Max HP. Her Charged Attack may be used often to
+      change her Arkhe alignment between Ousia and Pneuma, changing the effects
+      of her Elemental Skill and helping with overworld puzzles. Both Arkhe
+      Attacks have a 6s CD each, making her excel at any content involving Arkhe
+      mechanics compared to previous Fontainian characters.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1156544999165526026/Skill_A_01.png?ex=6516ad77&is=65155bf7&hm=f0fb65b675f04845b38d3cd65b75a1464e9b28a48a3f2ad5d16d0ee75d482abc&=
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+buttons:
+- customId: liveInteraction#faq/hydro/furina/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

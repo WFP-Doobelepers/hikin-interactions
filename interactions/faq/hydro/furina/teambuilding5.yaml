@@ -1,0 +1,91 @@
+content: null
+embeds:
+  - title: '**Eula / Furina / Fischl / Mika**'
+    description: >-
+      ER Reqs: 190%
+
+
+      Although Furina’s Energy requirements may be high, she can actually be an
+      increase to Eula teams, given you can gain a large amount of Fanfare. Mika
+      works excellently for this role, providing a large AoE heal and then
+      extra, off-field healing to the active character, which helps to trigger
+      Furina’s A1 Passive consistently. With constellations, he becomes on par
+      or better than Bennett in terms of buffs for Eula, whilst Fischl helps to
+      trigger Superconduct and provide extra Energy to the team. Raiden can be a
+      viable option over Fischl for double carry teams, where she is able to
+      catch the tail end of Furina’s Fanfare on most of her Burst and further
+      lower Energy requirements.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170351287888510976/qRRMlyZTymgAAAABJRU5ErkJggg.png?ex=6558b993&is=65464493&hm=1d2609d4cf8d46e31dd52555ae47ef00d090b7ed6ee4f15b3e7b742df1026eca&=&width=1025&height=236
+  - title: '**Raiden / Furina / Jean / Bennett**'
+    description: >-
+      ER Reqs: 145%
+
+
+      Another general Raiden team containing the sunfire duo of Jean and
+      Bennett, helping to both buff, heal and apply large amounts of Pyro for
+      the team. Jean’s Burst helps to gain a lot of Fanfare very quickly whilst
+      consistently activating Furinas A1 Passive for even more healing. The
+      extreme Pyro application also allows for many Overloaded and Vaporize
+      reactions to be triggered, however, the lack of grouping may not be for
+      everyone.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170351474073686046/Tx9IN7pLClb8CQYxutvf82CIAAAAASUVORK5CYII.png?ex=6558b9bf&is=654644bf&hm=d128fe5ffd42871d4b88ffaed8076fc1fd09d24a9431ca9f424894729fefddfa&=&width=1025&height=236
+  - title: '**Furina / Yelan / Xiangling / Bennett**'
+    description: >-
+      ER Reqs: 150%
+
+
+      One of the few teams that can safely run a single-target healer. Due to
+      the team having no dedicated on-field character, players can swap freely
+      between their party members when they need healing, and then swap back to
+      Bennett to repeatedly use his Skill to funnel Particles into Xiangling.
+      Yelan is able to freely use her Skill twice per rotation in this team,
+      helping to lower Furina’s Energy Requirements further. Xingqiu can be a
+      viable alternative with higher Energy Requirements in exchange for
+      defensive utility and Hydro RES Shred from his Constellation 2.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170901530841468979/wcR49TvPO8DYgAAAABJRU5ErkJggg.png?ex=655aba07&is=65484507&hm=ce5d7f4971123271190fced10819eac95a63087ba8ad22d396e194a529fd88c7&=&width=1025&height=236
+  - title: '**Alhaitham / Furina / Nilou / Baizhu**'
+    description: >-
+      ER Reqs: 200%
+
+
+      An alternative style of Nilou Bloom that doesn’t require Nahida, instead
+      preferring to use Alhaitham on-field whilst Furina provides both Hydro
+      application and off-field damage. Nilou’s Tranquility Aura provides
+      additional Hydro application for Bountiful Blooms and Baizhu provides
+      large amounts of healing to generate Fanfare and to help offset the team’s
+      self damage. Baizhu can also run Prototype Amber for additional healing
+      and Energy whilst having the freedom to use two Skills quite safely.
+      Furina’s Fanfare buff is utilized effectively by Alhaitham, providing
+      large amounts of Dendro DMG and application for Blooms. Although Baizhu’s
+      shields will help mitigate it somewhat, this team is adding Furina’s
+      teamwide HP drain on top of the Bountiful Bloom’s self damage, which may
+      be uncomfortable for some players.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170901662848782488/9GZRj8BQAAAAASUVORK5CYII.png?ex=655aba26&is=65484526&hm=7c48a33874f866bf24fb1aae1fe9c001fb1a3de499bae342f5109cbea0ddf76d&=&width=1025&height=236
+  - description: >-
+      ### Please note this is not an exhaustive list of teams and is only meant
+      to give an example of some teams Furina fits in. Feel free to experiment
+      with characters you enjoy and see what works best for you.
+    color: 2175370
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/teambuilding4
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"

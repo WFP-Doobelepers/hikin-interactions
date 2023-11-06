@@ -1,0 +1,43 @@
+content: null
+embeds:
+  - title: |-
+      __Artifact Sets__
+
+      **4PC Golden Troupe**
+    description: >-
+      4pc Golden Troupe is Furina’s prime artifact set, providing her Elemental
+      Skill 70% DMG Bonus. Alongside all the other DMG Bonus buffs she gains,
+      she will generally prefer to run a HP goblet on this set.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15032_4.png?vh=2023092501
+  - title: '**4PC Tenacity of the Millelith**'
+    description: >-
+      4pc Tenacity provides a 20% ATK buff to the team as well as 20% HP to
+      Furina. A possible option for teams with multiple ATK scaling damage
+      dealers, although Furina’s personal damage drops a lot.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15017_4.png?vh=2023092501
+  - title: '**2PC Skill/Hydro/HP/ER Combos**'
+    description: >-
+      Any combination of 2pc Golden Troupe, 2pc Heart of Depth, 2pc Nymph’s
+      Dream, 2pc Tenacity of the Millelith, 2pc Vourukasha's Glow and 2pc Emblem
+      of Severed Fate can work before acquiring a 4pc Golden Troupe set for
+      Furina.
+    color: 2175370
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1168840402040803419/f8rBJEjbsYJAAAAAAElFTkSuQmCC.png?ex=65533a73&is=6540c573&hm=a0abf6d66102721116a0ec159f159af951234a954ba2c006dae8c222710bcfb9&=
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/artifacts1
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,71 @@
+content: null
+embeds:
+  - title: >-
+      The absolute focus of the stage of judgment, until the final applause
+      sounds.
+    color: 2175370
+    fields:
+      - name: Furina Mastersheet by leifa, _ac1d, and raikh
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1K6IqEo4-NtaJU8yCL75smsLt3vdc5AZRkxi_2vh_wdE/edit#gid=981902297)
+    author:
+      name: Furina FAQ
+      icon_url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158135769853087836/furina_089_side_icon.png?ex=651b257c&is=6519d3fc&hm=f70040bec0ef04b21156c051c5dc12cf2a704692d3189dd8734a410da0dda552&=
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158141940924153906/furina_089_gacha_splash.png?ex=651b2b3b&is=6519d9bb&hm=f075f4f3aa06c23b66e0262b45d8f6287002c3088a1d7a85c5343e349f6df291&=&width=864&height=468
+
+
+options: #dropdown
+  - label: Overview
+    value: faq/hydro/furina/overview
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Talents
+    value: faq/hydro/furina/talents1
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Constellations
+    value: faq/hydro/furina/constellations1
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/hydro/furina/erreq
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Artifacts
+    value: faq/hydro/furina/artifacts1
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Weapons
+    value: faq/hydro/furina/weapons1
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Team Building
+    value: faq/hydro/furina/teambuilding1
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: External Links
+    value: faq/hydro/furina/external
+    description: "WFP resources for Furina FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/furina
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/neuvillette/
+    emoji: :logont:945530991240421386
+    style: LINK

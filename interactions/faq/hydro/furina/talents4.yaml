@@ -1,0 +1,47 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Endless Waltz**
+    description: >-
+      If the currently active character is overhealed by someone that isn’t
+      Furina, Furina will heal all nearby party members for 2% of their Max HP
+      once every 2 seconds within the next 4 seconds. This Passive will help to
+      gain some extra Fanfare for her Burst, and, if activated frequently, acts
+      like a pseudo Prototype Amber.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300189299462214/UI_Talent_S_Furina_05.png?ex=655889fc&is=654614fc&hm=af3d04d3de4dba5db72d7e7fe7bcf167cafec9a8987d078ee679c3b6cfc35ab5&=
+  - title: '**Ascension 4 Passive: Unheard Confession**'
+    description: >-
+      Furina will grant buffs to her Salon Solitaire guests based on her Max HP.
+      For every 1,000 points of HP she has, the Salon Members will gain 0.7% DMG
+      Bonus, up to a maximum of 28%, and the healing interval of the Singers of
+      Many Waters will be decreased by 0.4%, up to a maximum of 16%. These
+      effects will be maxed out at 40,000 HP, meaning players may want to run a
+      secondary HP main stat piece to help reach this.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300189542719528/UI_Talent_S_Furina_06.png?ex=655889fc&is=654614fc&hm=4833eb708eaf45bcfa6bc2bb4c68f5c458b86a8b149413f217f1b9ed72839f65&=
+  - title: '**Utility Passive: The Sea is My Stage**'
+    description: >-
+      Furina decreases the ability cooldown of Xenochromatic Fontemer Aberrants
+      by 30%, allowing players to use the abilities granted by underwater sea
+      creatures much faster.
+    color: 2175370
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300189798580295/UI_Talent_S_Furina_07.png?ex=655889fc&is=654614fc&hm=21c89d4affcefb4b91d1e508f6358ace282a96dd49bbd4ba2806e3f0ab34c289&=
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/talents3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

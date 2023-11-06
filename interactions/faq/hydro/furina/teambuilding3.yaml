@@ -1,0 +1,93 @@
+content: null
+embeds:
+  - title: __**Burst Healers**__
+    description: >-
+      Burst healers specialize in providing a large, immediate amount of healing
+      to the entire team. This can help with gaining a large amount of Fanfare
+      immediately once Furina has already drained your team’s HP. Characters
+      that fall into this category include: Jean, Baizhu, Barbara, Sayu, Yaoyao,
+      Mika and Charlotte.
+    color: 2175370
+  - title: '**Baizhu**'
+    description: >-
+      Compared to our other burst healers, Baizhu doesn’t need to use his
+      Elemental Burst to heal the entire team, instead only needing to cast his
+      Skill, which can be used once every 10 seconds. He also provides extra
+      comfort through his Burst, periodically healing the active character
+      whilst refreshing his shields and applying Dendro to the enemy. This
+      periodic healing helps to consistently activate Furina’s A1 Passive,
+      keeping the team even healthier and generating more Fanfare.
+    color: 2175370
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Baizhuer.png?vh=2023092501
+  - title: '**Jean**'
+    description: >-
+      Jean is a great slot in for teams that need to consolidate both 4pc
+      Viridescent Venerer and healing. Her Burst not only provides extra
+      continuous healing to characters inside her Field, but also cleanses,
+      Swirling the element cleansed onto nearby enemies. Her A4 Passive also
+      helps to lower her Energy requirements, alongside a low cooldown Skill to
+      refresh 4pc VV if needed.
+    color: 2175370
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Qin.png?vh=2023092501
+  - title: '**Charlotte**'
+    description: >-
+      A new 4-star Cryo Catalyst healer who will be available on Furina’s
+      banner. Although her Energy requirements can be very high, she can make
+      great use of Prototype Amber despite her healing scaling off her ATK. Her
+      healing is already high at C0, but when factoring in both Constellations
+      and Prototype Amber, her total healing skyrockets to the point of needing
+      no extra healing substats to sustain the team. This allows her to focus
+      fully on the Energy Recharge she needs to consistently cast her Elemental
+      Burst.
+    color: 2175370
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Charlotte.png?vh=2023092501
+  - title: '**Mika**'
+    description: >-
+      A 4-star Cryo Polearm healer with both a strong AoE Burst heal and
+      sustained single-target healing. Compared to Charlotte, Mika has access to
+      the new Fontaine craftable polearm, Rightful Reward, granting him HP% and
+      large amounts of Energy when he receives healing. In a Furina team, he is
+      able to trigger this passive twice, thanks to Furinas A1 Passive, allowing
+      him to run next to no Energy Recharge in his teams. He also provides an
+      Attack Speed and Physical DMG Bonus buff, allowing him to fit nicely into
+      Wriothesley, Wanderer and Eula teams, alongside Furina for even more team
+      buffs.
+    color: 2175370
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Mika.png?vh=2023092501
+  - title: '**Prototype Amber**'
+    description: >-
+      Prototype Amber at R5 provides healing to all party members equal to 18%
+      of their Max HP. which can be used for extra comfort, and more immediate
+      Fanfare gain in teams. Alongside Furina’s Fanfare, and a Healing Bonus
+      Circlet, this can be increased to ~30% Max HP or ~36% Max HP with 4pc
+      Maiden Beloved. Although this generally won’t sustain a team by itself, it
+      can make teams with single-target healing much easier to play, especially
+      if your Catalyst teammate doesn’t require any other gear to benefit the
+      team. In longer rotations, characters with lower cost Elemental Bursts
+      such as Ninggaung or Heizou can activate Prototype Amber’s Passive twice
+      to heal 60% of the party’s Max HP. They are also able to run supportive
+      artifact sets such as 4pc Archaic Petra or Viridescent Venerer with little
+      to no Energy Recharge substats due to the large amounts of Energy granted
+      by this weapon.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Proto.png?vh=2023092501
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/teambuilding4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
+- customId: liveInteraction#faq/hydro/furina/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"

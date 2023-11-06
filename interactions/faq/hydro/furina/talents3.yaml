@@ -1,0 +1,44 @@
+content: null
+embeds:
+  - title: '**Elemental Burst: Let the People Rejoice**'
+    description: >-
+      *CD: **15s***
+
+      *Energy Cost: **60***
+
+
+      Furina’s Elemental Burst deals AoE Hydro DMG and causes all party members
+      to enter the Universal Revelry state. During this state, when nearby party
+      members’ HP changes, they will grant Furina one Fanfare for each
+      percentage point that their Max HP changed (For example, a 40% reduction
+      in a nearby character’s HP would grant Furina 40 Fanfare). Based on the
+      amount of Fanfare Furina has (up to a maximum of 300 Fanfare), she will
+      grant all nearby party members DMG Bonus and Incoming Healing Bonus. At
+      max Fanfare, Furina is granting the team 69% DMG Bonus and 27% Incoming
+      Healing Bonus, a large amount of stats that almost no character would hate
+      to have. Fanfare is based on the percentage of HP changed, meaning that
+      teams with AoE healers such as on-field Kokomi, Jean, or Baizhu, or
+      characters with fast HP manipulation, such as Neuvillette and Wriothesley,
+      will gain Fanfare much quicker than teams with single-target healers. Due
+      to Fanfare being a stacking effect, gaining Fanfare earlier in a rotation
+      is going to be much more impactful than near the end. Her Elemental Burst
+      can have 100% uptime in some teams, being a 60 cost Burst with an 18
+      second duration and a 15 second cooldown. Once the duration of her Burst
+      ends or is recast, all Fanfare points will be cleared.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170299531435450408/Skill_E_Furina_01_HD.png?ex=6558895f&is=6546145f&hm=5affced6c6f143a2ae2a7791bd6249b5ccd2606ef4bef738ed95b4437ccfcd16&=
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+buttons:
+- customId: liveInteraction#faq/hydro/furina/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/furina/talents4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,29 @@
+content: null
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: >-
+      Due to Furina’s wide variety of teams, her Energy requirements can vary
+      drastically. In scenarios with few Hydro particles, her Energy
+      requirements can reach well above 200%, compared to scenarios with an
+      abundance of Hydro particles going as low as 130%. Neuvillette teams also
+      have relatively low Energy requirements due to the longer rotation length,
+      allowing for 2 uses of Neuvillette’s Skill. 
+
+
+      Furina’s Energy requirements will vary based on your team and rotation.
+      For a more accurate estimate, please use the Energy Recharge Calculator
+      linked
+      [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+
+
+      For more detail on how Favonius weapons will affect your team, please use
+      Ac1d’s Favonius Mastersheet linked
+      [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+    color: 2175370
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170339012658085958/image.png?ex=6558ae24&is=65463924&hm=56951321df45d536e1c80ebb9642e9744e0f089157890c5d2ea62d23cfc0c162&=
