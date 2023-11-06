@@ -1,45 +1,5 @@
 content: null
 embeds:
-  - title: |-
-      __WEAPONS__
-
-      **Splendor of Tranquil Waters**
-    description: >-
-      Her signature weapon and current best in slot option, providing a large
-      amount of CRIT DMG from its substat, as well as both Skill DMG Bonus and
-      HP% when the user and teammates’ current HP changes respectively. Although
-      this is a standout weapon on her, it is currently not an improvement by a
-      huge margin compared to even F2P weapons, so players may wish to hold off
-      on wishing for this compared to her Constellations.
-    color: 2175370
-    thumbnail:
-      url: >-
-        https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Regalis.png?vh=2023092501
-  - title: '**Primordial Jade Cutter**'
-    description: >-
-      Another 5-star option that performs well on Furina, granting a large
-      amount of CRIT Rate, as well as HP% from its Passive. Furina will almost
-      always prefer to run a CRIT DMG circlet when using this weapon, due to her
-      also having CRIT Rate as her ascension stat. Despite this, it's her next
-      best option at lower ER requirements for personal damage.
-    color: 2175370
-    thumbnail:
-      url: >-
-        https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Morax.png?vh=2023092501
-  - title: '**Key of Khaj-Nisut**'
-    description: >-
-      The Key grants Furina more supportive abilities, giving a teamwide EM buff
-      upon hitting enemies with her Skill, which scales off of her Max HP. It
-      also provides a massive amount of HP%, perfect for increasing the amount
-      of EM she provides, as well as easily letting her run an Energy Recharge
-      sands without much downside in scenarios with high ER requirements.
-      Although she already gets a lot of DMG% from other sources, Hydro DMG
-      goblets gain in value due to the large amounts of HP she has when running
-      this weapon.
-    color: 2175370
-    thumbnail:
-      url: >-
-        https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Deshret.png?vh=2023092501
   - title: '**Festering Desire**'
     description: >-
       An outstanding F2P option for Furina, providing a mix of utility and
@@ -82,7 +42,7 @@ embeds:
     thumbnail:
       url: >-
         https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Zephyrus.png?vh=2023092501
-
+        
 buttons:
 - customId: liveInteraction#faq/hydro/furina/weapons1
   label: Next
