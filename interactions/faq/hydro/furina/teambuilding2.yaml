@@ -70,11 +70,11 @@ embeds:
 
 
 buttons:
+- customId: liveInteraction#faq/hydro/furina/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
 - customId: liveInteraction#faq/hydro/furina/teambuilding3
   label: Next
   style: PRIMARY
   emoji: "▶️"
-- customId: liveInteraction#faq/hydro/furina/teambuilding1
-  label: Next
-  style: PRIMARY
-  emoji: "◀️"
