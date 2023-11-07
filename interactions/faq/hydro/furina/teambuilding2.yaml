@@ -1,0 +1,80 @@
+content: null
+embeds:
+  - title: __**Non-Fontanian Teammates**__
+    description: >-
+      Currently, Furina’s standout non-Fontanian teammates are ones who
+      specialize in AoE healing. These come in two categories: sustained
+      healers, who will slowly heal the entire team over time, and burst
+      healers, who grant a large amount of healing to the entire team
+      immediately.
+    color: 2175370
+  - title: __****Sustained Healers****__
+    description: >-
+      Sustained healers specialize in consistently healing the team over the
+      course of a rotation. This provides less frontloaded stacks compared to
+      burst healing, but comes with the added benefit of keeping teammates
+      consistently healthy, never letting them get close to the cut off of 50%
+      HP. This also comes with the benefit of consistently activating Furina’s
+      A1 Passive, which helps to keep the team at high amounts of HP. Currently,
+      our only sustained healers require to be on-field to do their job, which
+      can limit the options available for teams. Characters that fall into this
+      category include: Qiqi, Kokomi, Noelle, Barbara, Dori and Yaoyao.
+    color: 2175370
+  - title: '**Kokomi**'
+    description: >-
+      Kokomi is a perfect candidate for an on-field healer for Furina, providing
+      more than enough healing to keep the team healthy whilst helping to lower
+      Furina’s Energy requirements. One standout team with her is Mono Hydro, a
+      team with very low Energy requirements that makes great use of Furina’s
+      Fanfare buff. Unfortunately, the Incoming Healing Bonus provided by
+      Furina’s Burst does not interact with Kokomi’s A4 Passive, but the DMG
+      Bonus gained is still a large increase for her. Mono Hydro is not Kokomi’s
+      only team however, as she’s able to run other playstyles (such as Taser
+      and Hyperbloom) with ease.
+    color: 2175370
+    fields:
+      - name: Kokomi / Furina / Yelan / Kazuha
+        value: 'ER Reqs: 130%'
+      - name: Kokomi / Furina / Fischl / Lynette
+        value: 'ER Reqs: 135% / 115% (21s vs 25s rotation)'
+      - name: Kokomi / Furina / Nahida / Kuki
+        value: 'ER Reqs: 150%'
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Kokomi.png?vh=2023092501
+  - title: '**Noelle**'
+    description: >-
+      Noelle also fits the role for an on-field healer, providing both healing
+      and shielding to the team with the ability to switch off-field if needs
+      be, allowing other teammates to use their Skills without losing Noelle’s
+      Burst effect. Being a Geo character, Noelle is able to hold 4pc Archaic
+      Petra to further increase the damage of her off-field teammates. This set
+      also incentivises running more Hydro characters alongside Furina, as they
+      can not only take advantage of the buffs provided by Petra, but also help
+      to lower Furina’s Energy requirements. To further help with the team’s
+      Energy, Noelle can wield the Favonius Greatsword, helping to gain her own
+      Burst back due to not generating Particles with her Elemental Skill.
+    color: 2175370
+    fields:
+      - name: Noelle / Furina / Yelan / Kazuha
+        value: 'ER Reqs: 205% / 165% (Yelan 1E vs 2E)'
+      - name: Noelle / Furina / Xingqiu / Zhongli
+        value: 'ER Reqs: 205% / 160% (Xingqiu 1E vs 2E)'
+      - name: Noelle / Furina / Gorou / Albedo
+        value: 'ER Reqs: 220% / 195%  (Without vs with 4pc Exile)'
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Noel.png?vh=2023092501
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/furina/teambuilding3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

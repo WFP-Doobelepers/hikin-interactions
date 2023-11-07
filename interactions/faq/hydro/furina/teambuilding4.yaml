@@ -1,0 +1,74 @@
+content: null
+embeds:
+  - title: __**Other Possible Teams**__
+    description: Here are some other possible teams Furina can be slotted into.
+    color: 2175370
+  - title: '**Hu Tao / Furina / Hydro / Jean**'
+    description: >-
+      ER Reqs: 210%
+
+
+      This team replaces either Xingqiu or Yelan for Furina, playing similarly
+      to original Hu Tao double Hydro teams. Although Hu Tao has innate HP loss
+      mechanics, she gains an extra 33% Pyro DMG Bonus whilst under 50% HP from
+      her A4 Passive. This is counteractive with Furina’s HP drain, requiring
+      teammates to be above 50% HP in order to have their HP drained. On top of
+      this, Hu Tao teams generally don’t run a healer because of her A4 Passive,
+      making the 4th slot now a requirement to be a healer to keep Furina’s
+      extra Skill damage active and Fanfare stacking up. Like other teams with
+      burst healers, they can frontload a large amount of Fanfare from the 2nd
+      rotation onwards, overcoming the loss of Hu Tao’s A4 Passive whilst
+      buffing the rest of the team at the same time. However, the Energy
+      requirements in this team are quite high, so don’t hesitate to run
+      Favonius weapons if need be.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170350696613281813/e1kYqC0J4RDQrWLxexwISCJ3vOfwD9F0jb6WmOp8AAAAASUVORK5CYII.png?ex=6558b906&is=65464406&hm=e76be9cff12dd97563e637aa6e6dbbbb138a4b23d3eb41a40d8497a6c92b20ec&=&width=1025&height=236
+  - title: '**Cyno / Furina / Nahida / Baizhu**'
+    description: >-
+      ER Reqs: 175%
+
+
+      Another team that replaces Xingqiu or Yelan for Furina to provide Cyno
+      with large amounts of DMG Bonus, alongside Furina’s high personal damage.
+      Although Cyno has access to weapons such as the Kitain Cross Spear, the
+      Energy requirements for this team can be very high without extra help from
+      weapons like Favonius. Baizhu can also carry Prototype Amber to help with
+      his own Energy requirements and provide some extra immediate Fanfare upon
+      using his Elemental Burst.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170350910254350417/fuwJifnJ4CF1Ctv5eXhfwBu6oXa7mWIZQAAAABJRU5ErkJggg.png?ex=6558b939&is=65464439&hm=0a4933f510f12afb16132f6f95c84654889c6aa6d07948904a28e31803c378bf&=&width=1025&height=236
+  - title: '**Ayaka / Furina / Shenhe / Charlotte**'
+    description: >-
+      ER Reqs: 205%
+
+
+      Due to Furina’s Salon Members attacking as they wish, she can be a great
+      slot in for Freeze teams, granting even more buffs to Ayaka to further
+      boost the benefit added from Shenhe’s Icy Quill effect. Charlotte can also
+      wield the Thrilling Tales of Dragon Slayers to provide Ayaka with a large
+      amount of ATK%, whilst providing a lot of immediate Fanfare. If players
+      require additional grouping, Shenhe can be replaced for an Anemo
+      character, such as Kazuha. However, this team will still perform strong
+      against unfreezable enemies due to the raw damage output from Ayaka.
+    color: 2175370
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170351130279161866/wGjbcJHg0ZgSQAAAABJRU5ErkJggg.png?ex=6558b96d&is=6546446d&hm=e7260adbb8d8bcf6a9292bcfcc8f3f729db3523858e10efb4a44762ee54c16e5&=&width=1025&height=236
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/teambuilding3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/furina/teambuilding5
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

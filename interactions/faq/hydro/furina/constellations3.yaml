@@ -1,0 +1,108 @@
+content: null
+embeds:
+  - title: '**Constellation 5 - "His Name I Now Know, It Is...!"**'
+    description: >-
+      > *Increases the Level of Salon Solitaire by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      C3 increases the levels of Furina’s Elemental Skill, providing a decent
+      damage increase.
+    color: 2175370
+    fields:
+      - name: '***DPS% Increase vs. C4:***'
+        value: 17.66%
+      - name: '***DPS% Increase vs. C0:***'
+        value: 124.96%
+      - name: '***Rating:***'
+        value: 3/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300059682869248/Skill_S_Furina_01.png?ex=655889dd&is=654614dd&hm=74762fdaa295ccbc934267dabb136172fffa3fb234baba84449c76a74d71b104&=
+
+  - title: '**Constellation 6 - "Hear Me — Let Us Raise the Chalice of Love!"**'
+    description: >-
+      > *When using Salon Solitaire, Furina gains "Center of Attention" for 10s.
+
+      > Throughout the duration, Furina's Normal Attacks, Charged Attacks, and
+      Plunging Attacks are converted into Hydro DMG which cannot be overridden
+      by any other elemental infusion. DMG is also increased by an amount
+      equivalent to 18% of Furina's max HP.
+
+      > Throughout the duration, Furina's Normal Attacks (not including Arkhe:
+      Seats Sacred and Secular Attacks), Charged Attacks, and the impact of
+      Plunging Attacks will cause different effects up to every 0.1s after
+      hitting opponents depending on her current Arkhe alignment:
+
+      > 
+
+      > Arkhe: Ousia
+
+      > Every 1s, all nearby characters in the party will be healed by 4% of
+      Furina's max HP, for a duration of 2.9s. Triggering this effect again will
+      extend its duration.
+
+      > Arkhe: Pneuma
+
+      > This Normal Attack (not including Arkhe: Seats Sacred and Secular
+      Attacks), Charged Attack, or Plunging Attack ground impact DMG will be
+      further increased by an amount equivalent to 25% of Furina's max HP. When
+      any of the attacks mentioned previously hit an opponent, all nearby
+      characters in the party will consume 1% of their current HP.
+
+      > 
+
+      > During the duration of each instance of "Center of Attention," the above
+      effects can be triggered up to 6 times. "Center of Attention" will end
+      when its effects have triggered 6 times or when the duration expires.*
+
+
+      After casting Furina’s Skill, she gains a Hydro infusion, dealing an extra
+      18% of her Max HP, as well as special effects on her next 6 Normal Attacks
+      based on her Arkhe alignment. This Constellation is similar in function to
+      Nahida and Yelan’s C6, taking a small amount of field time in exchange for
+      some extra personal damage. When Furina is aligned with Ousia, her Normal
+      Attacks will heal the party over time. However, when she’s aligned with
+      Pneuma, her Normal Attacks will gain an additional scaling of 25% of her
+      Max HP and will also drain 1% of all party member’s current HP. 
+
+
+      These offensive and defensive forms are inverted from her Elemental Skill,
+      which deals damage when aligned with Ousia, but heals when aligned with
+      Pneuma. Because of this, Furina is unable to generate Particles whilst in
+      her Pneuma stance and sacrifices her Salon Member’s damage for extra HP
+      scalings on her Normal Attacks. She can still swap her alignment freely
+      during this state though, allowing players to mix and match the effects
+      from both Arkhe alignments. After 6 hits or 10 seconds, this effect will
+      be cleared.
+
+
+      Due to the high damage output provided by her Pneuma stance, 4pc
+      Marechaussee Hunter becomes competitive and can beat out 4pc Golden
+      Troupe, allowing players to frontload more damage due to the large amounts
+      of CRIT Rate. Furina’s extremely high damage output at C6 allows players
+      to dispense of enemies very quickly, even without her Salon Members being
+      active.
+    color: 2175370
+    fields:
+      - name: '***DPS% Increase vs. C5:***'
+        value: 20.85% (Ousia) / 31.42% (Pneuma)
+      - name: '***DPS% Increase vs. C0:***'
+        value: 171.87% (Ousia) / 195.65% (Pneuma)
+      - name: '***Rating:***'
+        value: 4.5/5
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300059905163334/UI_Talent_S_Furina_02.png?ex=655889dd&is=654614dd&hm=a24be60995bbff4d251a3934cb550290ab838f277501bcb1690f8610eb4ea0cf&=
+
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

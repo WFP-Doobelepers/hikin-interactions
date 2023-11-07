@@ -1,0 +1,61 @@
+content: null
+embeds:
+  - title: __CREDITS__
+    color: 2175370
+    fields:
+      - name: 'Lead:'
+        value: <@280016643558604800>
+      - name: 'Authors:'
+        value: <@280016643558604800>
+      - name: 'Calculations:'
+        value: <@280016643558604800>, <@195955557591416833>, <@209617229216612352>
+      - name: 'Consulting:'
+        value: <@148100838861176832>
+      - name: Content Verification
+        value: |-
+          Calculations: <@377496350155079690>
+          Writing: <@812178562822963210>
+      - name: 'Transcription:'
+        value: <@651556217315000360>, <@812178562822963210>, <@366206663533002774>
+      - name: 'Resources:'
+        value: >-
+          [Furina
+          Mastersheet](https://docs.google.com/spreadsheets/d/1K6IqEo4-NtaJU8yCL75smsLt3vdc5AZRkxi_2vh_wdE/edit#gid=981902297)
+      - name: DISCLAIMER
+        value: >-
+          *Pre-TC is volatile and, as always, perpetually subject to change
+          until release (and sometimes later!). Please note that these are
+          theoretical suggestions.
+
+          Everything described in this FAQ is a good faith analysis based on the
+          little information about the character’s kit that we know. Team calcs,
+          additionally, are not established yet, and as with everything in TC,
+          the content in this FAQ should be taken with a grain of salt.*
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170298486344917062/0587effffb4c5e96353240a98a802f2b_6744075053344936737.png?ex=65588866&is=65461366&hm=30d43edb46f9e690e9e1eaf0ef44a7310e90f0379e5db73873379e928bd775a8&=&width=831&height=467
+  - title: __OVERVIEW__
+    description: >-
+      Furina is a 5-star Hydro Sword character whose kit revolves around
+      summoning the guests of the Salon Solitaire to deal damage and manipulate
+      the team’s HP. Her Charged Attack can be used to change her Arkhe
+      alignment between Ousia and Pneuma, changing the effects her guests
+      provide. Her Elemental Burst causes the team to enter the Universal
+      Revelry state, increasing their DMG Bonus and Incoming Healing Bonus based
+      on how much their current HP changes during its duration.
+
+
+      Furina will primarily be played off-field, dealing significant damage with
+      minimal field time, whilst providing substantial buffs to the team.
+      Because of this, she can fit into a large variety of teams. However,
+      players may want to invest in characters that provide large amounts of
+      healing, such as Baizhu or Kokomi, in order to offset Furina’s HP drains
+      and increase the amount of Fanfare stacks gained during her Burst state.
+    color: 2175370
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1156544949886668830/UI_AvatarIcon_Furina.png?ex=6516ad6b&is=65155beb&hm=02629f5ca06779e8a97374d14cec5aef43dc1b2dd56bf5cb63adb62aa3ec7d35&=

@@ -1,0 +1,61 @@
+content: null
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - "Love Is a Rebellious Bird That None Can Tame"**
+    description: >-
+      > *When using Let the People Rejoice, Furina will gain 150 Fanfare.
+
+      > Additionally, Furina's Fanfare limit is increased by 100.*
+
+
+      Immediately grants 34.5% DMG Bonus and 13.5% Incoming Healing Bonus to the
+      whole team upon casting Furina’s Burst, helping to gain even more
+      frontloaded Fanfare. It also raises the maximum amount of Fanfare that
+      Furina can obtain, increasing the max buffs to 92% DMG Bonus and 36%
+      Incoming Healing Bonus at Talent level 9, making it an amazing
+      Constellation for any team she’s used in. The personal gain of this
+      Constellation is representative of its value for the whole team.
+    color: 2175370
+    fields:
+      - name: '***DPS% Increase vs. C0:***'
+        value: 11.75%
+      - name: '***Rating***'
+        value: 4/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300058638491739/UI_Talent_S_Furina_01.png?ex=655889dd&is=654614dd&hm=8f415ce6ba1be1f80949bd699878473c4a4513017d93bb79476a1a46c978e168&=
+  - title: '**Constellation 2 - "A Woman Adapts Like Duckweed in Water"**'
+    description: >-
+      > *While Let the People Rejoice lasts, Furina's Fanfare gain from
+      increases or decreases in nearby characters' HP is increased by 250%. Each
+      point of Fanfare above the limit will increase Furina's Max HP by 0.35%.
+      Her maximum Max HP increase is 140%.*
+
+
+      Another amazing Constellation for any Furina team. C2 increases her
+      Fanfare gain by 3.5x, allowing her to rapidly gain and cap Fanfare.
+      Additionally, Furina converts any overcapped Fanfare into large amounts of
+      HP% for herself, massively increasing her personal damage output.
+    color: 2175370
+    fields:
+      - name: '***DPS% Increase vs. C1:***'
+        value: 42.16%
+      - name: '***DPS% Increase vs. C0:***'
+        value: 58.86%
+      - name: '***Rating:***'
+        value: 5/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1170300058948866068/UI_Talent_S_Furina_04.png?ex=655889dd&is=654614dd&hm=e49250e202157f498895c049f7b9043c1afd33521049ce81f633cf8e890900db&=
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+
+buttons:
+- customId: liveInteraction#faq/hydro/furina/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

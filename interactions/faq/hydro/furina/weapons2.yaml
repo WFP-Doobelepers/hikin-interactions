@@ -1,0 +1,50 @@
+content: null
+embeds:
+  - title: '**Festering Desire**'
+    description: >-
+      An outstanding F2P option for Furina, providing a mix of utility and
+      offense with its ER% substat, Skill CRIT Rate, and DMG Bonus Passive. This
+      weapon provides almost everything Furina needs to shine, competing with
+      Jade Cutter for her 2nd best option in higher ER scenarios. However, this
+      weapon was only available back in 1.2, meaning many players may not have
+      it. Regardless, for those who do, it is an amazing choice.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Magnum.png?vh=2023092501
+  - title: '**Fleuve Cendre Ferryman**'
+    description: >-
+      Another F2P sword for helping Furina’s ER requirements, whilst also
+      providing extra Skill CRIT Rate and a variable Energy Recharge buff after
+      using an Elemental Skill. Due to Furina generating Particles over the
+      course of a rotation, this extra ER isn’t too useful, unless players can
+      funnel a large amount of Particles into her quickly from another Hydro
+      teammate. On the other hand, it is free from Fontaine’s Fishing
+      Association, meaning players can slowly farm for it and its refinements
+      over time.
+    color: 2175370
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Machination.png?vh=2023092501
+  - title: '**Favonius Sword**'
+    description: >-
+      In scenarios with high ER requirements, Favonius soars up the ranks
+      compared to other options, granting large amounts of Energy Recharge and
+      even more Energy to the party through its Passive. Although it moderately
+      reduces her damage potential when compared to other weapons, it’s a good
+      option to consider if she needs a lot of Energy for the team you’d like to
+      play her in.
+    color: 2175370
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?width=468&height=468
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Sword_Zephyrus.png?vh=2023092501
+        
+buttons:
+- customId: liveInteraction#faq/hydro/furina/weapons1
+  label: Next
+  style: PRIMARY
+  emoji: "◀️"
