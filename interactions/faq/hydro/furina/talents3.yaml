@@ -10,7 +10,7 @@ embeds:
       Furina’s Elemental Burst deals AoE Hydro DMG and causes all party members
       to enter the Universal Revelry state. During this state, when nearby party
       members’ HP changes, they will grant Furina one Fanfare for each
-      percentage point that their Max HP changed (For example, a 40% reduction
+      percentage point that their Max HP changed (for example, a 40% reduction
       in a nearby character’s HP would grant Furina 40 Fanfare). Based on the
       amount of Fanfare Furina has (up to a maximum of 300 Fanfare), she will
       grant all nearby party members DMG Bonus and Incoming Healing Bonus. At
