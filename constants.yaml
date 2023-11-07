@@ -15,7 +15,7 @@ IMAGES:
 INFOGRAPHICS:
 
 PRETC:
-  - "faq/hydro/yelan/main"
+  #- "faq/hydro/yelan/main"
   - "faq/hydro/furina/main"
 
 EMOJIS:
