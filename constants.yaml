@@ -16,7 +16,7 @@ INFOGRAPHICS:
 
 PRETC:
   #- "faq/hydro/yelan/main"
-  - "faq/hydro/furina/main"
+  #- "faq/hydro/furina/main"
 
 EMOJIS:
   EULADGE: ":euladge:1096678485067567146"
