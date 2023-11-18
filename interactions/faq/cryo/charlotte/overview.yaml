@@ -1,53 +1,54 @@
----
-content:
+content: null
 embeds:
-- title: __CREDITS__
-  color: 4085111
-  fields:
-  - name: 'Leads:'
-    value: "<@366206663533002774>, <@651556217315000360>"
-  - name: 'Authors:'
-    value: "<@366206663533002774>, <@651556217315000360>, <@1140173670615109672>"
-  - name: 'Calculations:'
-    value: "<@366206663533002774>, <@651556217315000360>, <@1140173670615109672>"
-  - name: 'Framecounts:'
-    value: "<@377496350155079690>"
-  - name: 'Consulting:'
-    value: "<@94978723341668352>, <@280016643558604800>, <@463998487067885600>"
-  - name: 'Content Verification:'
-    value: |-
-      Calculations: <@148100838861176832>
-      Writing: <@812178562822963210>
-  - name: 'Transcription:'
-    value: "<@812178562822963210>, <@366206663533002774>"
-  - name: 'Resources:'
-    value: |-
-      [Freminet Mastersheet](https://docs.google.com/spreadsheets/d/1Yck2LLhSXIoPfFhjjSDaDlrs_Cee8K_ngTvVBiXFaA8/edit#gid=981902297)
-      [Freminet Frames Mastersheet](https://docs.google.com/spreadsheets/d/13ZWGMSfBH-Imik1kYNSJbkvVIQRafvSyyTfbaH_Nj2E/edit?usp=sharing)
-  - name: DISCLAIMER
-    value: >-
-      *Pre-TC is volatile and, as always, perpetually subject to change
-      until release (and sometimes later!). Please note that these are
-      theoretical suggestions. 
+  - title: __CREDITS__
+    color: 13860495
+    fields:
+      - name: 'Lead:'
+        value: <@148100838861176832>
+      - name: 'Authors:'
+        value: <@148100838861176832>, <@293169816741740556>
+      - name: 'Calculations:'
+        value: <@148100838861176832>, <@293169816741740556>, Avocado
+      - name: 'Consulting:'
+        value: Avocado
+      - name: 'Content Verification:'
+        value: |-
+          Calculations: <@366206663533002774>
+          Writing: <@812178562822963210>
+      - name: 'Transcription:'
+        value: >-
+          <@703887128303763507>, <@812178562822963210>, <@651556217315000360>,
+          <@366206663533002774>
+      - name: 'Resources:'
+        value: >-
+          [Charlotte
+          Mastersheet](https://docs.google.com/spreadsheets/d/1Ei71pV6wUWw4O0mOZvrGwyqk_n4_lb_qpDNHmCkBuHk/edit#gid=981902297)
+      - name: DISCLAIMER
+        value: >-
+          *Pre-TC is volatile and, as always, perpetually subject to change
+          until release (and sometimes later!). Please note that these are
+          theoretical suggestions.
 
-      Everything described in this FAQ is a good faith analysis based on the
-      little information about the character’s kit that we know. Team calcs,
-      additionally, are not established yet, and as with everything in TC,
-      the content in this FAQ should be taken with a grain of salt.*
-  image:
-    url: https://pbs.twimg.com/media/F0FXoKHWIB0AMds?format=jpg&name=large
-- title: __OVERVIEW__
-  description: Freminet is a 4-star Cryo, Pneuma-aligned, on-field Claymore DPS whose
-    unique A4 passive allows him to amplify his Skill’s Cryo and Physical damage with
-    the help of the Shatter reaction. His kit opens up novel and viable team compositions
-    that were once considered suboptimal due to Claymores’ heavy attacks dismissing
-    most of the benefits of Freeze teams. Freminet can be played to maximize either  his
-    Physical or his Cryo damage, with each playstyle changing his preferred equipment,
-    teams, and combos, all of which will be discussed in the following sections.
-  color: 4085111
-  footer:
-    text: 'Authored by: teacupp.co'
-    icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Freminet.png
-attachments: []
+          Everything described in this FAQ is a good faith analysis based on the
+          little information about the character’s kit that we know. Team calcs,
+          additionally, are not established yet, and as with everything in TC,
+          the content in this FAQ should be taken with a grain of salt.*
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1125131587823087648/1157259837940432926/charlotte_overview.webp?width=898&height=468
+  - title: __OVERVIEW__
+    description: >-
+      Charlotte is a 4-star Cryo, Pneuma-aligned Catalyst user. She has a decent
+      amount of off-field Cryo Application, but where she truly shines is in her
+      healing, which, before Constellation 6, comes primarily from her Burst. As
+      such, it is essential that one builds Charlotte with sufficient Energy to
+      Burst every rotation, especially if she is not being used in a Perma
+      Freeze team composition.
+    color: 13860495
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1125131587823087648/1157260701379866624/charlotte_icon.png

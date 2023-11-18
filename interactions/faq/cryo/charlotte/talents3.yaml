@@ -1,40 +1,81 @@
 content: null
 embeds:
+   - title: '**Elemental Burst: Still Photo: Comprehensive Confirmation**'
+    description: >-
+      *CD: **20s***
+
+      *Energy cost: **80***
+
+
+      The highlight of Charlotte’s kit, her Burst creates a **Newsflash Field**
+      that heals the entire party upon cast. It also does up to eight instances
+      of damage to enemies within the field while healing active character(s)
+      with every attack. Although the Burst damage by itself is nothing to write
+      home about, both the cast as well as the continuous healing from her Burst
+      are pretty good at baseline, and will only be improved with
+      Constellations.
+    color: 13860495
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_E_Charlotte_01.png?vh=2023100601
   - title: |-
       __Passives__
 
-      **Ascension 1 Passive: Saturation Deep Dive**
-    description:
-      Freminet’s A1 passive further shortens his Skill cooldown so long as
-      he performs a Shattering Pressure lower than Level 4. This allows Freminet to
-      churn out more instances of Shattering Pressure, and is a crucial boost to his
-      Cryo playstyle.
-    color: 4085111
+      **Ascension 1 Passive: Moment of Impact**
+    description: >-
+      When enemies marked by Charlotte’s held Skill are defeated, it reduces the
+      cooldown of her Skill by 2s, up to four times for a total of 8s. While on
+      paper this may seem to be a good thing, it also means that you would have
+      to take the time to use her held Skill, which might be a bit of a bad
+      thing if your aim is to clear chambers as quickly as possible.
+
+      On the other hand, this Constellation also means that Charlotte will have
+      the ability to recast her Skill on a subsequent wave in multi-wave
+      content, granting the party more healing along with helping out with her
+      own Energy. Weigh the pros and cons of this carefully.
+    color: 13860495
     thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_05.png
-  - title: "**Ascension 4 Passive: Parallel Condensers**"
-    description:
-      Freminet’s A4 is what makes his kit and playstyle completely different
-      from any other in the game. It actively encourages players to pair him with an
-      off-field Hydro applicator to make the most of the Shatter reaction, which has
-      formerly been seen as a downside to having Claymore characters in Freeze teams.
-      Now, Shatter provides a sizable DMG boost to Freminet’s Skill and introduces new,
-      viable team compositions.
-    color: 4085111
+      url: >-
+        https://api.ambr.top/assets/UI/UI_Talent_S_Charlotte_05.png?vh=2023100601
+  - title: '**Ascension 4 Passive: Diversified Investigation**'
+    description: >-
+      This passive increases Charlotte’s healing for every Fontainian party
+      member other than herself, while non-Fontainian party members increase her
+      Cyro DMG% instead.
+
+      The first part of this passive is pretty useful for Charlotte, especially
+      considering that most Fontainian characters have some sort of
+      HP-manipulation ability, helping her keep them alive with more ease. On
+      the other hand, while niche, people who would like to experiment with
+      Charlotte as a carry might like the second part, especially considering
+      that most of her best buffers (eg. Kazuha, Shenhe) are non-Fontainian.
+    color: 13860495
     thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_06.png
-  - title: "**Utility Passive: Deepwater Navigation**"
-    description:
-      A helpful Stamina passive to make Fontaine’s underwater exploration
-      more enjoyable.
-    color: 4085111
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_07.png
+      url: >-
+        https://api.ambr.top/assets/UI/UI_Talent_S_Charlotte_06.png?vh=2023100601
+  - title: '**Utility Passive: First-Person Shutter**'
+    description: >-
+      A neat little passive with a gadget that is exclusive to Charlotte,
+      obtainable from the 4.2 event “Graph Adversarial Technology Experiment
+      Log”. Below is a transcript from the 4.2 livestream on how to use it:
+
+
+      *To use it, just equip the Kamera and activate the Zoom Lens in your
+      inventory. The Zoom Lens can be attached to all Kameras obtained in the
+      game up to this point. When equipped with other characters, the Zoom Lens
+      won’t be able to be used in combat. But… If you switch to Charlotte and
+      hold her Elemental Skill, you’ll be able to snap pics with Zoom Lens even
+      while fighting! You can even use it in Domains!*
+    color: 13860495
     footer:
-      text: "Authored by: teacupp.co"
-      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_Talent_S_Charlotte_07.png?vh=2023100601
+
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/talents2
+  - customId: liveInteraction#faq/cryo/charlotte/talents2
     label: Next
     style: PRIMARY
     emoji: "◀️"

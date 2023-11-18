@@ -31,10 +31,6 @@ options:
   value: faq/cryo/charlotte/constellations1
   description: WFP resources for Charlotte FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
-- label: Combos
-  value: faq/cryo/charlotte/combos
-  description: WFP resources for Charlotte FAQ.
-  emoji: ${ EMOJIS.CRYO_BOX }
 - label: ER Requirements
   value: faq/cryo/charlotte/er
   description: WFP resources for Charlotte FAQ.
@@ -51,6 +47,10 @@ options:
   value: faq/cryo/charlotte/teambuilding1
   description: WFP resources for Charlotte FAQ.
   emoji: ${ EMOJIS.CRYO_BOX }
+- label: Epilogue
+  value: faq/cryo/charlotte/epilogue
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }  
 - label: External Links
   value: faq/cryo/charlotte/external
   description: WFP resources for Charlotte FAQ.

@@ -1,49 +1,49 @@
 ---
 content:
 embeds:
-  - title: |-
-      __**Alternatives**__
-
-      **Song of Broken Pines**
-    description:
-      Amazing weapon when on a Physical build. Its ATK buff and Normal ATK
-      SPD increase boost his Normal Attack damage and allows him to gain Pressure levels
-      slightly quicker. However, with the Skill CD reduction only available in Burst
-      form, the Bonus ATK SPD hardly increases the combo speed by a large amount.
-    color: 4085111
+  - title: __Alternatives__
+    description: >-
+      It is highly recommended that you go with one of the two weapons above,
+      since they are easily accessible, with Prototype Amber being a craftable
+      weapon and helping significantly even at lower refinements. If, however,
+      you insist on going for something else, here are a few suggestions.
+    color: 13860495
+  - title: '**A Thousand Floating Dreams**'
+    description: >-
+      A very expensive option for Charlotte, one may opt to use this on her in a
+      team that could appreciate the EM, like a Reverse Melt team. Not
+      recommended for most teams.
+    color: 13860495
     thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Widsith.png
-  - title: "**Beacon of the Reed Sea**"
-    description: Mainly a CRIT stat stick as Freminet cannot make good use of its passive.
-    color: 4085111
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Ayus.png?vh=2023100601
+  - title: '**Sacrificial Fragments**'
+    description: >-
+      Although the substat does not help Charlotte in most of her teams, the
+      extra skill charge could go a long way to helping her resolve her Energy
+      issues, although once again, you would rather go with one of the
+      recommended weapons instead.
+    color: 13860495
     thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Deshret.png
-  - title: "**Snow-Tombed Starsilver**"
-    description:
-      A good free-to-play option. The Dragonspine claymore is mainly a stat
-      stick for its Physical DMG Bonus secondary stat. Though Freminet does make great
-      use of its passive, Starsilver’s passive isn’t very amazing to begin with.
-    color: 4085111
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Dragonfell.png
-  - title: "**Prototype Archaic**"
-    description:
-      Another craftable option. Can be utilized by both Physical and Cryo
-      playstyles.
-    color: 4085111
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Proto.png
-  - title: "**Skyrider Greatsword**"
-    description: Minimum requirement. Can be obtained from Liyue’s chests.
-    color: 4085111
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Fossil.png?vh=2023100601
+  - title: '**Thrilling Tales of Dragon Slayers**'
+    description: >-
+      Still everybody’s favorite 3★ Catalyst, TTDS makes its return. Do note
+      though that this would mean that Charlotte would need to be played in an
+      environment that can support her high ER requirements while ensuring that
+      she goes before the main carry in the team.
+    color: 13860495
     footer:
-      text: "Authored by: snowy"
-      icon_url: https://images-ext-2.discordapp.net/external/KZcZa90nR7GUMgO6A_HmxuOHvu0tr8ryI9f9kbBIiwA/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/5624783c8c938c4cbea83b3358db98e3.png?width=468&height=468
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
     thumbnail:
-      url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Mitsurugi.png
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Pulpfic.png?vh=2023100601
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/weapons1
+  - customId: liveInteraction#faq/cryo/charlotte/weapons1
     label: Previous
     style: PRIMARY
     emoji: "◀️"

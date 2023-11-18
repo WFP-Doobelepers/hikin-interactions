@@ -1,59 +1,49 @@
 content: null
 embeds:
-  - title: |-
+  - title:
       __TALENT OVERVIEW__
 
-      **Normal Attack: Flowing Eddies**
-    description:
-      A standard set of Normal Attacks that are mainly used in conjunction
-      with his Skill to boost the damage of Shattering Pressure.
-    color: 4085111
+      **Normal Attack: Cool-Color Capture**
+    description: >-
+      With her camera, Charlotte attacks the enemy by snapping shots (not to be
+      confused with snapshotting!) of them up to three times in a row. While
+      aesthetically pleasing to look at, Charlotte’s Normal Attacks are not very
+      useful in her overall kit, being a non-factor in most cases outside of the
+      Pneuma Thorn on her Charged Attack.
+    color: 13860495
     thumbnail:
-      url: https://api.ambr.top/assets/UI/Skill_A_04.png
-  - title: "**Elemental Skill: Pressurized Floe**"
-    description:
-      "*CD : **10s***\n\nThe star of Freminet’s kit. Pressurized Floe deals
-      coordinated Cryo attacks and increases the Pressure level of Pers Time to boost
-      the damage of his final attack, Shattering Pressure.\n\nCasting Freminet’s Skill
-      will cause a pressure bar to appear over his right shoulder, and his next four
-      Normal Attacks will each be followed by a single coordinated Cryo attack. After
-      first casting his Skill, the Pressure level of Pers Time will be at zero. For
-      each Normal Attack he performs, the Pressure level increases by one. \n\nShattering
-      Pressure is one of the biggest aspects of Freminet’s kit, and is tied closely
-      to Pers Time’s Pressure level. It can be triggered either by completing four Normal
-      Attacks or by activating his Skill again, which will end his Skill state early.
-      When Shattering Pressure is triggered, it will deal Cryo damage, Physical damage,
-      or a combination of the two. At Level 0, Shattering Pressure deals exclusively
-      Cryo damage. As the Pressure level of Pers Timer increases, the amount of Cryo
-      damage dealt decreases while the amount of Physical damage dealt increases. When
-      it reaches Level 4 Shattering Pressure, the highest level, it deals purely Physical
-      damage and ends his Skill state.\n\nFreminet’s Skill also introduces the new Arkhe
-      alignment type, Pneuma, in the form of Spiritbreath Thorns. The intermittent Thorn
-      damage will deal Cryo damage and release Pneuma energy to induce mekas’ emergency
-      states. Freminet can also use his Skill to interact with the other Arkhe alignment
-      type, Ousia, to solve overworld puzzles in Fontaine."
-    color: 4085111
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/Skill_S_Freminet_01.png
-  - title: "**Elemental Burst: Shadowhunter’s Ambush**"
-    description: |-
-      *CD : **15s**
-      Energy Cost : **60***
+      url: https://api.ambr.top/assets/UI/Skill_A_Catalyst_MD.png?vh=2023100601
+  - title: '**Elemental Skill: Framing: Freezing Point Composition**'
+    description: >-
+      *CD: **12s***
 
-      Casting Freminet’s Burst will reset his Skill’s cooldown, and for the Burst’s 10s duration, will send him into the Subnautical Hunter mode. During this state, Freminet’s Skill cooldown time is reduced by 70% and the damage of his Skill’s Cryo coordinated attacks is doubled. For every Normal Attack performed under both his Skill and Burst states, the Pressure level will increase by 2, allowing Freminet to reach Level 4 Shattering Pressure with only two Normal Attacks instead of the usual four. Paired with his Burst’s Skill CD reduction, Freminet will be able to reach Level 4 Shattering Pressure more frequently.
-    color: 4085111
+
+      Charlotte’s Skill functions similarly to how Nahida’s skill works. If
+      tapped, it applies **Snappy Silhouette** on up to five enemies in front of
+      her, dealing damage every 1.5s for 6s at a time. Her held Skill is a
+      slightly longer variation of her tapped Skill, applying **Focused
+      Impression** on up to five enemies and dealing damage every 1.5s lasting
+      for 12s.
+
+      Do note that there is a slight caveat to using her held Skill, being that
+      Charlotte must have her skill Held for roughly two seconds before the
+      viewfinder expands to its maximum size for it to count as ‘Focused
+      Impression’ instead of ‘Snappy Silhouette’.
+    color: 13860495
     thumbnail:
-      url: https://api.ambr.top/assets/UI/Skill_E_Freminet_01.png
+      url: https://api.ambr.top/assets/UI/Skill_S_Charlotte_01.png?vh=2023100601
     footer:
-      text: "Authored by: teacupp.co"
-      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/talents1
+  - customId: liveInteraction#faq/cryo/charlotte/talents1
     label: Next
     style: PRIMARY
     emoji: "◀️"
-  - customId: liveInteraction#faq/cryo/freminet/talents3
+  - customId: liveInteraction#faq/cryo/charlotte/talents3
     label: Next
     style: PRIMARY
     emoji: "▶️"

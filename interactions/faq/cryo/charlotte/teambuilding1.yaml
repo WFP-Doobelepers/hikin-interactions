@@ -1,32 +1,53 @@
 ---
 content:
 embeds:
+content: null
+embeds:
   - title: |-
       __TEAM BUILDING__
 
-      **Physical**
-    description: |-
-      ### **Freminet | Hydro | Electro | Cryo/Flex**
-      Freminet’s standard team. He wants an off-field Hydro unit to trigger the Frozen reaction for him to Shatter for his A4 passive, and an off-field Electro unit to trigger Superconduct and decrease enemies’ Physical RES. A Cryo battery is usually recommended to make sure Freminet can consistently cast his Burst without having to build too much Energy Recharge; however, you can also slot in a non-Cryo flex unit if your team has sufficient Energy generation.
+      **General Healer**
+    description: >-
+      ### Charlotte | Flex | Flex | Flex
 
-      __**Teammates**__
-
-      <:hydro:1094545501493403709> **Hydro options:** Xingqiu / Yelan / Kokomi / Barbara
-
-      <:electro:1094545575992623115> **Electro options:** Fischl / Yae / Raiden / Beidou / Shinobu
-
-      <:cryo:1084834834184151172> **Cryo options:** Mika / Shenhe / Layla / Rosaria / Kaeya
-
-      <:flex:1094549077280169984> **Flex options:** Bennett (pre-C6) / Zhongli / Any Electro or Hydro
-    color: 4085111
+      Being a healer means that Charlotte can be slotted into virtually any team
+      that would appreciate the sustain that she provides, bringing to the table
+      a large chunk of healing from her Burst that only gets better with
+      Constellations. That being said, there are a few teams that particularly
+      appreciate her, such as...
+    color: 13860495
     image:
-      url: https://cdn.discordapp.com/attachments/1087300734372020315/1139838126760677506/H434Nk5cPfMTAAAAAElFTkSuQmCC.png
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171638067967295570/B74TqicVMbwAAAAAElFTkSuQmCC.png?ex=655d67fb&is=654af2fb&hm=af1921f3dd7a1e49b013578fb03854e7f35b26d42a32e53395ee058f618b946b&=&width=1025&height=236
+  - title: '**Furina Teams**'
+    description: >-
+      ### Charlotte | Furina | Flex | Flex
+
+      With Furina’s buffs proportional to the amount of HP change in the party,
+      it should come to no surprise that Charlotte’s immense teamwide healing
+      makes her one of Furina’s best friends, synergizing with her extremely
+      well, with Charlotte being able to heal back most, if not all, of the HP
+      that Furina drains with her Ousia Skill. This makes the two of them an
+      extremely potent duo, boasting both immense buffing and survivability,
+      allowing the player to fill in their teams with more offensive DPSs /
+      Supports.
+
+
+      While there are too many possible team compositions to discuss in detail
+      here, the possibility of running the two of them may exist in the
+      compositions that will be discussed in the succeeding sections.
+    color: 13860495
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171638151199084712/itJvcAAAAASUVORK5CYII.png?ex=655d680f&is=654af30f&hm=43a670dc3df058d98b73957d2066ffb5a3de84039a036d77ab9b506ec5c1748f&=&width=1025&height=236
     footer:
-      text: "Authored by: Athena"
-      icon_url: https://images-ext-1.discordapp.net/external/YLxWGDtvXLtkqXH7tqdGlA3afyL1wPeeQXlXAZG5V5I/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/366206663533002774/e38e807ae3faecebab135f420b216fed.png
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/teambuilding2
+  - customId: liveInteraction#faq/cryo/charlotte/teambuilding2
     label: Next
     style: PRIMARY
     emoji: "▶️"

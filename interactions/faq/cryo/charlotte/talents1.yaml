@@ -1,22 +1,30 @@
----
-content:
+content: null
 embeds:
   - title: |-
       __TALENT PRIORITY__
 
-      **Elemental Skill > Normal Attacks > Elemental Burst**
-    color: 4085111
-    image:
-      url: https://media.discordapp.net/attachments/1139854891729289246/1141036028581380116/freminet_talents-01.png
-    description: |-
+      **Elemental Burst > Elemental Skill**
+    description: >-
       ## __Analysis__
-      - Freminet’s Skill comprises the majority of his damage, and should be the first leveling priority. Normal Attacks are mostly used to increase his Skill’s Shattering Pressure damage, but because they are interwoven so often between Skill uses, they end up comprising a significant amount of his damage. Freminet’s Burst is solely used for its Subnautical Hunter status, which does not improve with Talent levels.
+
+      - As mentioned in the previous segment, all of Charlotte’s healing at
+      lower Constellations comes from her Burst. Hence, in order to make the
+      most out of her, her Burst should be prioritized heavily for leveling. Her
+      Skill, on the other hand, only serves to apply Cryo off-field while
+      outputting minute amounts of damage, making it much less important to
+      level.
+    color: 13860495
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171618645684789308/FAQ_TALENT_PRIORITY-01.png?ex=655d55e4&is=654ae0e4&hm=cc4514c2585c872e58b7083e5f43a5a91b6c702fa462675fbd87503bcb637ac3&=
     footer:
-      text: "Authored by: teacupp.co"
-      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+
 
 buttons:
-  - customId: liveInteraction#faq/cryo/freminet/talents2
+  - customId: liveInteraction#faq/cryo/charlotte/talents2
     label: Next
     style: PRIMARY
     emoji: "▶️"
