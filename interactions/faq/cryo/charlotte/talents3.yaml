@@ -1,0 +1,40 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Saturation Deep Dive**
+    description:
+      Freminet’s A1 passive further shortens his Skill cooldown so long as
+      he performs a Shattering Pressure lower than Level 4. This allows Freminet to
+      churn out more instances of Shattering Pressure, and is a crucial boost to his
+      Cryo playstyle.
+    color: 4085111
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_05.png
+  - title: "**Ascension 4 Passive: Parallel Condensers**"
+    description:
+      Freminet’s A4 is what makes his kit and playstyle completely different
+      from any other in the game. It actively encourages players to pair him with an
+      off-field Hydro applicator to make the most of the Shatter reaction, which has
+      formerly been seen as a downside to having Claymore characters in Freeze teams.
+      Now, Shatter provides a sizable DMG boost to Freminet’s Skill and introduces new,
+      viable team compositions.
+    color: 4085111
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_06.png
+  - title: "**Utility Passive: Deepwater Navigation**"
+    description:
+      A helpful Stamina passive to make Fontaine’s underwater exploration
+      more enjoyable.
+    color: 4085111
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_07.png
+    footer:
+      text: "Authored by: teacupp.co"
+      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/talents2
+    label: Next
+    style: PRIMARY
+    emoji: "◀️"

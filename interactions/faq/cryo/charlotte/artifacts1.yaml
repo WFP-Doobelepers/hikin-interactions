@@ -1,0 +1,34 @@
+---
+content:
+embeds:
+  - title: __ARTIFACTS__
+    description:
+      "<:sands:1094559345364185119> *Sands of Eon:* ATK%\n<:goblet:1094559512968581130>
+      *Goblet of Eonothem:* Physical/Cryo DMG%\n<:circlet:1094559608581922966> *Circlet
+      of Logos:* CRIT%\n\nFreminet can be built for either Physical or Cryo damage,
+      which will affect both his playstyle and teams. He prefers an ADC build. Building
+      Freminet with full EM artifacts is not recommended since he does not boost Shatter
+      damage, nor does Shatter deal significant damage. Freminet simply uses Shatter
+      as a means to amplify his Cryo and/or Physical damage.\t\n\nFor Freminet's Physical
+      build, 4pc Pale Flame pulls far ahead of its competition. Freminet has good uptime
+      on its set effect because of his frequent Skill usages. For Freminet's Cryo build,
+      4pc Blizzard Strayer is similarly far better than other options due to its set
+      effect's CRIT increase. However, the 2-piece sets listed in this section perform
+      decently enough, especially if they have great substats, and can serve as good
+      transitional pieces until a full 4-piece set is acquired.\n\nIt is not recommended
+      to farm the 4.0 Fontaine artifact domain specifically for Freminet, as he does
+      not perform spectacularly on those sets. Only consider using the new artifact
+      sets on Freminet if you obtain them while farming for other characters who utilize
+      those sets much better. Otherwise, it is much more efficient to farm the Pale
+      Flame and Blizzard Strayer domain for him.\n\n**Substats:** ER (until requirement)
+      > CRIT%> ATK%"
+    color: 4085111
+    footer:
+      text: "Authored by: teacupp.co"
+      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/artifacts2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

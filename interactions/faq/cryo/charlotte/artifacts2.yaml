@@ -1,0 +1,42 @@
+---
+content:
+embeds:
+  - title: |-
+      __Artifact Sets__
+
+      __**Physical**__
+
+      **4PC Pale Flame**
+    description:
+      4pc Pale Flame is by far the best set for Physical Freminet. With his
+      Burst combo’s frequent Skill casts, Freminet is able to maintain uptime on PF’s
+      4pc set effect and retain its ATK% and Physical DMG% buffs.
+    color: 4085111
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15018_4.png
+  - title: "**2PC Physical + 2PC ER/Physical/ATK**"
+    description:
+      Any of these 2pc combos perform slightly worse than 4pc Pale Flame,
+      but are much easier to obtain and farm than a full PF set. These should serve
+      as decent transitional artifacts should you wish to farm for a full PF set. 2pc
+      EoSF is only a viable option over 2pc PF if there is a lack of ER substats and
+      if it provides him with decent CRIT substats. Although building Freminet with
+      2pc EM has some potential should the pieces have decent substats, it is not recommended
+      to build him with EM artifacts as his kit does not buff Shatter damage and only
+      relies on it to boost his Cryo and Physical damage.
+    color: 4085111
+    thumbnail:
+      url: https://media.discordapp.net/attachments/1094753710288150778/1146152760534892604/wOq9SrPoCN7WQAAAABJRU5ErkJggg.png
+    footer:
+      text: "Authored by: teacupp.co"
+      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/artifacts1
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"
+  - customId: liveInteraction#faq/cryo/freminet/artifacts3
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

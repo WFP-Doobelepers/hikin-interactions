@@ -1,0 +1,52 @@
+content: null
+embeds:
+  - title: "**Constellation 5 - Nights of Hearth and Happiness**"
+    description: |-
+      > *Increases the Level of Pressurized Floe by 3.
+      > Maximum upgrade level is 15.*
+
+      A very strong and valuable upgrade to his Skill, Freminet’s C5 is one of his better Constellations. In comparison to his C3, Freminet’s Cryo playstyle benefits much more from this Skill boost rather than his Physical playstyle since his Cryo Burst combo is more focused  on dishing out multiple Level 0 Shattering Pressures.
+    color: 4085111
+    fields:
+      - name: "*Physical Team DPS Increase from C0:*"
+        value: 34.00%
+      - name: "*Physical Team DPS Increase from C4:*"
+        value: 7.73%
+      - name: "*Cryo Team DPS Increase from C0:*"
+        value: 27.74%
+      - name: "*Cryo Team DPS Increase from C4:*"
+        value: 11.18%
+      - name: "*Rating:*"
+        value: |-
+          3/5 (Physical)
+          3.5/5 (Cryo)
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Freminet_02.png
+  - title: "**Constellation 6 - Moment of Waking and Resolve**"
+    description: |-
+      > *When Freminet triggers Frozen, Shatter, or Superconduct against opponents, his CRIT DMG will be increased by 12% for 6s. Max 3 stacks. This can be triggered once every 0.3s.*
+
+      Freminet’s best Constellation. Freminet’s C6 basically gives him a very consistent and powerful 36% CRIT DMG increase, except this time, the CRIT buff provides a much more significant boost to Freminet’s damage.
+    color: 4085111
+    fields:
+      - name: "*Physical Team DPS Increase from C0:*"
+        value: 49.28%
+      - name: "*Physical Team DPS Increase from C5:*"
+        value: 11.41%
+      - name: "*Cryo Team DPS Increase from C0:*"
+        value: 37.95%
+      - name: "*Cryo Team DPS Increase from C5:*"
+        value: 8.00%
+      - name: "*Rating:*"
+        value: 3.5/5
+    footer:
+      text: "Authored by: teacupp.co"
+      icon_url: https://cdn.discordapp.com/attachments/1139854891729289246/1140264760890364004/Screenshot_20230813_145618_Chrome.png
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Freminet_04.png
+
+buttons:
+  - customId: liveInteraction#faq/cryo/freminet/constellations2
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"
