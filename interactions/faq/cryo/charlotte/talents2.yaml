@@ -2,7 +2,7 @@ content: null
 embeds:
   - title: >-
       __TALENT OVERVIEW__
-      
+
       **Normal Attack: Cool-Color Capture**
     description: >-
       With her camera, Charlotte attacks the enemy by snapping shots (not to be
@@ -36,7 +36,23 @@ embeds:
       text: 'Authored by: NatC'
       icon_url: >-
         https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+  - title: '**Elemental Burst: Still Photo: Comprehensive Confirmation**'
+    description: >-
+      *CD: **20s***
 
+      *Energy cost: **80***
+
+
+      The highlight of Charlotte’s kit, her Burst creates a **Newsflash Field**
+      that heals the entire party upon cast. It also does up to eight instances
+      of damage to enemies within the field while healing active character(s)
+      with every attack. Although the Burst damage by itself is nothing to write
+      home about, both the cast as well as the continuous healing from her Burst
+      are pretty good at baseline, and will only be improved with
+      Constellations.
+    color: 13860495
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_E_Charlotte_01.png?vh=2023100601
 
 buttons:
   - customId: liveInteraction#faq/cryo/charlotte/talents1

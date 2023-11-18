@@ -1,22 +1,5 @@
 content: null
 embeds:
-  - title: '**Elemental Burst: Still Photo: Comprehensive Confirmation**'
-    description: >-
-      *CD: **20s***
-
-      *Energy cost: **80***
-
-
-      The highlight of Charlotte’s kit, her Burst creates a **Newsflash Field**
-      that heals the entire party upon cast. It also does up to eight instances
-      of damage to enemies within the field while healing active character(s)
-      with every attack. Although the Burst damage by itself is nothing to write
-      home about, both the cast as well as the continuous healing from her Burst
-      are pretty good at baseline, and will only be improved with
-      Constellations.
-    color: 13860495
-    thumbnail:
-      url: https://api.ambr.top/assets/UI/Skill_E_Charlotte_01.png?vh=2023100601
   - title: |-
       __Passives__
 
