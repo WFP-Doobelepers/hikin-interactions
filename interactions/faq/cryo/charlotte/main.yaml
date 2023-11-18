@@ -1,0 +1,63 @@
+---
+content: null
+embeds:
+  - title: >-
+      Indefatigable reporter of The Steambird, constantly on the hunt for the
+      "truth."
+    color: 13860495
+    fields:
+      - name: Charlotte Mastersheet by natc, emiliabyss, and avocado
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1Ei71pV6wUWw4O0mOZvrGwyqk_n4_lb_qpDNHmCkBuHk/edit#gid=981902297)
+    author:
+      name: Charlotte FAQ
+      icon_url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158135359897620570/charlotte_088_side_icon.png?ex=651b251a&is=6519d39a&hm=9eec61e02ff229f7af8eab0beec4a0bdd03dca75baac75f049a340b5837b7d01&=
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158135296265814096/charlotte_088_gacha_splash.png?ex=651b250b&is=6519d38b&hm=ef305e2cc5a1144d478e4d910849673d3650af649524652d3ea690dd242b41e3&=&width=466&height=468
+
+options:
+- label: Overview
+  value: faq/cryo/charlotte/overview
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Talents
+  value: faq/cryo/charlotte/talents1
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Constellations
+  value: faq/cryo/charlotte/constellations1
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Combos
+  value: faq/cryo/charlotte/combos
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: ER Requirements
+  value: faq/cryo/charlotte/er
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Artifacts
+  value: faq/cryo/charlotte/artifacts1
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Weapons
+  value: faq/cryo/charlotte/weapons1
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: Teambuilding
+  value: faq/cryo/charlotte/teambuilding1
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+- label: External Links
+  value: faq/cryo/charlotte/external
+  description: WFP resources for Charlotte FAQ.
+  emoji: ${ EMOJIS.CRYO_BOX }
+
+buttons:
+- label: WFP FAQ
+  url: https://wangshengfp.org/faq/charlotte
+  emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
