@@ -1,0 +1,64 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Moment of Impact**
+    description: >-
+      When enemies marked by Charlotte’s held Skill are defeated, it reduces the
+      cooldown of her Skill by 2s, up to four times for a total of 8s. While on
+      paper this may seem to be a good thing, it also means that you would have
+      to take the time to use her held Skill, which might be a bit of a bad
+      thing if your aim is to clear chambers as quickly as possible.
+
+      On the other hand, this Constellation also means that Charlotte will have
+      the ability to recast her Skill on a subsequent wave in multi-wave
+      content, granting the party more healing along with helping out with her
+      own Energy. Weigh the pros and cons of this carefully.
+    color: 13860495
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_Talent_S_Charlotte_05.png?vh=2023100601
+  - title: '**Ascension 4 Passive: Diversified Investigation**'
+    description: >-
+      This passive increases Charlotte’s healing for every Fontainian party
+      member other than herself, while non-Fontainian party members increase her
+      Cyro DMG% instead.
+
+      The first part of this passive is pretty useful for Charlotte, especially
+      considering that most Fontainian characters have some sort of
+      HP-manipulation ability, helping her keep them alive with more ease. On
+      the other hand, while niche, people who would like to experiment with
+      Charlotte as a carry might like the second part, especially considering
+      that most of her best buffers (eg. Kazuha, Shenhe) are non-Fontainian.
+    color: 13860495
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_Talent_S_Charlotte_06.png?vh=2023100601
+  - title: '**Utility Passive: First-Person Shutter**'
+    description: >-
+      A neat little passive with a gadget that is exclusive to Charlotte,
+      obtainable from the 4.2 event “Graph Adversarial Technology Experiment
+      Log”. Below is a transcript from the 4.2 livestream on how to use it:
+
+
+      *To use it, just equip the Kamera and activate the Zoom Lens in your
+      inventory. The Zoom Lens can be attached to all Kameras obtained in the
+      game up to this point. When equipped with other characters, the Zoom Lens
+      won’t be able to be used in combat. But… If you switch to Charlotte and
+      hold her Elemental Skill, you’ll be able to snap pics with Zoom Lens even
+      while fighting! You can even use it in Domains!*
+    color: 13860495
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_Talent_S_Charlotte_07.png?vh=2023100601
+
+buttons:
+  - customId: liveInteraction#faq/cryo/charlotte/talents2
+    label: Next
+    style: PRIMARY
+    emoji: "◀️"

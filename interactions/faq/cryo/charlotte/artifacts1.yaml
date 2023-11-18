@@ -1,0 +1,60 @@
+content: null
+embeds:
+  - title: __ARTIFACTS__
+    description: >-
+      <:sands:1094559345364185119> *Sands of Eon:* ER% or ATK%
+
+      <:goblet:1094559512968581130> *Goblet of Eonothem:* ATK%
+
+      <:circlet:1094559608581922966> *Circlet of Logos:* ATK% or HB%
+
+
+      To make full use of Charlotte’s healing capabilities, you will want to
+      stack as much ATK as possible on Charlotte while meeting ER requirements,
+      while equipping an HB circlet. While this build means that Charlotte’s
+      personal damage will be completely irrelevant, it maximizes the potency of
+      her healing, keeping the party safe and healthy.
+
+
+      If you are interested in playing Charlotte as a DPS, please consider the
+      final section authored by Emiliabyss.
+
+
+      **Substats:** ER (until requirement) > CRIT% (if holding Favonius) > ATK%
+    color: 13860495
+  - title: |-
+      __Artifact Sets__
+
+      __**Support**__
+
+      **2PC Mix of ATK / ER / HB**
+    description: >-
+      Easiest means of giving Charlotte quick boosts to her healing while
+      helping to ease her often ridiculously high ER requirements. If
+      Charlotte’s teammates do not make use of ATK, this is the recommended
+      approach to take for building her.
+    color: 13860495
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171634677015138334/KFdDdik2pIAAAAASUVORK5CYII.png?ex=655d64d2&is=654aefd2&hm=d8d0dfd0821d58dfe671c0c68c6424ab3cb81e86af8aae7f8ad74bfd3ae4451d&=
+  - title: '**4PC Ocean-Hued Clam**'
+    description: >-
+      At C0, Charlotte will more than easily cap out a bubble, but that’s all
+      the output you’re getting out of her aside from Prototype Amber’s healing.
+      Constellations give her a bit more sustained healing, which makes it
+      easier for subsequent bubbles to do more damage.
+    color: 13860495
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15022_4.png?vh=2023100601
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+        
+
+buttons:
+  - customId: liveInteraction#faq/cryo/charlotte/artifacts2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

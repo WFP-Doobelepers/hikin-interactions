@@ -1,0 +1,4 @@
+interaction: faq/cryo/charlotte/main
+description: "Opens Charlotte FAQ"
+match: ${ TRIGGER_PREFIX }charlottefaq(?:\s|$)
+ignoreCase: true

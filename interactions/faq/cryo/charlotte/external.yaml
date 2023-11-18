@@ -1,0 +1,27 @@
+content: null
+embeds:
+  - title: __EXTERNAL LINKS__
+    color: 13860495
+    fields:
+      - name: Project Amber
+        value: >-
+          [Character
+          Database](https://ambr.top/en/archive/avatar/10000088/charlotte)
+      - name: Honey Hunter World
+        value: >-
+          [Character Database and Asset
+          Resources](https://genshin.honeyhunterworld.com/?lang=EN)
+      - name: Genshin Impact JP Twitter
+        value: '[Asset Resources](https://twitter.com/Genshin_7)'
+      - name: Genshin Impact EN Twitter
+        value: '[Asset Resources](https://twitter.com/GenshinImpact)'
+    footer:
+      text: >-
+        Credits to NatC and Emiliabyss for the Charlotte FAQ! || WFP
+        Theorycrafting
+      icon_url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158154535596990504/GUTAAAAo5_-_mr1_thonk.png?ex=651b36f6&is=6519e576&hm=d15981d20887f49074a7fc1660c4dd08f224fb0e7975d53260e82857638997d8&=&width=468&height=468
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158135610389839882/image.png?ex=651b2556&is=6519d3d6&hm=0512eb73acc98541e7858315ae01019d2cac524db5a410e5f761d1e21a29d552&=&width=810&height=468
+ 

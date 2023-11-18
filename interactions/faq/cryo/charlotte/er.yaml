@@ -1,0 +1,28 @@
+content: null
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: >-
+      Solo Cryo assumes a 25-second rotation, with Charlotte doing 2 tapped
+      Skills per Burst every rotation.
+
+      Double and Triple Cryo assume a 21-second rotation, with Charlotte doing
+      one fully held Skill per Burst every rotation.
+
+
+      Each Favonius proc lowers Charlotte’s ER requirements by ~13%.
+
+      Charlotte’s C4 helps to further reduce her ER Requirements by up to ~25%.
+
+
+      Energy requirements will vary based on your team and rotation. For a more
+      accurate estimate, please use the Energy Recharge calculator linked
+      [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    color: 13860495
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171627900097798144/image.png?ex=655d5e83&is=654ae983&hm=d5b5a3603e5fc6a30efd1841c4b73eb3aa68b70602377b265d5766111d3269f0&=
+

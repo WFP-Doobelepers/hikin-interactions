@@ -1,0 +1,65 @@
+---
+content: null
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - A Need to Verify Facts**
+    description: >-
+      > *After Still Photo: Comprehensive Confirmation heals a character, it
+      will mark them with Verification, which will heal them once every 2s for
+      80% of Charlotte's ATK. This effect lasts 6s.*
+
+
+      Further heals party members that were healed by Charlotte’s Burst with an
+      effect similar to Prototype Amber’s. A pretty noticeable increase in
+      healing for a Constellation 1, which should be relatively accessible,
+      particularly for people who wish to roll for Furina’s Constellations as
+      well. This Constellation is also very useful for continued triggering of
+      effects that proc on HP change / healing, such as Furina’s Burst stacks or
+      Ocean-Hued Clam’s damage. A solid Constellation all-around.
+    color: 13860495
+    fields:
+      - name: '***Healing increase from C0:***'
+        value: 27.13%
+      - name: '***Rating:***'
+        value: 4/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158144138739458068/UI_Talent_S_Charlotte_01.png?ex=651b2d47&is=6519dbc7&hm=99d9bb66e7eaa9dd1b01401bf5a68f117649147916e4101ef6590e99efb9fba2&=
+  - title: '**Constellation 2 - A Duty to Pursue Truth**'
+    description: >-
+      > *When using Framing: Freezing Point Composition, when Monsieur Verite
+      hits 1/2/3 (or more) opponents, Charlotte's own ATK will be increased by
+      10%/20%/30% for 12s.*
+
+
+      When Charlotte’s Skill instances hit enemies, she will be buffed up to 30%
+      ATK depending on the number of enemies hit by her Skill, increasing her
+      overall damage and personal healing.
+
+
+      Note: Further Constellation increases are based on the highest possible
+      increase.
+    color: 13860495
+    fields:
+      - name: '***Healing increase from C1:***'
+        value: 3.75% - 11.25%
+      - name: '***Healing increase from C0:***'
+        value: 31.90% - 41.43%
+      - name: '***Rating:***'
+        value: 2/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158144139037257899/UI_Talent_S_Charlotte_02.png?ex=651b2d48&is=6519dbc8&hm=78e7d2f1f89a547779648cd786894502ad9d2f50c787aa09610f1422c4707f23&=
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+
+
+buttons:
+  - customId: liveInteraction#faq/cryo/charlotte/constellations2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"

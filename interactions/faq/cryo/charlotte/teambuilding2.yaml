@@ -1,0 +1,97 @@
+---
+content:
+embeds:
+  - title: '**Freeze**'
+    description: >-
+      ### Charlotte | Hydro | Cryo | Anemo
+
+      Practically a staple consideration for any off-field Cryo support, Freeze
+      teams really appreciate Charlotte’s off-field Cryo application and
+      healing, especially if the Hydro option in the team is Furina. Even
+      without considering Furina though, having Charlotte in the healer slot
+      means that players can afford to run more offensive Hydro options such as
+      Ayato and / or Mona, although if one is already comfortable with Kokomi,
+      then Charlotte’s personal value drops a lot.
+
+
+      **__Teammates__**
+
+
+      <:hydro:1094545501493403709> **Hydro options:** Furina / Mona / Ayato
+
+
+      <:cryo:1084834834184151172> **Cryo options:** Ayaka / Ganyu / Wriothesley
+      / Rosaria / Kaeya
+
+
+      <:anemo:1094545726748508250> **Anemo options:** Kazuha / Venti / Sucrose /
+      Lynette
+    color: 13860495
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171638248565637150/D9xAr4w1zsTwQAAAABJRU5ErkJggg.png?ex=655d6826&is=654af326&hm=dd961166e334ecbed632cf31ceb32b313b4fe822942d82d31d88cc56540047d6&=&width=1025&height=236
+  - title: '**Mono Cryo**'
+    description: >-
+      ### Charlotte | Shenhe | Cryo | Anemo
+
+      Another Cryo-centric team composition, this team trades a bit of the
+      safety that comes from perma-freeze for damage courtesy of Shenhe’s buffs
+      to Cryo teams. Running 3 Cryo characters also means that the team will
+      have very high Cryo particle generation, helping with Charlotte’s ER
+      issues rather noticeably.
+
+
+      **__Teammates__**
+
+
+      <:cryo:1084834834184151172> **Cryo options:** Ayaka / Ganyu / Wriothesley
+      / Rosaria / Kaeya
+
+
+      <:anemo:1094545726748508250> **Anemo options:** Kazuha / Venti / Sucrose /
+      Lynette
+    color: 13860495
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171638311052382219/gyvHj10GvNd3k6amSFLkXWEIiAgW6mhv1TLUfsfmywmNuqkj8FMAPNeKS7JHxoGvBfHIb60uoIqCOgjoA6At9BBP4PiFxzoNnideEAAAAASUVORK5CYII.png?ex=655d6835&is=654af335&hm=1200bcd4ac830e9860b53ce961356b7294bfc9957713b1e7a865fa66d1ead630&=&width=1025&height=236
+  - title: '**Physical**'
+    description: >-
+      ### Charlotte | Physical Carry | Electro Flex | Flex
+
+      Physical teams revolve around supporting a physical carry via means of
+      Superconduct and other buffs being stacked onto a physical carry taking
+      the field to do damage. Though most characters outside of catalysts can
+      _technically_ be built for physical damage, this slot is typically filled
+      by either Eula or Freminet, and, to a certain degree, Razor.
+
+      As such, unless the primary carry in question is Razor, one flex slot is
+      often reserved for an off-field Electro character like Fischl, while the
+      final flex slot can be changed depending on what you want / need.
+
+
+      **__Teammates__**
+
+
+      <:flex:1094549077280169984> **Physical options:** Eula / Freminet / Razor
+
+
+      <:electro:1094545575992623115> **Electro Flex options:** Fischl / Raiden /
+      Lisa
+
+
+      <:flex:1094549077280169984> **Flex options:** Kaeya / Rosaria / Shenhe /
+      Bennett
+    color: 13860495
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+    image:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1171640641848098876/Y3dRa2oAAAAAElFTkSuQmCC.png?ex=655d6a61&is=654af561&hm=6242d9e5ac9411e3c532b2e055eed2c2f2fd8dab45474847c3f9833744010b6e&=&width=1025&height=236
+
+buttons:
+  - customId: liveInteraction#faq/cryo/charlotte/teambuilding1
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"

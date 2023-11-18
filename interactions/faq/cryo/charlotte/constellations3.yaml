@@ -1,0 +1,64 @@
+content: null
+embeds:
+  - title: '**Constellation 5 - A Principle of Conscience**'
+    description: >-
+      > *Increases the Level of Framing: Freezing Point Composition by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      Sadly, this Constellation only benefits Charlotte’s Skill damage, which is
+      not at all a major part of her kit if played as a healbot.
+    color: 13860495
+    fields:
+      - name: '***Healing increase from C4:***'
+        value: 0%
+      - name: '***Healing increase from C0:***'
+        value: 80.91%
+      - name: '***Rating:***'
+        value: 0/5
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158144139838369842/UI_Talent_U_Charlotte_02.png?ex=651b2d48&is=6519dbc8&hm=ffc0477e773ccca76f0aef39d56aa7abffecb0474b928b6cb07d20eda5a86aae&=
+  - title: '**Constellation 6 - A Summation of Interest**'
+    description: >-
+      > *When the active character's Normal and Charged Attacks hit an opponent
+      marked by Framing: Freezing Point Composition's Focused Impression,
+      Monsieur Verite will initiate a follow-up attack that deals 180% of
+      Charlotte's ATK as AoE Cryo DMG and heals active character(s) within the
+      AoE for 42% of Charlotte's ATK. This effect can be triggered once every
+      6s, and both DMG and healing done this way will be considered as having
+      been done by Charlotte's Elemental Burst.*
+
+
+      This Constellation allows Charlotte to trigger up to two follow-up attacks
+      per Skill whenever active characters hit enemies marked by ‘Focused
+      Impression’, dealing Cryo damage while healing the active character for a
+      portion of Charlotte’s ATK. This gives Charlotte the ability to heal
+      outside of her Burst, while also adding on a bit more damage to the team,
+      further incentivizing people to use her held Skill. That being said,
+      whether it’s worth to use held Skill for said reason is still up for
+      debate, and being locked behind a Constellation 6 does not help its case
+      either.
+    color: 13860495
+    fields:
+      - name: '***Healing increase from C5:***'
+        value: 6.96%
+      - name: '***Healing increase from C0:***'
+        value: 93.49%
+      - name: '***Rating:***'
+        value: 1/5
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: >-
+        https://images-ext-1.discordapp.net/external/uQrAYYWlPS4-SFDXbpjdJEhlaVWkH28MvwBg0Ca3Gz8/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/148100838861176832/8dc35cb007e4e774146c29d20b8adfef.png
+    thumbnail:
+      url: >-
+        https://media.discordapp.net/attachments/1139854891729289246/1158144140199075920/UI_Talent_S_Charlotte_04.png?ex=651b2d48&is=6519dbc8&hm=9b63390133f6d262c13bc80cb819951355e8539a5e2f2f9647f199a19b0fbb26&=
+
+
+buttons:
+  - customId: liveInteraction#faq/cryo/charlotte/constellations2
+    label: Previous
+    style: PRIMARY
+    emoji: "◀️"
