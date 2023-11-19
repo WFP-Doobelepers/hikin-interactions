@@ -9,37 +9,40 @@ embeds:
       damage?”
 
 
-      What if I told you she does more damage than Dehya?
+      Well, if you think “marginally more DPS than Dehya” is good, I have good
+      news for you!
 
 
-      Now, sure you might say “well basically anyone can,” but Charlotte was
-      always meant to be a dedicated healer. She has extremely low multipliers
-      and most of her kit enhances her healing. Dehya ***was*** meant to be,
-      well, *some kind* of DPS. What makes Charlotte able to function as a
+      Now, sure you might say “well basically anyone can get more,” but
+      Charlotte was always meant to be a dedicated healer. She has extremely low
+      multipliers and most of her kit enhances her healing. Dehya ***was***
+      meant to be *some kind* of DPS. What makes Charlotte able to function as a
       dedicated DPS? *A Cryo Catalyst weapon.*
 
 
       This build is hyperspecific, and to some, may come off as uninteresting,
-      but the work originally done for a meme has led to surprising results.
+      but the work originally done for a meme has led to surprising results. 
 
-      ### __***Assumes Charlotte is Constellation 6***__
 
-      **Team:** Bennett C5+, Kazuha, Xiangling
+      ***Assumes Charlotte is Constellation 6***
+
+      **Team:** Bennett C5+, Lynette, Xiangling (Kazuha cannot swirl Cryo in
+      this team consistently)
 
       **Artifact Set:** 4pc Shimenawa’s Reminiscence (Gilded Dreams is a decent
       substitute)
 
       **Artifact Stats:** EM, DMG%, CRIT
 
-      **5-Star Weapon:** Cashflow Supervision
+      **5-Star Weapon:** A Thousand Floating Dreams (ATK% Sands) or Cashflow
+      Supervision (EM Sands)
 
       **4-Star Weapon:** The Widsith R5 or Solar Pearl R5
 
-      **Rotation (Charlotte):** hE, 4x(N2C)
+      **Rotation (Charlotte): N2C, swap, hE, 3x(N2C)
 
       **Best Cons:** 6, 3, 2
-
-
+       
       With all the Pyro application from Bennett, Kazuha, and Xiangling, it is
       easy to reach the maximum possible Reverse-Melts (13). This, combined with
       cramming loads of buffs into Charlotte, makes her stronger than a lot of
@@ -49,13 +52,8 @@ embeds:
 
       Is Charlotte the best choice for a Cryo user? *Absolutely not.* Kaeya and
       Rosaria are both superior, and one is even totally free. Any other Cryo or
-      Hydro Catalyst character will probably outperform Charlotte, but… 
-
-      1. Charlotte is cute.
-
-      2. Using her in National breaks 40k team DPS
-
-      3. *Charlotte is cute.*
+      Hydro Catalyst character will probably outperform Charlotte. But she’s
+      cute, so it’s okay.
 
 
       It is not recommended to use Shenhe and go Mono-Cryo. It is also not
@@ -66,24 +64,9 @@ embeds:
       potential that Bennett + 13 Melts has.
 
 
-      Dehya, in her best cases, does not hit 14k DPS, and she is a 5-star unit
-      designed to deal damage.
-
-      Charlotte, in her best case, hits ***15k DPS in her worst case.***
-
-
       Keep in mind that assumptions are fairly optimistic, as sim and sheets
       can’t properly account for the application in practice. It’d be safe to
       expect somewhat less in gameplay.
-
-
-      I hope Charlotte lovers everywhere can rejoice today, in some small
-      amount.
-
-
-      Until next time,
-
-      Emi
     color: 13860495
     footer:
       text: 'Authored by: Emiliabyss'
@@ -91,4 +74,5 @@ embeds:
         https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?width=468&height=468
     image:
       url: >-
-        https://media.discordapp.net/attachments/1139854891729289246/1171643393152122951/1VGg0TJEbtpylqg5Z5JLdgghC_x9eOPqlLADjMZfd-i4AMhG3c1Tk4KQu4ef97C4.png?ex=655d6cf1&is=654af7f1&hm=8f5592153004d0b06e1fa0e0920d937a3457b5ce6090a4357ef5dbe3e8f9ea49&=&width=605&height=468
+        https://media.discordapp.net/attachments/914677277097328690/1175934546714304532/image.png?ex=656d0963&is=655a9463&hm=f3fe8cd1614c48a404ac3a5dedae21be724c488487d11643b987e10a6ff81991&=&width=1180&height=910
+attachments: []
