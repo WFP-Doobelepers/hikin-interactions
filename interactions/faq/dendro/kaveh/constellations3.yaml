@@ -21,16 +21,12 @@ embeds:
 - title: >- 
     **C6 -  Pairidaeza's Dreams**
   description: >- 
-    *When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during **Painted Dome**, it will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as AoE Dendro DMG and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.*
+    *When Kaveh's Normal, Charged, or Plunging Attacks hit opponents during *Painted Dome*, it will unleash Pairidaeza's Light upon the opponent's position, dealing 61.8% of Kaveh's ATK as AoE Dendro DMG and causing all Dendro Cores within that AoE to burst. This effect can be triggered once every 3s.*
 
+    C6 gives Kaveh 3-4 more detonations and Dendro application, making it a fairly valuable constellation on Bloom teams. Because Kaveh forces multiple Blooms to rupture at once, you may get less value than you’re hoping for from his Skill usage if you have more than two Cores from a single owner. His Elemental Skill is on a 6 second cooldown, meaning that Pairidaeza’s Light can sneak in some extra forced Core explosions while waiting. In Bloom comps, this extra frontloaded damage is appreciated, but not so useful in Nilou teams where Blooms instantly explode. Furthermore, C6 procs can prematurely rupture your Hyperblooms and Burgeons, possibly resulting in lower team DPS (although the extra Bloom damage might mitigate this DPS loss). Regardless, you get more AoE Dendro application with this constellation, which is useful on most teams. 
 
-    C6 is Kaveh’s best constellation for non-Nilou Bloom teams, giving him 3-4 more detonations, C4 procs, *and* Dendro application. Because Kaveh forces multiple Blooms to rupture at once, you may get less value than you’re hoping for from his Skill usage if you have more than two Cores from a single owner. His Elemental Skill is on a 6 second cooldown, meaning that Pairidaeza’s Light can sneak in some extra forced Core explosions while waiting. Furthermore, Kaveh’s C4 buff works on C6 explosions.
-
-
-    On Bloom teams, C6 provides a modest boost to team damage when used in conjunction with C4, almost doubling the number of C4 procs. This further enhances Kaveh’s viability as a Bloom support. In a team where the Bloom owner has an average of 800 EM, and Kaveh adds his C4 onto 16 of the team’s 40 Blooms, his team gains an increase of about 2.0% from C4. This isn’t as necessary when running Nilou teams, since Bountiful Cores already explode quicker than Kaveh can trigger them, making C6 less valuable. Furthermore, C6 can prematurely rupture your Hyperblooms and Burgeons, possibly resulting in lower team DPS.
-
-
-    The Pairidaeza’s Light damage itself is nothing to write home about in a standard EM-centric build. Even if you reached 2000 ATK, you’d only get about 1200 damage from it, which is pitiful next to even one extra Bloom.
+    The Pairidaeza’s Light damage itself is nothing to write home about in a standard EM-centric build. Even if you reached 2000 ATK, you’d only get about 1200 damage from it, which is pitiful next to even one extra Bloom. 
+    
   color: 15256483
   fields:
   - name: "*DPS Increase from C0:*"

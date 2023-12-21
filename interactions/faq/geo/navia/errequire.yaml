@@ -1,0 +1,25 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: "In teams lacking Favonius weapons, Navia finds herself needing upwards
+    of 190% ER. Additionally, due to Navia’s curse of being Geo, she has limited options
+    when it comes to generating Geo particles, and her best options rely on Geo constructs
+    to create particles, which can break very easily. \n\nIt is strongly recommended
+    to use Zhongli as a Favonius holder and funnel the particles to Navia. This is
+    easily achieved and ties into her playstyle as it is typical on rotations to use
+    Zhongli’s Hold Skill then swap to Navia to activate her Burst. Doing this will
+    reduce her ER requirements by 20% to 30%, which is immensely valuable. \n\nBy
+    playing in a way that Zhongli’s pillar is not destroyed, you can further reduce
+    her ER by another 30%, bringing her to a comfortable ER need of 130%. Nonetheless,
+    there are alternatives like using Ningguang or Itto as particle generators, who
+    can reliably provide similar levels of Energy as Zhongli’s pillar.\n\nNavia’s
+    ER requirements will vary based on your team and rotation. For a more accurate
+    estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).\nFor
+    more details on how Favonius weapons will affect your team, please use Ac1d’s
+    Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing)."
+  color: 15120686
+  footer:
+    text: 'Authored by: Ac1d'
+    icon_url: https://images-ext-1.discordapp.net/external/hwKthYMcyrZMEpNQvBSezKuX1PFCrCpKb3VR6DeAras/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/195955557591416833/6db9931bba801c523c1b573f1f6f5839.png?format=webp&quality=lossless&width=468&height=468
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1187160070807625760/image.png?ex=6595dff9&is=65836af9&hm=b780ee25197f5b257f7344d09fa9143d8fd58245b228a59533583a250c508672&format=webp&quality=lossless&

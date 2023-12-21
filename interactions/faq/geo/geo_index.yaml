@@ -1,0 +1,11 @@
+embeds:
+  - color: 15120686
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/geo.png
+
+options:
+  - label: Navia
+    value: faq/geo/navia/main
+    description: WFP resources on Navia
+    emoji: <${ EMOJIS.NAVIA }>

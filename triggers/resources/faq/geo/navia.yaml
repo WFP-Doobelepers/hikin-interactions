@@ -1,0 +1,4 @@
+interaction: faq/geo/navia/main
+description: "Opens Navia FAQ"
+match: ${ TRIGGER_PREFIX }naviafaq(?:\s|$)
+ignoreCase: true
