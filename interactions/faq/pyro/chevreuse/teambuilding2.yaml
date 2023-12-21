@@ -1,0 +1,38 @@
+content: null
+embeds:
+- title: "**Other Options**"
+  description: |-
+    ### Chevreuse | Pyro / Electro | Flex | Flex
+    Most other on-fielders do not benefit greatly from Chevreuse’s buffs compared to their original teams, but can be played if you so choose. Please note that Razor should be played with C6 Bennett if there is no other off-field Pyro application, allowing Razor to trigger Overloaded by himself on-field.
+
+    **__Teammates__**
+
+    <:pyro:1085111476584460328> **Pyro options:** Xiangling, Bennett, Yanfei, Klee, Hu Tao
+
+    <:electro:1094545575992623115> **Electro Options:** Fischl, Beidou, Razor, Keqing, Yae, Cyno
+  color: 7292579
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186822863039250473/BeDjht81ZAtEQAAAABJRU5ErkJggg.png?ex=6594a5ec&is=658230ec&hm=4b5fb6f7f15e715f5f1c86244dd588a7de449e0b3365a130e32e25820da0924d&format=webp&quality=lossless&width=1025&height=236&
+- title: "**Hu Tao VV Vape**"
+  description: |-
+    ### Chevreuse | Hu Tao | Xingqiu | Anemo
+    In Hu Tao VV Vape teams, there isn’t much competition for the 2nd Pyro slot, namely Amber with Elegy for buffs or Thoma and Yanfei for shielding. As Chevreuse isn’t reliant on a 5-star weapon to perform well in this team, she works as an offensive buffer with slight healing for defensive utility. However, C6 is required for this due to not having an Electro teammate to trigger her Overcharged Ball. Although Bennett works as a 2nd Pyro for this team, Chevreuse’s lower healing benefits Hu Tao’s A4 Passive, which wants Hu Tao to stay below 50% HP. Chevreuse’s lower healing also allows Hu Tao to equip 4pc Marechaussee Hunter for a large 36% CRIT Rate when her HP changes. For more consistent uptime on this passive, players can ignore HP% on Chevreuse entirely, instead aiming for either Energy Recharge or offensive stats. This will allow Chevreuse to provide further buffs from artifact set bonuses, such as 4pc Noblesse Oblige or 4pc Instructor.
+  color: 7292579
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186193139757744189/w85UZsw8M5dAAAAABJRU5ErkJggg.png?ex=65925b72&is=657fe672&hm=c28646c63bc3065daba2e8e210a4c3a0b8b142a0cfe39b3b8bad253d69995324&format=webp&quality=lossless&width=833&height=192&
+- title: "**Lyney Mono Pyro**"
+  description: |-
+    ### Chevreuse | Lyney | Dehya / Bennett | Flex
+    An alternative to Lyney’s Overloaded team with Chevreuse, allowing for a flex teammate, such as an Anemo character or Zhongli. As Lyney teams tend to use shorter rotations than most teams, Chevreuse can continue to ignore her Burst, allowing her to focus on her healing. Ignoring ER% can allow Chevreuse to equip 4pc Song of Days Past, maxing out the set’s buff twice. Because of Lyney’s large amounts of DMG Bonus and CRIT, the effects of 4pc Song of Days Past are greatly amplified when compared to other characters. Players can further buff this damage with Kazuha for his A4 DMG Bonus buff, or Zhongli for his shielding and 4pc Archaic Petra’s DMG Bonus buffs.
+  color: 7292579
+  footer:
+    text: 'Authored by: Leifa and Whalien'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=448&height=448
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186193271601508362/CSUJHwj88DOdP5uLZfHsi5TefmqPs6g8hELsPZ5jf3391uUU2vk4r3EZsz3mxgObDXRgoAMDHfgpHfgPqQGDUXxXbmkAAAAASUVORK5CYII.png?ex=65925b92&is=657fe692&hm=1e3e398fb3cff47aff7aad4d67df1e301415ec8aa12383f3a9754cd78c9a6fde&format=webp&quality=lossless&width=833&height=192&
+
+buttons:
+- customId: liveInteraction#faq/pyro/chevreuse/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

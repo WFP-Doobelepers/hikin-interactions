@@ -5,6 +5,11 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/pyro.png
 
 options:
+- label: Chevreuse
+    value: faq/pyro/chevreuse/main
+    description: WFP resources on Chevreuse!
+    emoji: <${EMOJIS.CHEVREUSE}>
+
   - label: Dehya
     value: faq/pyro/dehya/main
     description: WFP resources on Dehya!

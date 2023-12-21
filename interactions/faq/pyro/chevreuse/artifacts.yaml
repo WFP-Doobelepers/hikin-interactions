@@ -1,0 +1,70 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* HP%
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* HP%
+    <:circlet:1094559608581922966> *Circlet of Logos:* HP% / HB%
+
+    If players require the use of Chevreuse’s Elemental Burst, her ER Requirements should be met first before looking for other stats. Chevreuse prefers to stack as much HP% as possible, helping her to reach 40,000 HP to maximize her A4 Passive. After that, she is able to focus on other stats that benefit her healing, such as a Healing Bonus Circlet. In Raiden teams, Chevreuse’s ER Requirements are low enough that she can aim for more offensive substats, such as CRIT and ATK%.
+
+    **Substats:** ER% until requirement (if Bursting) > HP until ~40,000 > HB%  > HP% > Flat HP
+  color: 7292579
+- title: |-
+    __Artifact Sets__
+
+    **4PC Song of Days Past**
+  description: 4pc Song of Days Past is a new artifact set releasing in 4.3, granting
+    five instances of Flat DMG Bonus to the on-field character based on the total
+    healing recorded after 6 seconds. This effect works the same way as Shenhe’s Icy
+    Quill effect, resulting in the additive stacks being used up quicker in AoE compared
+    to single-target. On top of this, other characters may accidentally use up these
+    stacks during a rotation if it triggers during their field time. However, Chevreuse
+    is able to max out the set’s effect with her C6 and can be a viable alternative
+    in some teams already running other supportive sets. For players ignoring her
+    Elemental Burst, Chevreuse can max out this set’s effect twice in a rotation,
+    due to the increased healing from additional HP and Healing Bonus stats.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15033_4.png?vh=2023121801
+- title: "**4PC Noblesse Oblige**"
+  description: 4pc Noblesse Oblige further increases the buffs Chevreuse grants, providing
+    a 20% ATK buff to the party, although it requires building ER% for her Elemental
+    Burst.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15007_4.png?vh=2023100601
+- title: "**4PC Maiden Beloved**"
+  description: 4pc Maiden Beloved Further increases Chevreuse’s healing, granting
+    the team an extra 20% Incoming Healing Bonus after she casts her Elemental Skill
+    or Burst.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_14004_4.png?vh=2023100601
+- title: "**4PC Ocean-Hued Clam**"
+  description: 4pc Ocean-Hued Clam can be considered for some extra damage when building
+    for Chevreuse’s healing. Although she doesn’t max out the Sea-Dyed Foam, it deals
+    an equal amount of damage in AoE, compared to Song of Days Past being more single-target
+    oriented.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15022_4.png?vh=2023100601
+- title: "**4PC Tenacity of the Millelith**"
+  description: 4pc Tenacity of the Millelith increases Chevreuse’s healing with its
+    20% HP (2pc effect), whilst also granting a short teamwide 20% ATK buff upon hitting
+    an enemy with her Skill. TotM can be considered when running Chevreuse with teammates
+    who are able to quickly snapshot the 4pc effect.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15017_4.png?vh=2023100601
+- title: "**2pc HB/HP/ER combos**"
+  description: 2pc combinations of Maiden Beloved, Ocean-Hued Clam, Song of Days Past,
+    Tenacity of the Millelith, Vourukasha’s Glow and Emblem of Severed Fate will generally
+    provide higher healing than the aforementioned 4pc set bonuses (outside of 4pc
+    Maiden Beloved), but lack the extra team utility.
+  color: 7292579
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1182356837245403187/JndqWL0gkEOAKnDAQSUAkEBAKZi4AQgMytW1EygcApEfgnqS9u0HuapMsAAAAASUVORK5CYII.png?ex=658da11d&is=657b2c1d&hm=896b2b791b4eba2686f5ec4fe112b021ab48e26d78308edb26a8b4a9fac6d619&format=webp&quality=lossless&

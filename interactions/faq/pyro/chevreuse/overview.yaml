@@ -1,0 +1,42 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 7292579
+  fields:
+  - name: 'Lead:'
+    value: "<@280016643558604800>"
+  - name: 'Authors:'
+    value: "<@280016643558604800>, <@420223525740216321>"
+  - name: 'Calculations:'
+    value: "<@280016643558604800>"
+  - name: 'Framecounts:'
+    value: "<@377496350155079690>"
+  - name: 'Consulting:'
+    value: Acacia, <@325824119604248588>
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: [tcs]
+      Writing: ashen_flame
+  - name: 'Transcription:'
+    value: "<@812178562822963210>"
+  - name: 'Resources:'
+    value: |-
+      [Chevreuse Mastersheet](https://docs.google.com/spreadsheets/d/1c8CZOoCWtLpKbHqJCCSpnL32ijBF8aCfbKuDfpliry4/edit#gid=981902297)
+      [Chevreuse Frames Mastersheet](https://docs.google.com/spreadsheets/d/1LStKz7uk2O-izjnafciosNrvwhMnX1klI2JLIQVXXjU/edit#gid=0)
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1183149947479130132/GA0w9jHaMAA2psd.png?ex=659083c1&is=657e0ec1&hm=e8bcac201a858a629478090f067693319f9e0da3e6babc58bd2676cbb2d110cc&format=webp&quality=lossless&width=898&height=468&
+- title: __OVERVIEW__
+  description: |-
+    Chevreuse is a 4-star Pyro Polearm character aligned with Ousia whose kit involves providing large amounts of buffs to teams centered on the Overloaded reaction. Chevreuse’s A1 Passive reduces the Pyro and Electro RES of enemies, with the restriction of using only Pyro and Electro teammates. Her Elemental Skill fires a shot from her gun, dealing damage to an enemy and providing a slow healing effect to the on-field character. After a teammate triggers an Overloaded reaction, this shot becomes empowered, dealing increased damage and activating her A4 Passive to grant a teamwide ATK buff based on her Max HP. At C6, any characters healed by Chevreuse will gain a Pyro and Electro DMG Bonus buff, increasing the potency of her supportive capabilities.
+
+    Chevreuse will be played primarily as a supportive teammate, swapping on-field to use her Elemental Skill and Burst quickly, then leaving to let her teammates utilize the buffs she provides. Although her A4 Passive and C6 don't require Pyro and Electro teammates to activate, she is unable to reduce the Resistance of enemies with her A1 without these team restrictions.
+  color: 7292579
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Chevreuse.png?vh=2023100601
