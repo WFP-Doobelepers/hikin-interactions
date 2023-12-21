@@ -1,0 +1,42 @@
+content: null
+embeds:
+- title: |-
+    __TEAM BUILDING__
+
+    **On-field DPS**
+  description: |-
+    ### Navia | Geo | Flex | Flex
+    Navia’s team building strategy focuses on having 2 Pyro/Electro/Cryo/Hydro units with her to activate her A4 passive which gives her up to 40 ATK%. In addition to the previous units, Navia heavily favors a second Geo unit to activate Geo Resonance, help with off-field Crystallize generation, and provide Energy.
+  color: 15120686
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1182344548949708821/Ro4U8i5tfShObafWIsjAZHjSjHLNUrLNFtsgRjyrRLkLV9C84650K4XA6fHiu7jujuS2PMaqvvJVfJrlCA1v6FF1w0NdiJXtn67BoMgY9zPk7XkiwZK7daVQWA1JSRdjnzgyDvfPG9WFXCGpIlODomKj3MbVSrnSnzeIOkchoBBQCCgEFAIKAYWAQkAhoBBQCHRF4P8BE1cv5Bty5sMAAAAASUVORK5CYII.png?ex=658d95ab&is=657b20ab&hm=7a4ffae9519f20c22625c7c0eb983dd1d029e70b688604f97ccac12637b2c35a&format=webp&quality=lossless&width=1025&height=236&
+- description: |-
+    **__Teammates__**
+
+    <:geo:1150339675546992740> **Geo options:**
+    - **Zhongli** - Zhongli is a very strong candidate for the Geo slot, as he brings a strong shield for Geo resonance and universal 20% RES Shred. He can hold 4pc Tenacity of the Millielith or simply 2pc combinations of HP for better Shield Strength.
+    - **Albedo** - Albedo is another option for the Geo slot, with solid personal damage and consistent Crystallize and Energy generation. He can be built with 4pc Husk of Opulent Dreams or 4pc Golden Troupe.
+    - **Geo MC** - Geo MC is a strong option as a 4*, with high particle generation, a CRIT Rate buff, and solid personal DPS. However, their constructs, especially from skill, can prevent Navia from hitting enemies, whether by covering them in front or raising them up.
+
+    <:flex:1094549077280169984> **The two remaining slots can be any combination of buffers or off-field DPS:**
+    - **Furina** - provides a strong buff, but requires a teamwide healer to consistently take advantage of it. She also has some Hydro application which helps generate Crystallize shards, and decent off-field DPS, but she does lengthen rotations. She wants 4pc Golden Troupe.
+    - **Kokomi** - serves well as a healer in teams with Furina, brings strong AoE Hydro application for Crystallize, and can carry Thrilling Tales of Dragon Slayers to help buff Navia. She can hold 4pc Tenacity of the Millielith.
+    - **Bennett** - is another option for the healer slot, and brings a large ATK buff of his own, but has very little Pyro application. He can hold 4pc Noblesse Oblige.
+    - **Fischl**, **Yae Miko**, **Xiangling**, **Xingqiu**, **Yelan**, **Ganyu**, and **Rosaria** all provide good off-field damage with strong application of their respective elements, which is valuable for Crystallize shields. **Fischl** and **Yae Miko** want 4pc Golden Troupe, Yae in part due to her Burst being a DPS loss. **Xiangling**, **Xingqiu**, **Yelan**, and **Ganyu** want 4pc Emblem of Severed Fate. **Rosaria** wants 4pc Noblesse Oblige.
+
+    Recommended combinations include Bennett-Fischl, Furina-Kokomi, Xingqiu-Yelan, Bennett-Furina, Bennett-Yelan, Fischl-Yelan, FIschl-Yae, Ganyu-Rosaria, and Bennett-Xiangling.
+  color: 15120686
+- title: "**Quickswap**"
+  description: |-
+    Quickswap Navia is not recommended because her damage is greatly reduced when played as a quickswap DPS, making her not worth running over other potential options.
+    ### Noelle | Navia | Xingqiu | Furina
+  color: 15120686
+  image:
+    url: https://cdn.discordapp.com/attachments/1139854891729289246/1187165212047048764/no_quickswap_1-01.png?ex=6595e4c3&is=65836fc3&hm=eb94b9e9aeafce37f50b2720182bf43e5ec0066730955be2766cf47509596499&
+- description: "### Neuvillette | Furina | Navia | Kazuha"
+  color: 15120686
+  footer:
+    text: 'Authored by: Whalien'
+    icon_url: https://images-ext-1.discordapp.net/external/mo9MFCPKj4sT7c6Ea2WMp4gykUtVtTLrVg0h1saqHB0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/420223525740216321/136c3b3558fd4690a210123251256097.png?format=webp&quality=lossless&width=448&height=448
+  image:
+    url: https://cdn.discordapp.com/attachments/1139854891729289246/1187165212416163880/no_quickswap_2-01.png?ex=6595e4c3&is=65836fc3&hm=5a5270215dc0d1a8e5f9096ef8e36c98079ec6a0024068fa9cef1355caa142a5&

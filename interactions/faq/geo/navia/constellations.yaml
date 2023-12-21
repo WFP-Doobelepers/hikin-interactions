@@ -1,0 +1,99 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - A Lady's Rules for Keeping a Courteous Distance**
+  description: |-
+    > *Each stack of Crystal Shrapnel consumed when Navia uses Ceremonial Crystalshot will restore 3 Energy to her and decrease the CD of As the Sunlit Sky's Singing Salute by 1s. Up to 9 Energy can be gained this way, and the CD of "As the Sunlit Sky's Singing Salute" can be decreased by up to 3s.*
+
+    Completely fixes any ER  issues she might have in any possible team by effectively making her Burst a 42 energy cost from the original 60. Power depends on her original Energy Recharge needs at c0. More information about this Constellation can be found in the Energy Recharge section. *It is worth noting that this Constellation will not be a damage improvement if she can run 100% ER, but that requires  abundant enemy particles or running more than 1 extra geo character, which is not recommended.*
+  color: 15120686
+  fields:
+  - name: "***DPS% Increase vs. C0:***"
+    value: "~13%"
+  - name: "***Rating:***"
+    value: 4/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_01.png?vh=2023100601
+- title: "**Constellation 2 - The President's Pursuit of Victory**"
+  description: |-
+    > *Each stack of Crystal Shrapnel consumed will increase the CRIT Rate of this Ceremonial Crystalshot instance by 12%. CRIT Rate can be increased by up to 36% in this way.
+    > In addition, when Ceremonial Crystalshot hits an opponent, one Cannon Fire Support shot from As the Sunlit Sky's Singing Salute will strike near the location of the hit. Up to one instance of Cannon Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by said Cannon Fire Support this way is considered Elemental Burst DMG.*
+
+    Provides 36% CRIT Rate for her Skill damage. However,  players will need to adjust her CRIT Rate to around 64%  in order to not surpass 100% CRIT Rate. It also adds 2 extra hits to her Burst, which will be a minor increase to her damage and may generate an extra stack of Crystal Shrapnel.
+  color: 15120686
+  fields:
+  - name: "***DPS% Increase vs. C1:***"
+    value: 14%
+  - name: "***DPS% Increase vs. C0:***"
+    value: "~29%"
+  - name: "***Rating:***"
+    value: 4/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_02.png?vh=2023100601
+- title: "**Constellation 3 - Businesswoman's Broad Vision**"
+  description: |-
+    > *Increases the Level of Ceremonial Crystalshot by 3.
+    > Maximum upgrade level is 15.*
+
+    Additional damage on Skill, which is her main source of damage.
+  color: 15120686
+  fields:
+  - name: "***DPS% Increase vs. C2:***"
+    value: 10%
+  - name: "***DPS% Increase vs. C0:***"
+    value: "~42%"
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Navia_01.png?vh=2023100601
+- title: "**Constellation 4 - The Oathsworn Never Capitulate**"
+  description: |-
+    > *When As the Sunlit Sky's Singing Salute hits an opponent, that opponent's Geo RES will be decreased by 20% for 8s.*
+
+    Buffs all her abilities. Combined with Geo Resonance’s effect, it simulates having Viridescent Venerer active but for Geo.
+  color: 15120686
+  fields:
+  - name: "***DPS% Increase vs. C3:***"
+    value: 9.5%
+  - name: "***DPS% Increase vs. C0:***"
+    value: "~55%"
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_03.png?vh=2023100601
+- title: "**Constellation 5 - Negotiator's Resolute Negotiations**"
+  description: |-
+    > *Increases the Level of As the Sunlit Sky's Singing Salute by 3.
+    > Maximum upgrade level is 15.*
+
+    This Constellation does not provide a sizable benefit due to Navia’s Burst being only a minor portion to her overall damage.
+  color: 15120686
+  fields:
+  - name: "***DPS% Increase vs. C4:***"
+    value: 2.8%
+  - name: "***DPS% Increase vs. C0:***"
+    value: "~60%"
+  - name: "***Rating:***"
+    value: 1/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Navia_02.png?vh=2023100601
+- title: "**Constellation 6 - The Flexible Finesse of the Spina's President**"
+  description: |-
+    > *If more than 3 stacks of Crystal Shrapnel are consumed when using Ceremonial Crystalshot, each stack consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 45%, and any stacks consumed beyond the first 3 are returned to Navia.*
+
+    Navia’s strongest Constellation by far. It increases her Skill damage by about 40% if she has all 6 stacks of Crystal Shrapnel, which  enables her to deal massive amounts of damage in an instant, increasing her already substantial frontload.
+  color: 15120686
+  fields:
+  - name: "***DPS% Increase vs. C5:***"
+    value: 26%
+  - name: "***DPS% Increase vs. C0:***"
+    value: "~93-100%"
+  - name: "***Rating:***"
+    value: 5/5
+  footer:
+    text: 'Authored by: Ac1d'
+    icon_url: https://images-ext-1.discordapp.net/external/hwKthYMcyrZMEpNQvBSezKuX1PFCrCpKb3VR6DeAras/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/195955557591416833/6db9931bba801c523c1b573f1f6f5839.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_04.png?vh=2023100601

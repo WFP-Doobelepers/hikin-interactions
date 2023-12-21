@@ -1,0 +1,90 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **On-field: Elemental Skill > Normal Attack > Elemental Burst**
+  color: 15120686
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186169858883326003/FAQ_TALENT_PRIORITY-01.png?ex=659245c4&is=657fd0c4&hm=5d361992e7cb84b8b1ba79c2496f35d1fd138d9fda98b301a85ac2223f3941a3&format=webp&quality=lossless&
+- title: "**Quickswap: Elemental Skill > Elemental Burst >> Normal Attack**"
+  color: 15120686
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186169858648461352/FAQ_TALENT_PRIORITY_1-01.png?ex=659245c4&is=657fd0c4&hm=286840a5cbe6cee66c56e73d9f4fa20172390e291b2cbd4d79b810908a9cf0c6&format=webp&quality=lossless&
+- title: __Analysis__
+  description: "- Navia’s kit revolves around using her Burst and Normal Attacks to
+    maximize the damage output of her Skill, which is a powerful shotgun blast to
+    the face of enemies. Her kit is overall synergistic with many ways to buff her
+    own damage. She is also one of the few Geo characters to effectively utilize Crystallize
+    reactions even when shielded by someone else like Zhongli, setting a new precedent
+    for Geo DPS characters."
+  color: 15120686
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Blunt Refusal**
+  description: "- Four consecutive strikes; spinning Charged Attack\n\nNavia’s Normal
+    and Charged Attacks are buffed by her First Ascension Passive, offering an absolute
+    Geo infusion that cannot be overwritten and a large boost to her damage. \n\nThat
+    said, since Navia will need to utilize her Normal Attack Talent to maximize her
+    kit’s damage output, it’s recommended to level this Talent as high as possible,
+    but not before Navia’s Skill."
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_A_04.png?vh=2023100601
+- title: "**Elemental Skill: Ceremonial Crystalshot**"
+  description: "*CD: **9s***\n\n- Gains a stack (6 max) whenever anyone obtains a
+    Crystallize shard. On Skill use, she consumes all her stacks to hit the enemy
+    a number of times (5-11) based on her stacks (0-3). Each stack beyond the third
+    that’s consumed will each buff her Skill DMG by 15%, up to 45% max. Has two uses
+    per rotation.\n\nThe bread-and-butter of Navia’s kit. It’s easy to both acquire
+    max stacks for each Skill use and hit the enemy with every hit. As a Claymore-wielder
+    using Normal Attacks, you’re going to be in point-blank range with your enemy
+    anyways. \n\nNavia’s Skill is more than half of her damage output, which makes
+    this talent a top priority to maximize."
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_S_Navia_01.png?vh=2023100601
+- title: "**Elemental Burst: As the Sunlit Sky's Singing Salute**"
+  description: |-
+    *CD: **15s***
+    *Energy cost: **60***
+
+    - One initial hit, 17 smaller hits over time. Hits from Burst generate one Crystal Shrapnel stack every 2.4 seconds.
+
+    One of Navia’s primary ways to gain stacks and generate Crystallize shards, which is especially valuable on her Best-in-Slot artifact set, Nighttime Whispers in the Echoing Woods.
+
+    While it offers plenty of utility, it is not an exceptional source of damage output, so this talent can be leveled last.
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_E_Navia_01.png?vh=2023100601
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Undisclosed Distribution Channels**
+  description: |-
+    - For four seconds after using her Skill, the Normal Attack Talent is infused with Geo and cannot be overridden. Additionally, attacks using her Normal Attack Talent gain a 40% DMG Bonus
+
+    This is the main reason to use Navia’s Normal Attacks. Without it, she would have the same boring Normal Attacks as a typical 4-Star Claymore wielder. Most of the time, you’ll be using Normal Attacks.
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_05.png?vh=2023100601
+- title: "**Ascension 4 Passive: Mutual Assistance Network**"
+  description: |-
+    - For each Pyro, Electro, Hydro, Or Cryo character in your party, Navia gains 20% ATK, maxing out at 40% (two different elements).
+
+    Another incentive to pair Navia with other non-Geo characters, which is recommended in order to maximize Crystallize generation.
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_06.png?vh=2023100601
+- title: "**Utility Passive: Painstaking Transaction**"
+  description: |-
+    - 20% more rewards on Fontaine expeditions.
+
+    You should probably just mine for ore instead, but there may be a non-zero number of cases where this comes in handy.
+  color: 15120686
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_07.png?vh=2023100601
