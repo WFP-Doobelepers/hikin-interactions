@@ -15,7 +15,7 @@ embeds:
     value: Acacia, <@325824119604248588>
   - name: 'Content Verification:'
     value: |-
-      Calculations: "<@377496350155079690>"
+      Calculations: <@377496350155079690>
       Writing: ashen_flame
   - name: 'Transcription:'
     value: "<@812178562822963210>"
