@@ -1,0 +1,52 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Black Tassel**
+  description: Chevreuse’s weapon of choice for maximizing both her healing and her
+    buffing, allowing her to run both a Healing Bonus Circlet and Energy Recharge
+    Sands if players want to consistently use her Burst. Being a 3-star weapon also
+    makes it extremely affordable for all players.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Pole_Noire.png?vh=2023100601
+- title: "**Favonius Lance**"
+  description: Favonius weapons are generally a good choice on any supportive teammate,
+    helping to lower all party member’s ER Requirements. This can also help Chevreuse
+    to Burst more frequently whilst focusing fully on HP substats to improve her healing.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Pole_Zephyrus.png?vh=2023100601
+- title: "**Rightful Reward**"
+  description: A craftable weapon from Fontaine, providing HP% from its substat and
+    flat Energy upon being healed. With C6’s teamwide healing, Chevreuse is guaranteed
+    to trigger this once per rotation, due to the weapon passive working off-field,
+    lowering her ER Requirements and allowing her to run a Healing Bonus Circlet.
+    However, a C0 Chevreuse may struggle to trigger this without a secondary healer,
+    due to her Elemental Skill’s healing being slightly delayed after casting. For
+    players who don’t care for Chevreuse’s Burst, this weapon provides much less HP%
+    than Black Tassel, making it weaker across the board.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Pole_Vorpal.png?vh=2023100601
+- title: "**Any other HP or ER Polearm**"
+  description: Any weapon that provides Chevreuse with HP% or Energy Recharge can
+    be useful to help her reach ~40,000 HP to maximize her buff, whilst being able
+    to Burst every rotation. However, ER% weapons outside of Favonius Lance become
+    useless when not utilizing Chevreuse’s Burst, shrinking her total number of available
+    weapons.
+  color: 7292579
+- title: "**Staff of Homa**"
+  description: An offensive weapon choice that provides a small amount of HP% to help
+    with Chevreuse’s healing and buffing. Its passive also converts HP into ATK for
+    the wielder, increasing Chevreuse’s damage on a support-oriented build, or increasing
+    her supportive capabilities when built for damage. Keep in mind, this weapon doesn’t
+    provide any Energy Recharge, meaning players will need to gain ER% elsewhere for
+    her to consistently Burst in an offensive scenario.
+  color: 7292579
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Pole_Homa.png?vh=2023121801

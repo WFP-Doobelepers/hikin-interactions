@@ -1,0 +1,4 @@
+interaction: faq/pyro/chevreuse/main
+description: "Opens WFP resources on Chevreuse"
+match: ${ TRIGGER_PREFIX }chev(reuse)?faq(?:\s|$)
+ignoreCase: true

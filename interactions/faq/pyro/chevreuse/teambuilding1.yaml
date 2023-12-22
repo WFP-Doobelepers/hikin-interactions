@@ -1,0 +1,66 @@
+content: null
+embeds:
+- title: __TEAM BUILDING__
+  description: "Although Chevreuse teams utilize the Overloaded reaction, this is
+    only as a catalyst to activating her buffs, meaning characters will prefer to
+    be built for raw damage rather than solely on Elemental Mastery. These periodic
+    Overloaded triggers are required to keep up her A1 Passive, meaning either off-field
+    Elemental application or quickly swapping between characters is recommended for
+    maximum uptime. In solo Pyro scenarios or teams with no off-field Pyro Application
+    (such as Chevreuse and Bennett), a Pyro Skill can be used before your Electro
+    DPS’s field time, in order to maximize the uptime on her A1. In a lot of teams,
+    Chevreuse will be replacing an Anemo character, due to her teambuilding restriction
+    of only Pyro and Electro teammates, whilst providing Resistance Shred on par with
+    4pc Viridescent Venerer. If players are struggling with Chevreuse as their only
+    healer, characters like Beidou or Dehya can be used for extra defensive utility.\n\nMost
+    teams will not have much use for Chevreuse’s Elemental Burst, instead preferring
+    to funnel her Skill into another Pyro teammate. Its unique inward knockback may
+    be useful in AoE scenarios to help group enemies without an Anemo character; however,
+    its strength compared to other forms of grouping is questionable. \n\nCurrently,
+    Chevreuse does not have many teams that can satisfy her team constraints without
+    giving up some form of extra utility. For example, pairing Chevreuse with Bennett
+    gives a strong buffing duo, but leaves limited options for making the most of
+    her kit. If Xiangling is chosen to consolidate off-field Pyro Application, the
+    last slot is forced to be an Electro character, preferably one with on-field presence,
+    in order to activate Chevreuse’s buffs effectively. If players choose a character
+    like Fischl, the 4th team slot is open for choice, but may struggle with uptime
+    on Chevreuse’s A1 RES Shred due to no off-field Pyro if an Electro on-fielder
+    is chosen. On top of this, Chevreuse is unable to make use of grouping provided
+    by Anemo characters without deactivating her A1 Passive. Despite these teambuilding
+    restrictions, she has some use in teams without utilizing all of her buffs, being
+    able to provide up to 60% DMG Bonus to Pyro and Electro teammate at C6 unconditionally,
+    and 40% ATK if used with at least one Electro teammate."
+  color: 7292579
+- title: "**Raiden**"
+  description: |-
+    ### Chevreuse | Raiden | Pyro | Pyro/Electro
+    Raiden Overloaded teams have a mix of high damage and great flexibility, allowing for a great selection of off-fielders in the 4th slot. Xiangling will generally be used alongside Bennett in this team thanks to her consistent off-field Pyro application and high damage, but Electro off-fielders such as Fischl, Sara and Yae can be used instead, at the sacrifice of some uptime on Chevreuse’s A1 Passive. Compared to an Anemo character, Chevreuse can apply her RES Shred on multiple waves, allowing for 100% RES Shred uptime during Raiden’s field time. Due to the low ER Requirements in Raiden teams, Chevreuse can be built for some damage rather than pure utility without sacrificing much overall team damage.
+
+    **__Teammates__**
+
+    <:pyro:1085111476584460328> **Pyro options:** Xiangling, Bennett
+
+    <:flex:1094549077280169984> **Flex options:** Bennett, Yae, Sara, Fischl
+  color: 7292579
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1182358598811123782/M3eul7sy4MqAKwOuDNxBv4fVdqSzqFOeV0AAAAASUVORK5CYII.png?ex=658da2c1&is=657b2dc1&hm=2c67b795a2e3c46410ef7ce8913489cc54fb4272d887af713826d09514bd6b53&format=webp&quality=lossless&width=1025&height=236&
+- title: "**Yoimiya**"
+  description: |-
+    ### Chevreuse | Yoimiya | Fischl | Bennett/Raiden
+    Yoimiya Overloaded teams are a viable alternative to her current options whilst being less reliant on shields. In Vaporize teams, Yoimiya wants to Vaporize both her N3 and N5, resulting in her being unable to dodge easily. In Overloaded teams, which hits apply Pyro aren’t as important, meaning she can reliably dodge without sacrificing much damage. On top of this, the knockback provided by Overloaded can help reduce pressure against lighter enemies, further reducing Yoimiya’s shield reliance. Raiden and Yoimiya can also be used together in longer rotations, due to both providing on-field and off-field application via Raiden’s Skill and Yoimiya’s Burst.
+  color: 7292579
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1182358712560656495/Vsk0BzOxlnwAAAABJRU5ErkJggg.png?ex=658da2dc&is=657b2ddc&hm=68bfe64eaf1ae8abbbc80a27e1a2f600deec44e6983ad8a64594ed61dbd4d143&format=webp&quality=lossless&width=1025&height=236&
+- title: "**Lyney**"
+  description: |-
+    ### Chevreuse | Lyney | Fischl | Dehya/Bennett
+    Lyney Overloaded teams prefer to play shorter rotations compared to other teams and are able to keep a consistent Pyro aura for his A4 Passive, whilst also getting consistent Overloaded reactions to trigger Chevreuse’s A1. Dehya is also a viable alternative to Bennett, providing interruption resistance, utility that is greatly appreciated on Bow characters.
+  color: 7292579
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1182358833889288232/WCzKV9UFhbgAAAABJRU5ErkJggg.png?ex=658da2f9&is=657b2df9&hm=febcaa388b3c08255709a703e59cec9bbf9918ea1dbe2672774199d3e7714d90&format=webp&quality=lossless&width=1025&height=236&
+
+buttons:
+- customId: liveInteraction#faq/pyro/chevruse/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

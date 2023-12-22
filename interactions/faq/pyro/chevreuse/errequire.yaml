@@ -1,0 +1,15 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: |-
+    In general, Chevreuse’s ER Requirements are quite high, ranging from 175% - 205%. Thankfully, she is able to run weapons such as Favonius Lance to benefit the team’s Energy or the Fontaine craftable Polearm, Rightful Reward. Rightful Reward can lower her ER Requirements by ~25% - 50% depending on refinements, and even further if she’s able to trigger its passive twice per rotation. However, Chevreuse’s Burst isn’t required to activate any of her buffs, meaning players can choose to ignore ER% stats and focus on offensive or supportive stats if they aren’t interested in its inward knockback, or don’t need to activate artifact set bonuses such as Noblesse Oblige.
+    When run with Raiden, her ER Requirements plummet to around 105% - 135%, allowing her to further focus on offensive or supportive stats depending on how players want to build her, whilst easily Bursting every rotation.
+
+    Chevreuse’s ER Requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    For more details on how Favonius weapons will affect your team, please use Ac1d’s Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+  color: 7292579
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186836323907158046/Screenshot_20231220_090101_Samsung_Internet.jpg?ex=6594b275&is=65823d75&hm=49d9248199c8b86961dcfc7ea1f1e0643c3fde72bcd40f3bdb3ee6340d625bd2&
