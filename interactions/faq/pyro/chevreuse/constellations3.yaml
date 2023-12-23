@@ -1,7 +1,7 @@
 content: null
 embeds:
 - title: "**Constellation 5 - Enhanced Incendiary Firepower**"
-    description: |-
+    description: >-
       > *Increases the Level of Ring of Bursting Grenades by 3.
       > Maximum upgrade level is 15.*
 
@@ -21,7 +21,7 @@ embeds:
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_Talent_U_Chevreuse_02.png?vh=2023100601
   - title: "**Constellation 6 - In Pursuit of Ending Evil**"
-    description: |-
+    description: >-
       > *After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.
       > After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently.*
 
