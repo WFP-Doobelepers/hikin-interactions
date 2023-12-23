@@ -1,4 +1,4 @@
 interaction: faq/hydro/furina/main
-description: "Opens WFP resources on Neuvillette"
+description: "Opens WFP resources on Furina"
 match: ${ TRIGGER_PREFIX }furinafaq(?:\s|$)
 ignoreCase: true

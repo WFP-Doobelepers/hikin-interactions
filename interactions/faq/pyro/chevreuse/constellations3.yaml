@@ -1,0 +1,51 @@
+content: null
+embeds:
+- title: "**Constellation 5 - Enhanced Incendiary Firepower**"
+  description: >-
+    > *Increases the Level of Ring of Bursting Grenades by 3.
+    > Maximum upgrade level is 15.*
+
+    C5 increases the levels of Chevreuse’s Elemental Burst, slightly increasing her personal damage.
+  color: 7292579
+  fields:
+    - name: "***DPS% Increase vs. C4:***"
+      value: 6.57%
+    - name: "***DPS% Increase vs. C0:***"
+      value: 78.23%
+    - name: "***Healing% Increase vs. C4:***"
+      value: 0%
+    - name: "***Healing% Increase vs. C0:***"
+      value: 19.43%
+    - name: "***Rating:***"
+      value: 0/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Chevreuse_02.png?vh=2023100601
+- title: "**Constellation 6 - In Pursuit of Ending Evil**"
+  description: >-
+    > *After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.
+    > After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently.*
+
+    Chevreuse’s C6 provides a 20% DMG Bonus to any characters she heals, stacking up to 3 times for a maximum of 60% Pyro and Electro DMG Bonus. This effect can take some time to stack up due to her slow healing intervals but is a potent buff for any Chevreuse team. Additionally, after 12 seconds of healing from her Skill, Chevreuse heals the entire party, helping for extra survivability and granting them a stack of her DMG Bonus buff, increasing the team’s overall damage output further. Keep in mind, the results here are for personal damage, the teamwide damage increase is ~10% overall.
+  color: 7292579
+  fields:
+    - name: "***DPS% Increase vs. C5:***"
+      value: 0%
+    - name: "***DPS% Increase vs. C0:***"
+      value: 78.23%
+    - name: "***Healing% Increase vs. C5:***"
+      value: 96.66%
+    - name: "***Healing% Increase vs. C0:***"
+      value: 134.87%
+    - name: "***Rating:***"
+      value: 4/5
+  footer:
+    text: "Authored by: Leifa"
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Chevreuse_04.png?vh=2023100601
+
+buttons:
+- customId: liveInteraction#faq/pyro/chevreuse/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

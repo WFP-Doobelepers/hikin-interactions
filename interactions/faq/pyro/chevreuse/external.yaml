@@ -1,0 +1,18 @@
+content: null
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 7292579
+  fields:
+  - name: Project Amber
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000090/chevreuse)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credits to Leifa and Whalien for the Chevreuse FAQ! || WFP Theorycrafting
+    icon_url: https://media.discordapp.net/attachments/1139854891729289246/1158154535596990504/GUTAAAAo5_-_mr1_thonk.png?ex=6591ddf6&is=657f68f6&hm=128777fd43160182dadbefbbc9cb67f01c6187bc38a6c69038816f4d94bd0822&width=468&height=468&
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1172068096954077244/image.png?ex=6596577a&is=6583e27a&hm=09a5bb59631d87e84f8176019c270815fe5b48e49b7c0426b0d62982062bafdd&width=779&height=468&

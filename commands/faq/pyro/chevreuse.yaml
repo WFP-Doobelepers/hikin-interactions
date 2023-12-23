@@ -1,0 +1,5 @@
+interaction: faq/pyro/chevreuse/main
+description: "Opens WFP resources on Chevreuse"
+emoji: <${EMOJIS.CHEVREUSE}>
+ 
+name: Chevreuse

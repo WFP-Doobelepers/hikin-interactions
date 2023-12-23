@@ -1,0 +1,70 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **Elemental Skill > Elemental Burst >> Normal Attack**
+  description: |-
+    ## __Analysis__
+    - Chevreuse’s buffs are unrelated to her Talent levels, however her healing scales with her Elemental Skill, making that the first priority for some extra comfort. Her Normal Attacks are unused, making her Elemental Burst next in line for leveling. Although her Burst Talent levels are extra damage, Chevreuse is not dealing a large amount of damage in a majority of teams and sometimes does not cast her Elemental Burst at all, meaning this can also be ignored if players aren't using it.
+  color: 7292579
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186184378859139155/FAQ_TALENT_PRIORITY-01.png?ex=6592534a&is=657fde4a&hm=0e2aac787333efe770e36f4cf7d3d88369eadd8b47530f1f20900478c9fd5d0d&format=webp&quality=lossless&
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Line Bayonet Thrust EX**
+  description: Chevreuse performs a 4-hit attack string. However, her kit doesn’t
+    require using them at all, meaning they can be safely ignored.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_A_03.png?vh=2023100601
+- title: "**Elemental Skill: Short-Range Rapid Interdiction Fire**"
+  description: |-
+    *CD: **15s***
+
+    When tapped, Chevreuse’s Elemental Skill fires a quick shot from her musket, dealing AoE Pyro DMG. When held, Chevreuse enters an Aiming Mode, locking onto a target in her crosshair to fire a more precise shot, dealing increased Pyro DMG with a slight increase to her interruption resistance. If an Overloaded reaction has been recently triggered, her Hold Skill will become enhanced, firing an Overcharged Ball for even higher DMG upon its next use. After casting her Skill, the current active character will receive a healing over time effect for 12 seconds, triggering once every two seconds and scaling off of her Max HP. This healing typically ranges from around 3,000 - 4,000 per tick when using her Burst, and around 5,000 when not, making her a good defensive slot in for teams. Chevreuse’s Skill generates 4 particles with a cooldown of 15 seconds, meaning she will generally only get one set of particles per rotation. Because of the extra benefits granted by her enhanced Hold Skill, there is little reason to use her Tap Skill in combat.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_S_Chevreuse_01.png?vh=2023100601
+- title: "**Elemental Burst: Ring of Bursting Grenades**"
+  description: |-
+    *CD: **15s***
+    *Energy cost: **60***
+
+    Chevreuse’s Elemental Burst fires an explosive grenade, dealing AoE Pyro DMG and exploding into 8 smaller cluster shells, which detonate after a short period. These cluster shells have inward knockback, meaning enemies will be hit towards the center of her Elemental Burst’s explosion. However, these cluster shells will only apply Pyro on the 1st and 4th hits and explode relatively quickly compared to other bomblets, such as Klee or Kirara’s, which stick around after being created, making it unreliable as a form of off-field Pyro application. Although her Burst costs 60 Energy to cast, it’s not required to activate any of her buffs, meaning players will generally prefer to stack HP / Healing Bonus for healing and buffs rather than ER / ATK% / CRIT for Burst damage.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_E_Chevreuse_01.png?vh=2023100601
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Vanguard's Coordinated Tactics**
+  description: When the team is only composed of Pyro and Electro characters, Chevreuse
+    reduces the Pyro and Electro RES of opponents hit by Overloaded by 40% for 6 seconds.
+    Although this means her teams are unable to run teammates of a different Element,
+    such as an Anemo character for grouping, she is able to reliably shred the Resistances
+    of two Elements at once and from off-field, compared to 4pc Viridescent Venerer
+    which requires an on-field Swirl Reaction. This also allows her to shred the Resistance
+    of enemies in scenarios where 4pc VV can not, such as on enemies with innate auras.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Chevreuse_05.png?vh=2023100601
+- title: "**Ascension 4 Passive: Vertical Force Coordination**"
+  description: Upon firing an Overcharged Ball, Chevreuse increases the ATK of Pyro
+    and Electro teammates by 1% for every 1,000 Max HP she has, maxing out at 40%
+    ATK. These effects will be maxed out at 40,000 HP, meaning players generally want
+    to build her fully on HP rather than damage stats.
+  color: 7292579
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Chevreuse_06.png?vh=2023100601
+- title: "**Utility Passive: Double Time March**"
+  description: Chevreuse decreases the sprinting Stamina consumption of party members
+    by 20%, allowing for more dashes before Stamina is fully depleted, helping with
+    both survivability and convenience.
+  color: 7292579
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_Explosion_Sprint.png?vh=2023100601
