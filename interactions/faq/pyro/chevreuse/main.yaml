@@ -28,7 +28,7 @@ options: #dropdown
     emoji: ${ EMOJIS.PYRO_BOX }
 
   - label: Constellations
-    value: faq/pyro/chevreuse/constellations
+    value: faq/pyro/chevreuse/constellations1
     description: "WFP resources for Chevreuse FAQ."
     emoji: ${ EMOJIS.PYRO_BOX }
 
