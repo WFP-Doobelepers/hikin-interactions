@@ -1,0 +1,93 @@
+content: null
+embeds:
+  - title: __CONSTELLATIONS__
+    description:
+      "*DPS% increases assume an average of her personal damage increases
+      between both damage and healing-oriented builds. Although their increases are
+      similar, please check the [Chevreuse Mastersheet](https://docs.google.com/spreadsheets/d/1c8CZOoCWtLpKbHqJCCSpnL32ijBF8aCfbKuDfpliry4/edit?usp=sharing)
+      for specifics.*"
+    color: 7292579
+  - title: "**Constellation 1 - Stable Front Line's Resolve**"
+    description: |-
+      > *When the active character with the "Coordinated Tactics" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.
+      > You must first unlock the Passive Talent "Vanguard's Coordinated Tactics."*
+
+      Although this Constellation may look good on paper, in reality it’s difficult to control which characters trigger Overloaded and when, requiring near-perfect timing to proc this effect twice for a typical 20-second rotation. Although it may help some characters, the Energy provided from this Constellation is not to be relied on, but treated as an extra bonus for the on-field character that receives this effect.
+    color: 7292579
+    fields:
+      - name: "***DPS% Increase vs. C0:***"
+        value: 0%
+      - name: "***Healing% Increase vs. C0:***"
+        value: 0%
+      - name: "***Rating:***"
+        value: 1/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Chevreuse_01.png?vh=2023100601
+  - title: "**Constellation 2 - Sniper Induced Explosion**"
+    description: |-
+      > *After Holding Short-Range Rapid Interdiction Fire and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals Pyro DMG equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.*
+
+      After Chevreuse uses her Hold Skill, her bullet will explode into two smaller explosions with inward knockback, applying an extra instance of Pyro and dealing Pyro DMG. Unfortunately, her personal damage isn’t particularly high, leading to this Constellation being quite underwhelming. However, the two extra hits can be useful to trigger effects such as Favonius Lance’s passive.
+    color: 7292579
+    fields:
+      - name: "***DPS% Increase vs. C1:***"
+        value: 17.08%
+      - name: "***DPS% Increase vs. C0:***"
+        value: 17.08%
+      - name: "***Healing% Increase vs. C1:***"
+        value: 0%
+      - name: "***Healing% Increase vs. C0:***"
+        value: 0%
+      - name: "***Rating:***"
+        value: 1/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Chevreuse_02.png?vh=2023100601
+  - title: "**Constellation 5 - Enhanced Incendiary Firepower**"
+    description: |-
+      > *Increases the Level of Ring of Bursting Grenades by 3.
+      > Maximum upgrade level is 15.*
+
+      C5 increases the levels of Chevreuse’s Elemental Burst, slightly increasing her personal damage.
+    color: 7292579
+    fields:
+      - name: "***DPS% Increase vs. C4:***"
+        value: 6.57%
+      - name: "***DPS% Increase vs. C0:***"
+        value: 78.23%
+      - name: "***Healing% Increase vs. C4:***"
+        value: 0%
+      - name: "***Healing% Increase vs. C0:***"
+        value: 19.43%
+      - name: "***Rating:***"
+        value: 0/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Chevreuse_02.png?vh=2023100601
+  - title: "**Constellation 6 - In Pursuit of Ending Evil**"
+    description: |-
+      > *After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.
+      > After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently.*
+
+      Chevreuse’s C6 provides a 20% DMG Bonus to any characters she heals, stacking up to 3 times for a maximum of 60% Pyro and Electro DMG Bonus. This effect can take some time to stack up due to her slow healing intervals but is a potent buff for any Chevreuse team. Additionally, after 12 seconds of healing from her Skill, Chevreuse heals the entire party, helping for extra survivability and granting them a stack of her DMG Bonus buff, increasing the team’s overall damage output further. Keep in mind, the results here are for personal damage, the teamwide damage increase is ~10% overall.
+    color: 7292579
+    fields:
+      - name: "***DPS% Increase vs. C5:***"
+        value: 0%
+      - name: "***DPS% Increase vs. C0:***"
+        value: 78.23%
+      - name: "***Healing% Increase vs. C5:***"
+        value: 96.66%
+      - name: "***Healing% Increase vs. C0:***"
+        value: 134.87%
+      - name: "***Rating:***"
+        value: 4/5
+    footer:
+      text: "Authored by: Leifa"
+      icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Chevreuse_04.png?vh=2023100601
+
+buttons:
+  - customId: liveInteraction#faq/pyro/chevreuse/constellations2
+    label: Next
+    style: PRIMARY
+    emoji: "▶️"
