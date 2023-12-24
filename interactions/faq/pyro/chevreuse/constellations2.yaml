@@ -24,7 +24,7 @@ embeds:
   description: |-
     > *After using Ring of Bursting Grenades, the Hold mode of Short-Range Rapid Interdiction Fire will not go on cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.*
 
-    After casting her Elemental Burst, Chevreuse is granted the ability to use her Hold Skill an extra two times, allowing up to three quick and consecutive Skill casts. Unfortunately, these extra Skill uses don’t generate particles due to her 10-second cooldown on particle generation. Additionally, this Constellation doesn’t reset her Skill’s cooldown, meaning Chevreuse will be unable to use her C4 if she uses her Skill before her Burst. However, according to current information, if players use her Burst before her Skill but don’t want to use the two Skill uses from her C4, the 6 second duration on her C4’s effect will delay her Skill’s 15-second cooldown, effectively making it 21 seconds. This forces players to quickly use all three of Chevreuse’s Skills, taking up field time, whilst removing the possibility to use her C4 to gain two sets of particles in a 25-second rotation. If it turns out that her C4 doesn’t extend her Skill’s cooldown, it is possible for Chevreuse to cast her Burst and 1 Skill early in a rotation, then come back 10 seconds later for another Skill cast, allowing for her to generate up to 8 particles per rotation. While only a few rotations can actually accommodate this, those that can may find it helpful to funnel the extra particles to another teammate. As it is currently unclear whether this will be changed on release, it is worth keeping in mind.
+    After casting her Elemental Burst, Chevreuse is granted the ability to use her Hold Skill an extra two times, allowing up to three quick and consecutive Skill casts. Unfortunately, these extra Skill uses don’t generate particles due to her 10-second cooldown on particle generation. Additionally, this Constellation doesn’t reset her Skill’s cooldown, meaning Chevreuse will be unable to use her C4 if she uses her Skill before her Burst. In a 25-second rotation, it is possible for Chevreuse to cast her Burst and 1 Skill early on, then come back 10 seconds later for another Skill cast, allowing her to generate up to 8 particles per rotation. While only a few rotations can actually accommodate this, those that can may find it helpful to funnel the extra particles to another teammate.
   color: 7292579
   fields:
     - name: "***DPS% Increase vs. C3:***"
@@ -36,7 +36,7 @@ embeds:
     - name: "***Healing% Increase vs. C0:***"
       value: 19.43%
     - name: "***Rating:***"
-      value: 0/5
+      value: 1/5
     - name: "***DMG Build Rating:***"
       value: 3/5
   thumbnail:
