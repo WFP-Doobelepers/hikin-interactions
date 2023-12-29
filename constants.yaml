@@ -17,6 +17,7 @@ INFOGRAPHICS:
 PRETC:
   - "faq/hydro/yelan/main"
   - "faq/pyro/chevreuse/main"
+  - "tools/wfpsim"
 
 EMOJIS:
   EULADGE: ":euladge:1096678485067567146"
