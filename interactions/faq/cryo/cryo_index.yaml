@@ -7,14 +7,24 @@ options:
   - label: Layla
     value: faq/cryo/layla/main
     description: WFP resources on Layla!
-    emoji: <${EMOJIS.LAYLA}>
+    emoji: <${EMOJIS.CRYO}>
 
   - label: Mika
     value: faq/mika/layla/main
     description: WFP resources on Mika!
-    emoji: :Mika:1087703387639914526
+    emoji: <${EMOJIS.CRYO}>
 
   - label: Freminet
     value: faq/cryo/freminet/main
     description: WFP resources on Freminet!
-    emoji: :cryo:1084834834184151172
+    emoji: <${EMOJIS.CRYO}>
+  
+  - label: Wriothesley
+    value: faq/cryo/wriothesley/main
+    description: WFP resources on Wriothesley!
+    emoji: <${EMOJIS.CRYO}>
+
+  - label: Charlotte
+    value: faq/cryo/charlotte/main
+    description: WFP resources on Charlotte!
+    emoji: <${EMOJIS.CRYO}>

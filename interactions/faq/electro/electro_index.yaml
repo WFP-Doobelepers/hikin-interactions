@@ -8,9 +8,9 @@ options:
   - label: Cyno
     value: faq/electro/cyno/main
     description: WFP resources on Cyno!
-    emoji: <${ EMOJIS.CYNO }>
+    emoji: <${ EMOJIS.ELECTRO}>
 
   - label: Kuki
     value: faq/electro/kuki/main
     description: WFP resources on Kuki!
-    emoji: <${ EMOJIS.KUKI }>
+    emoji: <${ EMOJIS.ELECTRO}>
