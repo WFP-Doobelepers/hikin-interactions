@@ -8,4 +8,4 @@ options:
   - label: Yelan
     value: infographics/hydro/yelan/main
     description: WFP resources on Yelan
-    emoji: <${ EMOJIS.YELAN }>
+    emoji: <${ EMOJIS.HYDRO}>

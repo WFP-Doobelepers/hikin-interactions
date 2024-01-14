@@ -9,4 +9,4 @@ options:
   - label: Arataki Itto
     value: infographics/geo/itto/main
     description: WFP resources on Arataki Itto!
-    emoji: <${EMOJIS.ITTO}>
+    emoji: <${EMOJIS.GEO}>

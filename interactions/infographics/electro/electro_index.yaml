@@ -8,9 +8,9 @@ options:
   - label: Kuki Shinobu
     value: infographics/electro/kuki/main
     description: WFP resources on Kuki Shinobu!
-    emoji: <${ EMOJIS.KUKI }>
+    emoji: <${ EMOJIS.ELECTRO}>
 
   - label: Raiden Shogun
     value: infographics/electro/raiden/main
     description: WFP resources on the Raiden Shogun!
-    emoji: <${ EMOJIS.RAIDEN }>
+    emoji: <${ EMOJIS.ELECTRO}>
