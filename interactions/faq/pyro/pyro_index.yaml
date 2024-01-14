@@ -6,7 +6,7 @@ embeds:
 
 Rewritten code:
 options:
-- label: Chevreuse
+  - label: Chevreuse
     value: faq/pyro/chevreuse/main
     description: WFP resources on Chevreuse!
     emoji: <${EMOJIS.PYRO}>

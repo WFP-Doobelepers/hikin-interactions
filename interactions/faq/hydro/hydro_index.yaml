@@ -19,3 +19,14 @@ options:
     value: faq/hydro/neuvillette/main
     description: WFP resources on Neuvillette
     emoji: <${ EMOJIS.HYDRO}>
+  
+  - label: Yelan
+    value: faq/hydro/yelan/main
+    description: WFP resources on Yelan
+    emoji: <${ EMOJIS.HYDRO}>
+
+  - label: Furina
+    value: faq/hydro/furina/main
+    description: WFP resources on Furina
+    emoji: <${ EMOJIS.HYDRO}>
+    

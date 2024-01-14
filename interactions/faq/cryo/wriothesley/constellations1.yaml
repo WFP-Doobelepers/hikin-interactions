@@ -82,13 +82,13 @@ embeds:
       Reverse Melt DPS Increase from C1: 13.91%
 
 
-      Unbuffed Cryo DPS Increase from C1: 34.60%
+      Unbuffed Cryo DPS Increase from C0: 34.60%
 
 
-      Buffed Cryo DPS Increase from C1: 18.86%
+      Buffed Cryo DPS Increase from C0: 18.86%
 
 
-      Reverse Melt DPS Increase from C1: 30.09%
+      Reverse Melt DPS Increase from C0: 30.09%
     color: 6229534
     fields:
       - name: '***Rating:***'

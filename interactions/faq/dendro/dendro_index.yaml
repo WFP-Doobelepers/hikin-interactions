@@ -13,7 +13,7 @@ options:
   - label: Alhaitham
     value: faq/dendro/alhaitham/main
     description: WFP resources on Alhaitham
-    emoji: <${EMOJIS.ALHAITHAM}>
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Nahida
     value: faq/dendro/nahida/main
