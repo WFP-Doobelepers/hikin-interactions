@@ -9,24 +9,24 @@ options:
   - label: Hu Tao
     value: infographics/pyro/hutao/main
     description: WFP resources on Hu Tao!
-    emoji: <${EMOJIS.HUTAO}>
+    emoji: <${EMOJIS.PYRO}>
 
   - label: Bennett
     value: infographics/pyro/bennett/main
     description: WFP resources on Bennett!
-    emoji: <${EMOJIS.BENNETT}>
+    emoji: <${EMOJIS.PYRO}>
 
   - label: Xinyan
     value: infographics/pyro/xinyan/main
     description: WFP resources on Xinyan!
-    emoji: <${EMOJIS.XINYAN}>
+    emoji: <${EMOJIS.PYRO}>
 
   - label: Yoimiya
     value: infographics/pyro/yoimiya/main
     description: WFP resources on Yoimiya!
-    emoji: <${EMOJIS.YOIMIYA}>
+    emoji: <${EMOJIS.PYRO}>
 
   - label: Xiangling
     value: infographics/pyro/xiangling/main
     description: WFP resources on Xiangling!
-    emoji: <${EMOJIS.XIANGLING}>
+    emoji: <${EMOJIS.PYRO}>
