@@ -8,14 +8,25 @@ options:
   - label: Nilou
     value: faq/hydro/nilou/main
     description: WFP resources on Nilou
-    emoji: <${ EMOJIS.NILOU }>
+    emoji: <${ EMOJIS.HYDRO}>
 
   - label: Candace
     value: faq/hydro/candace/main
     description: WFP resources on Candace
-    emoji: "<:Candace:1087355530957303808>"
+    emoji: <${ EMOJIS.HYDRO}>
 
   - label: Neuvillette
     value: faq/hydro/neuvillette/main
     description: WFP resources on Neuvillette
-    emoji: "<:hydro:1094545501493403709>"
+    emoji: <${ EMOJIS.HYDRO}>
+  
+  - label: Yelan
+    value: faq/hydro/yelan/main
+    description: WFP resources on Yelan
+    emoji: <${ EMOJIS.HYDRO}>
+
+  - label: Furina
+    value: faq/hydro/furina/main
+    description: WFP resources on Furina
+    emoji: <${ EMOJIS.HYDRO}>
+    

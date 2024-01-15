@@ -8,4 +8,4 @@ options:
   - label: Navia
     value: faq/geo/navia/main
     description: WFP resources on Navia
-    emoji: <${ EMOJIS.NAVIA }>
+    emoji: <${ EMOJIS.GEO }>

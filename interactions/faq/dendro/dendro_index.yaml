@@ -8,39 +8,39 @@ options:
   - label: YaoYao
     value: faq/dendro/yaoyao/main
     description: WFP resources on YaoYao
-    emoji: <${EMOJIS.YAOYAO}>
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Alhaitham
     value: faq/dendro/alhaitham/main
     description: WFP resources on Alhaitham
-    emoji: <${EMOJIS.ALHAITHAM}>
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Nahida
     value: faq/dendro/nahida/main
     description: WFP resources on Nahida
-    emoji: "<:Nahida:1041944645061574676>"
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Tighnari
     value: faq/dendro/tighnari/main
     description: WFP resources on Tighnari
-    emoji: "<:Tighnari:1086226279029809264>"
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Collei
     value: faq/dendro/collei/main
     description: WFP resources on Collei
-    emoji: <${EMOJIS.COLLEI}>
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Kirara
     value: faq/dendro/kirara/main
     description: WFP resources on Kirara
-    emoji: <${EMOJIS.KIRARA}>
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Baizhu
     value: faq/dendro/baizhu/main
     description: WFP resources on Baizhu
-    emoji: <${EMOJIS.BAIZHU}>
+    emoji: <${EMOJIS.DENDRO}>
 
   - label: Kaveh
     value: faq/dendro/kaveh/main
     description: WFP resources on Kaveh
-    emoji: <${EMOJIS.KAVEH}>
+    emoji: <${EMOJIS.DENDRO}>

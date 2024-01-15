@@ -9,4 +9,4 @@ options:
   - label: Heizou
     value: infographics/anemo/heizou/main
     description: WFP resources on Shikanoin Heizou!
-    emoji: "<:Heizou:1089567280209350677>" 
+    emoji: <${ EMOJIS.ANEMO}>

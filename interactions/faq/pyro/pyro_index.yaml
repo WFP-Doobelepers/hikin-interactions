@@ -4,18 +4,20 @@ embeds:
       name: Select a character!
       icon_url: https://library.keqingmains.com/img/elements/pyro.png
 
+Rewritten code:
 options:
-- label: Chevreuse
+  - label: Chevreuse
     value: faq/pyro/chevreuse/main
     description: WFP resources on Chevreuse!
-    emoji: <${EMOJIS.CHEVREUSE}>
+    emoji: <${EMOJIS.PYRO}>
 
   - label: Dehya
     value: faq/pyro/dehya/main
     description: WFP resources on Dehya!
-    emoji: <${EMOJIS.DEHYA}>
+    emoji: <${EMOJIS.PYRO}>
 
   - label: Lyney
     value: faq/pyro/lyney/main
     description: WFP resources on Lyney!
-    emoji: <${EMOJIS.LYNEY}>
+    emoji: <${EMOJIS.PYRO}>
+
