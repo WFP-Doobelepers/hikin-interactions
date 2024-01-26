@@ -1,21 +1,23 @@
 content: null
 embeds:
-  - title: '**Nahida**'
-    description: |-
-      - Dendro
-      - Catalyst
-      - Off-field Sub-DPS
-    color: 9754216
-    author:
-      name: Nahida
-      icon_url: https://i.imgur.com/S3tGyFV.png
-    footer:
-      text: by leifa (author) and fianwens (designer) || WFP Theorycrafting
-    image:
-      url: https://i.imgur.com/BOL0uKl.png
-    thumbnail:
-      url: >-
-        https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Emblem_Sumeru_White.png
+- title: >-
+    '**Nahida**'
+  description: |-
+    - Dendro
+    - Catalyst
+    - Off-field Sub-DPS
+  color: 9754216
+  author:
+    name: Nahida
+    icon_url: >-
+      https://i.imgur.com/S3tGyFV.png
+  footer:
+    text: by leifa (author) and fianwens (designer) || WFP Theorycrafting
+  image:
+    url: https://i.imgur.com/BOL0uKl.png
+  thumbnail:
+    url: >-
+      https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Emblem_Sumeru_White.png
 
 
 options:
