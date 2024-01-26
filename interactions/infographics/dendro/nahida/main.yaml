@@ -62,3 +62,4 @@ buttons:
 - label: WFP Theorycrafting
   url: https://wangshengfp.org/faq/nahida
   emoji: ${ EMOJIS.WFP_LOGO }
+  style: LINK
