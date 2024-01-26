@@ -1,7 +1,7 @@
 content: null
 embeds:
 - title: >-
-    '**Nahida**'
+    **Nahida Infographics**
   description: |-
     - Dendro
     - Catalyst
@@ -29,12 +29,12 @@ options:
   description: WFP resources for Nahida Teams.
   emoji: ${ EMOJIS.DENDRO_BOX }
 
-- label: Softgoals (EM/DENDRO/CRIT)
+- label: Softgoals (EM/Dendro/CR)
   value: infographics/dendro/nahida/softgoalsEDCR
   description: WFP resources for Nahida Softgoals.
   emoji: ${ EMOJIS.DENDRO_BOX }
 
-- label: Softgoals (EM/DENDRO/CDMG)
+- label: Softgoals (EM/Dendro/CD)
   value: infographics/dendro/nahida/softgoalsEDCD
   description: WFP resources for Nahida Softgoals.
   emoji: ${ EMOJIS.DENDRO_BOX }
@@ -44,7 +44,7 @@ options:
   description: WFP resources for Nahida Softgoals.
   emoji: ${ EMOJIS.DENDRO_BOX }
 
-- label: Softgoals (EM/DENDRO/EM)
+- label: Softgoals (EM/Dendro/EM)
   value: infographics/dendro/nahida/softgoalsEDE
   description: WFP resources for Nahida Softgoals.
   emoji: ${ EMOJIS.DENDRO_BOX }
