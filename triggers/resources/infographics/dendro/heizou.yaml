@@ -1,0 +1,4 @@
+interaction: infographics/anemo/nahida/main
+description: "Opens WFP resources on Nahida"
+match: ${ TRIGGER_PREFIX }nahida(?:\s|$)
+ignoreCase: true
