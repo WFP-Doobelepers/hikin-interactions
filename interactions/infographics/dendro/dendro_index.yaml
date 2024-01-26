@@ -1,0 +1,12 @@
+embeds:
+  - color: 3634295
+    author:
+      name: Select a character!
+      icon_url: https://library.keqingmains.com/img/elements/anemo.png
+
+options: 
+
+  - label: Heizou
+    value: infographics/anemo/heizou/main
+    description: WFP resources on Shikanoin Heizou!
+    emoji: <${ EMOJIS.ANEMO}>

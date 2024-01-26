@@ -1,0 +1,60 @@
+content: null
+embeds:
+  - title: '**Nahida**'
+    description: |-
+      - Dendro
+      - Catalyst
+      - Off-field Sub-DPS
+    color: 9754216
+    author:
+      name: Nahida
+      icon_url: https://i.imgur.com/S3tGyFV.png
+    footer:
+      text: by leifa (author) and fianwens (designer) || WFP Theorycrafting
+    image:
+      url: https://i.imgur.com/BOL0uKl.png
+    thumbnail:
+      url: >-
+        https://static.wikia.nocookie.net/gensin-impact/images/6/6a/Emblem_Sumeru_White.png
+
+
+options:
+#dropdown
+- label: Team Comps
+  value: interactions/infographics/dendro/nahida/teams
+  description: WFP resources for Nahida Teams.
+  emoji: ${ EMOJIS.DENDRO_BOX }
+
+- label: Softgoals (EM/DENDRO/CRIT)
+  value: infographics/anemo/nahida/softgoalsEDCR
+  description: WFP resources for Nahida Softgoals.
+  emoji: ${ EMOJIS.DENDRO_BOX }
+
+- label: Softgoals (EM/DENDRO/CDMG)
+  value: infographics/anemo/nahida/softgoalsEDCD
+  description: WFP resources for Nahida Softgoals.
+  emoji: ${ EMOJIS.DENDRO_BOX }
+
+- label: Softgoals (EM/EM/EM)
+  value: infographics/anemo/nahida/softgoals3EM
+  description: WFP resources for Nahida Softgoals.
+  emoji: ${ EMOJIS.DENDRO_BOX }
+
+- label: Softgoals (EM/DENDRO/EM)
+  value: infographics/anemo/nahida/softgoalsEDE
+  description: WFP resources for Nahida Softgoals.
+  emoji: ${ EMOJIS.DENDRO_BOX }
+
+- label: Constellations and ER Requirements
+  value: infographics/anemo/nahida/constellations
+  description: WFP resources for Nahida Constellations.
+  emoji: ${ EMOJIS.DENDRO_BOX }
+
+buttons:
+- label: KQM Guide
+  url: https://keqingmains.com/nahida/
+  emoji: :logont:945530991240421386
+  style: LINK
+- label: WFP Theorycrafting
+  url: https://wangshengfp.org/faq/nahida
+  emoji: ${ EMOJIS.WFP_LOGO }
