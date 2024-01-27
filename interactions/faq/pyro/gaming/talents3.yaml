@@ -1,0 +1,36 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Dance of Amity**
+  description: This Passive allows Gaming to heal himself outside of his Burst’s initial
+    cast. For 0.8s, he recovers 1.5% of his HP per 0.2s, which means he heals 6% of
+    his HP total for 0.8s after hitting an opponent with his Charmed Cloudstrider
+    Plunging Attack.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Gaming_05.png?vh=2023122001
+- title: "**Ascension 4 Passive: Air of Prosperity**"
+  description: Depending on the amount of HP Gaming has, he receives different buffs
+    from this Passive. He gains 20% Healing Bonus if his HP is below 50%, and a 20%
+    increase on the damage dealt by his Charmed Cloudstrider Plunges if his HP is
+    above 50% instead.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Gaming_06.png?vh=2023122001
+- title: "**Utility Passive: The Striding Beast**"
+  description: Gaming gives Movement SPD to the whole party, but only during the daytime
+    in the overworld.
+  color: 10235181
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/FYeVKcV.png
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Dehya_07.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

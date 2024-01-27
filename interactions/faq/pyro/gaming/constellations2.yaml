@@ -1,0 +1,57 @@
+content: null
+embeds:
+- title: "**Constellation 4 - Soar Across Mountains**"
+  description: |-
+    > *When Bestial Ascent's Plunging Attack: Charmed Cloudstrider hits an opponent, it will restore 2 Energy to Gaming. This effect can be triggered once every 0.2s.*
+
+    Notably lowers Gaming’s ER Requirements (to be discussed further in the next section), allowing more leeway for offensive substats to increase his damage output.
+  color: 10235181
+  fields:
+  - name: "***DPS% Increase vs. C3:***"
+    value: 5.27%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 16.91%
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Gaming_03.png?vh=2023122001
+- title: "**Constellation 5 - Demon-Daunting Roar**"
+  description: |-
+    > *Increases the Level of Suanni's Gilded Dance by 3.
+    > Maximum upgrade level is 15.*
+
+    An increase on Gaming’s Burst level. His Burst is not a significant portion of his overall damage output, but an increase is still welcome nonetheless.
+  color: 10235181
+  fields:
+  - name: "***DPS% Increase vs. C4:***"
+    value: 1.55%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 18.71%
+  - name: "***Rating:***"
+    value: 1/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Gaming_02.png?vh=2023122001
+- title: "**Constellation 6 - To Tame All Beasts**"
+  description: |-
+    > *Bestial Ascent's Plunging Attack: Charmed Cloudstrider CRIT Rate increased by 20% and CRIT DMG increased by 40%, and its attack radius will be increased.*
+
+    Gaming’s strongest Constellation. His Charmed Cloudstrider Plunging Attacks gain a notable CRIT buff, which increases its damage by roughly 31%. Charmed Cloudstrider Plunging Attacks also gain an attack radius increase from 4m to 6m, which makes its AoE the same size as Bennett’s Burst radius.
+  color: 10235181
+  fields:
+  - name: "***DPS% Increase vs. C5:***"
+    value: 19.83%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 42.26%
+  - name: "***Rating:***"
+    value: 4/5
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/FYeVKcV.png
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Gaming_04.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

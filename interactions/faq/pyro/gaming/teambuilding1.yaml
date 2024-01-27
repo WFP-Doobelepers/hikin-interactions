@@ -1,0 +1,29 @@
+content: null
+embeds:
+- title: |-
+    __TEAM BUILDING__
+
+    **Bennett**
+  description: Bennett is a particularly important teammate for Gaming for multiple
+    reasons. Not only are the ATK buff and healing from Bennett’s Burst useful – the
+    former for obvious reasons and the latter to help Gaming maintain his damage bonus
+    from his A4 Passive – but with C6 Bennett, Gaming gains a Pyro infusion on his
+    Plunging Attacks, allowing him to trigger more reactions, increasing his damage
+    significantly. Bennett’s Burst does have the issue of being tied to a fixed area,
+    which can be limiting with regards to Gaming’s gameplay, which involves dashing
+    towards enemies before doing Plunging Attacks. This is, however, less of an issue
+    in fights with heavy enemies in single-target scenarios, or if Xianyun is on the
+    team since you can opt to execute normal Plunging Attacks instead. Generally,
+    it’s highly preferred to have Benentt on Gaming teams.
+  color: 10235181
+  footer:
+    text: 'Authored by: Whalien'
+    icon_url: https://i.imgur.com/OjnYEch.png  
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Bennett.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/teambuilding2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

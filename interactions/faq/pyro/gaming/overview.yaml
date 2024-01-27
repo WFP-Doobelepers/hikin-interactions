@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 10235181
+  fields:
+  - name: 'Lead:'
+    value: "<@293169816741740556>"
+  - name: 'Authors:'
+    value: "<@280016643558604800>, <@812178562822963210>, <@209338139074887691>, <@205393764846403584>,
+      <@708791985200431174>, <@420223525740216321>"
+  - name: 'Calculations:'
+    value: "<@812178562822963210>, <@708791985200431174>, <@205393764846403584>"
+  - name: 'Consulting:'
+    value: "<@280016643558604800>"
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@641127310539620352>
+      Writing: <@280016643558604800>
+  - name: 'Transcription:'
+    value: "<@812178562822963210>, <@366206663533002774>"
+  - name: 'Resources:'
+    value: "[Gaming Mastersheet](https://docs.google.com/spreadsheets/d/1GaF3EbvTntMcmIj_niyZn5hSBOxnV03mmLJ5890yoAI/edit?usp=sharing)"
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://i.imgur.com/JWyQbBc.png
+- title: __OVERVIEW__
+  description: |-
+    Gaming is a 4-star Pyro Claymore character who uses his Elemental Skill’s Wushou arts to jump off enemies and retaliate with an enhanced Plunging Attack. Upon hitting an enemy with his enhanced Plunging Attack, Gaming will consume a fixed amount of HP, whilst gaining some back over a short period. His Elemental Burst causes him to enter the Wushou Stance, recovering a fixed amount of HP and throwing his companion, the Suanni Man Chai, at enemies. Once Man Chai hits an enemy, it will return to Gaming, resetting the CD of his Elemental Skill. If Gaming has over 50% HP when using his Elemental Skill or enhanced Plunging Attack, Man Chai will be resummoned and bounce randomly nearby before returning to Gaming.
+
+    Gaming will primarily be played as an on-field DPS, repeatedly dashing at enemies and Plunging with his Elemental Skill. As a Liuye character, Gaming will be obtainable in this year’s Friends at the Doorstep event as part of the upcoming Lantern Rite Festival, allowing players to access him for free.
+  color: 10235181
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://i.imgur.com/85dc4CE.png
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Gaming.png?vh=2023122001

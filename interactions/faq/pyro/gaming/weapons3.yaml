@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: "**Lithic Blade**"
+  description: Since Gaming is a Liyue character, this weapon is guaranteed to have
+    at least one stack. The average assumption for Lithic Blade is that you have at
+    least two stacks, otherwise it's not recommended to use this weapon. The ATK%
+    is decent, but pales in comparison to the CRIT Rate% it gives. This weapon scales
+    well with refinements, which can be seen as a downside because of Lithic Blade’s
+    exclusivity to the weapon banner.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Lapis.png?vh=2023122001
+- title: "**Tidal Shadow**"
+  description: A F2P craftable weapon that requires being healed in exchange for a
+    massive ATK% buff. Gaming heals himself upon using a Plunging Attack, so he can
+    easily maintain the passive. However, since Bennett and Xianyun are common teammates
+    for Gaming teams, the value of this ATK% buff is diminished. Tidal Shadow sees
+    higher value if used in teams that give Gaming large amounts of DMG%.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Vorpal.png?vh=2023122001
+- title: '**"Ultimate Overlord’s Mega Magic Sword"**'
+  description: A decent alternative to Tidal Shadow for those who obtained it in the
+    recent 4.3 event. Ultimate Overlord’s Mega Magic Sword’s value largely depends
+    on Gaming’s ER Requirements. In teams with Bennett, these are typically low enough
+    for this weapon to lose some value. Gaming’s C4 also reduces his ER Requirements,
+    which subsequently makes this weapon lose value.
+  color: 10235181
+  footer:
+    text: 'Authored by: Quinslay'
+    icon_url: https://i.imgur.com/yYvPWrC.png
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Champion.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/weapons2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

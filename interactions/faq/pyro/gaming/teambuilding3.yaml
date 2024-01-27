@@ -1,0 +1,41 @@
+content: null
+embeds:
+- title: "**Overloaded**"
+  description: |-
+    ### Gaming | Chevreuse | Electro | Pyro/Electro
+    Overloaded teams have seen an increase in viability due to the introduction of Chevreuse. While the playstyle certainly still has issues with knocking enemies away from Bennett’s Burst circle, it can be a decent option against heavy enemies in single-target scenarios. Note that units such as Beidou and Xiangling may have very high ER Requirements.
+
+    __**Teammates**__
+
+    <:electro:1094545575992623115> **Electro options:** Fischl, Yae Miko, Beidou
+
+    <:pyro:1085111476584460328> **Pyro options:** Bennett, Xiangling
+  color: 10235181
+  image:
+    url: https://i.imgur.com/PPtXT8z.png
+- title: "**Melt**"
+  description: |-
+    ### Gaming | Cryo | Flex | Flex
+    While Melt teams have high potential for damage, they do have  issues that make them more difficult to play than other teams.  In Melt teams, C6 Bennett can cause an enemy’s Cryo Aura to be lost for Plunging Attacks if Normal Attacks are weaved into Gaming’s on-field combos. If C6 Bennett is in the team, it is recommended to dash towards Man Chai for faster Skill-Plunging Attack combos. The greater risk of losing reactions on key hits, in conjunction with the high ER Requirements for many teammates, makes the team hard to play and not highly recommended.
+
+    Only C6 Kaeya can enable Gaming to consistently Melt as solo Cryo; other Cryo teammates (including Kaeya without C6) require being paired with another Cryo character or an Anemo character who can absorb Cryo on their Burst to do the same. After the Cryo character(s) have been slotted in, Bennett and/or an Anemo character can be added to the team; double Anemo may be viable in select situations.
+
+    __**Teammates**__
+
+    <:cryo:1084834834184151172> **Cryo Flex options:** Kaeya, Rosaria, Layla
+
+    <:anemo:1094545726748508250> **Anemo Flex options:** Xianyun, Kazuha
+
+    <:flex:1094549077280169984> **Other Flex options:** Bennett
+  color: 10235181
+  footer:
+    text: 'Authored by: Whalien'
+    icon_url: https://i.imgur.com/OjnYEch.png
+  image:
+    url: https://i.imgur.com/1Gb2KmV.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/teambuilding2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

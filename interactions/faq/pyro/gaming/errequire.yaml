@@ -1,0 +1,22 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: |-
+    Gaming generates 2 particles per Elemental Skill with an ICD of 3s. Depending on your rotation, you will either do 4, 5 or 6 Skills per rotation, with only 3 or 4 of them generating particles.
+
+    Gaming’s ER Requirements depend a lot on the team, their gear, and the rotation: whether Bennett is present or not, whether you feed Bennett's particles to Gaming, the number of Favonius weapons in the team, and whether your Gaming is C0 or C4+.
+
+    Gaming’s C4 generates 2 Flat Energy per Skill. As mentioned previously, you will do 4, 5 or 6 Elemental Skills per rotation, which corresponds to 8/10/12 Flat Energy per rotation.
+
+    Also, keep in mind that if you play Gaming with Bennett C6 and Xianyun, you will likely do some normal Plunging Attacks. This makes it harder to pick up Man Chai to  reset your Elemental Skill CD, which means that you will do 1 less Skill per rotation most of the time.
+
+    Moreover, if you want to Swirl Pyro, you will have to switch to Xianyun or Kazuha AFTER using Bennett’s Burst, meaning you won’t be able to funnel from Bennett to Gaming during setup. Nevertheless, this can still happen at the end of the rotation by doing an Elemental Skill on Bennett then switching back to Gaming to do a final Elemental Skill.
+
+    Gaming’s ER requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    For more details on how Favonius weapons will affect your team, please use Ac1d’s Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+  color: 10235181
+  footer:
+    text: 'Authored by: Duckfero'
+    icon_url: https://i.imgur.com/N2whLV6.png
+  image:
+    url: https://i.imgur.com/OG4nRKj.png

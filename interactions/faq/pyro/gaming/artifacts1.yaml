@@ -1,0 +1,43 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* EM/ATK%
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* Pyro DMG%
+    <:circlet:1094559608581922966> *Circlet of Logos:* Crit
+
+    EM Sands is preferred due to Gaming’s reliance on Vaporize/Melt. Nevertheless, ATK% Sands can be viable with better substats or within Overload/Mono teams.
+
+    **Substats:** ER until requirement > CRIT DMG = CRIT Rate > EM > ATK%
+  color: 10235181
+- title: |-
+    __Artifact Sets__
+
+    **4PC Marechaussee Hunter**
+  description: This is Gaming’s BiS set both with and without Furina. Whilst he does
+    not get the most usage out of the 2pc effect, he is able to consistently obtain
+    all 3 stacks of the 4pc effect quickly. This allows Gaming wider weapon options
+    and less reliance on a lot of CRIT substats. It is highly recommended to not build
+    above 64% CRIT Rate to avoid overcapping.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15031_4.png?vh=2023122001
+- title: "**4PC Crimson Witch of Flames**"
+  description: Crimson Witch of Flames is tied with Marechaussee Hunter for Gaming’s
+    BiS set within Vaporize/Melt teams due to the reaction bonus the set provides.
+    Gaming is able to build stacks of the 4pc effect over a rotation as a result of
+    his Elemental Burst resetting the cooldown of his Elemental Skill. However, it
+    is recommended to farm Marechaussee Hunter due to it not being reliant on reactions
+    to get value.
+  color: 10235181
+  footer:
+    text: 'Authored by: Nooot'
+    icon_url: https://i.imgur.com/dU1o6nV.png  
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15006_4.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/artifacts2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

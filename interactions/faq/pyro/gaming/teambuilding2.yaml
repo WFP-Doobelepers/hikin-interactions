@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: "**Vaporize**"
+  description: |-
+    ### Gaming | Bennett | Hydro | Anemo
+    The most recommended team for Gaming, in which for Gaming can trigger Vaporize on his Plunging Attacks, alongside other buffs to increase his damage.  The Hydro and Anemo slots are flexible, as their primary roles are to allow Gaming to Vaporize his Plunging Attacks and provide RES Shred from 4pc Viridescent Venerer respectively, and neither function is fixed to one unit.
+
+    __**Teammates**__
+
+    **<:hydro:1094545501493403709> Hydro options:** Furina, Yelan, Xingqiu
+
+    **<:anemo:1094545726748508250> Anemo options:** Kazuha, Xianyun, Sucrose
+  color: 10235181
+  image:
+    url: https://i.imgur.com/4sUAtog.png
+- title: "**Mono Pyro**"
+  description: |-
+    ### Gaming | Bennett | Xiangling | Anemo
+    Mono Pyro teams take advantage of shared Elemental Particles to reduce ER Requirements and VV shred for multiple members in order to boost damage without other reactions. Gaming, with his strong synergy with Bennett, fits well into Mono Pyro teams. Kazuha provides a large amount of Pyro DMG Bonus to both Gaming and Xiangling, while Xianyun is able to buff Gaming’s Plunging Attack damage; other Anemo characters do not differ significantly.
+
+    __**Teammates**__
+
+    <:anemo:1094545726748508250> **Anemo options:** Xianyun, Kazuha
+  color: 10235181
+  footer:
+    text: 'Authored by: Whalien'
+    icon_url: https://i.imgur.com/OjnYEch.png  
+  image:
+    url: https://i.imgur.com/dz76rPk.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/teambuilding1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/gaming/teambuilding3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
