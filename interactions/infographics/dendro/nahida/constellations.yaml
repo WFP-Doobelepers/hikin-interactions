@@ -10,7 +10,9 @@ embeds:
       name: Nahida
       icon_url: https://i.imgur.com/S3tGyFV.png
     footer:
-      text: by leifa (author) and fianwens (designer) || WFP Theorycrafting
+      text: >-
+        by leifa (author), fianwens (designer), and cuzimori (additional source)
+        || WFP Theorycrafting
     image:
       url: https://i.imgur.com/syHPws1.png
     thumbnail:
