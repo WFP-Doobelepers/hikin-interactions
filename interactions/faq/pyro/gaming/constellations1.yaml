@@ -24,9 +24,9 @@ embeds:
   color: 10235181
   fields:
   - name: "***DPS% Increase vs. C1:***"
-    value: 3.84%
+    value: 4.02%
   - name: "***DPS% Increase vs. C0:***"
-    value: 3.84%
+    value: 4.02%
   - name: "***Rating:***"
     value: 1/5
   thumbnail:
@@ -40,9 +40,9 @@ embeds:
   color: 10235181
   fields:
   - name: "***DPS% Increase vs. C2:***"
-    value: 6.95%
+    value: 6.66%
   - name: "***DPS% Increase vs. C0:***"
-    value: 11.05%
+    value: 10.94%
   - name: "***Rating:***"
     value: 2.5/5
   footer:

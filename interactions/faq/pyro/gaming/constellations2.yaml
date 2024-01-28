@@ -8,9 +8,9 @@ embeds:
   color: 10235181
   fields:
   - name: "***DPS% Increase vs. C3:***"
-    value: 5.27%
+    value: 5.46%
   - name: "***DPS% Increase vs. C0:***"
-    value: 16.91%
+    value: 17.00%
   - name: "***Rating:***"
     value: 2/5
   thumbnail:
@@ -24,9 +24,9 @@ embeds:
   color: 10235181
   fields:
   - name: "***DPS% Increase vs. C4:***"
-    value: 1.55%
+    value: 1.92%
   - name: "***DPS% Increase vs. C0:***"
-    value: 18.71%
+    value: 19.25%
   - name: "***Rating:***"
     value: 1/5
   thumbnail:
@@ -39,9 +39,9 @@ embeds:
   color: 10235181
   fields:
   - name: "***DPS% Increase vs. C5:***"
-    value: 19.83%
+    value: 19.25%
   - name: "***DPS% Increase vs. C0:***"
-    value: 42.26%
+    value: 42.20%
   - name: "***Rating:***"
     value: 4/5
   footer:
