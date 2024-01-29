@@ -1,4 +1,0 @@
-interaction: faq/anemo/xianyun/main
-description: "Opens WFP resources on Xianyun"
-match: ${ TRIGGER_PREFIX }xianyunfaq(?:\s|$)
-ignoreCase: true
