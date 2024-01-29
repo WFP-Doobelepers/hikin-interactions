@@ -1,0 +1,76 @@
+content: null
+embeds:
+  - title: __**COMBOS**__
+    description: >-
+      Wanderer’s combos are fairly difficult to precisely pin down. His kit is
+      designed with Normal Attacks in mind, so any weapon that benefits Normal
+      Attacks excels. However, with many weapons that don’t fit this criteria,
+      N2C helps squeeze around. 
+
+
+      We calculated based on the following assumptions, but the number of
+      attacks are conservative estimates. You may get more than what we’ve
+      assumed.
+
+
+      **Tullaytullah’s Remembrance + 4pc Desert Pavilion : **
+      
+
+      (Q), E, CA, N3x6
+
+
+      **(N2C Version) Most weapons on Desert Pavilion : ** 
+
+
+      (Q), E, C, N2C (x5) + N2
+
+
+      **(N2C Version) Most weapons with NO ATK SPD buffs :** 
+      
+      
+      (Q), E, N2C (x5) + N1
+
+
+      **(N3 Version) Most weapons on Desert Pavilion :**
+      
+
+      (Q), E, CA, N3x5 + N2
+
+
+      **(N3 Version) Most weapons with NO ATK SPD buffs : ** 
+      
+
+      (Q), E, CA, N3x5 + N1
+
+
+      **Dodoco Tales CA Spam on Desert Pavilion :** 
+      
+
+      (Q), E, N1, CAx6, N1, CAx6 
+
+
+      Based on these calculations, N2C can squeeze out more damage. However,
+      this is mostly for players using low ATK SPD, non-Yunjin teams. Newer info
+      that is being released leans towards this being more of a sidegrade, so
+      calcs may not perfectly reflect this. That said, N2C is *not* always a
+      strict upgrade.
+
+
+      N2D, when controlled, might deal even more, provided you ***only*** dash
+      when A4 activates - learning to master the dash timing will take time,
+      rewarding the player for going the extra mile, but not dealing *so* much
+      more damage that it’s mandatory to get down (about 10%). Dashing too
+      early, however, will tank the damage in your rotation.
+
+
+      Even further, Wanderer’s A4 has a visual indicator for when you can dash
+      without stamina consumption to unleash bonus attacks. You can increase
+      your damage even further by dash-cancelling N2 or N3 once you know for
+      sure you can trigger the A4 passive.
+
+
+      **Again, we urge you to take this with a grain of salt - research on these
+      combos is ongoing.**
+    color: 7321031
+    footer:
+      text: (section authored by Emiliabyss)

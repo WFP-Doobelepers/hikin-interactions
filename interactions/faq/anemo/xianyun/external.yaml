@@ -1,0 +1,25 @@
+content: null
+embeds:
+  - title: __EXTERNAL LINKS__
+    color: 7006143
+    fields:
+      - name: Project Amber
+        value: >-
+          [Character Database and Asset
+          Resources](https://ambr.top/en/archive/avatar/10000093/xianyun)
+      - name: Honey Hunter World
+        value: >-
+          [Character Database and Asset
+          Resources](https://genshin.honeyhunterworld.com/?lang=EN)
+      - name: Genshin Impact JP Twitter
+        value: '[Asset Resources](https://twitter.com/Genshin_7)'
+      - name: Genshin Impact EN Twitter
+        value: '[Asset Resources](https://twitter.com/GenshinImpact)'
+    footer:
+      text: >-
+        Credits to Leifa, June, Snowy, NatC, and Duckfero for the Xianyun FAQ!
+        || WFP Theorycrafting
+      icon_url: https://i.imgur.com/PxyyvVE.png
+    image:
+      url: https://i.imgur.com/8DbrO2h.png
+attachments: []

@@ -1,0 +1,99 @@
+content: null
+embeds:
+  - title: __WEAPONS__
+    description: >-
+      Xianyun mostly needs ER and ATK stats, so any weapon that gives a good
+      amount of either is beneficial.
+
+
+      However, her ER requirement as a solo Anemo is usually very high , so you
+      will likely not be able to use a weapon that doesn’t give ER or Flat
+      Energy in those teams. **The only teams where weapons that don't give ER
+      or Flat Energy are viable is when there are 2 or 3 Anemo characters in the
+      team**, with the most obvious candidate being in a team with Xiao.
+    color: 7006143
+  - title: '**Crane''s Echoing Call**'
+    description: >-
+      Crane’s Echoing Call is Xianyun’s Best-In-Slot weapon in any team where
+      the main carry uses Plunging Attacks. Everything is perfect for Xianyun’s
+      kit. It has a high Base ATK and gives ATK%, both important stats for her
+      A4. It also gives a decent amount of Flat Energy which is really welcomed
+      to help her reach her ER requirement, especially when she is solo Anemo.
+      Moreover, it buffs Plunging Attack DMG for teammates, which helps her for
+      her role as a Plunging Attack buffer. It increases your main carry’s DPS
+      by about 10–12% compared to a F2P weapon like Oathsworn Eye, which is a
+      great boost, but the damage gained to the carry can be compared to low
+      priority signature weapons like Raiden’s signature or Navia’s signature,
+      and it’s only useful on Xianyun.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_MountainGale.png?vh=2023122001
+  - title: '**Skyward Atlas / Memory of Dust / Cashflow Supervision**'
+    description: >-
+      These weapons are great because they give a lot of attack through a high
+      Base ATK and some ATK%. They are the 2nd, 3rd and 4th best options
+      respectively in teams with multiple Anemo characters. However, these
+      weapons don’t give any ER or Flat Energy, so they are not viable if your
+      Xianyun is the only Anemo in the team due to her high ER requirement
+      (unless you manage to get 70%–80% ER through substats).
+    color: 7006143
+    thumbnail:
+      url: https://i.imgur.com/2gpPx0m.png
+  - title: '**Favonius Codex**'
+    description: >-
+      Favonius Codex is a strong option, being the 2nd best option in teams
+      where Xianyun is the only Anemo character (assuming you proc the passive
+      once), but it falls behind other options in a team with Xiao. However,
+      building CRIT Rate is necessary to use this weapon, which is not as easy
+      as it seems since an ATK% Circlet is recommended. Xianyun only does 2 or 3
+      hits (with the 3rd hit being unreliable), and it’s not easy to have more
+      than 40% CRIT Rate with only substats. By building only 40% CRIT Rate, you
+      will have 64% chance to CRIT with 2 hits and 78% chance to CRIT with 3
+      hits, which make this weapon not extremely reliable. Don’t hesitate to use
+      1 or 2 Normal Attacks to have more chances to proc the passive.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Zephyrus.png?vh=2023122001
+  - title: '**Oathsworn Eye**'
+    description: >-
+      Oathsworn is a great F2P weapon from an event in 2.5. The high Base ATK,
+      ATK% secondary stat, and ER passive make it a strong and versatile option
+      for Xianyun. The ER from the passive lasts for only 10 seconds, but it
+      includes the moment where she receives 5 Particles from her Skill. This
+      weapon is viable in any team, including when she is the only Anemo
+      character or with multiple Anemo.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Jyanome.png?vh=2023122001
+  - title: '**Thrilling Tales of Dragon Slayers**'
+    description: >-
+      This weapon is a great F2P option because it can grant a teammate 48% ATK
+      at R5. However, it is only really relevant if you play with Xiao, because
+      there isn’t any other team that needs ATK% buff, where Xianyun can afford
+      a weapon without any ER or Flat Energy, and where the rotation allows her
+      to give the buff to the carry. Moreover, you need to make sure to only
+      switch to Xianyun right before switching to your carry, otherwise you
+      won’t give the buff to the right teammate. Furthermore, the low Base ATK
+      will reduce the Plunging Attack buff from Xianyun’s A4 Passive
+      significantly, making this weapon only on par with Oathsworn Eye or
+      Flowing Purity with Xiao. Finally, having less attack means that her
+      healing will be lower, which not only reduces survivability but also
+      reduces Fanfare gain from Furina. If you play Xiao with 4pc Vermillion,
+      the bonus from this weapon will have less value due to the high amount of
+      ATK%.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Pulpfic.png?vh=2023122001
+    footer:
+      text: 'Authored by: Duckfero'
+      icon_url: https://i.imgur.com/EN20EIp.png
+      
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/weapons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

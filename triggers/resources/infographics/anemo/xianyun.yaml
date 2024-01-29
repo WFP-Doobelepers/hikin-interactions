@@ -1,0 +1,4 @@
+interaction: infographics/anemo/xianyun/main
+description: "Opens WFP resources on Xianyun"
+match: ${ TRIGGER_PREFIX }xianyun(?:\s|$)
+ignoreCase: true

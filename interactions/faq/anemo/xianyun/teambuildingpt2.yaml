@@ -1,0 +1,84 @@
+content: null
+embeds:
+  - title: __Plunge-Oriented Teammates__
+    description: >-
+      Although limited in number, characters already designed around Plunging
+      Attacks can make use of Xianyun’s A1 and A4 Passives to boost their damage
+      output. Since Xianyun’s A4 Passive is considered Additive Flat DMG, DMG
+      Bonus and CRIT stats will be preferred, due to affecting both the
+      character’s Base DMG and Xianyun’s Flat DMG Bonus. In Vaporize and Melt
+      focused teams, Xianyun’s buff also benefits heavily from EM stats, due to
+      being affected by Amplifying reactions.
+    color: 7006143
+  - title: '**Xiao**'
+    description: >-
+      Xiao makes excellent use of Xianyun’s A4 due to the large amounts of DMG
+      Bonus he gains after casting his Elemental Burst, granting him some extra
+      help when dealing with single-target scenarios. The increased want for DMG
+      Bonus stats alongside Xianyun’s high teamwide Healing over Time also
+      allows Xiao to be played with Furina without being confined to the area of
+      Bennett’s Elemental Burst, an issue Xiao has struggled with for a long
+      time due to gaining too much DMG Bonus compared to other stats at the
+      time. Not being confined to Bennett’s Burst frees up his movement,
+      allowing him to chase after enemies being knocked away by his Plunging
+      Attack’s high Poise damage. Although Bennett can still be used if players
+      wish, Faruzan is a given for her potent Anemo-related buffs, providing DMG
+      Bonus, Anemo RES Shred, as well as Anemo CRIT DMG and off-field Anemo
+      Particles at C6. Despite Faruzans A4 Passive being a rather small Flat DMG
+      buff, it still contributes to preferring DMG Bonus and CRIT compared to
+      ATK stats. Finally, Xianyun’s 5 Anemo Particles can greatly help lower
+      both Xiao and Faruzan’s egregious ER Requirements, helping non-C6 Faruzan
+      to reliably Burst every rotation. 
+
+      Depending on the content, Xiao can play both a shorter or a longer
+      rotation, varying the amount of Plunging Attacks he uses without
+      sacrificing on overall team damage. A longer rotation will help to lower
+      the team’s overall ER Requirements, whereas a shorter rotation may be
+      helpful for sustaining buff uptime across multiple waves of enemies or for
+      granting Xiao more Plunging Attacks with Xianyuns A4 Passive to help with
+      tankier single-target fights.
+    color: 7006143
+    fields:
+      - name: Xiao / Xianyun / Faruzan / Furina
+        value: >-
+          ER Reqs: 185–190% / 120–130% (C0 vs C6 Faruzan, ranging from 22s to
+          26s rotations)
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Xiao.png?vh=2023122001
+  - title: '**Gaming**'
+    description: >-
+      Gaming is a new 4-star Pyro Claymore character focused on Plunging
+      Attacks, who will be obtainable for free from the Friends at the Doorstep
+      event as part of the upcoming Lantern Rite Festival. Although Gaming
+      doesn’t have access to the large amounts of DMG Bonus Xiao gets, he is
+      able to trigger Vaporize and Melt on his Plunging Attacks, allowing him to
+      greatly amplify his damage with EM stats when under the effects of
+      Xianyun’s A4 Passive. Vaporize teams tend to make use of C6 Bennett’s Pyro
+      Infusion, allowing Gaming to Vaporize more buffed Plunging Attacks,
+      whereas Melt teams prefer to guarantee he triggers Melt on his Skill
+      Plunging Attacks. For more details on Gaming’s teams, please check out the
+      [Gaming FAQ](https://wangshengfp.org/faq/gaming/).
+    color: 7006143
+    fields:
+      - name: Gaming / Xianyun / Xingqiu / Bennett
+        value: 'ER Reqs: 250%'
+      - name: Gaming / Xianyun / Rosaria / Layla
+        value: 'ER Reqs: 265%'
+      - name: Gaming / Xianyun / Kaeya C6 / Furina
+        value: 'ER Reqs: 265%'
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Gaming.png?vh=2023122001
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: https://i.imgur.com/BE8zSUK.png
+      
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

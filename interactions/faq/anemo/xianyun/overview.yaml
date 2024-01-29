@@ -1,0 +1,77 @@
+content: null
+embeds:
+  - title: __CREDITS__
+    color: 7006143
+    fields:
+      - name: 'Lead:'
+        value: <@293169816741740556>
+      - name: 'Authors:'
+        value: >-
+          <@280016643558604800>, <@812178562822963210>, <@651556217315000360>,
+          <@148100838861176832>, <@209338139074887691>
+      - name: 'Calculations:'
+        value: >-
+          <@651556217315000360>, <@209338139074887691>, <@1104825453023342602>,
+          <@280016643558604800>
+      - name: 'Framecounts:'
+        value: <@583034255794503697>
+      - name: 'Consulting:'
+        value: <@280016643558604800>
+      - name: 'Content Verification:'
+        value: >-
+          Calculations: <@463998487067885600>, <@366206663533002774>,
+          <@243369819217330178>
+
+          Writing: <@280016643558604800>, <@360467745743175698>
+      - name: 'Transcription:'
+        value: <@812178562822963210>, <@651556217315000360>, <@366206663533002774>
+      - name: 'Resources:'
+        value: >-
+          [Xianyun
+          Mastersheet](https://docs.google.com/spreadsheets/d/1ZfhvKwhM_p69LwJfFamWibQYvg6sxKRZ0siSBzy7FTM/edit?usp=sharing)
+
+          [Xianyun Frames
+          Mastersheet](https://docs.google.com/spreadsheets/d/1-Cvi7uj_feBLAsq04GvVwLd-REtngVNnaGkGGQUtMEc/edit?usp=sharing)
+      - name: DISCLAIMER
+        value: >-
+          *Pre-TC is volatile and, as always, perpetually subject to change
+          until release (and sometimes later!). Please note that these are
+          theoretical suggestions.
+
+          Everything described in this FAQ is a good faith analysis based on the
+          little information about the character’s kit that we know. Team calcs,
+          additionally, are not established yet, and as with everything in TC,
+          the content in this FAQ should be taken with a grain of salt.*
+    image:
+      url: https://i.imgur.com/FogbFEd.jpeg
+  - title: __OVERVIEW__
+    description: >-
+      Xianyun is a 5-star Anemo Catalyst character who provides strong teamwide
+      healing and buffs to Plunging Attacks. Her Elemental Skill causes her to
+      enter the Cloud Transmogrification state and leap into the air. If Xianyun
+      uses a Plunging Attack during this state, she will make a fast descent to
+      the ground, homing in on a nearby opponent to deal AoE Anemo DMG. This
+      Skill can be used up to 3 times before performing a Plunging Attack,
+      increasing Xianyun’s height and the damage dealt by her Plunging Attack.
+      Depending on the amount of enemies hit,  Xianyun will slightly increase
+      the CRIT Rate of Plunging Attacks for all nearby party members. 
+
+
+      Her Elemental Burst heals all party members over time whilst increasing
+      their jump height and providing Adeptal Assistance stacks. When the active
+      character performs a Plunging Attack, Xianyun will deal a coordinated
+      attack and consume an Adeptal Assistance stack. Whilst having Adeptal
+      Assistance stacks, Xianyun will provide a Flat DMG Bonus to Plunging
+      Attacks based on her ATK.
+
+
+      Xianyun will primarily be played as an off-field supportive teammate,
+      providing large AoE healing to the party and greatly buffing the damage
+      dealt by Plunging Attacks, whilst enabling all characters to perform
+      Plunging Attacks due to the increased jump height.
+    color: 7006143
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: https://i.imgur.com/BE8zSUK.png
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Liuyun.png?vh=2023122001

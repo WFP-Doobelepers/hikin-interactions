@@ -1,0 +1,66 @@
+content: null
+embeds:
+  - title: '**Freminet**'
+    description: >-
+      Despite also not being intended for Plunging Attacks, at C3, Freminet
+      gains +3 levels to his Normal Attack Talent, increasing the damage dealt
+      by his Plunging Attacks. Despite having significantly lower Base ATK than
+      Diluc, the MVs are quite similar, making Freminet a viable option for
+      Xianyun teams. Additionally, Freminet has several options for team
+      archetypes, including Pyro, Cryo and Physical. For each archetype, the
+      corresponding Elemental Goblet will be used based on Freminet’s Infusion.
+    color: 7006143
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Freminet.png?vh=2023122001
+  - title: Pyro Freminet
+    description: >-
+      On a team with C6 Bennett, Pyro Freminet can utilize the Pyro Infusion in
+      order to Vaporize his Plunging Attacks while ignoring his Skill and Burst.
+      Bennett also provides a strong Flat ATK buff from his Burst, helping to
+      make up for Freminet's low Base ATK. The last teammate should be a Hydro
+      off-fielder who can apply enough Hydro for Freminet to consistently
+      trigger Vaporize.
+    color: 7006143
+    fields:
+      - name: Freminet / Xianyun / Xingqiu / Bennett C6
+        value: 'ER Reqs: 275%'
+  - title: Cryo Freminet
+    description: >-
+      Alongside his Level 0 Skill, Cryo Freminet utilizes Chongyun's Skill to
+      infuse his Plunging Attacks with Cryo. There are a few choices for the
+      fourth team slot: Bennett provides a large ATK buff, but cannot be used at
+      C6; Furina brings solid off-field damage and a large DMG% buff; and
+      Xiangling allows Freminet to Melt his Plunging Attacks, but has extremely
+      high ER Requirements. For the duration of his Elemental Burst, Freminet
+      will repeatedly use his Skill for Level 0 Shattering Pressure hits,
+      followed up by a Plunging Attack during the short downtime between Skill
+      activations.
+    color: 7006143
+    fields:
+      - name: Freminet / Xianyun / Chongyun / Furina
+        value: 'ER Reqs: 250%'
+  - title: Physical Freminet
+    description: >-
+      With an Electro teammate like Fischl or Yae Miko, Physical Freminet can be
+      played, using his Skill before performing Plunging Attacks in order to
+      trigger Superconduct. The fourth team slot can be various units with
+      off-field utility, including defensive options such as Zhongli or Layla,
+      who provide comfort at the cost of damage; damage dealers such as Furina,
+      Xingqiu, or Rosaria; or buffers such as pre-C6 Bennett or Mika, whose C6
+      is pivotal to him being useful in the team. Depending on your 4th
+      teammate, Xianyun can optionally change her Artifact set from 4pc
+      Viridescent Venerer to any of 4pc Noblesse Oblige, 4pc Ocean-Hued Clam or
+      4pc Song of Days Past. However, 4pc VV will generally be preferred if
+      being paired with another off-field damage dealer.
+    color: 7006143
+    fields:
+      - name: Freminet / Xianyun / Fischl / Mika C6
+        value: 'ER Reqs: 265%'
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: https://i.imgur.com/BE8zSUK.png
+
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt5
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

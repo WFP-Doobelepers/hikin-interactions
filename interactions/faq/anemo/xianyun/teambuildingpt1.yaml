@@ -1,0 +1,68 @@
+content: null
+embeds:
+  - title: __TEAM BUILDING__
+    description: >-
+      Xianyun’s ability to allow any team to utilize Plunging Attacks opens up a
+      large number of possibilities for current and future teambuilding.
+      Although not all characters will make use of Xianyun to her full effect,
+      she can be slotted into almost any team, providing AoE damage through
+      Plunging Attacks, alongside strong Healing over Time to all teammates,
+      helping to keep characters healthy. 
+
+      Due to her universality, some standout teammates will be listed rather
+      than set archetypes, whilst also providing a few sample teams instead of
+      an exhaustive list. For more info on a specific character, please check
+      out their respective FAQs or KQM Guides. **Please keep in mind that the ER
+      Requirements shown are for Xianyun with no additional support from weapons
+      providing Energy, such as Favonius or Crane’s Echoing Call.**
+    color: 7006143
+  - title: '**Plunging Weapon Type Differences**'
+    description: >-
+      Not all Plunging Attacks are made equal, although they’re generally
+      similar overall, there are some minor differences between each weapon
+      type:
+
+      - **Sword** - Standard Plunging Attack with the Collision hitbox
+      positioned at the center of the attack. Can be dash-canceled immediately
+      and flows into N1.
+       - **Alternative Sword** - Considerably faster startup lag than the traditional Sword Plunging Attack. Only applicable to Albedo and Bennett.
+      - **Polearm** - Very similar to Sword Plunging Attacks. They cannot be
+      dash-canceled but have a slightly faster N1 cancellation.
+
+      - **Catalyst** - Very similar to Sword Plunging Attacks. They will always
+      deal Elemental DMG based on the character’s Element.
+
+      - **Claymore** - Slightly faster startup lag with the Collision hitbox
+      positioned in front of the character.
+
+      - **Bow** - Slightly slower startup lag. Can be buffered into Aiming Mode
+      with R and are unaffected by Elemental Infusion effects from other
+      characters.
+    color: 7006143
+  - title: '**Elemental Weapon Infusers**'
+    description: >-
+      Currently, our Elemental Infusers consist of Bennett C6, Candace and
+      Chongyun, each providing a Pyro, Hydro and Cryo Infusion respectively to
+      Sword, Claymore and Polearm characters. Characters can make use of these
+      Infusions alongside Xianyun in order to make use of both Elemental Goblets
+      on their Plunging Attacks, as well as Amplifying reactions to heavily
+      increase the damage dealt from Xianyun’s A4 Passive. However, unless using
+      one of these three as your dedicated Plunging on-fielder, it may be hard
+      to have enough team slots available. For consistent Vaporize or Melt,
+      Xiangling is mandatory, but may struggle from harsh ER Requirements when
+      using Candace or Chongyun, due to not having space to fit Bennett in the
+      team alongside your preferred on-fielder. Bennett not only doubles as an
+      Elemental Infuser but also provides a large ATK buff, allowing him to fit
+      nicely into teams whilst still having space for a Hydro character, such as
+      Furina or Xingqiu to trigger consistent Vaporize reactions on your
+      on-fielder’s Plunging Attacks.
+    color: 7006143
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: https://i.imgur.com/BE8zSUK.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,49 @@
+content: null
+embeds:
+  - title: __ENERGY RECHARGE REQUIREMENTS__
+    description: >-
+      Xianyun wants to cast her Burst every rotation, and with a 70 Energy cost,
+      it makes her ER Requirements quite high. She generates 5 Anemo Particles
+      regardless of how many times her Skill is pressed. At C1, she gains 1
+      additional charge on her Skill. However, in a typical 20s rotation, those
+      additional charges can only be triggered once every other rotation due to
+      her Skill’s 12s CD. Regarding these, C1 reduces her ER Requirements by
+      around 15%–50% depending on the team. 
+
+
+      Her C6 however doesn’t really aid, and in some cases, hinders her Energy
+      problems despite her Skill not entering CD for 16s after casting Burst due
+      to it not generating Particles during those 16s. Since Xianyun’s ER
+      Requirements can be very high, they may vary drastically when played as a
+      solo Anemo, depending on how many Particles her teammates generate
+      overall. For specific ER Requirements in some teams, please refer to the
+      Teambuilding section of this FAQ.
+
+
+      Her signature weapon, Crane’s Echoing Call, gives her 2.5 Flat Energy per
+      Plunging Attack at R1, reducing her ER Requirements by 5%–10% per Plunge
+      depending on the team. One of her recommended F2P weapons, Oathsworn Eye,
+      also aids in Xianyun’s ER Requirements, granting her 24% ER for 10s at R1.
+      The ER increase doubles if players have managed to R5 the weapon during
+      the Version 2.5 event where Oathsworn Eye was obtainable. 
+
+
+      If these weapons aren’t available, Xianyun can also hold Favonius Codex to
+      not only aid in her own Energy problems, but also the entire team’s. Refer
+      to the table below to find out how much ER is saved per trigger of
+      Favonius’ Passive.
+
+
+      Xianyun’s ER Requirements will vary based on your team and rotation. For a
+      more accurate estimate, please use the Energy Recharge Calculator linked
+      [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+
+      For more details on how Favonius weapons will affect your team, please use
+      Ac1d’s Favonius Mastersheet linked
+      [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+    color: 7006143
+    footer:
+      text: 'Authored by: June'
+      icon_url: https://i.imgur.com/FYeVKcV.png
+    image:
+      url: https://i.imgur.com/UmwCedv.png

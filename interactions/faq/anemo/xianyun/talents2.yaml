@@ -1,0 +1,83 @@
+content: null
+embeds:
+  - title: |-
+      __TALENT OVERVIEW__
+
+      **Normal Attack: Word of Wind and Flower**
+    description: >-
+      Xianyun performs a 4-hit Anemo attack string. This Talent is not essential
+      to her kit, although with her being an Anemo Catalyst character, her
+      Normal Attacks allow her to be a driver for various teams.
+    color: 7006143
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_A_Catalyst_MD.png?vh=2023122001
+  - title: '**Elemental Skill: White Clouds at Dawn**'
+    description: >-
+      *CD: **12s***
+
+
+      Xianyun’s Skill causes her to enter the Cloud Transmogrification state.
+      During this state, her Skill can be pressed three times, with each press
+      making her leap higher into the air. She gains an enhanced Plunging Attack
+      during this state called Driftcloud Wave, where she transforms into a
+      crane, dealing more damage in a wider area depending on how many times her
+      Skill is pressed. If her enhanced Plunging Attack isn’t cast during the
+      Cloud Transmogrification state, the cooldown for the next Skill cast will
+      be reduced by 3s. Her Skill can be used three times quickly to ascend
+      higher, or after touching the ground to gain horizontal distance, helping
+      with exploration.
+
+
+      Xianyun generates five Anemo Particles regardless of how many times her
+      Skill is pressed, which means there is no actual need to do three presses
+      for more Particles unless a higher damage output of her Skill is desired.
+      The particles will only spawn when her enhanced Plunging Attack lands.
+    color: 7006143
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_S_Liuyun_01.png?vh=2023122001
+  - title: '**Elemental Burst: Stars Gather at Dusk**'
+    description: >-
+      *CD: **18s***
+
+      *Energy cost: **70***
+
+
+      The main attraction of Xianyun’s kit. Xianyun heals the team and summons a
+      Starwicker upon the initial cast of her Burst. Starwicker mainly does
+      three things: heal, increase active characters’ jumping height, and deal
+      damage. Its healing is Xianyun’s only source of healing pre-C4 but is
+      completely teamwide and heals once every 2.5 seconds. The Healing provided
+      by Xianyun’s Elemental Burst is strong enough to sustain a majority of
+      teams for players, without the need for additional defensive characters,
+      such as another healer or shielder. 
+
+
+      A Starwicker has 8 stacks of Adeptal Assistance upon summoning. Adeptal
+      Assistance allows the character to have an increased jumping height. Upon
+      hitting an enemy with a Plunging Attack, Starwicker will unleash a
+      coordinated attack, dealing Anemo DMG and consuming one stack of Adeptal
+      Assistance. Adeptal Assistance stacks cannot be regained, hence only a
+      maximum of 8 Starwicker hits can be triggered throughout Xianyun’s Burst
+      duration.
+
+
+      Xianyun’s Burst allows basically everyone to spam Plunging Attacks, which
+      opens up possibilities for new teams and combos. These will be discussed
+      in the Teambuilding section of this FAQ.
+    color: 7006143
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/Skill_E_Liuyun_01.png?vh=2023122001
+    footer:
+      text: 'Authored by: June'
+      icon_url: https://i.imgur.com/FYeVKcV.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/xianyun/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
