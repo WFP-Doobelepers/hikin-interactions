@@ -63,7 +63,7 @@ embeds:
       url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_04.png?vh=2023122001
 
 buttons:
-- customId: liveInteraction#faq/anemo/xianyun/constellation2
+- customId: liveInteraction#faq/anemo/xianyun/constellations2
   label: Previous
   style: PRIMARY
   emoji: "◀️"
