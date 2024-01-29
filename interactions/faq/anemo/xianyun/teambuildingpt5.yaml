@@ -59,7 +59,8 @@ embeds:
     footer:
       text: 'Authored by: Leifa'
       icon_url: https://i.imgur.com/BE8zSUK.png
-
+      
+buttons:
 - customId: liveInteraction#faq/anemo/xianyun/teambuildingpt5
   label: Previous
   style: PRIMARY
