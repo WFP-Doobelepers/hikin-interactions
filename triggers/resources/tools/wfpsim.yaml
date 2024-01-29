@@ -1,0 +1,4 @@
+interaction: tools/wfpsim
+description: List of calculation templates.
+match: ${ TRIGGER_PREFIX }wfpsim(?:\s|$)
+ignoreCase: true
