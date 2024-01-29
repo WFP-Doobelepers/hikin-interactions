@@ -1,0 +1,47 @@
+content: null
+embeds:
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Stellar Rend**
+  description: Gaming’s Normal and Plunging Attacks are often used in between his
+    Charmed Cloudstrider Plunging Attacks. Regular Plunging Attacks are used when
+    Xianyun is in the team to maximize her A4 Passive. Hence, it is not recommended
+    to fully ignore this Talent.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_A_04.png?vh=2023122001
+- title: "**Elemental Skill: Bestial Ascent**"
+  description: |-
+    *CD: **6s***
+
+    The crème de la crème of Gaming’s kit and the source of most of his damage. Gaming lunges forward and launches himself upwards after colliding with an enemy. Upon going down, he performs his special Charmed Cloudstrider Plunging Attack, which is a Pyro-converted Plunging Attack that cannot be overridden by other infusions. Gaming also consumes 15% of his Max HP upon landing a Charmed Cloudstrider Plunging Attack. This consumption stops when only 10% of his Max HP remains. Charmed Cloudstrider Plunging Attacks cannot deal Collision Plunge Damage.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_S_Gaming_01.png?vh=2023122001
+- title: "**Elemental Burst: Suanni's Gilded Dance**"
+  description: "*CD: **15s***\n*Energy cost: **60***\n\nGaming enters Wushou Stance
+    upon using his Burst. During its initial cast, Gaming regains 30% of his Max HP,
+    briefly applies Pyro to himself, and summons his companion, Suanni Man Chai, who
+    smashes into the enemy and deals damage. Man Chai then rolls to a nearby location
+    and collides with Gaming. After colliding, Gaming’s Elemental Skill CD resets.
+    \n\nIf Gaming performs a Charmed Cloudstrider Plunging Attack whilst above 50%
+    HP during the Wushou Stance, he summons Man Chai again, who rolls and collides
+    with Gaming once more. This resets his Skill CD again and allows him to do Charmed
+    Cloudstrider Plunges 4–5 times within Wushou Stance’s duration."
+  color: 10235181
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/FYeVKcV.png
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/Skill_E_Gaming_01.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/gaming/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

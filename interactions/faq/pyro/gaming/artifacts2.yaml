@@ -1,0 +1,37 @@
+content: null
+embeds:
+- title: "**4PC Gilded Dreams**"
+  description: Gilded Dreams is a viable set to run on Gaming as it is only ~5% worse
+    than both Crimson Witch and Marechaussee Hunter. Similar to Crimson Witch, Gilded
+    Dreams benefits more from being used in a Vaporize/Melt team due to the EM that
+    the set gives. Outside of reaction-heavy teams, Marechaussee Hunter becomes much
+    more consistent.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15026_4.png?vh=2023122001
+- title: "**2PC ATK% / EM / DMG%**"
+  description: 2pc combinations are usable as an alternative to the above sets if
+    you are still farming for a 4pc set. Simply aim for enough ER along with as much
+    CRIT and EM as you can muster.
+  color: 10235181
+  thumbnail:
+    url: https://i.imgur.com/OWZrTRj.png
+- title: "**4PC Vermillion Hereafter**"
+  description: Vermillion Hereafter may seem to be a viable alternative to use on
+    Gaming due to his HP drain, however due to Gaming’s synergy with Bennett, this
+    set actually performs considerably worse than other 4pc sets. Furthermore, Vermillion
+    Hereafter only performs slightly better than 2pc combinations for Gaming. Generally
+    only use this set if you have really favorable substats; otherwise, use the aforementioned
+    4pc sets or a 2pc/2pc combination.
+  color: 10235181
+  footer:
+    text: 'Authored by: Nooot'
+    icon_url: https://i.imgur.com/dU1o6nV.png
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15023_4.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/artifacts1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

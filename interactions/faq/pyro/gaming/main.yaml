@@ -1,0 +1,66 @@
+content: null
+embeds:
+- title: Guard of the Sword and Strongbox Secure Transport Agency, and the head of
+    the "Mighty Mythical Beasts" Wushou troupe.
+  color: 10235181
+  fields:
+  - name: Gaming Mastersheet by fianwens, quinslay, noootnooot, and duckfero
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1GaF3EbvTntMcmIj_niyZn5hSBOxnV03mmLJ5890yoAI/edit#gid=981902297)"
+  author:
+    name: Gaming FAQ
+    icon_url: https://genshin.honeyhunterworld.com/img/gaming_092_side_icon.webp?x47707
+  image:
+    url: https://genshin.honeyhunterworld.com/img/gaming_092_gacha_splash.webp?x47707
+
+
+options: #dropdown
+  - label: Overview
+    value: faq/pyro/gaming/overview
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Talents
+    value: faq/pyro/gaming/talents1
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Constellations
+    value: faq/pyro/gaming/constellations1
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/pyro/gaming/errequire
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Artifacts
+    value: faq/pyro/gaming/artifacts1
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Weapons
+    value: faq/pyro/gaming/weapons1
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Team Building
+    value: faq/pyro/gaming/teambuilding1
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: External Links
+    value: faq/pyro/gaming/external
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+#buttons:
+#  - label: WFP FAQ
+#    url: https://wangshengfp.org/faq/gaming
+#    emoji: ${ EMOJIS.WFP_LOGO }
+#    style: LINK
+
+#  - label: KQM Guide
+#    url: https://keqingmains.com/gaming/
+#    emoji: :logont:945530991240421386
+#    style: LINK

@@ -1,4 +1,0 @@
-interaction: faq/dendro/baizhu/main
-description: "Opens Pretc Test"
-match: ${ TRIGGER_PREFIX }baizhufaq(?:\s|$)
-ignoreCase: true

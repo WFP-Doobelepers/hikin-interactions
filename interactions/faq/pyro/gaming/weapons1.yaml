@@ -1,0 +1,54 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Serpent Spine**
+  description: |-
+    **Gaming’s self HP drain does not affect Serpent Spine’s Passive.**
+    Serpent Spine’s CRIT Rate substat and massive DMG% passive makes it Gaming’s BiS weapon across all refinements assuming you can maintain the passive. The only thing holding Serpent Spine back is its lower Base ATK, which is remedied by the inclusion of Bennett or Xianyun in most Gaming teams. While R5 Serpent Spine is by far Gaming’s BiS, if you have a lower refinement Serpent Spine, it may be worth considering other options if you aren’t running a shielder, due to Serpent Spine losing value if Gaming takes damage. It also loses some value if Gaming is used with units that give high amounts of DMG% such as Furina.
+
+    If you have C6 Gaming, it's recommended to use 4pc Crimson Witch with Serpent Spine as it is easy to overcap his CRIT Rate.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Kione.png?vh=2023122001
+- title: "**5-star CRIT Weapons**"
+  description: These include Verdict, Redhorn Stonethresher, and Beacon of the Reed
+    Sea. All these weapons are viable options as more consistent alternatives to a
+    lower refinement Serpent Spine. Although none of their passives are extremely
+    noteworthy, their 5-star stats allow them to be quite decent on Gaming. It should
+    be noted that Gaming cannot trigger the passive of Beacon of the Reed Sea with
+    his Skill as it is considered Plunging Attack damage.
+  color: 10235181
+  thumbnail:
+    url: https://i.imgur.com/qCjDppu.png
+- title: "**Rainslasher**"
+  description: Rainslasher’s EM substat and increased DMG% against Hydro-affected
+    enemies make it a strong unconditional weapon for Gaming in Vaporize teams. It
+    scales heavily with refinements; being competitive with the 5-star CRIT weapons
+    at R5 for personal damage. It is not worth using Rainslasher outside of Vaporize
+    teams, and the weapon loses some value if Gaming is used with units that give
+    high amounts of DMG% such as Furina.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Perdue.png?vh=2023122001
+- title: "**Wolf’s Gravestone and The Unforged**"
+  description: Both these weapons provide large amounts of ATK% in various forms.
+    However, since Bennett and Xianyun are common teammates in Gaming teams, the value
+    of these ATK buffs is diminished. Without these two, they have the potential to
+    surpass some of the above weapons, but optimal teams usually include either Bennett
+    or Xianyun. This being said, Wolf’s Gravestone can also provide an ATK% team buff,
+    which allows teammates to deal more damage. The Unforged does not, which leads
+    to it being slightly worse than Wolf's Gravestone.
+  color: 10235181
+  footer:
+    text: 'Authored by: Quinslay'
+    icon_url: https://i.imgur.com/yYvPWrC.png  
+  thumbnail:
+    url: https://i.imgur.com/lmMw9CH.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/weapons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

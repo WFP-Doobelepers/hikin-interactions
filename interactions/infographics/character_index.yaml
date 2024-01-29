@@ -20,6 +20,11 @@ options:
     description: Guides for Cryo vision holders
     emoji: ${ EMOJIS.CRYO }
 
+  - label: Dendro
+    value: infographics/dendro/dendro_index
+    description: Guides for Dendro vision holders
+    emoji: ${ EMOJIS.DENDRO }
+
   - label: Electro
     value: infographics/electro/electro_index
     description: Guides for Electro vision holders

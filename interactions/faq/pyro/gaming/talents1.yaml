@@ -1,0 +1,36 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **Elemental Skill > Elemental Burst > Normal Attack**
+  color: 10235181
+  image:
+    url: https://i.imgur.com/JoJLP81.png
+- title: "**With C6 Bennett and Xianyun: \nElemental Skill > Normal Attack > Elemental
+    Burst**"
+  color: 10235181
+  image:
+    url: https://i.imgur.com/G7MbnPN.png
+- description: "## __Analysis__\n- Gaming’s kit revolves around his Charmed Cloudstrider
+    Plunging Attacks; hence, his Elemental Skill should be prioritized in leveling.
+    The Wushou Stance granted by his Burst helps him perform these enhanced Plunging
+    Attacks in rapid succession. These enhanced Plunging Attacks cannot deal Collision
+    Plunge Damage. \n- With C6 Bennett and Xianyun, Gaming’s Normal Attacks and regular
+    Plunging Attacks contribute notably to his damage output due to Xianyun’s Plunging
+    Attack buffs and C6 Bennett’s Pyro infusion, along with a 15% Pyro DMG Bonus.
+    Therefore, in such teams, it is recommended to level his Normal Attack Talent
+    as well.\n- Gaming has a HP fluctuation mechanic similar to Fontaine characters,
+    consuming and recovering his own HP upon using his Skill. It is recommended to
+    keep him above 50% HP as much as possible to fully maximize his self-buffs and
+    Man Chai’s Elemental Skill CD reset."
+  color: 10235181
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/FYeVKcV.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

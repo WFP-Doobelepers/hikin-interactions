@@ -1,0 +1,52 @@
+content: null
+embeds:
+- title: "**Song of Broken Pines**"
+  description: Despite its Physical DMG% substat, Song of Broken Pines is still a
+    decent option on Gaming for its high Base ATK and ATK% passive. It also provides
+    an ATK% team buff if Gaming uses at least four Normal Attacks, which may allow
+    teammates to deal more damage. It loses value if you use Gaming with a unit that
+    can infuse his Normal Attacks. It also loses value in Xianyun teams if Gaming
+    uses Plunging Attacks instead of Normal Attacks during his downtime.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Widsith.png?vh=2023122001
+- title: "**Talking Stick**"
+  description: "**Talking Stick is always a downgrade to Serpent Spine**, so it’s
+    not recommended to get Talking Stick from the Battle Pass. That said, if you already
+    have Talking Stick, it’s a decent option for Gaming because he can at least guarantee
+    half of the passive by imbuing himself with Pyro.  Even if you can somehow guarantee
+    the other half of the passive, it still performs worse than Serpent Spine."
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_BeastTamer.png?vh=2023122001
+- title: "**Skyward Pride**"
+  description: Skyward Pride’s value largely depends on Gaming’s ER Requirements.
+    In teams with Bennett, they’re often low enough for Skyward to lose some value.
+    Gaming’s C4 also reduces his ER Requirements, which subsequently makes this weapon
+    lose even more value. That said, even with lower ER needs, it’s still a weapon
+    with high Base ATK, unconditional DMG%, and some mild Physical damage procs from
+    the passive.
+  color: 10235181
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Dvalin.png?vh=2023122001
+- title: "**Mailed Flower**"
+  description: An event exclusive weapon that gives high amounts of EM and ATK%. It
+    does lose the buff on one of Gaming’s Plunging Attacks which causes it to lose
+    a small amount of value, but it’s still a great weapon for those who obtained
+    it.
+  color: 10235181
+  footer:
+    text: 'Authored by: Quinslay'
+    icon_url: https://i.imgur.com/yYvPWrC.png  
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Fleurfair.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/weapons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/gaming/weapons3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

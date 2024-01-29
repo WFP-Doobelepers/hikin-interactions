@@ -1,0 +1,58 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - Bringer of Blessing**
+  description: |-
+    > *When the Suanni Man Chai from Suanni's Gilded Dance meets back up with Gaming, it will heal 15% of Gaming's HP.*
+
+    Gaming gains even more self-healing outside of his Burst’s initial cast and his A1 Passive, which aids in keeping him above 50% HP. Unfortunately, this Constellation doesn’t really do anything to directly increase his own damage.
+  color: 10235181
+  fields:
+  - name: "***DPS% Increase vs. C0:***"
+    value: 0.00%
+  - name: "***Rating:***"
+    value: 1.5/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Gaming_01.png?vh=2023122001
+- title: "**Constellation 2 - Plum Blossoms Underfoot**"
+  description: |-
+    > *When Gaming receives healing and this instance of healing overflows, his ATK will be increased by 20% for 5s.*
+
+    Gaming buffs himself for any instance of overhealing he receives, adding a little more value to his self-healing and other healers.
+  color: 10235181
+  fields:
+  - name: "***DPS% Increase vs. C1:***"
+    value: 3.87%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 3.87%
+  - name: "***Rating:***"
+    value: 1/5
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Gaming_02.png?vh=2023122001
+- title: "**Constellation 3 - Awakening Spirit**"
+  description: |-
+    > *Increases the Level of Bestial Ascent by 3.
+    > Maximum upgrade level is 15.*
+
+    An increase on Gaming’s Elemental Skill level, which in turn, is a welcome increase on his Charmed Cloudstrider Plunging Attack’s damage.
+  color: 10235181
+  fields:
+  - name: "***DPS% Increase vs. C2:***"
+    value: 6.41%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 10.53%
+  - name: "***Rating:***"
+    value: 2.5/5
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/FYeVKcV.png    
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Gaming_01.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
