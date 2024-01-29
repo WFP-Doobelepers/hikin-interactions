@@ -32,7 +32,8 @@ embeds:
       icon_url: https://i.imgur.com/FYeVKcV.png
     thumbnail:
       url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_07.png?vh=2023122001
-
+      
+buttons:
 - customId: liveInteraction#faq/anemo/xianyun/talents2
   label: Previous
   style: PRIMARY
