@@ -58,7 +58,7 @@ embeds:
       icon_url: https://i.imgur.com/xUwbruD.png
 
 buttons:
-- customId: liveInteraction#faq/anemo/xianyun/constellation1
+- customId: liveInteraction#faq/anemo/xianyun/constellations1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
