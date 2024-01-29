@@ -38,7 +38,7 @@ options: #dropdown
     emoji: ${ EMOJIS.ANEMO_BOX }
   
   - label: Constellations
-    value: faq/anemo/xianyun/constellations
+    value: faq/anemo/xianyun/constellations1
     description: "WFP resources for Xianyun FAQ."
     emoji: ${ EMOJIS.ANEMO_BOX }
 
