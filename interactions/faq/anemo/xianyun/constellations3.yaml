@@ -38,16 +38,7 @@ embeds:
       White Clouds at Dawn 8 times.*
 
 
-      Xianyun’s C6 transforms her from a support into a DPS by removing her
-      Elemental Skill CD after casting her Elemental Burst, whilst greatly
-      increasing the CRIT DMG of her enhanced Plunging Attack. Since she can
-      only produce Elemental Particles outside of her Burst’s duration - she
-      needs to utilize the first instance of her Skill before her Burst, and
-      second one after her its duration. It is advisable to run her with an
-      Anemo character like Faruzan - who can also provide buffs to her Anemo
-      DMG. Please note, this effect will end once Xianyun has used her Elemental
-      Skill 8 times, meaning it can not be used infinitely for long distance
-      travel in the overworld.
+      Xianyun’s C6 transforms her from a support into a DPS by removing her Elemental Skill CD after casting her Elemental Burst, whilst greatly increasing the CRIT DMG of her enhanced Plunging Attack. Since she can only produce Elemental Particles outside of her Burst’s duration - she needs to utilize the first instance of her Skill before her Burst, and second one after its duration. It is advisable to run her with an Anemo character like Faruzan - who can also provide buffs to her Anemo DMG. Please note, this effect will end once Xianyun has used her Elemental Skill 8 times, meaning it can not be used infinitely for long distance travel in the overworld.
     color: 7006143
     fields:
       - name: '***Healing% Increase vs. C5:***'
