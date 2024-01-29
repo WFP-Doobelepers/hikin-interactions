@@ -1,0 +1,68 @@
+content: null
+embeds:
+  - title: '**Constellation 5 - Astride Rose-Colored Clouds**'
+    description: >-
+      > *Increases the Level of White Clouds at Dawn by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      Increases the Talent Level of Xianyun’s Elemental Skill by 3. This
+      Constellation is quite underwhelming due to only increasing the damage her
+      Skill deals, which is already very minor. It should only be seen as a
+      stepping stone towards getting her C6, at which this Constellation becomes
+      relevant.
+    color: 7006143
+    fields:
+      - name: '***Healing% Increase vs. C4:***'
+        value: 0%
+      - name: '***Healing% Increase vs. C0:***'
+        value: 60.15%
+      - name: '***Team DPS% Increase vs. C4:***'
+        value: 0.10%
+      - name: '***Team DPS% Increase vs. C0:***'
+        value: 11.43%
+      - name: '***Rating:***'
+        value: 1/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Liuyun_01.png?vh=2023122001
+  - title: '**Constellation 6 - They Call Her Cloud Retainer**'
+    description: >-
+      > *After Xianyun uses 1/2/3 Skyladders within one Cloud Transmogrification
+      caused by White Clouds at Dawn, the CRIT DMG of a Driftcloud Wave created
+      in this instance of Cloud Transmogrification will be increased by
+      15%/35%/70%.
+
+      > Within 16s after Xianyun has used Stars Gather at Dusk, White Clouds at
+      Dawn will not enter CD. This effect will be canceled once she has used
+      White Clouds at Dawn 8 times.*
+
+
+      Xianyun’s C6 transforms her from a support into a DPS by removing her
+      Elemental Skill CD after casting her Elemental Burst, whilst greatly
+      increasing the CRIT DMG of her enhanced Plunging Attack. Since she can
+      only produce Elemental Particles outside of her Burst’s duration - she
+      needs to utilize the first instance of her Skill before her Burst, and
+      second one after her its duration. It is advisable to run her with an
+      Anemo character like Faruzan - who can also provide buffs to her Anemo
+      DMG. Please note, this effect will end once Xianyun has used her Elemental
+      Skill 8 times, meaning it can not be used infinitely for long distance
+      travel in the overworld.
+    color: 7006143
+    fields:
+      - name: '***Healing% Increase vs. C5:***'
+        value: 17.30%
+      - name: '***Healing% Increase vs. C0:***'
+        value: 87.85%
+      - name: '***Rating:***'
+        value: 3/5
+    footer:
+      text: 'Authored by: Snowy'
+      icon_url: https://i.imgur.com/xUwbruD.png
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_04.png?vh=2023122001
+
+- customId: liveInteraction#faq/anemo/xianyun/constellation2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
