@@ -1,4 +1,4 @@
 interaction: faq/pyro/gaming/main
 description: "Opens WFP resources on Gaming"
-
-name: Gaming
+match: ${ TRIGGER_PREFIX }gamingfaq(?:\s|$)
+ignoreCase: true
