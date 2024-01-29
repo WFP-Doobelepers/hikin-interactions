@@ -1,0 +1,70 @@
+content: null
+embeds:
+  - title: |-
+      __CONSTELLATIONS__
+
+      **Constellation 1 - Purifying Wind**
+    description: >-
+      > *White Clouds at Dawn gains 1 additional charge.*
+
+
+      Xianyun gains an additional charge on her Elemental Skill, which allows
+      her to perform two single leaps to gain Anemo Particles. However, this can
+      only be performed every other rotation because of the Elemental Skill's
+      CD. If paired with her signature weapon, it makes a dent in her ER
+      Requirements since it allows Xianyun to perform two extra Plunging
+      Attacks. Overall, this Constellation does not increase her personal damage
+      or team DPS by any significant margin.
+    color: 7006143
+    fields:
+      - name: '***Healing% Increase vs. C0:***'
+        value: 10.51%
+      - name: '***Healing% Increase vs. C0:***'
+        value: 0.10%
+      - name: '***Rating:***'
+        value: 1/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_01.png?vh=2023122001
+  - title: '**Constellation 2 - Aloof From the World**'
+    description: >-
+      > *After using a Skyladder from White Clouds at Dawn, Xianyun's ATK will
+      be increased by 20% for 15s.
+
+      > Additionally, the effects of the Passive Talent "Consider, the Adeptus
+      in Her Realm" will be enhanced: When the Starwicker created by Stars
+      Gather at Dusk has Adeptal Assistance stacks, nearby active characters'
+      Plunging Attack shockwave DMG will be increased by 400% of Xianyun's ATK.
+      The maximum DMG increase that can be achieved this way is 18,000.
+
+      > Each Plunging Attack shockwave DMG instance can only apply this
+      increased DMG effect to a single opponent. Each character can trigger this
+      effect once every 0.4s.
+
+      > You must first unlock the Passive Talent "Consider, the Adeptus in Her
+      Realm."*
+
+
+      By far Xianyun's best Constellation. Her C2 amplifies the effects of Xianyun's A4 Passive by doubling the Flat Plunge DMG Bonus cap and the Plunge DMG Bonus MV. Given how Flat DMG bonus scales with the active character's stats and reactions, stacking very high ATK on Xianyun may see good turnover on resin investment. 
+    color: 7006143
+    fields:
+      - name: '***Healing% Increase vs. C1:***'
+        value: 0%
+      - name: '***Healing% Increase vs. C0:***'
+        value: 10.51%
+      - name: '***Team DPS% Increase vs. C1:***'
+        value: 11.06%
+      - name: '***Team DPS% Increase vs. C0:***'
+        value: 11.15%
+      - name: '***Rating:***'
+        value: 4.5/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_02.png?vh=2023122001
+    footer:
+      text: 'Authored by: Snowy'
+      icon_url: https://i.imgur.com/xUwbruD.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,40 @@
+content: null
+embeds:
+  - title: |-
+      __Passives__
+
+      **Ascension 1 Passive: Galefeather Pursuit**
+    description: >-
+      All party members will gain additional CRIT Rate to their Plunging Attacks
+      for 20s based on how many enemies are hit by Xianyun’s Driftcloud Wave
+      Plunging Attack. It increases the party’s Plunging Attack CRIT Rate by
+      4/6/8/10% depending on how many enemies are hit, which is a quite
+      miniscule increase for single-target scenarios, while for multi-target
+      scenarios it is an alright increase. Each stack of CRIT Rate is calculated
+      independently, allowing Xianyun to gain additional stacks if her Skill is
+      used multiple times per rotation.
+    color: 7006143
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_05.png?vh=2023122001
+  - title: '**Ascension 4 Passive: Consider, the Adeptus in Her Realm**'
+    description: >-
+      When Xianyun has Adeptal Assistance stacks from her Burst, she grants an
+      Additive DMG Bonus of 200% of her ATK for Plunging Attacks. This Flat DMG
+      Bonus caps at 9,000 and can only be applied once per Plunging Attack.
+    color: 7006143
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_06.png?vh=2023122001
+  - title: '**Utility Passive: Crane Form**'
+    description: Xianyun gives a 15% gliding SPD boost to aid in your exploration.
+    color: 7006143
+    footer:
+      text: 'Authored by: June'
+      icon_url: https://i.imgur.com/FYeVKcV.png
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_07.png?vh=2023122001
+      
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

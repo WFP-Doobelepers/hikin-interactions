@@ -1,0 +1,59 @@
+content: null
+embeds:
+  - title: >-
+      **Tulaytullah’s Remembrance / Lost Prayer to the Sacred Winds / Kagura’s
+      Verity**
+    description: >-
+      Good 5-star weapons with high Base ATK. However, the secondary stats and
+      the passives only buff Xianyun’s own damage, which is not very relevant in
+      the first place. Even then, these weapons are good enough to make them on
+      par with Oathsworn Eye and TTDS. However, these weapons don’t give any ER
+      or Flat Energy, so they are not viable if your Xianyun is the only Anemo
+      in the team due to her high ER requirement (unless you manage to get
+      70%–80% ER through substats).
+    color: 7006143
+    thumbnail:
+      url: https://i.imgur.com/hBjJoG9.png
+  - title: '**Flowing Purity / Frostbearer / Eye of Perception / Dodoco Tales**'
+    description: >-
+      Great F2P weapons with ATK% secondary stat. Amongst them, Flowing Purity
+      is slightly better thanks to its high Base ATK and not completely useless
+      passive. However, these weapons don’t give any ER or Flat Energy, so they
+      are not viable if your Xianyun is the only Anemo in the team due to her
+      high ER requirement (unless you manage to get 70%–80% ER through
+      substats).
+    color: 7006143
+    thumbnail:
+      url: https://i.imgur.com/63ZXvNr.png
+  - title: '**Ballad of the Boundless Blue**'
+    description: >-
+      Great F2P weapon from 4.1 which gives high Base ATK and ER secondary stat.
+      It’s a weapon that can be used in any team but it’s not the greatest.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_DandelionPoem.png?vh=2023122001
+  - title: '**Prototype Amber**'
+    description: >-
+      An interesting F2P weapon that gives some teamwide healing and Flat
+      Energy, making it viable in teams where Xianyun is the only Anemo
+      character. The extra healing can help to receive more Fanfare from Furina.
+      However, it only gives about an extra 1% average DMG%, which is not enough
+      to surpass other F2P options and compensate for the lack of high Base ATK
+      or ATK%. This is due to the fact that Xianyun’s teamwide healing is large
+      enough that your team’s HP will not go lower than 90–95%, and also because
+      Prototype Amber healing ticks happen almost at the same time as the
+      healing ticks from Xianyun’s Burst.
+    color: 7006143
+    footer:
+      text: 'Authored by: Duckfero'
+      icon_url: https://i.imgur.com/EN20EIp.png
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_EquipIcon_Catalyst_Proto.png?vh=2023122001
+
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/weapons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

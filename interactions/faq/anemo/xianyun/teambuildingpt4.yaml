@@ -1,0 +1,64 @@
+content: null
+embeds:
+  - title: '**Raiden**'
+    description: >-
+      Unfortunately, due to Raiden’s Burst stance being considered Burst DMG,
+      she is unable to receive the Flat DMG buff provided by Xianyun’s A4.
+      Despite this, she still has access to a new combo, being 4(N1CJP).
+      Although this combo was previously possible via Dragonstriking, it was
+      very hard to execute and only worked under specific scenarios. The
+      execution can still be tight to get the 4th Plunging Attack in whilst
+      getting both hits of her Charged Attack before jumping, however, Xianyun’s
+      release makes this combo more accessible, whilst allowing the use of a
+      wider variety of teammates. Characters such as Sara and Bennett can be
+      used for a Hyper-style team, Nahida for an Aggravate team or teammates
+      such as Xiangling for high off-field damage or Furina for both off-field
+      damage and buffing. Raiden also helps to significantly lower Xianyun’s ER
+      Requirements, granting ~20–25 Flat Energy to all teammates depending on
+      her Energy Recharge.
+    color: 7006143
+    fields:
+      - name: Raiden / Xianyun / Sara / Bennett
+        value: 'ER Reqs: 175%'
+      - name: Raiden / Xianyun / Xingqiu / Bennett
+        value: 'ER Reqs: 165%'
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Shougun.png?vh=2023122001
+  - title: '**Wriothesley**'
+    description: >-
+      All Catalyst characters deal entirely Elemental DMG, meaning they can be
+      played with Xianyun to apply large amounts of their respective element in
+      AoE. Catalyst users such as Wriothesley can make great use of this to
+      trigger consistent Reverse Melts with Xiangling. Although Wriothesley’s
+      Plunging Attacks aren’t buffed by his Skill, this means he also won’t
+      drain his HP as fast whilst doing Plunging Attack combos. To allow for
+      both Particle generation and the use of 4pc Marechaussee Hunter,
+      Wriothesley starts his combo with N3C, before transitioning into N1JP to
+      keep up stacks on 4pc MH. If players manage to trigger his A1 Passive
+      during gameplay, they can instead use N1CJP for an extra Melt, due to
+      Wriothesley being able to jump cancel his Charged Attack very quickly.
+      Alternatively, players can choose to spend some extra stamina on Dash
+      Plunging for faster Plunging Attacks. Additionally, Catalyst users can’t
+      be affected by other Elemental Infusions, meaning it does not matter if
+      Bennett is C6 to utilize them.
+    color: 7006143
+    fields:
+      - name: Wriothesley / Xianyun / Xiangling / Bennett
+        value: 'ER Reqs: 270%'
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/UI_AvatarIcon_Wriothesley.png?vh=2023122001
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: https://i.imgur.com/BE8zSUK.png
+      
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+  
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt5
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

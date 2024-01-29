@@ -1,0 +1,119 @@
+content: null
+embeds:
+  - title: __**Non Plunge-Oriented Teammates**__
+    description: >-
+      Despite not being designed around Plunging Attacks, some current
+      characters can make use of Plunging Attacks for higher damage combos,
+      granting their team AoE or for the buffs provided by Xianyun’s A4.
+      Generally, these mainly consist of characters with access to Vaporize or
+      Melt, due to the large damage boost provided to her A4. However, there are
+      characters outside of Amplifying reactions that can also make use of
+      Xianyun for the same benefits listed previously.
+    color: 7006143
+  - title: '**Hu Tao**'
+    description: >-
+      Alongside Xianyun, Hu Tao gains access to a new combo, weaving in Plunging
+      Attacks with her typical N2C combo. This new combo gives Hu Tao teams some
+      AoE coverage, something her teams have lacked for a while. With Xianyun,
+      Hu Tao is able to do up to 5(N2CJP) + N2C, although 5N2CJP may be
+      preferred by most players due to being easier to execute, allowing for
+      some leniency in how early you Plunge. Due to using less Charged Attacks
+      than before, this cuts Hu Tao’s stamina usage in half, meaning C0 is
+      punished less from dodging enemy attacks. Finally, Xianyun’s Healing over
+      Time allows Hu Tao to stick with Furina as one of her two Hydro options,
+      granting large amounts of DMG Bonus to the party. However, due to the long
+      duration of Xianyun’s healing, teammates tend to have more HP than when
+      played with Jean, leading to lower Fanfare averages throughout a rotation.
+
+      Xianyun is also playable in VV Vape setups, being able to shred the
+      resistances of both Pyro and Hydro with 4pc Viridescent Venerer. However,
+      compared to other Anemos such as Sucrose or Kazuha, she does not provide
+      any extra Elemental application through an absorption, meaning players may
+      struggle to consistently Vaporize off only Yelan, instead preferring to
+      use Xingqiu. Although Bennett is preferred in this team for his large ATK
+      buff and extra Pyro DMG Bonus from his C6, other Pyro alternatives include
+      C6 Chevreuse for large DMG Bonus buffs and C4 Yanfei or Thoma for their
+      defensive utility.
+    color: 7006143
+    fields:
+      - name: Hu Tao / Xianyun / Furina / Yelan
+        value: 'ER Reqs: 235–255% (2E vs 1E from Yelan)'
+      - name: Hu Tao / Xianyun / Xingqiu / Bennett
+        value: 'ER Reqs: 285%'
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Hutao.png?vh=2023122001
+  - title: '**Diluc**'
+    description: >-
+      Even though his kit wasn’t designed around it, Diluc already utilized
+      Plunging Attacks through the use of Dragonstriking, a technique involving
+      using the hitlag from hitting an enemy to increase a character’s jump
+      height. This was due to Diluc having an above average Plunging Attack
+      Multiplier compared to the rest of his Multipliers, resulting in tight
+      execution combos for a majority of players that utilized Plunging Attacks.
+      With Xianyun’s release, this is no longer an issue, due to her granting an
+      increased jump height to perform Plunging Attacks with ease. Additionally,
+      Diluc gains a significant buff from Xianyun’s A4 Passive, which is further
+      enhanced by triggering Amplifying reactions on his Plunging Attacks.
+      Players can opt for slower Plunges, weaving in N1s to keep Diluc targeting
+      the nearest enemy, whilst triggering off-fielders such as Xingqiu or
+      Yelan. Alternatively, Sword, Claymore, and Catalyst characters are able to
+      immediately dash and jump upon landing with a Plunging Attack, resulting
+      in faster Plunging Attacks at the cost of Stamina. Additionally, Plunging
+      Attacks do not auto target onto enemies, resulting in the possibility of
+      missing Diluc’s Plunging Attacks if players are carelessly Dash Plunging.
+      Diluc also greatly benefits from Bennett’s C6 in this team, granting a
+      Pyro Infusion and large ATK buff. Bennett’s Pyro Infusion also allows
+      Diluc to ignore his own Elemental Burst, meaning he has no need for Energy
+      Recharge stats and can focus fully on damage.
+    color: 7006143
+    fields:
+      - name: Diluc / Xianyun / Furina / Yelan
+        value: 'ER Reqs: 265%'
+      - name: Diluc / Xianyun / Xingqiu / Bennett
+        value: >-
+          ER Reqs: 275–300% (24.5s rot using Diluc EEEQ vs 21s rot without his E
+          or Q)
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Diluc.png?vh=2023122001
+  - title: '**Bennett**'
+    description: >-
+      Whilst many characters utilizing Plunging Attacks use Bennett for his
+      large ATK buff and Pyro Infusion, Bennett can make use of these himself,
+      freeing up a team slot for another buffer or off-fielder. Bennett also has
+      an unusually fast Plunging Attack animation, allowing him to perform more
+      Plunging Attacks compared to other characters. When utilizing his
+      Infusion, he will usually be played with Hydro characters, including
+      Xingqiu, Yelan and Furina, in order to keep a consistent Hydro Aura to
+      trigger Reverse Vaporize. 
+
+      Because of his fast Plunges and large buffs, he can make use of other
+      Elemental Infusions, in order to trigger other Amplifying reactions, such
+      as Candace for Forward Vaporize and Chongyun for Reverse Melt. In these
+      teams, Bennett will use the corresponding Elemental Goblet to match his
+      Infusion, whilst generally being paired with Xiangling for both high
+      off-field damage and Pyro Application. Please note that Chongyun’s Cryo
+      Infusion will be overwritten by Bennett’s C6 Pyro Infusion due to Melting
+      the Infusion. However, Candace does not have this issue, due to Vaporizing
+      away Bennett’s Pyro Infusion.
+    color: 7006143
+    fields:
+      - name: Bennett / Xianyun / Furina / Yelan
+        value: 'ER Reqs: 235%'
+      - name: Bennett / Xianyun / Candace / Xiangling
+        value: 'ER Reqs: 265%'
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Bennett.png?vh=2023122001
+    footer:
+      text: 'Authored by: Leifa'
+      icon_url: https://i.imgur.com/BE8zSUK.png
+      
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/xianyun/teambuildingpt4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

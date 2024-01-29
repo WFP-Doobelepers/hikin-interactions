@@ -1,0 +1,74 @@
+content: null
+embeds:
+  - description: >-
+      ### One of the Mighty and Illuminated Adepti of Jueyun, known as "Cloud
+      Retainer." Expert in all kinds of mechanical contraptions, her heart now
+      turns towards the affairs of the mortal world, through which she walks
+      under the name "Xianyun."
+    color: 7006143
+    fields:
+      - name: >-
+          Xianyun Mastersheet by snowclipsed, duckfero, angel_on_fire, fianwens,
+          natc, and leifa
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1ZfhvKwhM_p69LwJfFamWibQYvg6sxKRZ0siSBzy7FTM/edit?usp=sharing)
+      - name: Xianyun Frames Mastersheet by caramielle.
+        value: >-
+          [Google
+          Sheet](https://docs.google.com/spreadsheets/d/1-Cvi7uj_feBLAsq04GvVwLd-REtngVNnaGkGGQUtMEc/edit)
+    author:
+      name: Xianyun FAQ
+      icon_url: >-
+        https://genshin.honeyhunterworld.com/img/liuyun_093_side_icon.webp?x84769
+    image:
+      url: >-
+        https://genshin.honeyhunterworld.com/img/liuyun_093_gacha_splash.webp?x84769
+        
+options: #dropdown
+    
+  - label: Overview
+    value: faq/anemo/xianyun/overview
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Talents
+    value: faq/anemo/xianyun/talents1
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+  
+  - label: Constellations
+    value: faq/anemo/xianyun/constellations1
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Artifacts
+    value: faq/anemo/xianyun/artifacts1
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Weapons
+    value: faq/anemo/xianyun/weapons1
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Teambuilding
+    value: faq/anemo/xianyun/teambuildingpt1
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: External Links
+    value: faq/anemo/xianyun/external
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/Xianyun
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  # - label: KQM Guide
+  #   url: https://keqingmains.com/wanderer/
+  #   emoji: :logont:945530991240421386
+  #   style: LINK

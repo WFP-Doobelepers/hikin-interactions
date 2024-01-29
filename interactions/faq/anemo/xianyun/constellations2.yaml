@@ -1,0 +1,69 @@
+content: null
+embeds:
+  - title: '**Constellation 3 - Creations of Star and Moon**'
+    description: >-
+      > *Increases the Level of Stars Gather at Dusk by 3.
+
+      > Maximum upgrade level is 15.*
+
+
+      Increases the Talent Level of Xianyun's Elemental Burst by 3, buffing both
+      her healing and Starwicker DMG. Overall, this Constellation does not
+      greatly increase her personal damage - and Xianyun is already a proficient
+      healer at C0.
+    color: 7006143
+    fields:
+      - name: '***Healing% Increase vs. C2:***'
+        value: 19.84%
+      - name: '***Healing% Increase vs. C0:***'
+        value: 32.44%
+      - name: '***Team DPS% Increase vs. C2:***'
+        value: 0.15%
+      - name: '***Team DPS% Increase vs. C0:***'
+        value: 11.31%
+      - name: '***Rating:***'
+        value: 2/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_U_Liuyun_02.png?vh=2023122001
+  - title: '**Constellation 4 - Mystery Millet Gourmet**'
+    description: >-
+      > *After using Skyladder 1/2/3 times during one White Clouds at Dawn Cloud
+      Transmogrification state, when a Driftcloud Wave unleashed during that
+      instance hits an opponent, it will heal all nearby party members for
+      50%/80%/150% of Xianyun's ATK. This effect can be triggered once every
+      5s.*
+
+
+      Xianyun's 4th Constellation offers a significant boost to her healing
+      capabilities, allowing her to heal all party members with her Elemental
+      Skill’s enhanced Plunging Attack. But again, Xianyun's healing output is
+      already quite high and C4 will make the majority of her healing count as
+      overheals.
+    color: 7006143
+    fields:
+      - name: '***Healing% Increase vs. C3:***'
+        value: 20.92%
+      - name: '***Healing% Increase vs. C0:***'
+        value: 60.15%
+      - name: '***Team DPS% Increase vs. C3:***'
+        value: 0%
+      - name: '***Team DPS% Increase vs. C0:***'
+        value: 11.31%
+      - name: '***Rating:***'
+        value: 1/5
+    thumbnail:
+      url: https://api.ambr.top/assets/UI/UI_Talent_S_Liuyun_03.png?vh=2023122001
+    footer:
+      text: 'Authored by: Snowy'
+      icon_url: https://i.imgur.com/xUwbruD.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/xianyun/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

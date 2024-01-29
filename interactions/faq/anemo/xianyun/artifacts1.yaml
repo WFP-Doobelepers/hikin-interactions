@@ -1,0 +1,86 @@
+content: null
+embeds:
+  - title: __ARTIFACTS__
+    description: >-
+      <:sands:1094559345364185119> *Sands of Eon:* ER% / ATK%
+
+      <:goblet:1094559512968581130> *Goblet of Eonothem:* ATK%
+
+      <:circlet:1094559608581922966> *Circlet of Logos:* ATK% / HB%
+
+
+      As Xianyun’s Starwicker, Healing and A4 Passive scale with her Attack
+      stat, the primary goal of Xianyun’s artifact stats will be to maximize her
+      Attack stat while meeting the relevant ER Requirements to reliably Burst
+      every rotation. If players find it challenging to survive on Xianyun’s
+      healing alone though, a Healing Bonus Circlet can be used to supplement
+      her healing.
+
+
+      **Substats:** ER until requirement > ATK% > CR (if using Fav) >= Flat ATK
+
+
+      As previously mentioned, players will want to focus on Bursting with
+      Xianyun every rotation before throwing as many substats as possible into
+      ATK%. CRIT Rate is a decent substat if Xianyun is holding Favonius Codex,
+      as it increases her chances of proccing the weapon’s passive.
+    color: 7006143
+  - title: |-
+      __Artifact Sets__
+
+      __Recommended Sets__
+
+      **4PC Viridescent Venerer**
+    description: >-
+      The bread and butter of any Anemo support featuring in PECH
+      reaction-centric teams, Viridescent Venerer synergizes perfectly with
+      Xianyun, enabling her to reduce enemy Resistances by 40%, increasing her
+      teammates’ damage. This should be her go-to set in most cases unless being
+      run with characters who don’t need the RES Shred, such as Xiao.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15002_4.png?vh=2023122001
+  - title: '**4PC Noblesse Oblige**'
+    description: >-
+      Should your primary DPS(s) not make good use of 4pc VV, 4pc Noblesse
+      Oblige is another fantastic option for ATK-scaling DPS(s). One
+      particularly notable scenario where this may work would be in Xiao teams,
+      since Xiao appreciates the ATK buff from Noblesse quite a fair bit. 4pc
+      Noblesse also increases the Flat DMG Buff provided by Xianyun’s A4,
+      further increasing your on-fielders damage output.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15007_4.png?vh=2023122001
+  - title: '**4PC Ocean-Hued Clam**'
+    description: >-
+      In teams where 4pc VV and / or NO is already being held by someone else or
+      are just not needed entirely, Xianyun can also opt to hold 4pc OHC for
+      more personal damage. With a rather sizable initial heal and several
+      smaller but consistent sustained heals, Xianyun easily heals about 2/3s of
+      the Sea-Dyed Foam with every tick, making her a very potent carrier of the
+      set.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15022_4.png?vh=2023122001
+  - title: '**2PC ER / ATK / HB**'
+    description: >-
+      In teams that do not require Xianyun to hold either 4pc VV or NO, she can
+      run mixed sets for a much easier time in building her. With how popular a
+      set Emblem is to farm, along with the plethora of ATK% sets out there,
+      running mixed sets on her makes gearing her a piece of cake, allowing you
+      to turn your attention to farming for your other characters.
+    color: 7006143
+    thumbnail:
+      url: https://i.imgur.com/UyCtqjI.png
+    footer:
+      text: 'Authored by: NatC'
+      icon_url: https://i.imgur.com/LwBVJ6G.png
+      
+buttons:
+- customId: liveInteraction#faq/anemo/xianyun/artifacts2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
