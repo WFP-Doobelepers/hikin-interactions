@@ -44,14 +44,7 @@ embeds:
       Realm."*
 
 
-      C2 doubles the effects of Xianyun’s A4 Passive, providing a massive
-      increase to her Plunging Attack buffs. Just as before, this effect is
-      considered Flat DMG Bonus, meaning it scales with the on-field character’s
-      DMG% and CRIT stats. Additionally, it also scales with Elemental Mastery
-      when triggering Melt or Vaporize on hits buffed by Xianyun’s A4. The MV
-      provided by this effect is larger than most character’s Plunging Attack
-      MVs, increasing an on-field carry’s personal damage by ~35%, whilst
-      increasing the team’s overall damage by ~25%.
+      By far Xianyun's best Constellation. Her C2 amplifies the effects of Xianyun's A4 Passive by doubling the Flat Plunge DMG Bonus cap and the Plunge DMG Bonus MV. Given how Flat DMG bonus scales with the active character's stats and reactions, stacking very high ATK on Xianyun may see good turnover on resin investment. 
     color: 7006143
     fields:
       - name: '***Healing% Increase vs. C1:***'
