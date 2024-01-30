@@ -29,6 +29,11 @@ options: #dropdown
     description: "WFP resources for Gaming FAQ."
     emoji: ${ EMOJIS.PYRO_BOX }
 
+  - label: Combos
+    value: faq/pyro/gaming/combos1
+    description: "WFP resources for Gaming FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
   - label: Energy Recharge Requirements
     value: faq/pyro/gaming/errequire
     description: "WFP resources for Gaming FAQ."

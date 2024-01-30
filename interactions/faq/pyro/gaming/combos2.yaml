@@ -1,0 +1,26 @@
+content: null
+embeds:
+- title: "**If Xingqiu or Yelan: Weave NAs before any PA**"
+  description: Weaving Normal Attacks in between Plunging Attacks triggers Xingqiu's
+    Rain Swords or Yelan's Exquisite Throw to ensure Gaming's Plunging Attacks trigger
+    Vaporize.
+  color: 10235181
+- title: "**If Melt with C6 Bennett: Dash towards Man Chai and only EP**"
+  description: Dashing to meet Man Chai would maximize the amount of Charmed Cloudstrider
+    Plunges Gaming is able to use. Due to the insufficient amount of Cryo application,
+    focusing on Charmed Cloudstrider Plunge's Melt damage would be more optimal instead
+    of weaving in any regular Plunging Attacks or Normal Attacks.
+  color: 10235181
+- title: "**Else: NA between EP until E CD resets**"
+  description: To deal as much damage as possible while waiting for Gaming's Elemental
+    Skill CD, weave Normal Attacks in between Charmed Cloudstrider Plunges.
+  color: 10235181
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/FYeVKcV.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/combos1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"  
