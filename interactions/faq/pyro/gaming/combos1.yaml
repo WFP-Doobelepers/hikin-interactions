@@ -1,0 +1,30 @@
+content: null
+embeds:
+- title: __COMBOS__
+  description: |-
+    Gaming's combos can vary between several factors such as Xianyun, Xingqiu, or Yelan's inclusion in the team, Bennett's Constellation level, and the moment Man Chai collides to reset Gaming's Skill CD.
+
+    Please note that if you want to Swirl Pyro, you will have to switch to Xianyun or Kazuha AFTER using Bennett’s Burst, meaning funneling from Bennett to Gaming during setup is not possible. Nevertheless, this can still happen at the end of the rotation by doing an Elemental Skill on Bennett then switching back to Gaming to do a final Elemental Skill.
+
+    For the discussion of in-depth gameplay details, please check the Teambuilding section of this FAQ.
+  color: 10235181
+- title: "**If Xianyun: EP focus, JP or NA in between EP**"
+  description: With Xianyun in the team, Gaming would want to maximize her A4 Passive's
+    Flat DMG Bonus with his Charmed Cloudstrider Plunges. Regular Plunging Attacks
+    or Normal Attacks can be used in between Charmed Cloudstrider Plunges.
+  color: 10235181
+- title: "**If Xianyun AND C6 Bennett: Alternate between EP and JP**"
+  description: |-
+    With C6 Bennett's ATK buff and 15% Pyro DMG Bonus, use Charmed Cloudstrider Plunges with regular Plunging Attacks to fully utilize Xianyun's A4 Passive and maximize Gaming's damage output.
+
+    Keep in mind that if you are using regular Plunging Attacks, it makes it harder to meet up with Man Chai to reset Gaming's Skill CD, which means that there would be 1 less Skill per rotation most of the time.
+  color: 10235181
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/FYeVKcV.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/gaming/artifacts2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"  
