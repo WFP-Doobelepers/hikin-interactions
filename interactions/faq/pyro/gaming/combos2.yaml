@@ -20,7 +20,7 @@ embeds:
     icon_url: https://i.imgur.com/FYeVKcV.png
 
 buttons:
-- customId: liveInteraction#faq/pyro/gaming/artifacts1
+- customId: liveInteraction#faq/pyro/gaming/combos1
   label: Previous
   style: PRIMARY
   emoji: "◀️"  
