@@ -19,7 +19,7 @@ embeds:
     fields:
       - name: '***Healing% Increase vs. C0:***'
         value: 10.51%
-      - name: '***Healing% Increase vs. C0:***'
+      - name: '***Team DPS% Increase vs. C0:***'
         value: 0.10%
       - name: '***Rating:***'
         value: 1/5

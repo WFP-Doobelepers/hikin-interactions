@@ -1,39 +1,66 @@
 content: null
 embeds:
   - title: |-
-      __Other Sets__
+      __Artifact Sets__
 
-      **4PC Maiden’s Beloved**
-    description: A nice boost to Xianyun’s healing, but offers nothing else beside that.
+      __Recommended Sets__
+
+      **4PC Viridescent Venerer**
+    description: >-
+      The bread and butter of any Anemo support featuring in PECH
+      reaction-centric teams, Viridescent Venerer synergizes perfectly with
+      Xianyun, enabling her to reduce enemy Resistances by 40%, increasing her
+      teammates’ damage. This should be her go-to set in most cases unless being
+      run with characters who don’t need the RES Shred, such as Xiao.
     color: 7006143
     thumbnail:
       url: >-
-        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_14004_4.png?vh=2023122001
-  - title: '**4PC Song of Days Past**'
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15002_4.png?vh=2023122001
+  - title: '**4PC Noblesse Oblige**'
     description: >-
-      A direct downgrade to Ocean-Hued Clam, since its buff is weaker than the
-      potential damage that OHC can output. Only use it if you have a decent set
-      from farming for Navia.
+      Should your primary DPS(s) not make good use of 4pc VV, 4pc Noblesse
+      Oblige is another fantastic option for ATK-scaling DPS(s). One
+      particularly notable scenario where this may work would be in Xiao teams,
+      since Xiao appreciates the ATK buff from Noblesse quite a fair bit. 4pc
+      Noblesse also increases the Flat DMG Buff provided by Xianyun’s A4,
+      further increasing your on-fielders damage output.
     color: 7006143
     thumbnail:
       url: >-
-        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15033_4.png?vh=2023122001
-  - title: '**4PC Emblem of Severed Fate**'
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15007_4.png?vh=2023122001
+  - title: '**4PC Ocean-Hued Clam**'
     description: >-
-      This set helps Xianyun reach her ER Requirements whilst buffing her Burst
-      damage ever so slightly. That being said, Xianyun’s Burst doesn’t have a
-      lot of damage contribution compared to the rest of her team, so this set
-      is slightly lackluster.
+      In teams where 4pc VV and / or NO is already being held by someone else or
+      are just not needed entirely, Xianyun can also opt to hold 4pc OHC for
+      more personal damage. With a rather sizable initial heal and several
+      smaller but consistent sustained heals, Xianyun easily heals about 2/3s of
+      the Sea-Dyed Foam with every tick, making her a very potent carrier of the
+      set.
+    color: 7006143
+    thumbnail:
+      url: >-
+        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15022_4.png?vh=2023122001
+  - title: '**2PC ER / ATK / HB**'
+    description: >-
+      In teams that do not require Xianyun to hold either 4pc VV or NO, she can
+      run mixed sets for a much easier time in building her. With how popular a
+      set Emblem is to farm, along with the plethora of ATK% sets out there,
+      running mixed sets on her makes gearing her a piece of cake, allowing you
+      to turn your attention to farming for your other characters.
     color: 7006143
     footer:
       text: 'Authored by: NatC'
-      icon_url: https://i.imgur.com/LwBVJ6G.png
+      icon_url: https://i.imgur.com/LwBVJ6G.png    
     thumbnail:
-      url: >-
-        https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15020_4.png?vh=2023122001
+      url: https://i.imgur.com/UyCtqjI.png
 
 buttons:
 - customId: liveInteraction#faq/anemo/xianyun/artifacts1
   label: Previous
   style: PRIMARY
   emoji: "◀️"
+
+- customId: liveInteraction#faq/anemo/xianyun/artifacts3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
