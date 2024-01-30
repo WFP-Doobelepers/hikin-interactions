@@ -42,6 +42,11 @@ options: #dropdown
     description: "WFP resources for Xianyun FAQ."
     emoji: ${ EMOJIS.ANEMO_BOX }
 
+  - label: Energy Recharge Requirements
+    value: faq/anemo/xianyun/er
+    description: "WFP resources for Xianyun FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
   - label: Artifacts
     value: faq/anemo/xianyun/artifacts1
     description: "WFP resources for Xianyun FAQ."
