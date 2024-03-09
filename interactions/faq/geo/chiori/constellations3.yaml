@@ -28,9 +28,9 @@ embeds:
   fields:
   - name: "***DPS% Increase vs. C5:***"
     value: 22%
-  - name: "***DPS% Increase vs. C0 - No Geo Construct team::***"
+  - name: "***DPS% Increase vs. C0 - No Geo Construct team:***"
     value: 273%
-  - name: "***DPS% Increase vs. C0 - Geo Construct team::***"
+  - name: "***DPS% Increase vs. C0 - Geo Construct team:***"
     value: 135%
   - name: "***Rating:***"
     value: 4/5
