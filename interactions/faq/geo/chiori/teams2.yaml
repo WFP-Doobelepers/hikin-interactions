@@ -1,0 +1,34 @@
+content: null
+embeds:
+- title: "**Ningguang Teams**"
+  description: "### Chiori | Ningguang | Flex | Flex\nThis team allows for a short
+    17s rotation, thanks to the short cooldowns of team members. It is also the first
+    team to feature Ningguang in a competitive light in recent memory. Ningguang acts
+    as the on-field DPS, while Chiori deals damage from the backline. The flex slots
+    are used for characters that either amplify team damage or deal respectable damage
+    on their own. \n\nIt’s worth noting that Chiori’s DPS in this team is roughly
+    equal to Mono Geo, making this option one of Chiori’s better teams.\n\n__**Teammates**__\n\n<:flex:1094549077280169984>
+    **Flex options:** Furina, Fischl, Bennett, Xiangling, Yelan, Xingqiu, Zhongli"
+  color: 14721536
+  image:
+    url: https://i.imgur.com/ixgFPoW.png
+- title: "**Navia Teams**"
+  description: |-
+    ### Chiori | Navia | PECH Flex | PECH Flex
+    Navia, at first glance, is a strange choice to pair with Chiori, as Navia is one of the few Geo characters who cannot create constructs to enable Chiori’s second Tamoto doll. Nevertheless, so long as there are two other Pyro, Electro, Cryo, or Hydro teammates, Navia will be able to maximize her own damage. Chiori’s off-field performance contributes to Elemental Shard generation and still-respectable damage to the team. Perhaps the most important benefit Chiori provides to Navia is her reliable Geo Particle generation, which helps with Navia’s high ER needs.
+
+    __**Teammates**__
+
+    <:flex:1094549077280169984> **Flex options:** Fischl, Furina, Bennett, Xiangling, Yelan, Xingqiu
+  color: 14721536
+  footer:
+    text: 'Authored by: Vlad and Emiliabyss'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  image:
+    url: https://i.imgur.com/tv6NexT.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/teams1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

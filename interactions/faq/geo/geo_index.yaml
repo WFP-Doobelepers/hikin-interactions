@@ -5,6 +5,11 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/geo.png
 
 options:
+  - label: Chiori
+    value: faq/geo/chiori/main
+    description: WFP resources on Chiori!
+    emoji: <${ EMOJIS.GEO }>
+  
   - label: Navia
     value: faq/geo/navia/main
     description: WFP resources on Navia

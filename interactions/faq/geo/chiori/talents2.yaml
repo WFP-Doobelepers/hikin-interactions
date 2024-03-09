@@ -1,0 +1,47 @@
+content: null
+embeds:
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Weaving Blade**
+  description: |-
+    As mentioned previously, Chiori’s Normal Attacks aren’t anything spectacular. Even with the Geo infusion, the damage dealt by this Talent is insignificant compared to other areas of her kit, making it unworthy of use.
+
+    The story is completely different at Constellation 6. With the DEF scaling added to Normal Attack multipliers, this becomes a viable Talent for incentivizing on-field gameplay. The damage increase is noticeable and provides interesting gameplay due to the quick combos you have to perform.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_01.png
+- title: "**Elemental Skill: Fluttering Hasode**"
+  description: |-
+    *CD: **16s***
+
+    The core of her kit is unique and a bit more complex than expected.
+
+    At base, Chiori will have an animation hit, after which she will summon a Tamoto doll. This Tamoto spawns roughly 0.6s after the initial hit and will deal 5 instances of damage across 3.6s intervals. Unlike other units, particles are not generated on the initial hit, but instead on every Tamoto hit, even when Chiori is not on the field. There is a 20% chance to generate 2 particles and an 80% chance to generate 1 particle per hit.
+
+    If a construct is already present when Chiori casts her Skill, the two Tamoto turrets will spawn simultaneously, with the second doll dealing damage 1s after the first doll’s hit. If a construct isn’t already present, the second Tamoto will spawn when a construct is created. Each Tamoto doll has independent durations and counters. The second Tamoto, however, does not generate particles. It is also worth noting the dolls cannot be broken by enemies.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_S_Chiori_01.png
+- title: "**Elemental Burst: Hiyoku: Twin Blades**"
+  description: |-
+    *CD: **13.5s***
+    *Energy cost: **50***
+
+    Chiori’s Burst is occasionally worth using, but undeserving of any special focus. The damage is decent, but nothing groundbreaking. Building Energy Recharge to ensure Burst consistency on every rotation can lead to a DPS loss even in teams where Chiori has low ER needs. Ideally, her Burst should only be used when the Energy gauge fills up naturally.
+  color: 14721536
+  footer:
+    text: 'Authored by: Vlad'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_E_Chiori_01.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/geo/chiori/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

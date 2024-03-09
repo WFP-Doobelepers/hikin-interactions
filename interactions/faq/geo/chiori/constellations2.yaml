@@ -1,0 +1,51 @@
+content: null
+embeds:
+- title: "**Constellation 3 - Four Brocade Embellishments**"
+  description: |-
+    > *Increases the Level of Fluttering Hasode by 3.
+    > Maximum upgrade level is 15.*
+
+    Increases Elemental Skill Talent Level by 3. This is the better of the two Talent Level Constellations, as the vast majority of Chiori’s damage comes from her Skill.
+  color: 14721536
+  fields:
+  - name: "***DPS% Increase vs. C2:***"
+    value: 16%
+  - name: "***DPS% Increase vs. C0 - No Geo Construct team:***"
+    value: 145%
+  - name: "***DPS% Increase vs. C0 - Geo Construct team:***"
+    value: 54%
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Chiori_01.png
+- title: "**Constellation 4 - A Tailor's Three Courtesies**"
+  description: |-
+    > *For 8s after triggering either follow-up effect of the Passive Talent "Tailor-Made," when your current active character's Normal, Charged, or Plunging Attacks hit a nearby opponent, a simplified automaton doll, "Kinu," will be summoned near this opponent. You can summon 1 Kinu every 1s in this way, and up to 3 Kinu may be summoned this way during each instance of "Tailor-Made"'s Seize the Moment or Tailoring effect. The above effect can be triggered up to once every 15s.
+    > Must unlock the Passive Talent "Tailor-Made" first.*
+
+    Introduces a new set of Kinu dolls which can be triggered in the same way Tapestry coordinated attacks are triggered. Only 3 Kinu can be summoned at a 1s interval, which disappear after dealing damage.
+  color: 14721536
+  fields:
+  - name: "***DPS% Increase vs. C3:***"
+    value: 23%
+  - name: "***DPS% Increase vs. C0 - No Geo Construct team:***"
+    value: 202%
+  - name: "***DPS% Increase vs. C0 - Geo Construct team:***"
+    value: 90%
+  - name: "***Rating:***"
+    value: 3/5
+  footer:
+    text: 'Authored by: Vlad'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Chiori_02.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/geo/chiori/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

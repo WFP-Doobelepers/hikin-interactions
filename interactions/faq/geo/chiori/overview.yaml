@@ -1,0 +1,36 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 14721536
+  fields:
+  - name: 'Leads:'
+    value: "<@243369819217330178>, <@293169816741740556>"
+  - name: 'Authors:'
+    value: "<@243369819217330178>, <@293169816741740556>, <@148100838861176832>, <@195955557591416833>"
+  - name: 'Calculations:'
+    value: "<@243369819217330178>, <@293169816741740556>, <@148100838861176832>, <@195955557591416833>"
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@604540951708565515>
+      Writing: <@812178562822963210>
+  - name: 'Transcription:'
+    value: "<@812178562822963210>, <@366206663533002774>"
+  - name: 'Resources:'
+    value: "[Chiori Mastersheet](https://docs.google.com/spreadsheets/d/11IU-KRQY4D9FGuwR9jTnwaWYkcb6Yeu-aXF-nJjLuPA/edit?usp=sharing)"
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://i.imgur.com/lTPGTfZ.png
+- title: __OVERVIEW__
+  description: |-
+    Chiori is a 5-star sword-wielding Geo unit who focuses on dealing off-field damage with doll-shaped turrets generated from her Skill. Her kit is similar to Fischl, Albedo, and Yae Miko in terms of team function and gameplay in their dependence on their Elemental Skill. While her field time is modest, she exhibits strong performance in her role.
+
+    Filling the same role as Albedo, she excels in Geo-focused teams, but playing her alongside other elements isn’t a problem as long as she has another unit of the same element as her in the party. At C0, she will prefer at least one Geo teammate who creates Geo Constructs, like Zhongli’s pillar, Albedo’s elevator, and Ningguang’s Jade Gate.
+  color: 14721536
+  footer:
+    text: 'Authored by: Emiliabyss and Vlad'
+    icon_url: https://i.imgur.com/aNBUIBk.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Chiori.png

@@ -1,0 +1,26 @@
+content: null
+embeds:
+- title: __TEAM BUILDING__
+  description: Chiori’s teams are straightforward and dependent on having at least
+    another Geo unit present. While the most obvious choice focuses on having all
+    the party members of the same element, thankfully there are a couple of units
+    which allow players to reliably play Chiori with units of different Elements.
+  color: 14721536
+- title: "**Mono Geo**"
+  description: |-
+    ### Chiori | Itto/Noelle | Zhongli/Albedo | Gorou
+    Itto is the best on-field unit to have in a Mono Geo team with Chiori. He matches her kit perfectly, uses the field time efficiently and deals high amounts of damage. This is a very simple team which can’t go wrong.
+
+    An alternative on-field unit is Noelle. Filling the same role, Noelle allows for a better transition to the Chiori-Albedo duo. Having a shield herself and some healing, the presence of Zhongli is no longer necessary. Additionally, with Gorou present, especially at high Constellations, this team will perform well despite not being the ideal Mono Geo team.
+  color: 14721536
+  footer:
+    text: 'Authored by: Vlad and Emiliabyss'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  image:
+    url: https://i.imgur.com/Kf1I9DZ.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/teams2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
