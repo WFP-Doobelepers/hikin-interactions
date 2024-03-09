@@ -1,0 +1,47 @@
+content: null
+embeds:
+- title: "**Constellation 5 - Two Silken Plumules**"
+  description: |-
+    > *Increases the Level of Hiyoku: Twin Blades by 3.
+    > Maximum upgrade level is 15.*
+
+    Increases Elemental Burst Talent Level by 3. This is not as useful since Chiori’s Burst is not an important component of her damage. Nevertheless, since Constellation 2 is activated at this point, you’ll be incentivized to use her Burst more.
+  color: 14721536
+  fields:
+  - name: "***DPS% Increase vs. C4:***"
+    value: 1%
+  - name: "***DPS% Increase vs. C0 - No Geo Construct team:***"
+    value: 205%
+  - name: "***DPS% Increase vs. C0 - Geo Construct team:***"
+    value: 92%
+  - name: "***Rating:***"
+    value: 1/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Chiori_02.png
+- title: "**Constellation 6 - Sole Principle Pursuit**"
+  description: |-
+    > *After triggering a follow-up effect of the Passive Talent "Tailor-Made," Chiori's own Fluttering Hasode's CD is decreased by 12s. Must unlock the Passive "Tailor-Made" first.
+    > In addition, the DMG dealt by Chiori's own Normal Attacks is increased by an amount equal to 235% of her own DEF.*
+
+    Allows Chiori to change her playstyle and become an on-field DPS. With the newly received buffs, her Normal Attacks become significantly more relevant, allowing for a more noticeable presence in both damage and field time. Additionally, the cooldown reduction on the Skill allows Chiori to cast her Skill twice consecutively at a 4s interval which can be efficiently filled by using Normal Attacks.
+  color: 14721536
+  fields:
+  - name: "***DPS% Increase vs. C5:***"
+    value: 22%
+  - name: "***DPS% Increase vs. C0 - No Geo Construct team:***"
+    value: 273%
+  - name: "***DPS% Increase vs. C0 - Geo Construct team:***"
+    value: 135%
+  - name: "***Rating:***"
+    value: 4/5
+  footer:
+    text: 'Authored by: Vlad'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Chiori_04.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,5 @@
+interaction: faq/geo/chiori/main
+description: "Opens WFP resources on Chiori"
+emoji: <${EMOJIS.CHIORI}> 
+
+name: Chiori

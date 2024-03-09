@@ -1,0 +1,4 @@
+interaction: faq/geo/chiori/main
+description: "Opens Chiori FAQ"
+match: ${ TRIGGER_PREFIX }chiorifaq(?:\s|$)
+ignoreCase: true

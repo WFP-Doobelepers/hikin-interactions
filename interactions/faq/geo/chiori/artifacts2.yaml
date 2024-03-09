@@ -1,0 +1,40 @@
+content: null
+embeds:
+- title: |-
+    __Artifact Sets__
+
+    **4pc Golden Troupe**
+  description: |-
+    With Chiori’s Elemental Skill being her bread and butter, it should come as no surprise that 4pc Golden Troupe is one of, if not her best, artifact set. Providing up to a whopping 70% Skill DMG when the wearer is off-field, the 4pc set bonus has basically 100% uptime on Chiori’s doll hits, making this set stand out from the rest of its alternatives.
+
+    It is also worth considering that the Golden Troupe / Marechausse Hunter domain is resin-efficient, since plenty of other characters’ (e.g., Furina, Fischl, Neuvillette, etc.) Best-in-Slot artifact sets can also be found here.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15032_4.png
+- title: "**4pc Husk of Opulent Dreams**"
+  description: |-
+    Another great set for Chiori. The 4pc set bonus provides up to 24% bonus Geo DMG and DEF when fully stacked on top of a base 30% DEF on the 2pc set, both stats that are extremely useful for Chiori. This puts the 4pc Husk set just ever so slightly behind 4pc GT assuming equal substat distribution, with 4pc Husk actually pulling ahead should Chiori have the freedom to Burst every rotation in either Energy-rich environments or in Mono Geo teams where there is a high rate of Geo Particle generation.
+
+    Another notable use case for 4pc Husk would be in teams where Chiori is used as a quickswap damage dealer with her infusion, most notably at C6. With her damage split skewing more towards her on-field damage and lower Golden Troupe uptime, 4pc Husk should theoretically pull much further ahead than any other set combination for Chiori, since it benefits all aspects of her damage.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15021_4.png
+- title: "**2pc Golden Troupe / Husk / Archaic Petra / ATK% combos**"
+  description: If you have yet to farm for Chiori and want to give her a temporary
+    set to make do with, flexing 2pc set bonuses gives her decent options to work
+    with. It is recommended to eventually pivot to a proper 4pc set when given the
+    opportunity. With Chiori’s damage coming from multiple avenues, she has plenty
+    of options to work with, although Chiori does prefer GT, Husk, and AP noticeably
+    more than ATK% sets.
+  color: 14721536
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://i.imgur.com/JGcRTUz.png
+  thumbnail:
+    url: https://i.imgur.com/ZopavK6.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/artifacts1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,25 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* DEF%
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* Geo DMG% / DEF%
+    <:circlet:1094559608581922966> *Circlet of Logos:* CRIT / DEF%
+
+    Although Chiori is a character that scales with both ATK% and DEF%, the scaling on her DEF% is more important than her ATK%. Hence, it is recommended to avoid going for artifacts with ATK% main stat unless you have no better options.
+
+    DEF% is Chiori’s most valuable stat behind CRIT, to the point where going DEF / DEF / CRIT is only 3% worse than going DEF / Geo DMG% / CRIT.
+
+    **Substats:** CRIT > DEF% > ATK% >= Flat DEF
+
+    As mentioned in previous sections, building Energy Recharge on Chiori is not worth it in nearly all situations, giving her the freedom to focus on offensive substats such as CRIT and DEF%.
+  color: 14721536
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://i.imgur.com/JGcRTUz.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/artifacts2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

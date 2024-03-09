@@ -1,0 +1,21 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **Elemental Skill > Elemental Burst > Normal Attack**
+  description: |-
+    ## __Analysis__
+    - Chiori’s kit is centered around her Elemental Skill, making it her highest-priority Talent to level. Her Burst is not to be completely neglected, especially at higher Constellations, although it is still not recommended to build Energy Recharge unless you have Constellation 2 unlocked. Lastly, Normal Attacks are disappointing. Despite having a Geo infusion, the numbers aren’t gratifying, and it is inadvisable to use them unless Constellation 6 is active.
+  color: 14721536
+  footer:
+    text: 'Authored by: Vlad'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  image:
+    url: https://i.imgur.com/WMPd5TX.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

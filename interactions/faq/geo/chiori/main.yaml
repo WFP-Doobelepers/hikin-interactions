@@ -1,0 +1,65 @@
+content: null
+embeds:
+- title: The owner of Chioriya Boutique. A tailor renowned throughout Fontaine.
+  color: 14721536
+  fields:
+  - name: Chiori Mastersheet by vladutsu, emiliabyss, and natc
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/11IU-KRQY4D9FGuwR9jTnwaWYkcb6Yeu-aXF-nJjLuPA/edit?usp=sharing)"
+  author:
+    name: Chiori FAQ
+    icon_url: https://genshin.honeyhunterworld.com/img/chiori_094_side_icon.webp?x27817
+  image:
+    url: https://genshin.honeyhunterworld.com/img/chiori_094_gacha_splash.webp?x27817
+
+
+options: #dropdown
+  - label: Overview
+    value: faq/geo/chiori/overview
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Talents
+    value: faq/geo/chiori/talents1
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Constellations
+    value: faq/geo/chiori/constellations1
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/geo/chiori/erreq
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Artifacts
+    value: faq/geo/chiori/artifacts1
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Weapons
+    value: faq/geo/chiori/weapons1
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Team Building
+    value: faq/geo/chiori/teams1
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: External Links
+    value: faq/geo/chiori/external
+    description: "WFP resources for Chiori FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+#buttons:
+#  - label: WFP FAQ
+#    url: https://wangshengfp.org/faq/chiori
+#    emoji: ${ EMOJIS.WFP_LOGO }
+#    style: LINK
+
+#  - label: KQM Guide
+#    url: https://keqingmains.com/chiori/
+#    emoji: :logont:945530991240421386
+#    style: LINK

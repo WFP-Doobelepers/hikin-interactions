@@ -1,0 +1,37 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Uraku Misugiri**
+  description: Signature weapon and Best-in-Slot for Chiori, about 15% superior to
+    her next best option. It offers an enormous amount of CRIT DMG while buffing DEF,
+    Skill, and Normal Attack damage. Chiori’s ideal teams also allow her to easily
+    maintain full uptime on the passive.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Needle.png
+- title: "**Cinnabar Spindle R5**"
+  description: An event-only weapon that serves as Albedo’s signature weapon. If you
+    don’t have this weapon now, it’s unlikely you’ll get another chance. Its DEF-scaling
+    passive and DEF% stat are an enormous boon to Chiori’s performance.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Opus.png
+- title: "**Primordial Jade Cutter**"
+  description: A sword from early-game that has somehow resisted years of power creep.
+    Even though Chiori does not build HP, the massive CRIT Rate stat is highly desirable,
+    and the ATK bonus based on Max HP is simply a pleasant bonus. At R5, Jade Cutter
+    surpasses Cinnabar Spindle.
+  color: 14721536
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/aNBUIBk.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Morax.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/weapons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

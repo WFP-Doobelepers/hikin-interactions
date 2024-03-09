@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Tailor-Made**
+  description: |-
+    This Passive allows for Chiori to activate one of two modes after casting her Elemental Skill: Tapestry or Tailoring.
+
+    Tapestry can be activated by triggering the Skill again after cast. This will swap Chiori to the next unit in your roster, but won’t ignore the 1s swap cooldown, so be careful with your timing. For the next 8s after activating Tapestry, Normal, Charged and Plunging Attacks done by the on-field unit will trigger additional coordinated attacks from Chiori’s dolls, which are considered Elemental Skill damage. Only 2 hits can be dealt during this period, and there is a 2s cooldown between each hit.
+
+    Tailoring can be activated by using Chiori’s Normal Attack. This will give her Geo infusion, and for the next 5s, all of Chiori’s Normal, Charged and Plunging Attacks will deal Geo damage. Unfortunately, this option is usually weak and is only recommended to be utilized if Constellation 6 is unlocked.
+
+    If none of the two modes is voluntarily triggered, Tailoring will be enabled by default.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Chiori_05.png
+- title: "**Ascension 4 Passive: The Finishing Touch**"
+  description: Chiori will receive a 20% Geo DMG Bonus for 20s when a party member
+    creates a Geo Construct. This is a nice buff to have on her and can easily be
+    sustained for all of her attacks.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Chiori_06.png
+- title: "**Utility Passive: Brocaded Collar's Beauteous Silhouette**"
+  description: Increases party Movement SPD by 10% if you have a non-default skin
+    or glider on any of your team members. This does not work in domains.
+  color: 14721536
+  footer:
+    text: 'Authored by: Vlad'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Chiori_07.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

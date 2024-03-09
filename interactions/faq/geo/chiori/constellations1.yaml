@@ -1,0 +1,50 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - Six Paths of Sage Silkcraft**
+  description: |-
+    > *The AoE of the automaton doll "Tamoto" summoned by Fluttering Hasode is increased by 50%.
+    > Additionally, if there is a Geo party member other than Chiori, Fluttering Hasode will trigger the following after the dash is completed:
+    > - Summon an additional Tamoto. Only one additional Tamoto can exist at the same time, whether summoned by Chiori this way or through the presence of a Geo Construct.
+    > - Triggers the Passive Talent "The Finishing Touch." This effect requires you to first unlock the Passive Talent "The Finishing Touch."*
+
+    Noticeably increases the attack range of the Tamoto dolls. Additionally, a Geo Construct from another party member is no longer required to create the second Tamoto doll or to trigger her Ascension 4 Passive. This Constellation is a good addition only if you play Chiori in teams without constructs.
+  color: 14721536
+  fields:
+  - name: "***DPS% Increase vs. C0 - No Geo Construct team:***"
+    value: 59%
+  - name: "***DPS% Increase vs. C0 - Geo Construct team:***"
+    value: 0%
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Chiori_01.png
+- title: "**Constellation 2 - In Five Colors Dyed**"
+  description: |-
+    > *For 10s after using Hiyoku: Twin Blades, a simplified automaton doll, "Kinu," will be summoned next to your active character every 3s. Kinu will attack nearby opponents, dealing AoE Geo DMG equivalent to 170% of Sode's DMG. DMG dealt this way is considered Elemental Skill DMG.
+    > Kinu will leave the field after 1 attack or after lasting 3s.*
+
+    A strong Constellation which introduces a new type of doll called Kinu. After casting Chiori’s Burst, Kinu will be summoned at a 3s interval for a total of 3 hits. This Constellation adds more value to her Burst. Henceforth, it is recommended to build Energy Recharge and aim for consistently using Burst every rotation. In cases where the requirements are too high, casting the Burst once every other rotation is also viable.
+  color: 14721536
+  fields:
+  - name: "***DPS% Increase vs. C1:***"
+    value: 33%
+  - name: "***DPS% Increase vs. C0 - No Geo Construct team:***"
+    value: 111%
+  - name: "***DPS% Increase vs. C0 - Geo Construct team:***"
+    value: 33%
+  - name: "***Rating:***"
+    value: 4/5
+  footer:
+    text: 'Authored by: Vlad'
+    icon_url: https://i.imgur.com/WrAlIm6.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Chiori_03.png
+
+buttons:
+- customId: liveInteraction#faq/geo/chiori/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

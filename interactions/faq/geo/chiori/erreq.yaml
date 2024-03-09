@@ -1,0 +1,16 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: |-
+    Chiori’s Energy Recharge requirements can vary significantly depending on her team. However, her Elemental Burst is neither an essential part of her kit nor worth building ER for until Constellation 2. Additionally, some of her teams have massive ER needs, especially in the case of Double Geo with Zhongli if his pillar breaks. In general, it is not recommended to build any ER and to just use her Burst whenever it is charged, as building ER will lead to a decline in total damage.
+
+    It is worth noting that even if her Burst gains value with C2, it is still not recommended to build ER if her needs are too high (see Constellations section of FAQ).
+
+    Chiori's ER requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    For more details on how Favonius weapons will affect your team, please use Ac1d’s Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+  color: 14721536
+  footer:
+    text: 'Authored by: Ac1d'
+    icon_url: https://i.imgur.com/7emUUQu.png
+  image:
+    url: https://i.imgur.com/B3ODLeT.png
