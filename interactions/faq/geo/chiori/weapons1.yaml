@@ -21,13 +21,11 @@ embeds:
   description: A Battle Pass-only weapon that offers a gratifying amount of CRIT Rate
     when using the equipped character’s Skill and a pleasant ATK boost.
   color: 14721536
-  thumbnail:
-    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Boreas.png
   footer:
     text: 'Authored by: Emiliabyss'
     icon_url: https://i.imgur.com/aNBUIBk.png
   thumbnail:
-    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Morax.png
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Boreas.png
 
 buttons:
 - customId: liveInteraction#faq/geo/chiori/weapons2
