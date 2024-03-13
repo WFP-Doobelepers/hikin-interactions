@@ -1,5 +1,12 @@
 content: null
 embeds:
+- title: "**Cinnabar Spindle R5**"
+  description: An event-only weapon that serves as Albedo’s signature weapon. If you
+    don’t have this weapon now, it’s unlikely you’ll get another chance. Its DEF-scaling
+    passive and DEF% stat are an enormous boon to Chiori’s performance.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Opus.png
 - title: "**Harbinger of Dawn R5**"
   description: |-
     This 3-star weapon is a safe choice for off-field sword-wielding DPS characters, as they don’t often get hit. Without its passive, the weapon falls far behind in damage, but you’re still getting a good deal out of a freely accessible weapon.
@@ -8,12 +15,6 @@ embeds:
   color: 14721536
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Dawn.png
-- title: "**Wolf-Fang**"
-  description: A Battle Pass-only weapon that offers a gratifying amount of CRIT Rate
-    when using the equipped character’s Skill and a pleasant ATK boost.
-  color: 14721536
-  thumbnail:
-    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Boreas.png
 - title: "**Honorable Mentions**"
   description: Light of Foliar Incision and Haran Geppaku Futsu are great weapons
     for Chiori and keep up with the weapons mentioned above, although it is preferred

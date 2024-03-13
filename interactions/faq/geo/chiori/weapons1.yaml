@@ -11,19 +11,18 @@ embeds:
   color: 14721536
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Needle.png
-- title: "**Cinnabar Spindle R5**"
-  description: An event-only weapon that serves as Albedo’s signature weapon. If you
-    don’t have this weapon now, it’s unlikely you’ll get another chance. Its DEF-scaling
-    passive and DEF% stat are an enormous boon to Chiori’s performance.
-  color: 14721536
-  thumbnail:
-    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Opus.png
 - title: "**Primordial Jade Cutter**"
   description: A sword from early-game that has somehow resisted years of power creep.
     Even though Chiori does not build HP, the massive CRIT Rate stat is highly desirable,
     and the ATK bonus based on Max HP is simply a pleasant bonus. At R5, Jade Cutter
     surpasses Cinnabar Spindle.
   color: 14721536
+- title: "**Wolf-Fang**"
+  description: A Battle Pass-only weapon that offers a gratifying amount of CRIT Rate
+    when using the equipped character’s Skill and a pleasant ATK boost.
+  color: 14721536
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Boreas.png
   footer:
     text: 'Authored by: Emiliabyss'
     icon_url: https://i.imgur.com/aNBUIBk.png
