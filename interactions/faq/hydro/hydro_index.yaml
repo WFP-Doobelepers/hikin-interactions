@@ -7,26 +7,26 @@ embeds:
 options:
   - label: Candace
     value: faq/hydro/candace/main
-    description: WFP resources on Candace
+    description: WFP resources on Candace!
     emoji: <${ EMOJIS.HYDRO}> 
 
   - label: Furina
     value: faq/hydro/furina/main
-    description: WFP resources on Furina
+    description: WFP resources on Furina!
     emoji: <${ EMOJIS.HYDRO}>
 
   - label: Neuvillette
     value: faq/hydro/neuvillette/main
-    description: WFP resources on Neuvillette
+    description: WFP resources on Neuvillette!
     emoji: <${ EMOJIS.HYDRO}>
 
   - label: Nilou
     value: faq/hydro/nilou/main
-    description: WFP resources on Nilou
+    description: WFP resources on Nilou!
     emoji: <${ EMOJIS.HYDRO}>
   
   - label: Yelan
     value: faq/hydro/yelan/main
-    description: WFP resources on Yelan
+    description: WFP resources on Yelan!
     emoji: <${ EMOJIS.HYDRO}>
     

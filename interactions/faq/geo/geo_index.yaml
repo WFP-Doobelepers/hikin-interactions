@@ -12,5 +12,5 @@ options:
   
   - label: Navia
     value: faq/geo/navia/main
-    description: WFP resources on Navia
+    description: WFP resources on Navia!
     emoji: <${ EMOJIS.GEO }>

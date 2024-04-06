@@ -16,7 +16,7 @@ options:
 
   - label: Shikanoin Heizou
     value: faq/anemo/heizou/main
-    description: WFP resources on Shikanoin Hiezou!
+    description: WFP resources on Shikanoin Heizou!
     emoji: <${EMOJIS.ANEMO}>    
 
   - label: Wanderer

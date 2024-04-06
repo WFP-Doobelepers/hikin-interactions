@@ -42,5 +42,5 @@ options:
 
   - label: Yaoyao
     value: faq/dendro/yaoyao/main
-    description: WFP resources on YaoYao
+    description: WFP resources on Yaoyao
     emoji: <${EMOJIS.DENDRO}>
