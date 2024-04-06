@@ -10,9 +10,9 @@ embeds:
     value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1LQaFUjHkniXZoT7nPztVlYZZC8FY6WxPm54LmLfXux4/edit#gid=0)"
   author:
     name: Dehya FAQ
-    icon_url: https://genshin.honeyhunterworld.com/img/dehya_079_side_icon.webp?x78105
+    icon_url: https://i.imgur.com/LLdZZ3m.png
   image:
-    url: https://genshin.honeyhunterworld.com/img/dehya_079_gacha_splash.webp
+    url: https://i.imgur.com/BVSGg80.png
 options:
 - label: Overview
   value: faq/pyro/dehya/overview

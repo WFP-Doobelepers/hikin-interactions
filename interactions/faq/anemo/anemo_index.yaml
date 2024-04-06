@@ -9,17 +9,22 @@ options:
     description: WFP resources on Faruzan!
     emoji: <${EMOJIS.ANEMO}>
 
-  - label: Wanderer
-    value: faq/anemo/wanderer/main
-    description: WFP resources on the Wanderer!
+  - label: Lynette
+    value: faq/anemo/lynette/main
+    description: WFP resources on Lynette!
     emoji: <${EMOJIS.ANEMO}>
 
   - label: Shikanoin Heizou
     value: faq/anemo/heizou/main
     description: WFP resources on Shikanoin Hiezou!
-    emoji: <${EMOJIS.ANEMO}>
+    emoji: <${EMOJIS.ANEMO}>    
 
-  - label: Lynette
-    value: faq/anemo/lynette/main
-    description: WFP resources on Lynette!
+  - label: Wanderer
+    value: faq/anemo/wanderer/main
+    description: WFP resources on the Wanderer!
+    emoji: <${EMOJIS.ANEMO}>    
+
+  - label: Xianyun
+    value: faq/anemo/xianyun/main
+    description: WFP resources on Xianyun!
     emoji: <${EMOJIS.ANEMO}>

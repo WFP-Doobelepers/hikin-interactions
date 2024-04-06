@@ -16,6 +16,11 @@ options:
     description: WFP resources on Dehya!
     emoji: <${EMOJIS.PYRO}>
 
+  - label: Gaming
+    value: faq/pyro/gaming/main
+    description: WFP resources on Gaming!
+    emoji: <${EMOJIS.PYRO}>
+
   - label: Lyney
     value: faq/pyro/lyney/main
     description: WFP resources on Lyney!

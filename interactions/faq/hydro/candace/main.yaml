@@ -13,9 +13,9 @@ embeds:
           [Google Sheet](https://docs.google.com/spreadsheets/d/1CPdWon5vPorqhFBKMENYtjU-AWi9CfhqkVDTiIo9l70/edit)
     author:
       name: Candace FAQ
-      icon_url: https://genshin.honeyhunterworld.com/img/candace_072_side_icon.webp
+      icon_url: https://i.imgur.com/oEqxmzF.png
     image:
-      url: https://genshin.honeyhunterworld.com/img/candace_072_gacha_splash.webp
+      url: https://i.imgur.com/nPvD6gx.png
 
 options: #dropdown
   - label: Overview
