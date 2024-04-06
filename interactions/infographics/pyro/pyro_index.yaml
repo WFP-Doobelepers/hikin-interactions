@@ -5,15 +5,19 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/pyro.png
 
 options: 
+  - label: Bennett
+    value: infographics/pyro/bennett/main
+    description: WFP resources on Bennett!
+    emoji: <${EMOJIS.PYRO}>
 
   - label: Hu Tao
     value: infographics/pyro/hutao/main
     description: WFP resources on Hu Tao!
     emoji: <${EMOJIS.PYRO}>
 
-  - label: Bennett
-    value: infographics/pyro/bennett/main
-    description: WFP resources on Bennett!
+  - label: Xiangling
+    value: infographics/pyro/xiangling/main
+    description: WFP resources on Xiangling!
     emoji: <${EMOJIS.PYRO}>
 
   - label: Xinyan
@@ -24,9 +28,4 @@ options:
   - label: Yoimiya
     value: infographics/pyro/yoimiya/main
     description: WFP resources on Yoimiya!
-    emoji: <${EMOJIS.PYRO}>
-
-  - label: Xiangling
-    value: infographics/pyro/xiangling/main
-    description: WFP resources on Xiangling!
     emoji: <${EMOJIS.PYRO}>

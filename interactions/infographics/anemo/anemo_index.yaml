@@ -6,7 +6,7 @@ embeds:
 
 options: 
 
-  - label: Heizou
+  - label: Shikanoin Heizou
     value: infographics/anemo/heizou/main
     description: WFP resources on Shikanoin Heizou!
     emoji: <${ EMOJIS.ANEMO}>

@@ -7,5 +7,5 @@ embeds:
 options: 
   - label: Yelan
     value: infographics/hydro/yelan/main
-    description: WFP resources on Yelan
+    description: WFP resources on Yelan!
     emoji: <${ EMOJIS.HYDRO}>

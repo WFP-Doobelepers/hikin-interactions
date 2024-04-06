@@ -5,15 +5,15 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/cryo.png
 
 options: 
-  - label: Ayaka
-    value: infographics/cryo/ayaka/main
-    description: WFP resources on ayaka!
-    emoji: <${ EMOJIS.CRYO}>
-
   - label: Ganyu
     value: infographics/cryo/ganyu/main
     description: WFP resources on Ganyu!
     emoji: <${ EMOJIS.CRYO}>
+
+  - label: Kamisato Ayaka
+    value: infographics/cryo/ayaka/main
+    description: WFP resources on Kamisato Ayaka!
+    emoji: <${ EMOJIS.CRYO}>    
 
   - label: Shenhe
     value: infographics/cryo/shenhe/main

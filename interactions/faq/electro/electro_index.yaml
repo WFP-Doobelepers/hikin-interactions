@@ -12,5 +12,5 @@ options:
 
   - label: Kuki Shinobu
     value: faq/electro/kuki/main
-    description: WFP resources on Kuki!
+    description: WFP resources on Kuki Shinobu!
     emoji: <${ EMOJIS.ELECTRO}>
