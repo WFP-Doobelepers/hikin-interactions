@@ -10,7 +10,7 @@ options:
     description: WFP resources on Cyno!
     emoji: <${ EMOJIS.ELECTRO}>
 
-  - label: Kuki
+  - label: Kuki Shinobu
     value: faq/electro/kuki/main
     description: WFP resources on Kuki!
     emoji: <${ EMOJIS.ELECTRO}>

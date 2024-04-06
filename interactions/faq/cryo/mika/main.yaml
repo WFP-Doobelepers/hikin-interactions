@@ -9,8 +9,9 @@ embeds:
           [Google Sheet](https://docs.google.com/spreadsheets/d/1b6AK2wbHXq_V3Hv3FL1nskrneG-Zwj2awdKm_MVyP0Q/edit#gid=981902297)
     author:
       name: Mika FAQ
+      icon_url: https://i.imgur.com/vzVnrN1.png
     image:
-      url: 'https://genshin.honeyhunterworld.com/img/mika_080_gacha_splash.webp'
+      url: https://i.imgur.com/1zRS0tp.png
 
 options:
 - label: Overview
