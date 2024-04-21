@@ -1,0 +1,19 @@
+content: null
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 9507072
+  fields:
+  - name: Hakush.in
+    value: "[Character Database and Asset Resources](https://gi12.hakush.in/character/10000096)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credits to Leifa, Emiliabyss, Ac1d, and Kol for the Arlecchino FAQ! || WFP
+      Theorycrafting
+    icon_url: https://i.imgur.com/WoAooLv.gif
+  image:
+    url: https://i.imgur.com/A2giIPE.png

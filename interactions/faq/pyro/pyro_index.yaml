@@ -6,6 +6,11 @@ embeds:
 
 Rewritten code:
 options:
+  - label: Arlecchino
+    value: faq/pyro/arlecchino/main
+    description: WFP resources on Arlecchino!
+    emoji: <${EMOJIS.PYRO}>
+
   - label: Chevreuse
     value: faq/pyro/chevreuse/main
     description: WFP resources on Chevreuse!

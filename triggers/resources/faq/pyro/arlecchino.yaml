@@ -1,0 +1,4 @@
+interaction: faq/pyro/arlecchino/main
+description: "Opens WFP resources on Arlecchino"
+match: ${ TRIGGER_PREFIX }arle(cchino)?faq(?:\s|$)
+ignoreCase: true

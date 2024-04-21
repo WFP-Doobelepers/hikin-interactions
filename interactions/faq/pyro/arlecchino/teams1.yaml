@@ -1,0 +1,25 @@
+content: null
+embeds:
+- title: |-
+    __TEAM BUILDING__
+
+    **Bennett**
+  description: Bennett is a particularly notable teammate for Arlecchino, providing
+    an incredibly powerful ATK buff for Arlecchino and other teammates who can snapshot,
+    which greatly increases the damage output of Arlecchino and her team. The difference
+    in damage between having and not having Bennett’s buff cannot be understated;
+    while Arlecchino teams can be effective even without him, the majority of her
+    strongest teams — in every team archetype — feature him. His one major drawback
+    is that his buff is limited to the stationary circle of his Burst’s range.
+  color: 9507072
+  footer:
+    text: 'Authored by: Kol'
+    icon_url: https://i.imgur.com/2BWCubU.png
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_AvatarIcon_Bennett.webp
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/teams2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

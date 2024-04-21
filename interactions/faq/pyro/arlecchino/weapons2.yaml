@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: "**Deathmatch R5 (General Single-Target) / Ballad of the Fjords R5 (Where
+    EM Matters)**"
+  description: Deathmatch (at any refinement), in Overloaded teams, is the only legitimate
+    4-star weapon option for Arlecchino and surpasses some 5-star options as well.
+    Ballad of the Fjords excels in teams where EM matters, so long as you can maintain
+    its 3-element requirement. Deathmatch assumes single-target scenarios in all calcs.
+  color: 9507072
+  thumbnail:
+    url: https://i.imgur.com/QAXQFWK.png
+- title: "**Calamity Queller**"
+  description: |-
+    Arlecchino is off-field for just long enough to gain the full stacks she needs from Calamity Queller to compete with other options. It will rarely be the best choice *for your account* to use Calamity Queller over lower refinements of Deathmatch or R5 White Tassel, since the CRIT stats on Deathmatch and White Tassel make artifact farming much easier.
+
+    Vortex Vanquisher is slightly worse than this when constantly shielded, but when unshielded, even White Tassel is a better option.
+  color: 9507072
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_EquipIcon_Pole_Santika.webp
+- title: "**White Tassel R5 or Deathmatch R1**"
+  description: White Tassel, a 3-star weapon, is stronger than every 4-star weapon
+    besides Deathmatch and, in Vaporize teams, Ballad of the Fjords. White Tassel’s
+    damage is 2% (Vaporize) and 4% (Overloaded) lower than R1 Deathmatch in single-target
+    scenarios, and Deathmatch requires swiping for Battle Pass. White Tassel’s effects
+    are straightforward, give CRIT Rate to make artifact farming easier, and synergizes
+    with Arlecchino’s Normal Attack-heavy playstyle. White Tassel, however, falls
+    off significantly if you are not within Bennett’s Burst circle.
+  color: 9507072
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/u9auCq7.png
+  thumbnail:
+    url: https://i.imgur.com/TrF7Lvz.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/weapons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

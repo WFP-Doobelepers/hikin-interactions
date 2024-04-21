@@ -1,0 +1,22 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: "<:sands:1094559345364185119> *Sands of Eon:* ATK% / EM\n<:goblet:1094559512968581130>
+    *Goblet of Eonothem:* Pyro DMG%\n<:circlet:1094559608581922966> *Circlet of Logos:*
+    CRIT\n\nArlecchino’s build style is straightforward. Simply build as much CRIT
+    as possible while maintaining a 1:2 ratio between CRIT Rate and CRIT DMG, then
+    build ATK% if you don’t intend to use Amplifying Reactions for damage, otherwise
+    use EM. \n\nEven in Vaporize playstyles, ATK% and EM are comparable, though EM
+    remains the better choice overall until you exceed 150 EM. Between ATK% and EM,
+    in these cases, go for the best substats if you don’t want to keep farming.\n\n\n**Substats:**
+    CRIT% > ATK%"
+  color: 9507072
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/u9auCq7.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/artifacts2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

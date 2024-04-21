@@ -1,0 +1,56 @@
+content: null
+embeds:
+- title: '**Constellation 3 - "You Shall Become a New Member of Our Family..."**'
+  description: |-
+    > *Increases the Level of Normal Attack: Invitation to a Beheading by 3.
+    > Maximum upgrade level is 15.*
+
+    Arlecchino loves using her Normal Attacks, so this is a potent Constellation for her. The DPS increase that results from this is about what would be expected of a typical Constellation.
+  color: 9507072
+  fields:
+  - name: "***Overloaded DPS% Increase vs. C2:***"
+    value: 17.6%
+  - name: "***Overloaded DPS% Increase vs. C0:***"
+    value: 62.3%
+  - name: "***Vaporize DPS% Increase vs. C2:***"
+    value: 15.6%
+  - name: "***Vaporize DPS% Increase vs. C0:***"
+    value: 59.1%
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_963.webp?x92127
+- title: '**Constellation 4 - "You Shall Love and Protect Each Other Henceforth..."**'
+  description: |-
+    > *When Arlecchino successfully absorbs a Blood-Debt Directive, Balemoon Rising's CD will decrease by 2s and 15 Energy will be restored to her. This effect can occur once every 10s.*
+
+    Purely a quality-of-life Constellation. This makes it more feasible to Burst every rotation when you need the extra healing. There is no actual damage increase from this, and even if using her Burst every rotation becomes viable, her Burst does not contribute significantly to her damage profile.
+
+    If you choose to Burst every rotation, this is actually a roughly 0.2% *decrease* in DPS, but this decrease is so insignificant that the extra survivability is still useful.
+  color: 9507072
+  fields:
+  - name: "***Overloaded DPS% Increase vs. C3:***"
+    value: 0%
+  - name: "***Overloaded DPS% Increase vs. C0:***"
+    value: 62.3%
+  - name: "***Vaporize DPS% Increase vs. C3:***"
+    value: 0%
+  - name: "***Vaporize DPS% Increase vs. C0:***"
+    value: 59.1%
+  - name: "***Rating:***"
+    value: 1/5
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/u9auCq7.png
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_964.webp?x92127
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/arlecchino/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

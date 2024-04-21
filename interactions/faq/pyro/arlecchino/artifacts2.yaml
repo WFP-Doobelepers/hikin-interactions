@@ -1,0 +1,37 @@
+content: null
+embeds:
+- title: |-
+    __Artifact Sets__
+
+    **4pc Fragment of Harmonic Whimsy**
+  description: A hyper-specific artifact set, meaning the main character you’re going
+    to be farming this for is Arlecchino. It is roughly 5% better than 4pc Gladiator’s
+    Finale.
+  color: 9507072
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_RelicIcon_15035_4.webp
+- title: "**4pc Gladiator’s Finale**"
+  description: If you’ve been playing Genshin Impact for a long time, you are bound
+    to have a good number of strong Gladiator pieces laying around, since they drop
+    from nearly every Boss fight in the game. Its emphasis on buffing Normal Attacks
+    is particularly good for Arlecchino.
+  color: 9507072
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_RelicIcon_15001_4.webp
+- title: 2pc Pyro DMG%/ATK%/EM (Vaporize) Combinations
+  description: Pyro DMG% will go further for Arlecchino than ATK% and EM 2pc bonuses
+    will, but these differences are so small, you should probably just go with the
+    2pc combinations with the best substats. These combinations are roughly 10% less
+    effective than Harmonic Whimsy.
+  color: 9507072
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/u9auCq7.png
+  thumbnail:
+    url: https://i.imgur.com/D7DIM4b.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/artifacts1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,5 @@
+interaction: faq/pyro/arlecchino/main
+description: "Opens WFP resources on Arlecchino"
+emoji: <${EMOJIS.ARLECCHINO}>
+ 
+name: Arlecchino

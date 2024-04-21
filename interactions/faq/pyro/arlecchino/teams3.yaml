@@ -1,0 +1,54 @@
+content: null
+embeds:
+- title: "**Vaporize**"
+  description: "### Arlecchino | Hydro | Flex | Flex\nArlecchino’s Vaporize teams
+    typically focus on amplifying her damage through Vaporize and other buffs. Only
+    Yelan and Xingqiu provide the Hydro application necessary for Arlecchino to consistently
+    Vaporize her attacks. The other two slots are more flexible, offering an assortment
+    of buffs, personal damage, and/or defensive utility depending on the characters.\n\n__**Teammates**__\n\n<:hydro:1094545501493403709>
+    **Hydro options:**\n- **Yelan**: Yelan provides consistent off-field Hydro application,
+    excellent single-target personal damage, and a ramping DMG% buff. \n- **Xingqiu**:
+    Xingqiu plays the same role as Yelan, but he offers a substantial amount of interruption
+    resistance instead of a buff. He can also be run alongside Yelan in one of the
+    Flex slots, where he and Yelan will provide Hydro Particles for each other.\n\n<:flex:1094549077280169984>
+    **Flex options:**\n- **Bennett**: As described in his section above, Bennett’s
+    powerful ATK buff increases Arlecchino’s damage significantly.\n- **Sucrose/Kazuha**:
+    Sucrose and Kazuha can both hold 4pc Viridescent Venerer to reduce enemy Pyro
+    RES, and provide grouping and their own potent buffs, with Sucrose buffing team
+    EM and holding Thrilling Tales of Dragon Slayers, and Kazuha buffing Elemental
+    DMG%.\n- **Fischl/Yae**: Fischl and Yae both provide significant personal damage,
+    high particle generation, and off-field Electro application, allowing Arlecchino
+    to trigger Overloaded. Note that Yae does not typically Burst in Arlecchino teams.\n-
+    **Zhongli/Layla/Diona**: Zhongli, Layla, and Diona are all viable shielders for
+    Arlecchino’s Vaporize teams who can increase her survivability and comfort of
+    gameplay. Zhongli additionally provides universal RES Shred, while Diona and especially
+    Layla can allow Arlecchino to occasionally Melt her attacks on Freezable enemies.
+    Note that Diona and Layla can actually reduce Arlecchino’s Vaporize count on enemies
+    that are not Freezable.\n- **Xianyun**: Xianyun enables a Plunging Attack playstyle
+    wherein Arlecchino weaves Plunging Attacks that are amplified by Vaporize and
+    Xianyun’s buffs into her attack sequence, creating the potential for significant
+    AoE damage. Although Furina is typically not recommended for Arlecchino teams
+    due to her inability to provide consistent Hydro application and anti-synergistic
+    mechanics, she can be worth running in Xianyun teams, alongside either Yelan or
+    Xingqiu.\n- **Chiori**: Without C1, Chiori needs a Geo Construct to maximize her
+    Skill damage, so she is best paired with Zhongli, where she can take advantage
+    of his Skill’s Stone Stele and Geo Resonance to deal substantial off-field damage.
+    Said Geo Resonance also provides Arlecchino a 15% DMG Bonus. \n- **Yun Jin**:
+    Arlecchino’s reliance on Normal Attacks to deal much of her damage allows her
+    to take advantage of Yun Jin’s Normal Attack-specific buffs."
+  color: 9507072
+  footer:
+    text: 'Authored by: Kol'
+    icon_url: https://i.imgur.com/2BWCubU.png
+  image:
+    url: https://i.imgur.com/i5k4igI.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/teams2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/arlecchino/teams4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
