@@ -34,7 +34,7 @@ embeds:
     url: https://i.imgur.com/q2vpamy.png
 
 buttons:
-- customId: liveInteraction#faq/pyro/arlecchino/teams4
+- customId: liveInteraction#faq/pyro/arlecchino/teams3
   label: Previous
   style: PRIMARY
   emoji: "◀️"
