@@ -48,7 +48,7 @@ options: #dropdown
     emoji: ${ EMOJIS.PYRO_BOX }
 
   - label: Team Building
-    value: faq/pyro/arlecchino/teambuilding1
+    value: faq/pyro/arlecchino/teams1
     description: "WFP resources for Arlecchino FAQ."
     emoji: ${ EMOJIS.PYRO_BOX }
 

@@ -31,20 +31,11 @@ embeds:
     be challenging. In Overloaded teams, it is within 1% of Primordial Jade-Winged
     Spear, but just under 3% better than it in Vaporize teams when using EM Sands.
   color: 9507072
-  thumbnail:
-    url: https://api.hakush.in/gi/UI/UI_EquipIcon_Pole_Deshret.webp
-- title: "**Deathmatch R5 (General Single-Target) / Ballad of the Fjords R5 (Where
-    EM Matters)**"
-  description: Deathmatch (at any refinement), in Overloaded teams, is the only legitimate
-    4-star weapon option for Arlecchino and surpasses some 5-star options as well.
-    Ballad of the Fjords excels in teams where EM matters, so long as you can maintain
-    its 3-element requirement. Deathmatch assumes single-target scenarios in all calcs.
-  color: 9507072
   footer:
     text: 'Authored by: Emiliabyss'
     icon_url: https://i.imgur.com/u9auCq7.png
   thumbnail:
-    url: https://i.imgur.com/QAXQFWK.png
+    url: https://api.hakush.in/gi/UI/UI_EquipIcon_Pole_Deshret.webp
 
 buttons:
 - customId: liveInteraction#faq/pyro/arlecchino/weapons2
