@@ -1,0 +1,46 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Agony Alone May Be Repaid**
+  description: 5s after a Blood-Debt Directive is applied to an enemy, it will upgrade
+    to a Blood-Debt Due. Upon absorbing a Blood-Debt Due, it will instead grant Arlecchino
+    130% Bond of Life. Additionally, once an enemy with a Blood-Debt dies, Arlecchino
+    will immediately gain 130% Bond of Life. As a result of this, Arlecchino’s rotations
+    will generally involve her using her Skill to apply her Blood-Debts, then swapping
+    out until it has upgraded, where she will then swap back in to absorb it with
+    a Charged Attack. Thankfully, enemies dying whilst Arlecchino is off-field will
+    still grant her Bond of Life due to this Passive’s secondary effect, however,
+    it is still bound by the 145% maximum Bond of Life instated by her Skill.
+  color: 9507072
+  thumbnail:
+    url: https://i.imgur.com/JaohuUy.png
+- title: "**Ascension 4 Passive: Strength Alone Can Defend**"
+  description: For every 100 ATK over 1000, Arlecchino will gain 1% Resistance to
+    both Elemental and Physical DMG, up to a maximum of 20%. Despite helping with
+    her survivability, this Passive generally won’t help considerably in keeping players
+    alive. Furthermore, she is unable to realistically cap out this Passive without
+    the help of Bennett, which allows her to easily reach over 3000 ATK.
+  color: 9507072
+  thumbnail:
+    url: https://i.imgur.com/ETo8NU2.png
+- title: "**Utility Passive: The Balemoon Alone May Know**"
+  description: Rather than a general Utility Passive, Arlecchino instead sacrifices
+    her ability to receive healing from teammates in exchange for an extra 40% Pyro
+    DMG Bonus. This allows her to be used alongside healers without losing any Bond
+    of Life which would decrease her overall damage. This Passive also only works
+    during combat, allowing players in the Overworld to heal her freely if they dislike
+    not being at full HP.
+  color: 9507072
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://i.imgur.com/fVDFztE.png
+  thumbnail:
+    url: https://i.imgur.com/mfNZ6by.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

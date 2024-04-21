@@ -1,0 +1,14 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: |-
+    Arlecchino has a Burst that is detrimental to her damage output. However, it is needed to stay alive when used without a shielder like Zhongli since she can only be healed by her Burst while in combat. In general, it is advised to delay using her Burst as much as possible in order to avoid losing damage, although certain situations might call for it to be used more frequently. In those situations where she needs to use her Burst in every rotation, she can require up to 160% ER, but for general play she is perfectly fine with 100% ER.
+
+    Arlecchino’s ER requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    For more details on how Favonius weapons will affect your team, please use Ac1d’s Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+  color: 9507072
+  footer:
+    text: 'Authored by: Ac1d'
+    icon_url: https://i.imgur.com/y857JfZ.png
+  image:
+    url: https://i.imgur.com/GOXCt4W.png

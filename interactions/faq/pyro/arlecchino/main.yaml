@@ -1,0 +1,69 @@
+content: null
+embeds:
+- title: '"The Knave," Fourth of the Fatui Harbingers. A poised, ruthless diplomat.
+    To the children in the House of the Hearth, she is their feared yet dependable
+    "Father."'
+  color: 9507072
+  fields:
+  - name: Arlecchino Mastersheet by leifa, emiliabyss, raikh, noootnooot, and snowclipsed
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1isNP378BTfb0e3xil7Wg6Ieqwlxivv_8gpgbgPATu2M/edit?usp=sharing)"
+  - name: Arlecchino Frames Mastersheet by sirvaughan
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1JIkglT1YiAXW_hd8_vVmlB_-Gynsxhc9cS_LFgEf9zQ/edit?usp=sharing)"
+  author:
+    name: Arlecchino FAQ
+    icon_url: https://i.imgur.com/w0BWekZ.png
+  image:
+    url: https://i.imgur.com/YwX1QLX.png
+
+
+options: #dropdown
+  - label: Overview
+    value: faq/pyro/arlecchino/overview
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Talents
+    value: faq/pyro/arlecchino/talents1
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Constellations
+    value: faq/pyro/arlecchino/constellations1
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/pyro/arlecchino/erreqs
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Artifacts
+    value: faq/pyro/arlecchino/artifacts1
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Weapons
+    value: faq/pyro/arlecchino/weapons1
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Team Building
+    value: faq/pyro/arlecchino/teambuilding1
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: External Links
+    value: faq/pyro/arlecchino/external
+    description: "WFP resources for Arlecchino FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+#buttons:
+#  - label: WFP FAQ
+#    url: https://wangshengfp.org/faq/arlecchino
+#    emoji: ${ EMOJIS.WFP_LOGO }
+#    style: LINK
+
+#  - label: KQM Guide
+#    url: https://keqingmains.com/arlecchino/
+#    emoji: :logont:945530991240421386
+#    style: LINK

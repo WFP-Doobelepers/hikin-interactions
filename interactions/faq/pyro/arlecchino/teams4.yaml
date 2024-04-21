@@ -1,0 +1,40 @@
+content: null
+embeds:
+- title: "**Mono Pyro**"
+  description: "### Arlecchino | Bennett | Anemo/Flex | Flex\nMono Pyro compositions
+    focus on increasing non-reaction damage, by taking advantage of increasing Pyro
+    particle generation across the team to lower ER requirements and Pyro RES Shred
+    from 4pc Viridescent Venerer. Bennett is a staple in the team, as he provides
+    Pyro particles and substantially boosts Arlecchino’s damage through his powerful
+    ATK buff.\n\n__**Teammates**__\n\n<:anemo:1094545726748508250> **Anemo options:**\n-
+    **Kazuha**: On top of holding 4pc Viridescent Venerer, Kazuha provides grouping
+    and a Pyro DMG% Bonus. \n- **Sucrose/Heizou**: As Catalyst users, both Sucrose
+    and Heizou can equip Thrilling Tales of Dragon Slayers to provide an ATK% buff
+    for Arlecchino, as well as the Pyro RES Shred from 4pc Viridescent Venerer.\n-
+    **Lynette**: Lynette can provide a small ATK% buff in addition to holding 4pc
+    Viridescent Venerer.\n\n<:flex:1094549077280169984> **Flex options:**\n- **Zhongli**:
+    Zhongli’s hefty shield provides universal RES Shred, and creates for a more comfortable
+    and safe gameplay experience. He can also hold 4pc Archaic Petra to buff Arlecchino’s
+    Pyro DMG%, although collecting the Crystallize Shards necessary to obtain the
+    buff can be difficult. \n- **Chiori**: Without C1, Chiori needs a Geo Construct
+    to maximize her Skill damage, so she is best paired with Zhongli, where she can
+    take advantage of his Skill’s Stone Stele and Geo Resonance to deal substantial
+    off-field damage. Said Geo Resonance also provides Arlecchino a 15% DMG Bonus.
+    \n- **Xiangling**: Xiangling snapshots Bennett’s ATK buff onto her Burst to deal
+    substantial off-field damage. She benefits both from Pyro RES Shred from an Anemo
+    unit holding 4pc Viridescent Venerer, and from reduced ER requirements thanks
+    to the combined Pyro particle generation of 3 Pyro units.\n- **Yun Jin**: Arlecchino’s
+    reliance on Normal Attacks to deal much of her damage allows her to take advantage
+    of Yun Jin’s Normal Attack-specific buffs."
+  color: 9507072
+  footer:
+    text: 'Authored by: Kol'
+    icon_url: https://i.imgur.com/2BWCubU.png
+  image:
+    url: https://i.imgur.com/q2vpamy.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/teams4
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

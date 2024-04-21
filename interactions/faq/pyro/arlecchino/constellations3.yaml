@@ -1,0 +1,51 @@
+content: null
+embeds:
+- title: '**Constellation 5 - "For Alone, We Are as Good as Dead..."**'
+  description: |-
+    > *Increases the Level of Balemoon Rising by 3.
+    > Maximum upgrade level is 15.*
+
+    Arlecchino’s Burst is not especially important for her damage, so the increase here is negligible; almost non-existent. This is because Arlecchino only uses her Burst once every other rotation anyways. With C4 in-hand, maybe an once-per-rotation Burst can be squeezed in, but even then, this is probably her weakest Constellation.
+  color: 9507072
+  fields:
+  - name: "***Overloaded DPS% Increase vs. C4:***"
+    value: 0.1%
+  - name: "***Overloaded DPS% Increase vs. C0:***"
+    value: 62.5%
+  - name: "***Vaporize DPS% Increase vs. C4:***"
+    value: 0.2%
+  - name: "***Vaporize DPS% Increase vs. C0:***"
+    value: 59.4%
+  - name: "***Rating:***"
+    value: 1/5
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_965.webp?x92127
+- title: '**Constellation 6 - "From This Day On, We Shall Delight in New Life Together."**'
+  description: |-
+    > *The DMG of Balemoon Rising is increased by Arlecchino's ATK multiplied by 700% of Arlecchino's current Life Bond percentage.
+    > For 20s after Arlecchino uses All Is Ash, both her Normal Attacks and Elemental Burst gain 10% increased CRIT Rate and 70% increased CRIT DMG. This effect can be triggered up to once every 15s.*
+
+    A massive 90 CV added onto Arlecchino plus a greater multiplier based on Bond of Life is nothing to sneeze at. It’s unfortunate that you have to go through C4 and C5 to get this Constellation.  Skill → Burst now becomes a powerful tool to instantly clear a wave in certain Abyss layouts.
+  color: 9507072
+  fields:
+  - name: "***Overloaded DPS% Increase vs. C5:***"
+    value: 25.3%
+  - name: "***Overloaded DPS% Increase vs. C0:***"
+    value: 103.7%
+  - name: "***Vaporize DPS% Increase vs. C5:***"
+    value: 24.9%
+  - name: "***Vaporize DPS% Increase vs. C0:***"
+    value: 99.1%
+  - name: "***Rating:***"
+    value: 4/5
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/u9auCq7.png
+  thumbnail:
+    url: https://genshin.honeyhunterworld.com/img/c_966.webp?x92127
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,53 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Crimson Moon’s Semblance**
+  description: One of the best signature weapons *for its designated character* we’ve
+    seen in a while, being more than 15% above the next best option at the same refinement,
+    whether you use her in Vaporize teams or Overloaded teams. It’s disappointing
+    that the weapon will rarely be the best choice for a non-Arlecchino character.
+    Not recommended as a general-use pull, but certainly recommended for Arlecchino
+    if you can spare the Primogems, as it also grants more healing due to high ATK
+    and extra Bond of Life. All other R5 5-star weapons are worse than Crimson Moon’s
+    R1 performance, though C1 provides the greater damage boost if you had to choose
+    only one.
+  color: 9507072
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp
+- title: "**Primordial Jade-Winged Spear / Staff of Homa (Below 50% Max HP)**"
+  description: "Jade Spear is great for Arlecchino due to its synergy with rapid Normal
+    Attacks and a generically strong standard banner 5-star weapon thanks to its CRIT
+    Rate stat and high Base ATK, the latter of which allows greater healing for comfort.
+    \n\nR1 Homa surpasses this weapon only when you can keep Arlecchino below 50%
+    Max HP. It’s assumed here that Arlecchino will not consistently be under 50% HP.
+    When Above 50% HP, R1 Homa is comparable to R5 Deathmatch."
+  color: 9507072
+  thumbnail:
+    url: https://i.imgur.com/NOLgZ5e.png
+- title: "**Staff of the Scarlet Sands (Vaporize)**"
+  description: A comfortable choice when building CRIT Rate on artifacts proves to
+    be challenging. In Overloaded teams, it is within 1% of Primordial Jade-Winged
+    Spear, but just under 3% better than it in Vaporize teams when using EM Sands.
+  color: 9507072
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_EquipIcon_Pole_Deshret.webp
+- title: "**Deathmatch R5 (General Single-Target) / Ballad of the Fjords R5 (Where
+    EM Matters)**"
+  description: Deathmatch (at any refinement), in Overloaded teams, is the only legitimate
+    4-star weapon option for Arlecchino and surpasses some 5-star options as well.
+    Ballad of the Fjords excels in teams where EM matters, so long as you can maintain
+    its 3-element requirement. Deathmatch assumes single-target scenarios in all calcs.
+  color: 9507072
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/u9auCq7.png
+  thumbnail:
+    url: https://i.imgur.com/QAXQFWK.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/weapons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

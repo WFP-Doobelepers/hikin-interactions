@@ -1,0 +1,21 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **Normal Attack >> Elemental Burst = Elemental Skill**
+  description: |-
+    ## __Analysis__
+    - Arlecchino’s extra Bond of Life scaling increases with her Normal Attack Talent, making it the main priority to level for her personal damage. Her Elemental Burst and Skill have rather low scalings overall, with two Skills being about equal to her Burst in terms of multipliers. Additionally, Arlecchino’s healing does not increase with Elemental Burst Talent levels. Because of their low damage contribution, they can be leveled later if players wish. Even with Constellations, most of Arlecchino’s damage comes from additional scalings added from her C2 and C6 rather than the Talent levels themselves.
+  color: 9507072
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://i.imgur.com/fVDFztE.png
+  image:
+    url: https://i.imgur.com/dXEvYCr.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

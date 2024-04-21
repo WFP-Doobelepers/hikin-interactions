@@ -1,0 +1,44 @@
+content: null
+embeds:
+- title: "**Overloaded**"
+  description: "### Arlecchino | Chevreuse | Electro | Flex\nChevreuse’s potent buffs
+    — enabled exclusively by compositions of only Pyro and Electro characters — allow
+    Arlecchino’s Overloaded teams to deal high amounts of primarily raw damage. Players
+    can choose a high-risk, high-reward playstyle by exchanging defensive units for
+    significantly higher damage, although safer team compositions can be fairly strong
+    as well. As Overloaded may knock lighter enemies out of Bennett’s circle, Overloaded
+    teams are most effective against heavy enemies.\n\n__**Teammates**__\n\n<:electro:1094545575992623115>
+    **Electro options:**\n- **Fischl**: Fischl offers significant single-target damage,
+    high particle generation, and consistent Electro application to trigger Chevreuse’s
+    buffs, all while requiring little field time. She is a strong candidate for Arlecchino’s
+    Overloaded teams. \n- **Yae**: Yae can be run by herself in a similar role as
+    Fischl, although she generates fewer particles and occupies more field time than
+    Fischl. Alternatively, she can be run alongside Fischl in the Flex position to
+    provide additional off-field damage. It is typically not worth the setup and field
+    time to cast Yae’s Burst in Arlecchino teams.\n\n<:flex:1094549077280169984> **Flex
+    options:**\n- **Bennett**: As described in his section above, Bennett provides
+    a powerful ATK buff for Arlecchino, as well as Fischl and/or Beidou if they are
+    on the team.\n- **Thoma/C4 Yanfei/Dehya**: Thoma, C4 Yanfei, and Dehya provide
+    shields or damage mitigation, and interruption resistance. Running a defensive
+    unit can make playing Arlecchino a more comfortable experience. \n- **Xiangling/Beidou**:
+    Xiangling and Beidou both can take advantage of Chevreuse’s buffs and offer significant
+    off-field damage. Beidou also provides substantial damage reduction and interruption
+    resistance — as well as a small shield at C1 — that makes her an effective defensive
+    option. Due to the nature of her Burst, Beidou’s effectiveness is reduced greatly
+    in single-target scenarios."
+  color: 9507072
+  footer:
+    text: 'Authored by: Kol'
+    icon_url: https://i.imgur.com/2BWCubU.png
+  image:
+    url: https://i.imgur.com/GsG5WyH.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/arlecchino/teams1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/arlecchino/teams3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
