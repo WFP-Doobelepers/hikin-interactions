@@ -15,7 +15,7 @@ embeds:
     only one.
   color: 9507072
   thumbnail:
-    url: https://api.hakush.in/gi/UI/UI_EquipIcon_Pole_BloodMoon.webp
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Pole_BloodMoon.png?vh=2024042201
 - title: "**Primordial Jade-Winged Spear / Staff of Homa (Below 50% Max HP)**"
   description: "Jade Spear is great for Arlecchino due to its synergy with rapid Normal
     Attacks and a generically strong standard banner 5-star weapon thanks to its CRIT
@@ -35,7 +35,7 @@ embeds:
     text: 'Authored by: Emiliabyss'
     icon_url: https://i.imgur.com/u9auCq7.png
   thumbnail:
-    url: https://api.hakush.in/gi/UI/UI_EquipIcon_Pole_Deshret.webp
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Pole_Deshret.png?vh=2024042201
 
 buttons:
 - customId: liveInteraction#faq/pyro/arlecchino/weapons2

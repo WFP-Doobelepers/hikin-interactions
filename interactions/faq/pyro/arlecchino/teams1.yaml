@@ -16,7 +16,7 @@ embeds:
     text: 'Authored by: Kol'
     icon_url: https://i.imgur.com/2BWCubU.png
   thumbnail:
-    url: https://api.hakush.in/gi/UI/UI_AvatarIcon_Bennett.webp
+    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Bennett.png?vh=2024042201
 
 buttons:
 - customId: liveInteraction#faq/pyro/arlecchino/teams2

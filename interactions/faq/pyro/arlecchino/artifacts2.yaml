@@ -9,7 +9,7 @@ embeds:
     Finale.
   color: 9507072
   thumbnail:
-    url: https://api.hakush.in/gi/UI/UI_RelicIcon_15035_4.webp
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15035_4.png?vh=2024042201
 - title: "**4pc Gladiator’s Finale**"
   description: If you’ve been playing Genshin Impact for a long time, you are bound
     to have a good number of strong Gladiator pieces laying around, since they drop
@@ -17,7 +17,7 @@ embeds:
     is particularly good for Arlecchino.
   color: 9507072
   thumbnail:
-    url: https://api.hakush.in/gi/UI/UI_RelicIcon_15001_4.webp
+    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15001_4.png?vh=2024042201
 - title: 2pc Pyro DMG%/ATK%/EM (Vaporize) Combinations
   description: Pyro DMG% will go further for Arlecchino than ATK% and EM 2pc bonuses
     will, but these differences are so small, you should probably just go with the

@@ -29,7 +29,7 @@ embeds:
       *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
       Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
   image:
-    url: https://i.imgur.com/7tVGX30.png
+    url: https://i.imgur.com/9k17b4i.png
 - title: __OVERVIEW__
   description: |-
     Arlecchino is a 5-star Pyro Polearm character whose kit relies on stacking large amounts of Bond of Life to deal damage. Her Elemental Skill applies a Blood-Debt Directive to enemies, which can be absorbed by using her Charged Attack to gain Bond of Life. Blood-Debt Directives will upgrade after 5s, allowing Arlecchino to gain extra Bond of Life upon absorbing them. Her Elemental Burst absorbs any Blood-Debt Directives nearby, and heals Arlecchino based on both her current Bond of Life and ATK, cleansing any Bond of Life in the process. When Arlecchino has 30% or more Bond of Life, her Normal attacks will be converted to Pyro DMG, whilst dealing increased damage based on the Bond of Life's value.
@@ -40,4 +40,4 @@ embeds:
     text: 'Authored by: Leifa'
     icon_url: https://i.imgur.com/fVDFztE.png
   thumbnail:
-    url: https://api.hakush.in/gi/UI/UI_AvatarIcon_Arlecchino.webp
+    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Arlecchino.png?vh=2024042201

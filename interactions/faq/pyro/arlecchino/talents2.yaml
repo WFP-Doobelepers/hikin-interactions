@@ -4,17 +4,13 @@ embeds:
     __TALENT OVERVIEW__
 
     **Normal Attack: Invitation to a Beheading**
-  description: Arlecchino’s Normal Attacks have a bit more to them than other characters.
-    Upon obtaining a Bond of Life equal or greater than 30% of her Max HP, she will
-    enter the Masque of the Red Death state, converting her attacks to Pyro and enhancing
-    her Normal Attack’s damage based on her current Bond of Life. When hitting enemies
-    with Normal Attacks, she will consume 7.5% of her current Bond of Life. Additionally,
-    each Normal Attack hit will reduce her Elemental Skill’s cooldown by 0.8s, allowing
-    her to reliably use her Skill every rotation without relying on her Burst to reset
-    its cooldown.
+  description: |-
+    Arlecchino’s Normal Attacks have a bit more to them than other characters. Upon obtaining a Bond of Life equal or greater than 30% of her Max HP, she will enter the Masque of the Red Death state, converting her attacks to Pyro and enhancing her Normal Attack’s damage based on her current Bond of Life. When hitting enemies with Normal Attacks, she will consume 7.5% of her current Bond of Life. Additionally, each Normal Attack hit will reduce her Elemental Skill’s cooldown by 0.8s, allowing her to reliably use her Skill every rotation without relying on her Burst to reset its cooldown.
+
+    Additionally, holding her Charged Attack for longer allows her to glide swiftly along the ground for 5s at the cost of Stamina. With this, Arlecchino can float across water and up mountains with ease, aiding in exploration.
   color: 9507072
   thumbnail:
-    url: https://i.imgur.com/8Tip4GO.png
+    url: https://api.ambr.top/assets/UI/Skill_A_03.png?vh=2024042201
 - title: "**Elemental Skill: All is Ash**"
   description: |-
     *CD: **30s***
@@ -22,7 +18,7 @@ embeds:
     Her Elemental Skill sends out spikes in front of her before dashing to an enemy with a cleave, dealing AoE Pyro DMG. Enemies hit by her Elemental Skill will be marked by a Blood-Debt Directive, dealing damage up to 2 times every 5s. Upon using her Charged Attack or Elemental Burst, Arlecchino will absorb any nearby Blood-Debts from enemies, gaining 65% Bond of Life for each Blood-Debt absorbed, up to a maximum of 145% per Skill cast. Although her Skill doesn’t do much damage by itself, it is the crux of Arlecchino’s kit, allowing her to gain massive amounts of Bond of Life. It also generates 5 Pyro Particles with a 30s cooldown, although this cooldown will be a lot shorter in reality with her Normal Attack’s ability to reduce her Skill cooldown.
   color: 9507072
   thumbnail:
-    url: https://i.imgur.com/jOwQ5OP.png
+    url: https://api.ambr.top/assets/UI/Skill_S_Arlecchino_01.png?vh=2024042201
 - title: "**Elemental Burst: Balemoon Rising**"
   description: |-
     *CD: **15s***
@@ -34,7 +30,7 @@ embeds:
     text: 'Authored by: Leifa'
     icon_url: https://i.imgur.com/fVDFztE.png
   thumbnail:
-    url: https://i.imgur.com/KX5Lw6J.png
+    url: https://api.ambr.top/assets/UI/Skill_E_Arlecchino_01.png?vh=2024042201
 
 buttons:
 - customId: liveInteraction#faq/pyro/arlecchino/talents1
