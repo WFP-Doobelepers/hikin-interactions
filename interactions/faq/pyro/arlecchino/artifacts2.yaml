@@ -5,7 +5,7 @@ embeds:
 
     **4pc Fragment of Harmonic Whimsy**
   description: A hyper-specific artifact set, meaning the main character you’re going
-    to be farming this for is Arlecchino. It is roughly 5% better than 4pc Gladiator’s
+    to be farming this for is Arlecchino. It is roughly 5%+ better than 4pc Gladiator’s
     Finale.
   color: 9507072
   thumbnail:
@@ -21,7 +21,7 @@ embeds:
 - title: 2pc Pyro DMG%/ATK%/EM (Vaporize) Combinations
   description: Pyro DMG% will go further for Arlecchino than ATK% and EM 2pc bonuses
     will, but these differences are so small, you should probably just go with the
-    2pc combinations with the best substats. These combinations are roughly 10% less
+    2pc combinations with the best substats. These combinations are roughly 10%+ less
     effective than Harmonic Whimsy.
   color: 9507072
   footer:
