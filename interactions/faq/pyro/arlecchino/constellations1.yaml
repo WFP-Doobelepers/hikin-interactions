@@ -24,7 +24,7 @@ embeds:
     > When Arlecchino absorbs such a Due, she unleashes Balemoon Bloodfire in front of her, dealing 900% of her ATK as AoE Pyro DMG. This effect can trigger once every 10s.
     > You must first unlock the Passive Talent "Agony Alone May Be Repaid."*
 
-      A minor DPS increase. Roughly 8% is still potent, but it feels a bit underwhelming compared to R1. Can reduce the DPS loss of having to urgently heal during her rotation since Burst is no longer locked to specific windows.
+      A minor DPS increase. Roughly 8% is still potent, but it feels a bit underwhelming compared to R1. Can reduce the DPS loss of having to urgently heal during her rotation since Burst is no longer locked to specific windows. The additional 20% Resistance on top of her A4 Passive also helps to make Arlecchino quite tanky, reducing the impact of taking damage during her rotations. 
   color: 9507072
   fields:
   - name: "***Overloaded DPS% Increase vs. C1:***"
