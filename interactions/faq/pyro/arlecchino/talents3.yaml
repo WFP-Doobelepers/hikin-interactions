@@ -15,7 +15,7 @@ embeds:
     it is still bound by the 145% maximum Bond of Life instated by her Skill.
   color: 9507072
   thumbnail:
-    url: https://i.imgur.com/JaohuUy.png
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Arlecchino_05.png?vh=2024042201
 - title: "**Ascension 4 Passive: Strength Alone Can Defend**"
   description: For every 100 ATK over 1000, Arlecchino will gain 1% Resistance to
     both Elemental and Physical DMG, up to a maximum of 20%. Despite helping with
@@ -24,7 +24,7 @@ embeds:
     the help of Bennett, which allows her to easily reach over 3000 ATK.
   color: 9507072
   thumbnail:
-    url: https://i.imgur.com/ETo8NU2.png
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Arlecchino_06.png?vh=2024042201
 - title: "**Utility Passive: The Balemoon Alone May Know**"
   description: Rather than a general Utility Passive, Arlecchino instead sacrifices
     her ability to receive healing from teammates in exchange for an extra 40% Pyro
@@ -37,7 +37,7 @@ embeds:
     text: 'Authored by: Leifa'
     icon_url: https://i.imgur.com/fVDFztE.png
   thumbnail:
-    url: https://i.imgur.com/mfNZ6by.png
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Arlecchino_07.png?vh=2024042201
 
 buttons:
 - customId: liveInteraction#faq/pyro/arlecchino/talents2

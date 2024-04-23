@@ -13,13 +13,13 @@ embeds:
   - name: "***Overloaded DPS% Increase vs. C0:***"
     value: 62.3%
   - name: "***Vaporize DPS% Increase vs. C2:***"
-    value: 15.6%
+    value: 15.5%
   - name: "***Vaporize DPS% Increase vs. C0:***"
     value: 59.1%
   - name: "***Rating:***"
     value: 3/5
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_963.webp?x92127
+    url: https://api.ambr.top/assets/UI/UI_Talent_U_Arlecchino_01.png?vh=2024042201
 - title: '**Constellation 4 - "You Shall Love and Protect Each Other Henceforth..."**'
   description: |-
     > *When Arlecchino successfully absorbs a Blood-Debt Directive, Balemoon Rising's CD will decrease by 2s and 15 Energy will be restored to her. This effect can occur once every 10s.*
@@ -43,7 +43,7 @@ embeds:
     text: 'Authored by: Emiliabyss'
     icon_url: https://i.imgur.com/u9auCq7.png
   thumbnail:
-    url: https://genshin.honeyhunterworld.com/img/c_964.webp?x92127
+    url: https://api.ambr.top/assets/UI/UI_Talent_S_Arlecchino_03.png?vh=2024042201
 
 buttons:
 - customId: liveInteraction#faq/pyro/arlecchino/constellations1
