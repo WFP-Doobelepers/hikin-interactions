@@ -20,7 +20,7 @@ embeds:
     url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15001_4.png?vh=2024042201
 - title: 2pc Pyro DMG%/ATK%/EM (Vaporize) Combinations
   description: Pyro DMG% will go further for Arlecchino than ATK% and EM 2pc bonuses
-    will, but these differences are so small, you should probably just go with the
+    will, but the differences between these sets are so small that you should probably just go with the
     2pc combinations with the best substats. These combinations are roughly 10%+ less
     effective than Harmonic Whimsy.
   color: 9507072
