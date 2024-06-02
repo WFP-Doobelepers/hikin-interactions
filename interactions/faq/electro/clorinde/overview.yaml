@@ -13,7 +13,7 @@ embeds:
     value: Acacia
   - name: 'Content Verification:'
     value: |-
-      Calculations: <@366206663533002774>
+      Calculations: <@366206663533002774>, <@141941251350986752>
       Writing: Avocado
   - name: 'Transcription:'
     value: "<@812178562822963210>, <@366206663533002774>"
