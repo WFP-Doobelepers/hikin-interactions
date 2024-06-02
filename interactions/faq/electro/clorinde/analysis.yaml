@@ -19,9 +19,3 @@ embeds:
   footer:
     text: 'Authored by: KB'
     icon_url: https://i.imgur.com/1hqWKQW.png
-
-buttons:
-- customId: liveInteraction#faq/electro/clorinde/analysis2
-  label: Next
-  style: PRIMARY
-  emoji: "▶️"

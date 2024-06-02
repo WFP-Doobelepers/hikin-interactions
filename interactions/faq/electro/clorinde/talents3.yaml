@@ -30,7 +30,7 @@ embeds:
     url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Liney_07.png
 
 buttons:
-- customId: liveInteraction#faq/electro/electro/talents2
+- customId: liveInteraction#faq/electro/clorinde/talents2
   label: Previous
   style: PRIMARY
   emoji: "◀️"
