@@ -1,0 +1,48 @@
+content: null
+embeds:
+- title: '**Constellation 5 - "Holding Dawn''s Coming as My Votive"**'
+  description: |-
+    > *Increases the Level of Last Lightfall by 3.
+    > Maximum upgrade level is 15.*
+
+    Yeah, this is really only a stepping stone to get to C6. Never go for C5 only.
+  color: 4325526
+  fields:
+  - name: "***DPS% Increase vs. C4:***"
+    value: 2.1%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 73.7%
+  - name: "***Rating:***"
+    value: 0/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Clorinde_01.png
+- title: '**Constellation 6 - "And So Shall I Never Despair"**'
+  description: |-
+    > *For 12s after Hunter's Vigil is used, Clorinde's CRIT Rate will be increased by 10%, and her CRIT DMG by 70%.
+    > Additionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, attacking opponents and dealing 200% of Clorinde's ATK as Electro DMG. DMG dealt this way is considered Normal Attack DMG.
+    > The Glimbright Shade will appear under the following circumstances:
+    > - When Clorinde is about to be attacked by an opponent.
+    > - When Clorinde uses Impale the Night: Pact.
+    > 1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration.
+    > In addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades.*
+
+    Here we go, Clorinde is now a mobile, utility, self healing driver that **also** does an absurd amount of damage. In addition, Clorinde at C6 is impossible to kill with how much damage reduction and healing she has. This Constellation really does ascend her to a DPS unit that does almost everything well.
+  color: 4325526
+  fields:
+  - name: "***DPS% Increase vs. C5:***"
+    value: 41.7%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 146.1%
+  - name: "***Rating:***"
+    value: 4/5
+  footer:
+    text: 'Authored by: June and KB'
+    icon_url: https://i.imgur.com/ezRO1zZ.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Clorinde_04.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/cons3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

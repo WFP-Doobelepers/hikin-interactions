@@ -1,0 +1,61 @@
+content: null
+embeds:
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Oath of Hunting Shadows**
+  description: Clorinde’s regular Normal Attacks are nothing special to look at. Instead,
+    Clorinde’s Electro-infused pistolet attacks during her special state on her Skill
+    are her main source of damage and will be further discussed in the Elemental Skill
+    section.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_01.png
+- title: "**Elemental Skill: Hunter's Vigil**"
+  description: "*CD: **16s***\n\nClorinde enters a special state called Night Vigil
+    state. In this state, her Normal Attacks become Electro-infused pistolet attacks
+    and her Skill becomes a lunging attack that is considered as Normal Attack DMG.
+    Clorinde summons a single Ousia blade along with her infused Normal Attacks. During
+    this state, Clorinde does not receive healing from external sources, instead the
+    external healing is converted to Bond of Life. The percentage of healing that
+    converts to her Bond of Life is 80%. This state lasts for 7.5s and automatically
+    ends when Clorinde leaves the field.\n\nClorinde gains different effects depending
+    on her Bond of Life value when performing the infused Normal Attacks and lunging
+    attack. Upon using her infused Normal Attacks, if her Bond of Life value is less
+    than 100% of her Max HP, her infused Normal Attacks  deal increased damage,pierce
+    through enemies, and grant Clorinde a 35% BoL . Otherwise, when her Bond of Life
+    value is equal to or greater than 100%, she just performs her weaker infused Normal
+    Attacks. \n\nUpon using her lunging attack, if she has a Bond of Life less than
+    100% of her Max HP, Clorinde is healed based on her Bond of Life value, while
+    her lunging attack gains an AoE and DMG increase. If her Bond of Life value is
+    equal to or greater than 100%, the healing she gains and her lunging attack’s
+    AoE and DMG is increased even further. Otherwise, when she has no Bond of Life
+    value, she just performs her lunging attack.\n\nIt is recommended to always use
+    her lunging attack whenever she has at least 100% in Bond of Life value. Your
+    total health bar represents 200% Bond of Life, so this 100% would be at the halfway
+    point."
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_S_Clorinde_01.png
+- title: "**Elemental Burst: Last Lightfall**"
+  description: |-
+    *CD: **15s***
+    *Energy cost: **60***
+
+    Clorinde’s Burst is fairly straightforward. It is an AoE multi-hit attack that hits 5 times and also grants herself a large amount of Bond of Life based on her Burst Talent level. At Talent Level 7+, it grants enough Bond of Life to use her strongest lunging attack immediately.
+  color: 4325526
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/ezRO1zZ.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_E_Clorinde_01.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/electro/clorinde/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

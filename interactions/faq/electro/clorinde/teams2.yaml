@@ -1,0 +1,42 @@
+content: null
+embeds:
+- title: "**Aggravate (Meta)**"
+  description: |-
+    ### Clorinde | Electro | Dendro | Flex
+    **Ideal Setup: Clorinde | Fischl | Kirara/Nahida | Kazuha/Sucrose**
+
+    Clorinde’s Skill has fantastic synergy with Fischl in Aggravate teams since her application and attack rate are faster than most Electro characters. Clorinde’s Aggravate teams are similar to Keqing’s Aggravate except Clorinde brings much more mobility and has self-healing. Usually other Aggravate teams have to sacrifice a decent amount of damage or grouping for survivability since the defensive options are not great (Kuki/Kirara/Jean).
+
+    __**Teammates**__
+
+    <:electro:1094545575992623115> **Electro options:**
+    - **Fischl:** One of the most important units for this archetype. Like the Quickbloom teams, Fischl also contributes a significant amount of damage in Aggravate as well.
+    - **Yae Miko:** Not as strong of an option as Fischl but still serviceable. It is recommended to use 4pc FHW on Clorinde when playing with Yae since the rotation length is longer. Both Yae and Clorinde do not need to worry about building ER since their Bursts are minor in DPS gains.
+
+    <:dendro:1094441547170316359> **Dendro options:**
+    - **Nahida:** Offers the highest amount of team DPS compared to any other Dendro unit. Be aware that swirling Electro with Nahida requires careful planning since she applies so much Dendro.
+    - **Kirara:** She offers less damage than Nahida but in exchange grants Clorinde interruption resistance and makes Swirling Electro much easier.
+    - **Baizhu:** Fills a similar role as Kirara although with more issues. His Burst cooldown is too long for shorter rotations and the shield from Kirara is much better at granting interruption resistance. His Dendro application also suffers in AoE.
+    - **Dendro Traveler:** Offers a pretty easy-to-access Dendro application for players that can’t use Nahida.
+
+    <:flex:1094549077280169984> **Flex options:**
+    - **Sucrose:** Used for VV and her EM buff for allies.
+    - **Kazuha:** Similar to Sucrose but also allows for better grouping.
+    - **Zhongli:** Provides easy RES Shred to both Electro and Dendro. The interruption resistance provided by his shield makes Clorinde easy to play. Only loses about 10% team DPS compared to the options above.
+    - **Beidou:** Can be a decent option vs 2+ targets while also granting damage reduction and interruption resistance.
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png  
+  image:
+    url: https://i.imgur.com/sDN0zkg.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/teams1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/electro/clorinde/teams3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

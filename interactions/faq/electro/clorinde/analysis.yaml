@@ -1,0 +1,27 @@
+content: null
+embeds:
+- title: __WFP SUBJECTIVE ANALYSIS__
+  description: |-
+    Clorinde’s kit puts a high emphasis on the value of mobility, utility, and healing instead of focusing on damage. The easiest way to conceptualize her power budget is imagining if Alhaitham did ~30% less damage, but in exchange got the ability to self-heal, dash around with no stamina cost, and retained his larger than usual AoE for a melee unit. For most players this is a pretty good package for a unit,  considering that if a unit like Arlecchino wanted to tech into defensive options, they would have to give up a valuable team slot.
+
+    It can’t be understated how smooth of a driver she is for other sub DPS units. Her mobility isn’t quite like Neuvillette where he can freely glide, but it comes pretty darn close once you get used to how her skill works (for the love of god learn that her lunge can be controlled with movement inputs). Her AoE is surprisingly decent for a melee character and if you play her with Furina **you will not die ever**.
+
+    There will be players that will be disappointed with her personal damage, especially considering Arlecchino was released right before her. Which is fine, Arlecchino and Clorinde are targeting different kinds of players. People who praise Arlecchino generally are okay with things such as no external healing if it means they can do high amounts of front-loaded damage. They are fine with building a team around giga-boosting a unit’s performance. Clorinde, on the other hand, feels like the polar opposite. She wants her allies to contribute damage. Her damage profile is more sustained instead of bursty, and of course she does less damage than a selfish unit. After all, it wouldn’t be fair for her to do **everything** well (looking at you Neuv).
+  color: 4325526
+- title: __Clorinde vs Alhaitham Banner__
+  description: |-
+    We recommend Alhaitham slightly more for most players.
+
+    To keep it short, if you already have a defensive unit like Kuki, Kirara, Xingqiu, Baizhu, or even Yaoyao, Alhaitham becomes a very comfortable unit to use while maintaining good damage. Alhaitham also has the option to push for higher damage at C0 with a full offensive team at the cost of comfort.
+
+    In general Alhaitham teams have more damage than Clorinde at the C0 level. Clorinde does have significantly better constellations which allows her to close the gap. If you don’t have many defensive options Clorinde could be much easier to play than Alhaitham. At the end of the day both units are quite good so it’s not a big deal if you prefer one over the other.
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/analysis2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

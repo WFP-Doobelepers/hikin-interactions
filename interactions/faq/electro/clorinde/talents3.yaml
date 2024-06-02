@@ -1,0 +1,36 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Dark-Shattering Flame**
+  description: |-
+    When a party member triggers an Electro reaction, Clorinde’s infused Normal Attacks and Burst gain an Additive DMG Bonus based on 20% of her ATK. This Additive DMG Bonus caps at 1800, stacks up 3 times and lasts 15s, with each stack having an independent duration.
+
+    This means that any ATK above 3000 will not increase her damage significantly, since this Passive accounts for roughly half of her non-reaction damage.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Clorinde_05.png
+- title: "**Ascension 4 Passive: Lawful Remuneration**"
+  description: |-
+    Clorinde gains 10% CRIT Rate for 15s after each fully-enhanced lunging attack, stacking up to 2 times, with each stack’s duration being independent from each other. Clorinde’s healing conversion to Bond of Life during her Night Vigil state increases as well, from 80% to 100% conversion.
+
+    This passive can make it difficult to fit in a CRIT Rate weapon without overcapping since she also gains CRIT from her ascension levels.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Clorinde_06.png
+- title: "**Utility Passive: Night Vigil's Harvest**"
+  description: Clorinde’s Utility Passive displays the location of Fontaine’s local
+    specialties on the mini-map, aiding in material farming for Fontaine characters.
+  color: 4325526
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/ezRO1zZ.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Liney_07.png
+
+buttons:
+- customId: liveInteraction#faq/electro/electro/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

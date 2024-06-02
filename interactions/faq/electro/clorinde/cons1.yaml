@@ -1,0 +1,19 @@
+content: null
+embeds:
+- title: __CONSTELLATIONS__
+  description: |-
+    On paper, many of Clorinde’s core Constellations (C1/C2/C4/C6) are actually pretty substantial increases to her damage. However, C0 Clorinde does not have the same ceiling of damage as her DPS peers such as Arlecchino, Neuvillette, or Alhaitham. In addition, one of her strongest teams usually involves her doing a smaller share of the team’s total DPS. This ends up diminishing the gains from her Constellations  compared to getting upgrades on a different DPS unit such as Arlecchino, who owns the lion's share of her team’s total DPS. This is our reasoning for the lower scores on the Constellations since we believe Clorinde’s value is already built into C0 and is more about her utility, mobility, and self-sustain, rather than her personal damage.
+
+    For players more interested in playing Aggravate or even Hypercarry Clorinde teams, these Constellations will be more influential than our listed ratings.
+
+    *Sims done with R1 Absolution in a Fischl Sucrose Kirara team. Please check the  [WFP Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing) for more details*
+  color: 4325526
+  footer:
+    text: 'Authored by: June and KB'
+    icon_url: https://i.imgur.com/ezRO1zZ.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/cons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

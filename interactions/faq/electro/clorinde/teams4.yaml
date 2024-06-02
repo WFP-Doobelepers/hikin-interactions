@@ -1,0 +1,31 @@
+content: null
+embeds:
+- title: "**Hypercarry/Overload Clorinde (Not Recommended)**"
+  description: "### Clorinde | Buffer | Buffer | Buffer or Anemo if no Chevreuse\n**Ideal
+    Setup *(For higher invest players only)*: \nClorinde | Sara | Chevreuse | Xiangling**\n\nThis
+    playstyle only really makes sense for people who are at least C2R1 on Clorinde
+    since at her C0 base she is not doing enough personal damage even with buffers
+    to shine. Even at this level of investment the other teams above generally perform
+    better and have even higher ceilings for upgrades such as using C2 Nahida or Furina.\n\n__**Teammates**__\n\n<:flex:1094549077280169984>
+    **Buffer options:**\n- **Sara C6:** Is able to buff Clorinde while not restricting
+    her to a circle.\n- **Kazuha:** Offers grouping and Elemental DMG Bonus%.\n- **Chevreuse
+    C6:** One of the few options for Electro and Pyro RES Shred that is not locked
+    to Anemo units. Does have the restriction of forcing your whole team to be Pyro/Electro.\n-
+    **Bennett:** His ATK buff can cap out Clorinde’s A1 Passive which is not ideal.
+    A larger problem is that he forces Clorinde, a hyper-mobile character, to be constrained
+    to a circle. His healing also does not really work with her since Clorinde’s self-healing
+    usually keeps her healthy, so you can’t cheese out N2E’s with him.\n\n<:flex:1094549077280169984>
+    **Flex options:**\n- **Xiangling:** Mainly only used with Chevreuse variants.\n-
+    **Thoma:** Decent for interruption resistance and can slot into Chevreuse teams."
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png
+  image:
+    url: https://i.imgur.com/pjKPMx7.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/teams3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

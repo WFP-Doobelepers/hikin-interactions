@@ -1,0 +1,40 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* ATK% / EM
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* Electro DMG%
+    <:circlet:1094559608581922966> *Circlet of Logos:* CRIT Rate / CRIT DMG
+
+    At C0, ATK% and EM sands perform about the same if Clorinde is triggering Hyperbloom. Without Hyperbloom ATK% sands is slightly preferable. Any Constellation above C0 will prefer ATK% sands over EM.
+
+    **Substats:** CRIT > ATK% > EM/ER
+  color: 4325526
+- title: |-
+    __Artifact Sets__
+
+    **4pc Fragment of Harmonic Whimsy**
+  description: Generally Clorinde’s highest personal damage set, especially at higher
+    Constellations.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15035_4.png
+- title: "**4pc Thundering Fury**"
+  description: This set is used when shortening Clorinde’s cooldowns is more beneficial
+    than increasing her personal damage. An example of an ideal 4pc TF team is Clorinde-Furina-Nahida-Fischl,
+    where Nahida and Furina have long-lasting deployable Skills/Bursts. Clorinde can
+    swap off once to refresh Oz and then go back to being on-field. 4pc TF is not
+    recommended for pure Electro-Charged teams.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15005_4.png
+- title: "**4pc Gladiator's Finale**"
+  description: A fine budget option to use before farming for 4pc FHW. Roughly 10%
+    less personal damage compared to FHW which is not too bad considering Quickbloom
+    teams do not need her to do outstanding damage.
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15001_4.png

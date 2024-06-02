@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: "**Taser**"
+  description: |-
+    ### Clorinde | Electro | Hydro | Anemo/Hydro
+    **Ideal Setup: Clorinde | Furina | Yelan/Fischl| Kazuha**
+
+    Although Clorinde is the first “good” Electro Taser driver character to come out, her Quickbloom and Aggravate teams usually utilizes her kit better. That being said, her function as a Taser unit is perfectly fine and the Hydro units that can pair with her are rather strong (Xingqiu/Yelan/Furina).
+
+    __**Teammates**__
+
+    <:hydro:1094545501493403709> **Hydro options:**
+    - **Xingqiu/Yelan:** Function pretty similarly with Xingqiu being better defensively and Yelan offering more damage. They tend to prefer pairing up with a 2nd Hydro unit to reduce Energy costs.
+    - **Furina:** Makes Clorinde much more durable while being able to buff all DPS characters in the party.
+
+    <:electro:1094545575992623115> **Electro options:**
+    - **Fischl:** A classic unit for Taser teams, always try to deploy Oz in between Clorinde’s gaps of field time.
+    - **Beidou:** Good in 2+ target situations and provides interruption resistance and damage reduction.
+
+    <:anemo:1094545726748508250> **Anemo options:**
+    - **Kazuha:** Provides grouping and buffs.
+    - **Sucrose:** Similar to Kazuha but with weaker grouping and smaller buffs.
+    - **Jean/Sayu**: Can be used in Furina teams for faster Fanfare generation.
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png
+  image:
+    url: https://i.imgur.com/YuHrI1N.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/teams2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/electro/clorinde/teams4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

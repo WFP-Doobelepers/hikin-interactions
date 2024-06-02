@@ -1,0 +1,48 @@
+content: null
+embeds:
+- title: |-
+    __TEAM BUILDING__
+
+    **Furina**
+  description: Furina has a pretty nice interaction with how Clorinde heals from her
+    Skill. Healing Bonus applies to the huge 110% Max HP healing from her lunging
+    attacks before the Bond of Life reduces the healing. This means that even having
+    only 150 Fanfare stacks on Furina will make Clorinde heal more than double her
+    normal amount. For players with access to C1/C2 Furina, they can increase the
+    healing to roughly half of Clorinde’s Max HP!
+  color: 4325526
+  image:
+    url: https://i.imgur.com/hSYlGY6.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Furina.png
+- title: "**Furina Quickbloom (Meta)**"
+  description: |-
+    ### Clorinde | Furina | Dendro | Dendro/Electro
+    **4pc Thundering Fury recommended**
+    **Ideal Setup: Clorinde | Furina | Nahida | Fischl**
+
+    Generally considered her strongest team archetype. Furina is one of the most important units for Clorinde teams due to how well she interacts with Clorinde’s healing in addition to buffing several sub DPS units. Clorinde’s mobility is also unrestricted in this team with Oz’s range being the only real concern for positioning.
+
+    __**Teammates**__
+
+    <:dendro:1094441547170316359> **Dendro options:**
+    - **Nahida:** One of the best Dendro options for Clorinde since she is able to provide a hefty EM buff while maintaining a strong Dendro aura off-field.
+    - **Dendro Traveler (DMC):** A fine budget option if Nahida is not available. DMC is able to provide sufficient off-field Dendro but with lower uptime compared to Nahida.
+    - **Baizhu:** Grants decent interruption resistance to deal with more troublesome enemies. His Dendro application is very single-target compared to the other options. Can be used as the sole Dendro applier in single-target content. Otherwise in AoE, it’s recommended to pair another Dendro unit with him.
+
+    <:electro:1094545575992623115> **Electro options:**
+    - **Fischl:** A very strong option for this archetype. Fischl’s cooldowns line up pretty well with 4pc TF Clorinde and allow for short rotations. Her damage contribution at C6 is close to the same as C0 Clorinde in this team when Clorinde is using 4TF.
+    - **Yae Miko:** Not as strong of an option as Fischl but still serviceable. It is recommended to use 4pc FHW on Clorinde when playing with Yae since the rotation length is longer. Both Yae and Clorinde do not need to worry about building ER since their Bursts are minor in DPS gains.
+    - **Beidou:** Not recommended in single-target, but is a good option when fighting multiple enemies. Her interruption resistance is much appreciated by Clorinde and the additional damage reduction will make her close to immortal. Clorinde’s pistol and lunge attacks both proc Beidou’s Burst effectively, making her a decent driver.
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png
+  image:
+    url: https://i.imgur.com/3tTzi5b.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/teams2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

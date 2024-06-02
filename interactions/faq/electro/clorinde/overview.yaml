@@ -1,0 +1,38 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 4325526
+  fields:
+  - name: 'Lead:'
+    value: "<@94978723341668352>"
+  - name: 'Authors:'
+    value: "<@280016643558604800>, <@812178562822963210>, <@94978723341668352>"
+  - name: 'Calculations:'
+    value: "<@94978723341668352>"
+  - name: 'Consultation:'
+    value: Acacia
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@366206663533002774>
+      Writing: Avocado
+  - name: 'Transcription:'
+    value: "<@812178562822963210>, <@366206663533002774>"
+  - name: 'Resources:'
+    value: "[Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing)"
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://i.imgur.com/unZrFIL.jpg
+- title: __OVERVIEW__
+  description: |-
+    Clorinde is a 5-star Electro Sword character aligned with Ousia whose kit revolves around building up Bond of Life with her Normal Attacks to unleash fast lunges with her Skill. Her Elemental Skill causes her to enter the "Night Vigil" state, replacing her Normal Attacks with ranged pistolet attacks, as well as replacing her Skill with a lunging attack, dealing Electro DMG. During the "Night Vigil" state, Clorinde's attacks can pierce enemies, allowing her to hit multiple enemies at once.
+
+    Clorinde is played on-field, providing both damage and large amounts of Electro application for the team. Due to having fast, ranged Normal Attacks, she has strong innate synergy with current off-field characters, such as Fischl and Xingqiu.
+  color: 4325526
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://i.imgur.com/hCXa2oH.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Clorinde.png
