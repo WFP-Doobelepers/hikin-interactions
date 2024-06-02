@@ -1,0 +1,67 @@
+content: null
+embeds:
+- title: An undefeated Champion Duelist. Sword in hand, she defends justice in the
+    Court of Fontaine.
+  color: 4325526
+  fields:
+  - name: Clorinde Mastersheet by kbphan, acacia, and athena
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing)"
+  author:
+    name: Clorinde FAQ
+    icon_url: https://i.imgur.com/mEJRULh.png
+  image:
+    url: https://i.imgur.com/SwAp4rX.png
+      
+options: #dropdown
+    
+  - label: Overview
+    value: faq/electro/clorinde/overview
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: WFP Subjective Analysis
+    value: faq/electro/clorinde/analysis
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }    
+
+  - label: Talents
+    value: faq/electro/clorinde/talents1
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+  
+  - label: Constellations
+    value: faq/electro/clorinde/cons1
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+    
+  - label: ER Requirements
+    value: faq/electro/clorinde/erreq
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Artifacts
+    value: faq/electro/clorinde/artifacts
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Weapons
+    value: faq/electro/clorinde/weapons
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Teambuilding
+    value: faq/electro/clorinde/teams1
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: External Links
+    value: faq/electro/clorinde/external
+    description: "WFP resources for Clorinde FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+buttons:
+
+  - label: KQM Guide
+    url: https://keqingmains.com/clorinde/
+    emoji: :logont:945530991240421386
+    style: LINK

@@ -5,6 +5,11 @@ embeds:
       icon_url: https://library.keqingmains.com/img/elements/electro.png
 
 options: 
+  - label: Clorinde
+    value: faq/electro/clorinde/main
+    description: WFP resources on Clorinde!
+    emoji: <${ EMOJIS.ELECTRO}>
+
   - label: Cyno
     value: faq/electro/cyno/main
     description: WFP resources on Cyno!

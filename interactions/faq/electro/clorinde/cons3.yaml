@@ -1,0 +1,46 @@
+content: null
+embeds:
+- title: '**Constellation 3 - "I Pledge to Remember the Oath of Daylight"**'
+  description: |-
+    > *Increases the Level of Hunter's Vigil by 3.
+    > Maximum upgrade level is 15.*
+
+    An increase in Clorinde's Elemental Skill level. Unfortunately, a large portion of her damage also comes from her A1 Passive, so this increase is less than a typical C3.
+  color: 4325526
+  fields:
+  - name: "***DPS% Increase vs. C2:***"
+    value: 4.6%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 54.8%
+  - name: "***Rating:***"
+    value: 0/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Clorinde_02.png
+- title: '**Constellation 4 - "To Enshrine Tears, Life, and Love"**'
+  description: |-
+    > *When Last Lightfall deals DMG to opponent(s), DMG dealt is increased based on Clorinde's Bond of Life percentage. Every 1% of her current Bond of Life will increase Last Lightfall DMG by 2%. The maximum Last Lightfall DMG increase achievable this way is 200%.*
+
+    Although this Constellation doesn’t seem like a large upgrade on sheets/sims, it does open the option to frontload her damage for quickly clearing a wave. At this level she has the option to go for one-shot nuke builds although our recommendation is still leaning towards Quickbloom teams due to how versatile they are.
+  color: 4325526
+  fields:
+  - name: "***DPS% Increase vs. C3:***"
+    value: 9.9%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 70.1%
+  - name: "***Rating:***"
+    value: 3/5
+  footer:
+    text: 'Authored by: June and KB'
+    icon_url: https://i.imgur.com/ezRO1zZ.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Clorinde_03.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/cons2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/electro/clorinde/cons4
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

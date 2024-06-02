@@ -1,0 +1,4 @@
+interaction: faq/electro/clorinde/main
+description: "Opens WFP resources on Clorinde"
+match: ${ TRIGGER_PREFIX }clorindefaq(?:\s|$)
+ignoreCase: true

@@ -1,0 +1,45 @@
+content: null
+embeds:
+- title: '**Constellation 1 - "From This Day, I Pass the Candle''s Shadow-Veil"**'
+  description: |-
+    > *While Hunter's Vigil's Night Vigil state is active, when Electro DMG from Clorinde's Normal Attacks hit opponents, they will trigger 2 coordinated attacks from a Nightvigil Shade summoned near the hit opponent, each dealing 30% of Clorinde's ATK as Electro DMG.
+    > This effect can occur once every 1.2s. DMG dealt this way is considered Normal Attack DMG.*
+
+    Clorinde gains some additional damage during her infused Normal Attacks through her summon’s coordinated attacks.
+  color: 4325526
+  fields:
+  - name: "***DPS% Increase vs. C0:***"
+    value: 25.5%
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Clorinde_01.png
+- title: '**Constellation 2 - "Now, As We Face the Perils of the Long Night"**'
+  description: |-
+    > *Enhance the Passive Talent "Dark-Shattering Flame": After a nearby party member triggers a Electro-related reaction against an opponent, Electro DMG dealt by Clorinde's Normal Attacks and Last Lightfall will be increased by 30% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde's interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700.
+    > You must first unlock the Passive Talent "Dark-Shattering Flame."*
+
+    The Additive DMG Bonus from Clorinde’s A1 Passive and its cap is increased, further boosting Clorinde’s damage output. The absolute damage gain from C1 to C2 is the same as going from C0 to C1. You can think of C2 as getting C1 again, but with a bonus of interruption resistance. The interruption resistance granted from C2 is the same as Xingqiu’s orbital Rain Swords.
+  color: 4325526
+  fields:
+  - name: "***DPS% Increase vs. C1:***"
+    value: 18.0%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 48.1%
+  - name: "***Rating:***"
+    value: 3/5
+  footer:
+    text: 'Authored by: June and KB'
+    icon_url: https://i.imgur.com/ezRO1zZ.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Clorinde_02.png
+
+buttons:
+- customId: liveInteraction#faq/electro/clorinde/cons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/electro/clorinde/cons3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

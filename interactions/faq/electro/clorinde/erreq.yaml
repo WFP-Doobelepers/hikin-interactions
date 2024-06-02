@@ -1,0 +1,12 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: |-
+    Clorinde does not really need to build ER since bursting isn’t that much of a DPS gain. You should still Burst when it is up of course, but it is usually not worth building ER over more CRIT. The one exception is C4+ Clorinde, which at that point it is important to calculate your specific ER needs with the tools below.
+
+    Clorinde’s ER requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    For more details on how Favonius weapons will affect your team, please use Ac1d’s Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png

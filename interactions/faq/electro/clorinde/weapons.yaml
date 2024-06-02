@@ -1,0 +1,43 @@
+content: null
+embeds:
+- title: __WEAPONS__
+  description: "*Sims are done for both 4pc TF Quickbloom and 4pc FHW Aggravate teams.
+    Please read the [WFP Clorinde Mastersheet](https://docs.google.com/spreadsheets/d/12uZ1moj3NEJXZo6MIf_jTVJ5Q-SM58y2FrO4K9SDAo0/edit?usp=sharing)
+    for more details.*"
+  color: 4325526
+- title: "**Absolution (5-star)**"
+  description: Her signature and best weapon. It is a significant personal damage
+    increase that is comparable to her C1.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Estoc.png
+- title: "**Light of Foliar Incision (5-star)**"
+  description: On the same launch banner as her signature weapon. It is actually the
+    2nd best option for her so it’s pretty hard to be upset about losing in the banner.
+    Foliar is also a bit more versatile than her signature which is nice if you have
+    multiple sword DPS units.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Ayus.png
+- title: "**The Black Sword (Battle Pass)**"
+  description: Despite having a healing Passive which works with her BoL generation,
+    the main reason this weapon is good on her is that it’s a good statstick that
+    also grants high Normal Attack DMG%. At R1 it performs as well as Finale of the
+    Deep R5. Once refined to R5 it starts creeping close to Foiliar’s DPS.
+  color: 4325526
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Bloodstained.png
+- title: "**Finale of the Deep (Free Craftable)**"
+  description: Clorinde is the perfect user of this weapon, since the passive gives
+    her a massive amount of ATK. While this weapon does not trump many of the 5-star
+    swords it gets pretty darn close, which is very impressive considering it is **craftable**!
+    Most people will be perfectly satisfied with sitting on this weapon instead of
+    going for upgrades. If you are worried about missing out on damage, please look
+    at the mastersheet for her weapon calcs to see how much of a difference in **team
+    DPS** it is to sit on a free weapon; it is surprisingly low for a 5-star unit.
+  color: 4325526
+  footer:
+    text: 'Authored by: KB'
+    icon_url: https://i.imgur.com/1hqWKQW.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Sword_Vorpal.png
