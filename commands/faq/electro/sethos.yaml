@@ -1,0 +1,5 @@
+interaction: faq/electro/sethos/main
+description: "Opens WFP resources on Sethos"
+emoji: <${EMOJIS.SETHOS}> 
+
+name: Sethos

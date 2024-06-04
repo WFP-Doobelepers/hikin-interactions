@@ -1,0 +1,46 @@
+content: null
+embeds:
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Royal Reed Archery**
+  description: Sethos’ infused Normal Attacks and Level 2 Charged Attack are what
+    allows him to have 2 different playstyles. As mentioned, Sethos has 2 Charge Levels
+    for his CA. The first level is the usual infused Aimed Shot Bow characters have,
+    while the second level is an ATK and EM scaling Electro-infused shot that can
+    pierce through enemies. While fully charged, however, the Level 2 CA disables
+    Sethos’ mobility.  His infused Normal Attacks will be further discussed in the
+    Elemental Burst section.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_02.png
+- title: "**Elemental Skill: Ancient Rite: The Thundering Sands**"
+  description: |-
+    *CD: **8s***
+
+    Sethos’ Skill is an AoE attack that also gives himself 12 Flat Energy when the Skill triggers an Electro-related reaction. This is quite important to both of Sethos’ playstyles as it lowers the ER requirement for his infused Normal Attacks that are locked behind his Burst, while his A1 Passive requires Energy to lessen his Aimed Shot charge time.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_S_Sethos_01.png
+- title: "**Elemental Burst: Secret Rite: Twilight Shadowpiercer**"
+  description: |-
+    *CD: **15s***
+    *Energy cost: **60***
+
+    Sethos enters the Twilight Meditation state that lasts up to 8s. During this state, Sethos’ Normal Attacks are infused with Electro and gain Additive DMG Bonus based on his EM, along with the ability to pierce enemies. These infused Normal Attacks are considered as Charged Attack DMG. Sethos, however, loses the ability to enter Aim Mode during his Burst, effectively removing the possibility to do Aim Mode animation cancel (RR cancel) with him.
+  color: 16097126
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/ezRO1zZ.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_E_Sethos_01.png
+
+buttons:
+- customId: liveInteraction#faq/electro/sethos/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/electro/sethos/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

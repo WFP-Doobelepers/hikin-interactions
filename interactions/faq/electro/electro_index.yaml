@@ -19,3 +19,8 @@ options:
     value: faq/electro/kuki/main
     description: WFP resources on Kuki Shinobu!
     emoji: <${ EMOJIS.ELECTRO}>
+
+  - label: Sethos
+    value: faq/electro/sethos/main
+    description: WFP resources on Sethos!
+    emoji: <${ EMOJIS.ELECTRO}>

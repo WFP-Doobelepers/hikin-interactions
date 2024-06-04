@@ -1,0 +1,18 @@
+content: null
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 16097126
+  fields:
+  - name: HomDGCat Wiki
+    value: "[Character Database and Asset Resources](https://homdgcat.wiki/gi/char?lang=EN#_Sethos)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credits to June, Quinslay, and NatC for the Sethos FAQ! || WFP Theorycrafting
+    icon_url: https://i.imgur.com/WoAooLv.gif
+  image:
+    url: https://i.imgur.com/cO1HrZy.png

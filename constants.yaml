@@ -17,6 +17,7 @@ INFOGRAPHICS:
 PRETC:
   - "faq/hydro/yelan/main"
   - "faq/electro/clorinde/main"
+  - "faq/electro/sethos/main"
   - "tools/wfpsim"
 
 EMOJIS:

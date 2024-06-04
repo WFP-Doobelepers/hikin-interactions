@@ -1,0 +1,49 @@
+content: null
+embeds:
+- title: |-
+    __TEAM BUILDING__
+
+    **Quicken**
+  description: "### Sethos | Electro | Dendro | Flex\nThe most effective team for
+    Sethos regardless of the playstyle used as other options are either not recommended
+    or are niche. Sethos needs an Electro battery to aid his ER requirements, along
+    with a Dendro character required to trigger Quicken reactions. Buffers, healers,
+    and shielders can take up the last slot in this team. Sethos generally does not
+    take up a lot of field time with him being a Quickswap DPS, therefore making the
+    rotations quite short.\n\n__**Teammates**__\n\n<:electro:1094545575992623115>
+    **Electro options:**\n- **Fischl:** Generates massive amounts of Energy for Sethos
+    along with significant off-field damage.\n- **Yae:** Takes up a similar role as
+    Fischl, albeit generates less Energy than her.\n- **Kuki:** Provides healing along
+    with a decent amount of Energy. The range on her Skill, however, requires Sethos
+    to be closer to the enemy when fighting.\n- **C6 Sara:** A buffer which, at C6,
+    gives Sethos a 60% CRIT DMG increase. Sethos’ short field time does not make the
+    6s duration of the buff much of an issue, however, Sara does not have good Energy
+    generation and her Flat ATK buff is not as effective due to Sethos’ EM scalings.\n\n<:dendro:1094441547170316359>
+    **Dendro options:**\n- **Baizhu:** Provides healing and shielding along with a
+    DMG Bonus buff for Aggravate from his A4 Passive. However, his Burst can only
+    be used once every other rotation due to its CD being quite long compared to the
+    shorter rotation duration of this team. \n- **Nahida:** Provides a massive EM
+    buff for Sethos along with significant off-field damage. Although keep in mind
+    that since she applies so much Dendro, it makes Swirling Electro quite difficult.\n-
+    **Kirara:** Provides a shield with stronger interruption resistance than Baizhu’s,
+    along with just enough Dendro application to comfortably Swirl Electro.\n- **Yaoyao:**
+    Provides healing and Dendro application.\n\n<:flex:1094549077280169984> **Flex
+    options:**\n- **Sucrose:** Holds 4pc VV and provides a massive amount of EM for
+    Sethos. Can also equip Hakushin Ring to provide Elemental DMG Bonus.\n- **Kazuha:**
+    Takes up a similar role as Sucrose, although his buff is for Elemental DMG% instead
+    of EM and he cannot equip Hakushin Ring.\n- **Zhongli:** Provides a very strong
+    shield along with 20% Elemental RES Shred."
+  color: 16097126
+  image:
+    url: https://i.imgur.com/AG38enx.png
+- title: "**Overloaded (Not Recommended)**"
+  description: Overloaded teams, even with Chevreuse, are generally not recommended
+    due to various reasons. Sethos’ damage depends mostly on his EM scalings, rendering
+    Bennett’s ATK buff mostly ineffective. The inconsistent triggering of reactions
+    means that Sethos’ EM scaling cannot contribute as much, and he cannot reliably
+    gain the 12 Flat Energy from his Skill every rotation, which is very much needed
+    for both of his playstyles.
+  color: 16097126
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/awrIaVu.png
