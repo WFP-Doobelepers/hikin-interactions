@@ -49,13 +49,13 @@ options: #dropdown
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
   - label: External Links
-    value: faq/electro/Sethos/external
+    value: faq/electro/sethos/external
     description: "WFP resources for Sethos FAQ."
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
 buttons:
 
   - label: KQM Guide
-    url: https://keqingmains.com/Sethos/
+    url: https://keqingmains.com/sethos/
     emoji: :logont:945530991240421386
     style: LINK
