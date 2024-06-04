@@ -5,10 +5,10 @@ embeds:
 
     **Normal Attack: Royal Reed Archery**
   description: Sethos’ infused Normal Attacks and Level 2 Charged Attack are what
-    allows him to have 2 different playstyles. As mentioned, Sethos has 2 Charge Levels
-    for his CA. The first level is the usual infused Aimed Shot Bow characters have,
-    while the second level is an ATK and EM scaling Electro-infused shot that can
-    pierce through enemies. While fully charged, however, the Level 2 CA disables
+    enables him to have 2 different playstyles. As mentioned, Sethos has 2 Charge
+    Levels for his CA. The first level is the usual infused Aimed Shot Bow characters
+    have, while the second level is an ATK and EM scaling Electro-infused shot that
+    can pierce through enemies. While fully charged, however, the Level 2 CA disables
     Sethos’ mobility.  His infused Normal Attacks will be further discussed in the
     Elemental Burst section.
   color: 16097126
@@ -27,7 +27,7 @@ embeds:
     *CD: **15s***
     *Energy cost: **60***
 
-    Sethos enters the Twilight Meditation state that lasts up to 8s. During this state, Sethos’ Normal Attacks are infused with Electro and gain Additive DMG Bonus based on his EM, along with the ability to pierce enemies. These infused Normal Attacks are considered as Charged Attack DMG. Sethos, however, loses the ability to enter Aim Mode during his Burst, effectively removing the possibility to do Aim Mode animation cancel (RR cancel) with him.
+    Sethos enters the Twilight Meditation state, lasting up to 8s. During this state, Sethos’ Normal Attacks are infused with Electro and gain Additive DMG Bonus based on his EM, along with the ability to pierce enemies. These infused Normal Attacks are considered Charged Attack DMG. Sethos, however, loses the ability to enter Aim Mode during his Burst, effectively removing the possibility to do Aim Mode animation cancels (RR cancel) with him.
   color: 16097126
   footer:
     text: 'Authored by: June'

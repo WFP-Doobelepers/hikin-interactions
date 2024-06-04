@@ -11,8 +11,8 @@ embeds:
     value: "<@708791985200431174>, <@148100838861176832>"
   - name: 'Content Verification:'
     value: |-
-      Calculations: <@148100838861176832>
-      Writing: [tc staff user link]
+      Calculations: <@366206663533002774>, <@148100838861176832>
+      Writing: <@148100838861176832>, <@812178562822963210>
   - name: 'Transcription:'
     value: "<@812178562822963210>"
   - name: 'Resources:'
@@ -29,8 +29,9 @@ embeds:
     Energy manipulation. Sethos’ Skill provides Flat Energy to aid in both playstyles.
     His Aimed Shot playstyle involves Electro-infused Charged Attacks that pierces
     through enemies at the cost of his Energy and mobility. His Normal Attack playstyle,
-    meanwhile, involves using his Burst to enter a special state that buffs and infuses
-    his Normal Attacks with Electro at the cost of his ability to enter Aim Mode.
+    on the other hand, involves using his Burst to enter a special state that buffs
+    and infuses his Normal Attacks with Electro, as well as being counted as Charged
+    Attacks, at the cost of his ability to enter Aim Mode.
   color: 16097126
   footer:
     text: 'Authored by: June'

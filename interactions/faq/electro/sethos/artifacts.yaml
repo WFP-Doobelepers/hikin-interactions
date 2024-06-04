@@ -15,27 +15,27 @@ embeds:
 
     **4pc Wanderer’s Troupe**
   description: Wanderer’s Troupe is Sethos’ best set, providing both EM and an unconditional
-    CA DMG Bonus; this is especially useful as Charged Attacks make up the vast majority
+    CA DMG Bonus. This is especially useful as Charged Attacks make up the vast majority
     of Sethos’ damage.
   color: 16097126
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15003_4.png
 - title: "**4pc Gilded Dreams**"
-  description: Sethos cares mostly for the high EM it provides, as he scales EM in
-    multiple areas. The ATK% is still helpful but less noteworthy.
+  description: Sethos cares mostly for the high EM it provides, as he scales on EM
+    in multiple areas. The ATK% is still helpful but less noteworthy.
   color: 16097126
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15026_4.png
-- title: "**2pc EM/ATK%/Emblem of Severed Fate/Thundering Fury combos**"
+- title: "**2pc EM/ATK%/ER%/Electro DMG% combos**"
   description: Unconditional mixed set options. They are not much worse than 4pc Gilded
     Dreams. Players with a good mixed set do not necessarily need to farm for the
-    above 4pc sets.
+    aforementioned 4pc sets.
   color: 16097126
   thumbnail:
     url: https://i.imgur.com/fXE9aiE.png
 - title: "**4pc Desert Pavilion Chronicle**"
-  description: Only used for Sethos’ Burst playstyle, this weapon has more CA DMG
-    bonus than Wanderer’s Troupe, but lacks the EM. This being said, the ATK SPD increase
+  description: Only used for Sethos’ Burst-NA playstyle, this weapon has more CA DMG
+    Bonus than Wanderer’s Troupe, but lacks the EM. This being said, the ATK SPD increase
     can lead to Sethos being able to hit more times during his Burst, which can make
     it roughly equal to Wanderer’s Troupe.
   color: 16097126

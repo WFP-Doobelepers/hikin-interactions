@@ -7,7 +7,7 @@ embeds:
   description: |-
     > *The CRIT Rate of Shadowpiercing Shot is increased by 15%.*
 
-    This Constellation provides a simple CRIT Rate buff for Sethos’ Level 2 Charge Attack in his Aimed Shot playstyle, yet provides nothing for his Normal Attack playstyle.
+    This Constellation provides a simple CRIT Rate buff for Sethos’ Level 2 Charge Attack in his Aimed Shot playstyle but nothing for his Normal Attack playstyle.
   color: 16097126
   fields:
   - name: "***Aimed Shot DPS% Increase vs. C0:***"
@@ -45,7 +45,7 @@ embeds:
     > *Increases the Level of Normal Attack: Royal Reed Archery by 3.
     > Maximum upgrade level is 15.*
 
-    An increase in Sethos’ Normal Attack Talent, providing a damage increase to both of his playstyles. Most of his damage output, however, relies on his A4 Passive buff, Additive DMG Bonus on his Burst, and Aggravate, lowering the value of this Constellation.
+    An increase in Sethos’ Normal Attack Talent, providing a damage increase to both of his playstyles. Most of his damage output, however, is reliant on his A4 Passive buff, Additive DMG Bonus on his Burst, and Aggravate, lowering the value of this Constellation.
   color: 16097126
   fields:
   - name: "***Aimed Shot DPS% Increase vs. C2:***"

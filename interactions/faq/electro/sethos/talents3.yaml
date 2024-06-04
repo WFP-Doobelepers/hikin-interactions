@@ -4,10 +4,10 @@ embeds:
     __Passives__
 
     **Ascension 1 Passive: Black Kite's Enigma**
-  description: Sethos’ Level 2 Charged Attack takes a whopping 6s to be fully charged.
-    This is where his A1 Passive comes in and reduces the charge time at the cost
-    of his Energy. For each Energy point Sethos has, it reduces his charge time by
-    0.285s. The charge time can be reduced until it’s only 0.3s long and the maximum
+  description: Sethos’ Level 2 Charged Attack normally takes a whopping 6s to be fully
+    charged. This is where his A1 Passive comes in, reducing the charge time at the
+    cost of his Energy. For each Energy point Sethos has, it reduces his charge time
+    by 0.285s. The charge time can be reduced until it’s only 0.3s long and the maximum
     amount of Energy that can be consumed is 20, which effectively removes his ability
     to use his Burst when using his Aimed Shot playstyle.
   color: 16097126

@@ -24,7 +24,7 @@ embeds:
     > *Increases the Level of Secret Rite: Twilight Shadowpiercer by 3.
     > Maximum upgrade level is 15.*
 
-    An increase in Sethos’ Burst Level, therefore increasing the Additive DMG Bonus his infused Normal Attacks gain. This Constellation, however, provides nothing for his Aimed Shot playstyle.
+    An increase in Sethos’ Burst Level, boosting the Additive DMG Bonus his infused Normal Attacks gain. This Constellation, however, provides nothing for his Aimed Shot playstyle.
   color: 16097126
   fields:
   - name: "***Aimed Shot DPS% Increase vs. C4:***"
@@ -43,7 +43,7 @@ embeds:
   description: |-
     > *After Shadowpiercing Shot strikes an opponent, the Elemental Energy consumed by the Passive Talent "Black Kite's Enigma" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent "Black Kite's Enigma."*
 
-    Regains the Energy consumed by Sethos’ A1 Passive once every rotation, which can open up the possibility of doing an additional Level 2 Charged Attack, however, his A4 Passive only gives Additive DMG Bonus to 4 Level 2 CA. Players can choose to keep doing only 4 CA so the regained Energy aids in his ER requirements instead.
+    Regains the Energy consumed by Sethos’ A1 Passive once every rotation, which can open up the possibility of doing an additional Level 2 Charged Attack, however, his A4 Passive only gives Additive DMG Bonus to 4 Level 2 CAs. Players can choose to keep doing only 4 CAs so the regained Energy aids in his ER requirements instead.
   color: 16097126
   fields:
   - name: "***Aimed Shot DPS% Increase vs. C5:***"
@@ -55,7 +55,7 @@ embeds:
   - name: "***Normal Attack DPS% Increase vs. C0:***"
     value: 52.5%
   - name: "***Rating:***"
-    value: 3/5
+    value: 3.5/5
   footer:
     text: 'Authored by: June'
     icon_url: https://i.imgur.com/awrIaVu.png

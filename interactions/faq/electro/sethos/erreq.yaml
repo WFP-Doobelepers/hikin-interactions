@@ -3,10 +3,10 @@ embeds:
 - title: __ENERGY RECHARGE REQUIREMENTS__
   description: "Generally, Sethos’ ER requirements are too high to be usable in teams
     where he is the only Electro unit. \nFavonius weapons decrease Sethos’ ER requirements
-    by ~10-20% per proc.\n\nIf you choose to not modify rotations and use Sethos’
+    by ~10–20% per proc.\n\nIf you choose to not modify rotations and use Sethos’
     C6 as a means to decrease ER requirements rather than fire additional Level 2
-    Charged Shots, his ER requirements are lowered by ~40-80% for his Aimed Shot playstyle
-    only. This also applies to rotations pre-C6 where Sethos only fires 3 Aimed Shots.\n\nSethos’s
+    Charged Shots, his ER requirements are lowered by ~40–80% for his Aimed Shot playstyle
+    only. This also applies to rotations pre-C6 where Sethos fires only 3 Aimed Shots.\n\nSethos’s
     ER requirements will vary based on your team and rotation. For a more accurate
     estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).\nFor
     more details on how Favonius weapons will affect your team, please use Ac1d’s
@@ -16,4 +16,4 @@ embeds:
     text: 'Authored by: Quinslay'
     icon_url: https://i.imgur.com/Pyk85Xc.png
   image:
-    url: https://i.imgur.com/ZhCw0Xv.png
+    url: https://i.imgur.com/h4RqG1O.png
