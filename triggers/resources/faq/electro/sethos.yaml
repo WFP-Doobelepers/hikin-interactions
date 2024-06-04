@@ -1,0 +1,4 @@
+interaction: faq/electro/sethos/main
+description: "Opens WFP resources on Sethos"
+match: ${ TRIGGER_PREFIX }sethosfaq(?:\s|$)
+ignoreCase: true

@@ -1,0 +1,46 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* ER% or EM
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* Electro DMG%
+    <:circlet:1094559608581922966> *Circlet of Logos:* CRIT Rate or CRIT DMG
+
+    Sethos will only use an ER Sands in teams where his ER needs are notably high. Otherwise an EM Sands is preferred.
+
+    **Substats:** ER until requirement > CRIT Rate/DMG > EM > ATK%
+  color: 16097126
+- title: |-
+    __Artifact Sets__
+
+    **4pc Wanderer’s Troupe**
+  description: Wanderer’s Troupe is Sethos’ best set, providing both EM and an unconditional
+    CA DMG Bonus. This is especially useful as Charged Attacks make up the vast majority
+    of Sethos’ damage.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15003_4.png
+- title: "**4pc Gilded Dreams**"
+  description: Sethos cares mostly for the high EM it provides, as he scales on EM
+    in multiple areas. The ATK% is still helpful but less noteworthy.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15026_4.png
+- title: "**2pc EM/ATK%/ER%/Electro DMG% combos**"
+  description: Unconditional mixed set options. They are not much worse than 4pc Gilded
+    Dreams. Players with a good mixed set do not necessarily need to farm for the
+    aforementioned 4pc sets.
+  color: 16097126
+  thumbnail:
+    url: https://i.imgur.com/fXE9aiE.png
+- title: "**4pc Desert Pavilion Chronicle**"
+  description: Only used for Sethos’ Burst-NA playstyle, this weapon has more CA DMG
+    Bonus than Wanderer’s Troupe, but lacks the EM. This being said, the ATK SPD increase
+    can lead to Sethos being able to hit more times during his Burst, which can make
+    it roughly equal to Wanderer’s Troupe.
+  color: 16097126
+  footer:
+    text: 'Authored by: Quinslay'
+    icon_url: https://i.imgur.com/Pyk85Xc.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15027_4.png

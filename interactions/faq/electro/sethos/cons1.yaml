@@ -1,0 +1,71 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - Sealed Shrine's Spiritsong**
+  description: |-
+    > *The CRIT Rate of Shadowpiercing Shot is increased by 15%.*
+
+    This Constellation provides a simple CRIT Rate buff for Sethos’ Level 2 Charge Attack in his Aimed Shot playstyle but nothing for his Normal Attack playstyle.
+  color: 16097126
+  fields:
+  - name: "***Aimed Shot DPS% Increase vs. C0:***"
+    value: 9.9%
+  - name: "***Normal Attack DPS% Increase vs. C0:***"
+    value: 0.0%
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sethos_01.png
+- title: "**Constellation 2 - Papyrus Scripture of Silent Secrets**"
+  description: |-
+    > *When any of the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s that may stack twice, with each stack duration counted independently:
+    > - Consuming Elemental Energy through Aimed Shots; you must first unlock the Passive Talent "Black Kite's Enigma" to trigger this condition.
+    > - Regaining Elemental Energy by triggering Elemental Reactions using Ancient Rite: The Thundering Sands.
+    > - Using Secret Rite: Twilight Shadowpiercer.*
+
+    Sethos gains a significant buff with a maximum of 30% Electro DMG Bonus through his Energy manipulation mechanics found in his Aimed Shots and Elemental Skill.
+  color: 16097126
+  fields:
+  - name: "***Aimed Shot DPS% Increase vs. C1:***"
+    value: 12.2%
+  - name: "***Aimed Shot DPS% Increase vs. C0:***"
+    value: 23.4%
+  - name: "***Normal Attack DPS% Increase vs. C1:***"
+    value: 11.8%
+  - name: "***Normal Attack DPS% Increase vs. C0:***"
+    value: 11.8%
+  - name: "***Rating:***"
+    value: 4/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sethos_02.png
+- title: "**Constellation 3 - Ode to the Moonrise Sage**"
+  description: |-
+    > *Increases the Level of Normal Attack: Royal Reed Archery by 3.
+    > Maximum upgrade level is 15.*
+
+    An increase in Sethos’ Normal Attack Talent, providing a damage increase to both of his playstyles. Most of his damage output, however, is reliant on his A4 Passive buff, Additive DMG Bonus on his Burst, and Aggravate, lowering the value of this Constellation.
+  color: 16097126
+  fields:
+  - name: "***Aimed Shot DPS% Increase vs. C2:***"
+    value: 4.7%
+  - name: "***Aimed Shot DPS% Increase vs. C0:***"
+    value: 29.1%
+  - name: "***Normal Attack DPS% Increase vs. C2:***"
+    value: 1.3%
+  - name: "***Normal Attack DPS% Increase vs. C0:***"
+    value: 13.2%
+  - name: "***Rating:***"
+    value: 2/5
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/awrIaVu.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Sethos_01.png
+
+buttons:
+- customId: liveInteraction#faq/electro/sethos/cons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

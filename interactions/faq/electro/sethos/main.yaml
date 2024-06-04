@@ -1,0 +1,61 @@
+content: null
+embeds:
+- title: The Temple of Silence's heir. Burdened with secrets, he comes from the sands.
+  color: 16097126
+  fields:
+  - name: Sethos Mastersheet by quinslay, natc, and ibellica
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/12e5pdYdTUxz98-8ecbjMMKGWe2cBREwVdhERDBzOulA/edit?usp=sharing)"
+  author:
+    name: Sethos FAQ
+    icon_url: https://i.imgur.com/5EEBcVb.png
+  image:
+    url: https://i.imgur.com/l8psKo8.png
+      
+options: #dropdown
+    
+  - label: Overview
+    value: faq/electro/sethos/overview
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }   
+
+  - label: Talents
+    value: faq/electro/sethos/talents1
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+  
+  - label: Constellations
+    value: faq/electro/sethos/cons1
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+    
+  - label: ER Requirements
+    value: faq/electro/sethos/erreq
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Artifacts
+    value: faq/electro/sethos/artifacts
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Weapons
+    value: faq/electro/sethos/weapons
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: Teambuilding
+    value: faq/electro/sethos/teams
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+  - label: External Links
+    value: faq/electro/sethos/external
+    description: "WFP resources for Sethos FAQ."
+    emoji: ${ EMOJIS.ELECTRO_BOX }
+
+buttons:
+
+  - label: KQM Guide
+    url: https://keqingmains.com/sethos/
+    emoji: :logont:945530991240421386
+    style: LINK

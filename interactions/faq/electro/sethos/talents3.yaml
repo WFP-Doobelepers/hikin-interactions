@@ -1,0 +1,37 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Black Kite's Enigma**
+  description: Sethos’ Level 2 Charged Attack normally takes a whopping 6s to be fully
+    charged. This is where his A1 Passive comes in, reducing the charge time at the
+    cost of his Energy. For each Energy point Sethos has, it reduces his charge time
+    by 0.285s. The charge time can be reduced until it’s only 0.3s long and the maximum
+    amount of Energy that can be consumed is 20, which effectively removes his ability
+    to use his Burst when using his Aimed Shot playstyle.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sethos_05.png
+- title: "**Ascension 4 Passive: The Sand King's Boon**"
+  description: Within 5s, 4 of Sethos’ Level 2 Charged Attacks gains an Additive DMG
+    Bonus based on 700% of his EM, significantly increasing the damage output for
+    his Aimed Shot playstyle. This DMG increase has a CD of 15s.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sethos_06.png
+- title: "**Utility Passive: Thoth's Revelation**"
+  description: Sethos’ Utility Passive displays the location of local specialties
+    from Sumeru on the mini-map, aiding in material farming for Sumeru characters.
+  color: 16097126
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/awrIaVu.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Tighnari_07.png
+
+buttons:
+- customId: liveInteraction#faq/electro/sethos/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

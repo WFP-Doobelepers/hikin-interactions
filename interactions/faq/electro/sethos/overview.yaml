@@ -1,0 +1,40 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 16097126
+  fields:
+  - name: 'Leads:'
+    value: "<@812178562822963210>, <@708791985200431174>, <@148100838861176832>"
+  - name: 'Authors:'
+    value: "<@812178562822963210>, <@708791985200431174>, <@148100838861176832>"
+  - name: 'Calculations:'
+    value: "<@708791985200431174>, <@148100838861176832>"
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@366206663533002774>, <@148100838861176832>
+      Writing: <@148100838861176832>, <@812178562822963210>
+  - name: 'Transcription:'
+    value: "<@812178562822963210>"
+  - name: 'Resources:'
+    value: "[Sethos Mastersheet](https://docs.google.com/spreadsheets/d/12e5pdYdTUxz98-8ecbjMMKGWe2cBREwVdhERDBzOulA/edit?usp=sharing)"
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://i.imgur.com/RaNpB2a.png
+- title: __OVERVIEW__
+  description: Sethos is a 4-star Quickswap Electro Bow damage dealer that utilizes
+    both Normal Attack and Aimed Shot playstyles along with a unique mechanic involving
+    Energy manipulation. Sethos’ Skill provides Flat Energy to aid in both playstyles.
+    His Aimed Shot playstyle involves Electro-infused Charged Attacks that pierces
+    through enemies at the cost of his Energy and mobility. His Normal Attack playstyle,
+    on the other hand, involves using his Burst to enter a special state that buffs
+    and infuses his Normal Attacks with Electro, as well as being counted as Charged
+    Attacks, at the cost of his ability to enter Aim Mode.
+  color: 16097126
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/awrIaVu.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Sethos.png

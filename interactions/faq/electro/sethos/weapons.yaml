@@ -1,0 +1,33 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Hunter’s Path**
+  description: Sethos’ premium weapon of choice and best weapon, though not by much
+    at R1. Hunter’s Path synergizes perfectly with Sethos, providing him plenty of
+    desirable stats - CRIT Value, Elemental DMG Bonus, and a passive that works similarly
+    to his Ascension 4 Passive / Elemental Burst, depending on which playstyle you
+    decide to go with.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Ayus.png
+- title: "**Slingshot**"
+  description: Do not be fooled by this weapon’s rarity; Slingshot is most definitely
+    Sethos’ 2nd best weapon. Since this weapon is easily obtainable from gacha, one
+    should have no issue getting it to R5, where they get a whopping 60% DMG Bonus
+    to their Charged Shots, complimenting Sethos’ kit amazingly. If you do not wish
+    to get Hunter’s Path for Sethos / you don’t have it at the moment, this is what
+    you should aim for.
+  color: 16097126
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Sling.png
+- title: "**The First Great Magic / Aqua Simulacra**"
+  description: At R1, these weapons’ performances are similar, if not straight up
+    worse, than R5 Slingshot. Not worth pulling these weapons specifically for Sethos.
+  color: 16097126
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://i.imgur.com/sd2ZwnK.png
+  thumbnail:
+    url: https://i.imgur.com/xwR4Ywj.png

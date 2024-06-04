@@ -1,0 +1,31 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **Aimed Shot DPS:
+    Normal Attack > Elemental Burst > Elemental Skill**
+  color: 16097126
+  image:
+    url: https://i.imgur.com/nNCIaW1.png
+- title: |-
+    **Normal Attack DPS:
+    Elemental Burst > Normal Attack > Elemental Skill**
+  color: 16097126
+  image:
+    url: https://i.imgur.com/0KLbe3k.png
+- description: |-
+    ## __Analysis__
+    - Since Sethos is mainly played in Quicken teams, leveling him to 90 should be prioritized. His Normal Attack Talent multipliers are involved in both playstyles, therefore it is recommended to prioritize leveling this Talent.
+    - Sethos’ Burst is only used in tandem with his Normal Attack playstyle. His Burst provides a significant DMG increase to his Normal Attacks, therefore it should be leveled up along with his Normal Attack Talent. If the Aimed Shot playstyle is preferred, this Talent is optional.
+    - Sethos’ Skill does not contribute to his damage much and the Flat Energy his Skill provides is a fixed value regardless of Talent Level, therefore leveling it is optional.
+  color: 16097126
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/awrIaVu.png
+
+buttons:
+- customId: liveInteraction#faq/electro/sethos/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

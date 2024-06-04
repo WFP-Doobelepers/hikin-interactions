@@ -1,0 +1,69 @@
+content: null
+embeds:
+- title: "**Constellation 4 - Beneficent Plumage**"
+  description: |-
+    > *When a Shadowpiercing Shot or Dusk Bolt strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.*
+
+    Sethos provides a teamwide EM buff upon hitting multiple enemies with his Level 2 Charged Attacks or his infused Normal Attacks, rendering this Constellation useless in single-target scenarios.
+  color: 16097126
+  fields:
+  - name: "***Aimed Shot DPS% Increase vs. C3:***"
+    value: 6.3%
+  - name: "***Aimed Shot DPS% Increase vs. C0:***"
+    value: 37.2%
+  - name: "***Normal Attack DPS% Increase vs. C3:***"
+    value: 6.7%
+  - name: "***Normal Attack DPS% Increase vs. C0:***"
+    value: 20.8%
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sethos_03.png
+- title: "**Constellation 5 - Record of the Desolate God's Burning Sands**"
+  description: |-
+    > *Increases the Level of Secret Rite: Twilight Shadowpiercer by 3.
+    > Maximum upgrade level is 15.*
+
+    An increase in Sethos’ Burst Level, boosting the Additive DMG Bonus his infused Normal Attacks gain. This Constellation, however, provides nothing for his Aimed Shot playstyle.
+  color: 16097126
+  fields:
+  - name: "***Aimed Shot DPS% Increase vs. C4:***"
+    value: 0.0%
+  - name: "***Aimed Shot DPS% Increase vs. C0:***"
+    value: 37.2%
+  - name: "***Normal Attack DPS% Increase vs. C4:***"
+    value: 8.8%
+  - name: "***Normal Attack DPS% Increase vs. C0:***"
+    value: 31.5%
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Sethos_02.png
+- title: "**Constellation 6 - Pylon of the Sojourning Sun Temple**"
+  description: |-
+    > *After Shadowpiercing Shot strikes an opponent, the Elemental Energy consumed by the Passive Talent "Black Kite's Enigma" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent "Black Kite's Enigma."*
+
+    Regains the Energy consumed by Sethos’ A1 Passive once every rotation, which can open up the possibility of doing an additional Level 2 Charged Attack, however, his A4 Passive only gives Additive DMG Bonus to 4 Level 2 CAs. Players can choose to keep doing only 4 CAs so the regained Energy aids in his ER requirements instead.
+  color: 16097126
+  fields:
+  - name: "***Aimed Shot DPS% Increase vs. C5:***"
+    value: 13.2%
+  - name: "***Aimed Shot DPS% Increase vs. C0:***"
+    value: 55.3%
+  - name: "***Normal Attack DPS% Increase vs. C5:***"
+    value: 15.8%
+  - name: "***Normal Attack DPS% Increase vs. C0:***"
+    value: 52.5%
+  - name: "***Rating:***"
+    value: 3.5/5
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/awrIaVu.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sethos_04.png
+
+buttons:
+- customId: liveInteraction#faq/electro/sethos/cons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
