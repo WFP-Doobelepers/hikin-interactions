@@ -15,8 +15,7 @@ embeds:
   image:
     url: https://media.discordapp.net/attachments/1139854891729289246/1172073411300831286/chevreuse_090_gacha_splash.png?ex=65965c6d&is=6583e76d&hm=b46d7bd4da20079d9c20d88f9993a41d90f40cad17a433c6743ca88838307062&width=453&height=467&
 
-
-options: dropdown
+options: #dropdown
   - label: Overview
     value: faq/pyro/chevreuse/overview
     description: "WFP resources for Chevreuse FAQ."
