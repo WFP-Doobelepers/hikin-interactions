@@ -1,0 +1,43 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Silvershower Heartstrings**
+  description: Sigewinne’s Signature and best weapon. The high HP% from the secondary
+    benefits both her personal damage and A1 buff. The Elemental Burst CRIT Rate buff
+    further increases Sigewinne’s damage. Sigewinne needs to pick up her Sourcewater
+    Droplets to get the full passive.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Arcdange.png
+- title: "**Elegy for the End**"
+  description: A very strong option when the buff is useful and Sigewinne uses her
+    Burst. Sigewinne quickly triggers the passive with her Burst, but takes some time
+    to trigger when only her Skill is used.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Widsith.png
+- title: "**Aqua Simulacra**"
+  description: A strong option for Sigewinne’s personal damage; it loses a lot of
+    value when she does not use her Burst, as the CRIT DMG does not benefit her A1
+    buff. May be better used on another character.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Kirin.png
+- title: "**Recurve Bow**"
+  description: Sigewinne’s best F2P weapon, and better than all other unlisted weapons
+    due to its HP% substat.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Curve.png
+- title: "**Favonius Warbow**"
+  description: Significantly worse than other bows for Sigewinne’s buff and personal
+    damage, but the extra energy it offers can outweigh those cons. The Energy substat
+    and passive usually more than satisfy her ER requirements.
+  color: 16736660
+  footer:
+    text: 'Authored by: baloopy'
+    icon_url: https://i.imgur.com/UliXlj4.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Zephyrus.png

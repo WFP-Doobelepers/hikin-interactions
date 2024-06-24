@@ -1,0 +1,46 @@
+content: null
+embeds:
+- title: "**Nilou Bloom**"
+  description: |-
+    ### Sigewinne | Nilou | Dendro | Dendro/Hydro
+    Sigewinne’s strong healing helps offset Bloom self damage in Nilou Bloom teams. Her low Hydro application means she prefers Triple Hydro teams. In Double Hydro teams she can on-field with her Burst, but its short duration holds her back.
+
+    __**Teammates**__
+
+    <:hydro:1094545501493403709> **Hydro options:**
+    - **Furina:** Again, Furina is a strong Hydro option. However, she is not dominant here as she is in other teams due to her lower Hydro application and Bloom’s lack of scaling on DMG%.
+    - **Yelan/Xingqiu:** Their Bursts contribute strong off-field Hydro application. Yelan should try for a 2 Skill rotation.
+
+    <:dendro:1094441547170316359> **Dendro options:**
+    - **Nahida:** She boasts very strong Dendro application to drive Triple Hydro teams.
+    - **Alhaitham:**  His on-field Dendro application makes him a great driver. His higher personal damage than Nahida makes better use of Furina.
+    - **Dendro Traveler/Collei:** They do not have enough Dendro application to efficiently on-field Triple Dendro teams, but they are strong options for Double Dendro teams.
+  color: 16736660
+  image:
+    url: https://i.imgur.com/dOOcFwf.png
+- title: "**Hyperbloom/Burgeon**"
+  description: |-
+    ### Sigewinne | Dendro | Electro/Pyro | Hydro/Flex
+    Although Sigewinne’s Hydro application can not enable Hyperbloom or Burgeon on her own, she can support a second Hydro character and provide healing. As the only Hydro character, her low Hydro application allows Quicken to be maintained while she provides healing and her A1 buff.
+
+    __**Teammates**__
+
+    <:dendro:1094441547170316359> **Dendro options:** __***Nahida***__, __***Alhaitham***__, Dendro Traveler, Collei
+
+    <:electro:1094545575992623115> **Electro options:** Fischl, Yae, Raiden, Kuki
+
+    <:pyro:1085111476584460328> **Pyro options:** Thoma, Xiangling
+
+    <:hydro:1094545501493403709> **Hydro options:** __***Furina***__, Xingqiu, Yelan
+  color: 16736660
+  footer:
+    text: 'Authored by: baloopy'
+    icon_url: https://i.imgur.com/UliXlj4.png
+  image:
+    url: https://i.imgur.com/SmSidZ2.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/sigewinne/teams2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

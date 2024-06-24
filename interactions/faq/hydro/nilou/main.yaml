@@ -63,6 +63,6 @@ options: #dropdown
 
 buttons:
   - label: KQM Guide
-    url: https://keqingmains.com/nilou/
+    url: https://keqingmains.com/q/nilou-quickguide/
     emoji: :logont:945530991240421386
     style: LINK

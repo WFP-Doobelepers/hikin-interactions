@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: |-
+    __TEAM BUILDING__
+
+    **Furina**
+  description: Sigewinne’s healing, A1 buff, and Hydro particles make her a strong
+    pairing for Furina across her teams. As a duo they offer strong off-field damage,
+    a DMG% buff, comfortable healing, and Hydro application.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Furina.png
+- title: "**Furina Vape**"
+  description: "### Sigewinne | Furina | Pyro | Flex\nA strong Pyro applier allows
+    Furina and Sigewinne to Vaporize. Vaporize further amplifies Sigewinne’s A1 passive.\n\n__**Teammates**__\n\n<:pyro:1085111476584460328>
+    **Pyro options:**\n- **Klee:** She offers on-field Pyro application. Her A4 passive
+    reduces team ER requirements. Be careful that her Skill mines do not steal Sigewinne’s
+    A1 stacks. \n- **Xiangling:** She offers off-field AoE Pyro application. She can
+    run with Bennett for her own personal damage or a buffer to further amplify Furina.\n\n<:flex:1094549077280169984>
+    **Flex options:**\n- **Kazuha:** His DMG% buff, ability to hold 4pc Viridescent
+    Venerer (VV), and grouping are invaluable. The premier Anemo option.\n- **Sucrose:**
+    A 4-star alternative to Kazuha who does not fall far behind. She can hold TTDS
+    to buff Xiangling or Klee.\n- **Other Anemo Characters:** Although worse than
+    Kazuha and Sucrose, these characters are still able to increase team damage through
+    4pc VV and come with their own utility.\n- **Bennett:** Increases the damage of
+    your Pyro character, although he does not buff your Hydro characters. Greatly
+    lowers Xiangling’s ER requirements."
+  color: 16736660
+  footer:
+    text: 'Authored by: baloopy'
+    icon_url: https://i.imgur.com/UliXlj4.png
+  image:
+    url: https://i.imgur.com/BERIZcK.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/sigewinne/teams2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

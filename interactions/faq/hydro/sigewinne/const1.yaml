@@ -1,0 +1,60 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - "Can the Happiest of Spirits Understand Anxiety?"**
+  description: |-
+    > *Rebound Hydrotherapy's Bolstering Bubblebalm can bounce 3 extra times, and the first 3 bounces will not cause big Bubblebalms to become smaller.
+    > The Passive Talent "Requires Appropriate Rest" is enhanced: Each Bubblebalm bounce adds 1 stack to her Convalescence tally, and the values for the Convalescence stacks' DMG bonus will be modified to: Every 1,000 max HP Sigewinne has above 30,000 increases the DMG by 100. The maximum DMG increase for Elemental Skills that can be gained in this way is 3,500. You must first unlock the Passive Talent "Requires Appropriate Rest."*
+
+    Arguably Sigewinne’s best Constellation damage-wise. Her C1 is a significant buff to Sigewinne’s Elemental Skill and A1 Passive. Her Skill heals more and deals more damage with the extra bounces along with the bubble not immediately shrinking. Her A1 Passive’s buff also gains an increase and a higher cap, therefore boosting team damage as well.
+  color: 16736660
+  fields:
+  - name: "***DPS% Increase vs. C0:***"
+    value: 58.56%
+  - name: "***Rating:***"
+    value: 3.5/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_01.png
+- title: '**Constellation 2 - "Can the Most Merciful of Spirits Defeat Its Foes?"**'
+  description: |-
+    > *When using Rebound Hydrotherapy and Super Saturated Syringing, Sigewinne can create a Bubbly Shield worth 30% of her Max HP that absorbs Hydro DMG with 250% efficiency. The Bubbly Shield will persist until Sigewinne finishes using relevant skills.
+    > Additionally, after Rebound Hydrotherapy's Bolstering Bubblebalm or Super Saturated Syringing hits an opponent, that opponent's Hydro RES will be decreased by 35% for 8s.*
+
+    Sigewinne creates a shield during her Skill and Burst based on 30% of her Max HP that is most effective against Hydro. This shield is only for Sigewinne herself so it doesn’t really aid her teammates defensive-wise. Her C2 also decreases the enemy’s Hydro RES, which not only aids herself, but also her Hydro teammates damage-wise.
+  color: 16736660
+  fields:
+  - name: "***DPS% Increase vs. C1:***"
+    value: 15.12%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 82.54%
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_02.png
+- title: '**Constellation 3 - "Can the Healthiest of Spirits Cure Fevers?"**'
+  description: |-
+    > *Increases the Level of Rebound Hydrotherapy by 3.
+    > Maximum upgrade level is 15.*
+
+    An increase to Sigewinne’s Elemental Skill level, therefore increasing her Skill’s damage and outgoing healing.
+  color: 16736660
+  fields:
+  - name: "***DPS% Increase vs. C2:***"
+    value: 0.95%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 84.27%
+  - name: "***Rating:***"
+    value: 2/5
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/Ahw2p6j.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Sigewinne_01.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/sigewinne/const2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

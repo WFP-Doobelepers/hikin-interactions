@@ -1,0 +1,65 @@
+content: null
+embeds:
+- title: A Melusine and the Fortress of Meropide's head nurse. She cares equally for
+    every convict locked in the undersea prison.
+  color: 16736660
+  fields:
+  - name: Sigewinne Mastersheet by duckfero, baloopy, and ibellica
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1AsehFDNt6ucbP34OkDclQxhWGnQ_AxgyTXWYP8vplAs/edit?usp=sharing)"
+  author:
+    name: Sigewinne FAQ
+    icon_url: https://i.imgur.com/KEIJJPM.png
+  image:
+    url: https://i.imgur.com/Njuc47c.png
+
+options: #dropdown
+  - label: Overview
+    value: faq/hydro/sigewinne/overview
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Talents
+    value: faq/hydro/sigewinne/talents1
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Constellations
+    value: faq/hydro/sigewinne/const1
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/hydro/sigewinne/erreq
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Artifacts
+    value: faq/hydro/sigewinne/artifacts
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Weapons
+    value: faq/hydro/sigewinne/weapons
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Team Building
+    value: faq/hydro/sigewinne/teams1
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: External Links
+    value: faq/hydro/sigewinne/external
+    description: "WFP resources for Sigewinne FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+#buttons:
+#  - label: WFP FAQ
+#    url: https://wangshengfp.org/faq/sigewinne
+#    emoji: ${ EMOJIS.WFP_LOGO }
+#    style: LINK
+
+#  - label: KQM Guide
+#    url: https://keqingmains.com/sigewinne/
+#    emoji: :logont:945530991240421386
+#    style: LINK

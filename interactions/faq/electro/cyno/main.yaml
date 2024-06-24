@@ -70,8 +70,7 @@ options: #dropdown
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
 buttons:
-
   - label: KQM Guide
-    url: https://keqingmains.com/cyno/
+    url: https://keqingmains.com/q/cyno-quickguide/
     emoji: :logont:945530991240421386
     style: LINK

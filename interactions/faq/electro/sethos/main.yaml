@@ -54,8 +54,7 @@ options: #dropdown
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
 buttons:
-
   - label: KQM Guide
-    url: https://keqingmains.com/sethos/
+    url: https://keqingmains.com/q/sethos-quickguide/
     emoji: :logont:945530991240421386
     style: LINK

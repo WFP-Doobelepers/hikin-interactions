@@ -1,0 +1,57 @@
+content: null
+embeds:
+- title: '**Constellation 4 - "Can the Loveliest of Spirits Keep Decay at Bay?"**'
+  description: |-
+    > *The duration of Super Saturated Syringing is extended by 3s.*
+
+    Increases Sigewinne’s Burst duration to 5.5s, therefore increasing her field time and the rotation duration. Although a damage increase to herself, Sigewinne doesn’t really have an impressive damage output anyways. This Constellation gains a bit more value when Sigewinne is C6.
+  color: 16736660
+  fields:
+  - name: "***DPS% Increase vs. C3:***"
+    value: 39.51%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 157.08%
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_03.png
+- title: '**Constellation 5 - "Can the Most Joyful of Spirits Alleviate Agony?"**'
+  description: |-
+    > *Increases the Level of Super Saturated Syringing by 3.
+    > Maximum upgrade level is 15.*
+
+    Increases Sigewinne’s Burst level, which in turn increases her damage output as well. Like C4, this Constellation gains a bit more value when Sigewinne is C6.
+  color: 16736660
+  fields:
+  - name: "***DPS% Increase vs. C4:***"
+    value: 8.67%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 179.38%
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Sigewinne_02.png
+- title: '**Constellation 6 - "Can the Most Radiant of Spirits Pray For Me?"**'
+  description: |-
+    > *When Sigewinne performs healing, she will increase the CRIT Rate and CRIT DMG of her Super Saturated Syringing based on her Max HP. Every 1,000 Max HP she has will increase CRIT Rate by 0.4% and CRIT DMG by 2.2% for 15s. The maximum increase achievable this way is 20% CRIT Rate and 110% CRIT DMG.*
+
+    When Sigewinne heals, her Burst gains a massive CRIT buff based on her Max HP which, along with the increased duration and additional Talent Levels from her 2 previous Constellations, significantly increases Sigewinne’s damage output.
+  color: 16736660
+  fields:
+  - name: "***DPS% Increase vs. C5:***"
+    value: 34.96%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 277.05%
+  - name: "***Rating:***"
+    value: 3/5
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/Ahw2p6j.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_04.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/sigewinne/const1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

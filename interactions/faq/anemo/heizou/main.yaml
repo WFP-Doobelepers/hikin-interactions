@@ -63,8 +63,7 @@ options: #dropdown
   emoji: ${ EMOJIS.ANEMO_BOX }
 
 buttons:
-
-- label: KQM Guide
-  url: https://keqingmains.com/heizou/
-  emoji: :logont:945530991240421386
-  style: LINK
+  - label: KQM Guide
+    url: https://keqingmains.com/q/heizou-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

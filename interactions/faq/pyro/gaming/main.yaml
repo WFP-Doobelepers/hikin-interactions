@@ -5,7 +5,7 @@ embeds:
   color: 10235181
   fields:
   - name: Gaming Mastersheet by ibellica, quinslay, noootnooot, and duckfero
-    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1GaF3EbvTntMcmIj_niyZn5hSBOxnV03mmLJ5890yoAI/edit#gid=981902297)"
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1GaF3EbvTntMcmIj_niyZn5hSBOxnV03mmLJ5890yoAI/editgid=981902297)"
   author:
     name: Gaming FAQ
     icon_url: https://i.imgur.com/uFBl469.png
@@ -13,7 +13,7 @@ embeds:
     url: https://i.imgur.com/Oj7DDA3.png
 
 
-options: #dropdown
+options: dropdown
   - label: Overview
     value: faq/pyro/gaming/overview
     description: "WFP resources for Gaming FAQ."
@@ -59,13 +59,13 @@ options: #dropdown
     description: "WFP resources for Gaming FAQ."
     emoji: ${ EMOJIS.PYRO_BOX }
 
-#buttons:
-#  - label: WFP FAQ
-#    url: https://wangshengfp.org/faq/gaming
-#    emoji: ${ EMOJIS.WFP_LOGO }
-#    style: LINK
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/gaming
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
 
-#  - label: KQM Guide
-#    url: https://keqingmains.com/gaming/
-#    emoji: :logont:945530991240421386
-#    style: LINK
+  - label: KQM Guide
+    url: https://keqingmains.com/q/gaming-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

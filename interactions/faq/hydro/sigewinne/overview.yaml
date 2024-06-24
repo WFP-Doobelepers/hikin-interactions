@@ -1,0 +1,43 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 16736660
+  fields:
+  - name: 'Lead:'
+    value: "<@280016643558604800>"
+  - name: 'Authors:'
+    value: "<@280016643558604800>, <@812178562822963210>, <@245287312244736002>"
+  - name: 'Calculations:'
+    value: "<@209338139074887691>, <@245287312244736002>"
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: [tc staff user link]
+      Writing: [tc staff user link]
+  - name: 'Transcription:'
+    value: "<@812178562822963210>"
+  - name: 'Resources:'
+    value: "[Sigewinne Mastersheet](https://docs.google.com/spreadsheets/d/1AsehFDNt6ucbP34OkDclQxhWGnQ_AxgyTXWYP8vplAs/edit?usp=sharing)"
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://i.imgur.com/lX59eOv.jpg
+- title: __OVERVIEW__
+  description: "Sigewinne is a 5-star Hydro Bow character aligned with Ousia who provides
+    both healing, buffing and damage to teams. Her Elemental Skill creates a Bubble
+    with her gun that bounces between enemies, healing allies in the process. Once
+    her Skill ends, Sigewinne will be healed for 50% of her Max HP. With her Burst,
+    Sigewinne takes out a syringe, dealing multiple instances of AoE Hydro DMG over
+    a short period of time. Sigewinne also provides extra buffing to off-field Skill
+    DMG with her A1 Passive, based on her Max HP. \n\nAlthough Sigewinne will generally
+    be played off-field in a supportive role, she can use her Elemental Burst to deal
+    damage and fill downtime in rotations. Her A1 Passive's Flat DMG stacks also help
+    to increase the damage of other off-field Skill damage dealers, such as Furina
+    or Fischl."
+  color: 16736660
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://i.imgur.com/3kT8r11.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Sigewinne.png

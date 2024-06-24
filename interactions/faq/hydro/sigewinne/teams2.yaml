@@ -1,0 +1,57 @@
+content: null
+embeds:
+- title: "**Electro-Charged**"
+  description: "### Sigewinne | Hydro/Electro | Electro | Kazuha\nElectro-Charged
+    \ teams rely on the strong personal damage of off-field Electro and Hydro units.
+    An Anemo character can deal high reaction damage through Swirling Electro-Charged
+    enemies. The lower field time requirements on teammates allow Sigewinne to have
+    time for her Burst. The team can be a quickswap team consisting of many off-field
+    units or one with a dedicated on-fielder.\n\n__**Teammates**__\n\n<:hydro:1094545501493403709>
+    **Hydro options:**\n- **Furina:** The best Hydro option, due to her personal damage
+    and DMG% buff. \n- **Yelan:** She provides off-field damage and a ramping DMG%
+    buff for your on-field character. In teams without a dedicated on-fielder, make
+    use of this buff by on-fielding your most damaging character during downtime.
+    Sigewinne can not trigger Yelan’s Exquisite Throws during her Burst, so use Sigewinne’s
+    Burst during Yelan’s downtime.\n- **Xingqiu:** The male version of Yelan. \n-
+    **Kamisato Ayato:** A Hydro on-fielder. Use Sigewinne’s Burst during his downtime.
+    His cooldowns  synergize well with Fischl.\n\n<:electro:1094545575992623115> **Electro
+    options:**\n- **Fischl:** Her off-field damage and energy make her invaluable
+    to this team. With her, the team prefers a 24 second rotation. As her A4, Skill,
+    and C6 are all Skill damage, she will quickly eat up Sigewinne’s A1 procs. Her
+    Skill will snapshot any buffs, or the lack of them.\n- **Yae Miko:** She provides
+    off-field damage, and can on-field in downtime with her Normal and Charged Attacks.
+    She requires another Electro teammate to consistently use her Burst.\n- **Beidou:**
+    Only viable in Double Electro teams due to her high ER requirements. Makes for
+    a very comfortable team due to her shield and DMG Reduction. Use Sigewinne’s Burst
+    in her downtime.\n- **Raiden Shogun:** Raiden is a comfortable on-fielder due
+    to her inability to be interrupted. She lowers ER requirements across the entire
+    team.\n\n<:anemo:1094545726748508250> **Anemo options:**\nAnemo characters are
+    all able to hold 4pc VV to greatly increase team damage.\n- **Kazuha:** His DMG%,
+    grouping, and personal damage  make him the best Anemo option by far. Try to use
+    his Skills as often as possible as they deal significant reaction damage.\n- **Sucrose:**
+    Despite the reactions triggered by this team, her EM buff is mostly irrelevant
+    as the majority of damage is talent damage. She provides grouping and  can hold
+    Hakushin Ring or TTDS. As a driver, she uses her Normal Attacks, Charged Attacks,
+    and Skills while on-field.\n- **Heizou:** Provides much of the same utility as
+    Sucrose, both buff-wise and as a driver.\n- **Lynette:** Her 12s Skill CD lines
+    up well with Fischl. At C6 she can drive the team. She provides an ATK% buff,
+    taunt, minor grouping, personal damage,  and 4pc VV.\n- **Venti:** His Burst groups
+    enemies and triggers many reactions for high personal damage. His Burst has an
+    absorption priority of Hydro over Electro. In Solo Hydro teams, this can be controlled
+    by delaying Sigewinne Skill."
+  color: 16736660
+  footer:
+    text: 'Authored by: baloopy'
+    icon_url: https://i.imgur.com/UliXlj4.png
+  image:
+    url: https://i.imgur.com/Qm6yrE9.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/sigewinne/teams1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/sigewinne/teams3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

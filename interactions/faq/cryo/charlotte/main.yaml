@@ -57,7 +57,12 @@ options:
   emoji: ${ EMOJIS.CRYO_BOX }
 
 buttons:
-- label: WFP FAQ
-  url: https://wangshengfp.org/faq/charlotte
-  emoji: ${ EMOJIS.WFP_LOGO }
-  style: LINK
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/charlotte
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/q/charlotte-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

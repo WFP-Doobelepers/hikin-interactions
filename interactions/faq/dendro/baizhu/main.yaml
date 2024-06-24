@@ -71,3 +71,8 @@ buttons:
     url: https://wangshengfp.org/faq/baizhu
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/baizhu/
+    emoji: :logont:945530991240421386
+    style: LINK
