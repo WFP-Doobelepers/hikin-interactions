@@ -68,10 +68,10 @@ options: #dropdown
 buttons:
   - label: WFP FAQ
     url: https://wangshengfp.org/faq/nahida
-    emoji: ${ EMOJIS.WFP_LOGO } 
+    emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
 
   - label: KQM Guide
-    url: https://keqingmains.com/nahida/
+    url: https://keqingmains.com/q/nahida-quickguide/
     emoji: :logont:945530991240421386
     style: LINK

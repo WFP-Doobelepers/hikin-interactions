@@ -75,12 +75,7 @@ options: #dropdown
     emoji: ${ EMOJIS.DENDRO_BOX }
 
 buttons:
-  - label: WFP FAQ
-    url: https://wangshengfp.org/faq/tighnari
-    emoji: ${ EMOJIS.WFP_LOGO }
-    style: LINK
-
   - label: KQM Guide
-    url: https://keqingmains.com/tighnari/
+    url: https://keqingmains.com/q/tighnari-quickguide/
     emoji: :logont:945530991240421386
     style: LINK

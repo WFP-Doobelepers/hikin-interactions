@@ -24,6 +24,11 @@ options:
     value: faq/hydro/nilou/main
     description: WFP resources on Nilou!
     emoji: <${ EMOJIS.HYDRO}>
+
+  - label: Sigewinne
+    value: faq/hydro/sigewinne/main
+    description: WFP resources on Sigewinne!
+    emoji: <${ EMOJIS.HYDRO}>    
   
   - label: Yelan
     value: faq/hydro/yelan/main

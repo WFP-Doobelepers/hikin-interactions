@@ -68,3 +68,8 @@ buttons:
     url: https://wangshengfp.org/faq/lynette
     emoji: ${ EMOJIS.WFP_LOGO }
     style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/q/lynette-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

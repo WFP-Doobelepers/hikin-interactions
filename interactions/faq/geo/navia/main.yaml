@@ -56,13 +56,13 @@ options: #dropdown
     description: "WFP resources for Navia FAQ."
     emoji: ${ EMOJIS.GEO_BOX }
 
-#buttons:
-#  - label: WFP FAQ
-#    url: https://wangshengfp.org/faq/navia
-#    emoji: ${ EMOJIS.WFP_LOGO }
-#    style: LINK
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/navia
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
 
-#  - label: KQM Guide
-#    url: https://keqingmains.com/navia/
-#    emoji: :logont:945530991240421386
-#    style: LINK
+  - label: KQM Guide
+    url: https://keqingmains.com/q/navia-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

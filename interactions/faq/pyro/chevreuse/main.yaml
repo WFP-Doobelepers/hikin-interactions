@@ -8,7 +8,7 @@ embeds:
   - name: Chevreuse Mastersheet by leifa
     value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1c8CZOoCWtLpKbHqJCCSpnL32ijBF8aCfbKuDfpliry4/edit?usp=sharing)"
   - name: Chevreuse Frames Mastersheet by sirvaughan
-    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1LStKz7uk2O-izjnafciosNrvwhMnX1klI2JLIQVXXjU/edit#gid=0)"
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1LStKz7uk2O-izjnafciosNrvwhMnX1klI2JLIQVXXjU/editgid=0)"
   author:
     name: Chevreuse FAQ
     icon_url: https://media.discordapp.net/attachments/1139854891729289246/1172073365977174016/chevreuse_090_side_icon.png?ex=65965c62&is=6583e762&hm=690a94c91a8de528cd1b7108231aa3d0543e6b41fdd94c04d80849a4c04a36a7&
@@ -16,7 +16,7 @@ embeds:
     url: https://media.discordapp.net/attachments/1139854891729289246/1172073411300831286/chevreuse_090_gacha_splash.png?ex=65965c6d&is=6583e76d&hm=b46d7bd4da20079d9c20d88f9993a41d90f40cad17a433c6743ca88838307062&width=453&height=467&
 
 
-options: #dropdown
+options: dropdown
   - label: Overview
     value: faq/pyro/chevreuse/overview
     description: "WFP resources for Chevreuse FAQ."
@@ -57,13 +57,13 @@ options: #dropdown
     description: "WFP resources for Chevreuse FAQ."
     emoji: ${ EMOJIS.PYRO_BOX }
 
-#buttons:
-#  - label: WFP FAQ
-#    url: https://wangshengfp.org/faq/chevreuse
-#    emoji: ${ EMOJIS.WFP_LOGO }
-#    style: LINK
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/chevreuse
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
 
-#  - label: KQM Guide
-#    url: https://keqingmains.com/chevreuse/
-#    emoji: :logont:945530991240421386
-#    style: LINK
+  - label: KQM Guide
+    url: https://keqingmains.com/q/chevreuse-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

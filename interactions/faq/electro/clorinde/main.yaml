@@ -60,8 +60,12 @@ options: #dropdown
     emoji: ${ EMOJIS.ELECTRO_BOX }
 
 buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/clorinde
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
 
   - label: KQM Guide
-    url: https://keqingmains.com/clorinde/
+    url: https://keqingmains.com/q/clorinde-quickguide/
     emoji: :logont:945530991240421386
     style: LINK

@@ -1,0 +1,14 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: |-
+    Sigewinne’s Skill generates 4 Hydro particles on its first hit. As her Burst is not the most impactful, it is often skipped and she does not need to build ER. Even in teams where she uses her Burst, her Burst may be split from the Skill to funnel another Hydro unit or allows for 4pc Viridescent Venerer to Hydro swirl. As Sigewinne rarely Bursts in Solo Hydro teams without Electro Resonance, Solo Hydro ER requirements were not calculated. Calcs for ER requirements can be found [here](https://docs.google.com/spreadsheets/d/1UbZhqb5vixZpOSllco9vSKCrk6VyFD-rQWsPTvgeZW0/edit?usp=sharing).
+
+    Sigewinne’s ER requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    For more details on how Favonius weapons will affect your team, please use Ac1d’s Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+  color: 16736660
+  footer:
+    text: 'Authored by: baloopy'
+    icon_url: https://i.imgur.com/UliXlj4.png
+  image:
+    url: https://i.imgur.com/hxhIav0.png

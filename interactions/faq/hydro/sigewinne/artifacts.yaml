@@ -1,0 +1,46 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* HP% / ER%
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* HP% / Hydro DMG%
+    <:circlet:1094559608581922966> *Circlet of Logos:* HP% / CRIT
+
+    As long as there are CRIT substats, HP%/HP%/HP% or ER%/HP%/HP% are the most optimal main stats for Sigewinne. These main stats are better than a Hydro DMG% Goblet or a CRIT Circlet by 2–5%, even when using Burst every rotation but can be used as alternatives.
+
+    **Substats:** ER until requirement > HP% > CRIT > HP
+  color: 16736660
+- title: |-
+    __Artifact Sets__
+
+    **4pc Song of Days Past**
+  description: One of Sigewinne’s best sets in terms of team damage, providing additional
+    Flat DMG to other characters. Teammates with large amounts of DMG Bonus will generally
+    make use of this set the most.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15033_4.png
+- title: "**4pc Ocean-Hued Clam**"
+  description: Very close to 4pc SDP in terms of damage and beats it out in AoE scenarios,
+    turning Sigewinne’s healing into periodic Physical DMG instances. For supportive
+    playstyles, choose between 4pc OHC and SDP.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15022_4.png
+- title: "**4pc Emblem of Severed Fate**"
+  description: 4pc ESF tends to perform worse than 4pc SDP and 4pc OHC by ~20%, making
+    it not worth farming specifically for Sigewinne, but if players want to make use
+    of her Elemental Burst, it could be used as a temporary alternative if there are
+    extra sets lying around from farming for other characters.
+  color: 16736660
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15020_4.png
+- title: "**2pc HB%/HP%/ER%/Hydro DMG% combos**"
+  description: 2pc combos can be used as a cheap alternative, or whilst farming for
+    a 4pc set.
+  color: 16736660
+  footer:
+    text: 'Authored by: June'
+    icon_url: https://i.imgur.com/Ahw2p6j.png
+  thumbnail:
+    url: https://i.imgur.com/FmFwQMp.png
