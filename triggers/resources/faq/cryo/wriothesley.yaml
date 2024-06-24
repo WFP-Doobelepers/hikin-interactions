@@ -1,4 +1,4 @@
 interaction: faq/cryo/wriothesley/main
 description: "Opens Wriothesley FAQ"
-match: ${ TRIGGER_PREFIX }wriothesleyfaq(?:\s|$)
+match: ${ TRIGGER_PREFIX }wrio(thesley)?faq(?:\s|$)
 ignoreCase: true

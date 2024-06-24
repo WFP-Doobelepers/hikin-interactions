@@ -12,8 +12,7 @@ embeds:
   image:
     url: https://i.imgur.com/Oj7DDA3.png
 
-
-options: dropdown
+options: #dropdown
   - label: Overview
     value: faq/pyro/gaming/overview
     description: "WFP resources for Gaming FAQ."
@@ -32,7 +31,7 @@ options: dropdown
   - label: Combos
     value: faq/pyro/gaming/combos1
     description: "WFP resources for Gaming FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.PYRO_BOX }    
 
   - label: Energy Recharge Requirements
     value: faq/pyro/gaming/errequire
