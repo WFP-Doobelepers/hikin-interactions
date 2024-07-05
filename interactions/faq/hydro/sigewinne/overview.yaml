@@ -6,9 +6,9 @@ embeds:
   - name: 'Lead:'
     value: "<@280016643558604800>"
   - name: 'Authors:'
-    value: "<@280016643558604800>, <@812178562822963210>, <@245287312244736002>"
+    value: "<@280016643558604800>, <@812178562822963210>, irides"
   - name: 'Calculations:'
-    value: "<@209338139074887691>, <@245287312244736002>"
+    value: "<@209338139074887691>, irides"
   - name: 'Content Verification:'
     value: |-
       Calculations: [tc staff user link]
