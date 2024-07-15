@@ -24,7 +24,7 @@ embeds:
 
 
 buttons:
-- customId: liveInteraction#faq/hydro/sigewinne/teams3
+- customId: liveInteraction#faq/hydro/sigewinne/teams2
   label: Previous
   style: PRIMARY
   emoji: "◀️"
