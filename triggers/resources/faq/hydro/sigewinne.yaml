@@ -1,0 +1,4 @@
+interaction: faq/hydro/sigewinne/main
+description: "Opens WFP resources on Sigewinne"
+match: ${ TRIGGER_PREFIX }sige(winne)?faq(?:\s|$)
+ignoreCase: true

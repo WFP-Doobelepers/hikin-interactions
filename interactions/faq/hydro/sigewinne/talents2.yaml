@@ -4,11 +4,11 @@ embeds:
     __TALENT OVERVIEW__
 
     **Normal Attack: Targeted Treatment**
-  description: Sigewinne’s Normal Attacks consist of 3 consecutive ranged attacks.  Her
-    Charged Attack is a bit unique. Before releasing a fully charged shot, she will
-    periodically release bubbles that slowly drift towards the enemy and deal Hydro
-    DMG. Although quite adorable, Sigewinne’s Normal and Charged Attacks do not really
-    offer anything significant to the team.
+  description: Sigewinne’s Normal Attacks consist of 3 consecutive ranged attacks.
+    Her Charged Attack is a bit unique. Before releasing a fully charged shot, she
+    will periodically release bubbles that slowly drift towards the enemy and deal
+    Hydro DMG. Although quite adorable, Sigewinne’s Normal and Charged Attacks do
+    not really offer anything significant to the team.
   color: 16736660
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_02.png
@@ -16,7 +16,7 @@ embeds:
   description: |-
     *CD: **18s***
 
-    The main highlight of Sigewinne’s kit. On press, Sigewinne creates a bubble that bounces between enemies, deals Hydro DMG, and heals teammates aside from Sigewinne herself 5 times. On hold, the bubble Sigewinne creates grows up to 2 tiers and becomes aimable, with each tier buffing the bubble’s DMG and healing by 5%. These tiers decrease for each bounce the bigger bubble makes until it becomes a normal-sized bubble. After 5 bounces, the bubble disappears and heals Sigewinne based on 50% of her Max HP. The bubble also  imprisons smaller and weaker enemies and periodically summons and attacks with an Ousia blade that scales off her Max HP.
+    The main highlight of Sigewinne’s kit. On press, Sigewinne creates a bubble that bounces between enemies, deals Hydro DMG, and heals teammates, aside from Sigewinne herself, 5 times. On hold, the bubble Sigewinne creates grows up to 2 tiers and becomes aimable, with each tier buffing the bubble’s DMG and healing by 5%. These tiers decrease for each bounce the bigger bubble makes until it becomes a normal-sized bubble. After 5 bounces, the bubble disappears and heals Sigewinne based on 50% of her Max HP. The bubble also imprisons smaller and weaker enemies and periodically summons and attacks with an Ousia blade that scales off her Max HP.
 
     Sigewinne also generates 2 Sourcewater Droplets upon using her Skill which she absorbs to grant herself 10% Bond of Life per Droplet. For every 2000 Bond of Life cleared, Sigewinne regains 1 Energy, capping up to 5 Energy.
   color: 16736660
@@ -27,11 +27,11 @@ embeds:
     *CD: **18s***
     *Energy cost: **70***
 
-    A cuter yet shorter and weaker version of Neuvillette’s special Charged Attack. Sigewinne absorbs 2 Sourcewater Droplets then deals multiple instances of AoE Hydro DMG for 2.5s. Sigewinne also cannot be interrupted during her Burst, therefore players do not have to worry about her Burst suddenly being disrupted. Her Burst can be used to fill in downtime within rotations.
+   A cuter yet shorter and weaker version of Neuvillette’s special Charged Attack. Sigewinne absorbs 2 Sourcewater Droplets then deals multiple instances of AoE Hydro DMG for 2.5s. Sigewinne also cannot be interrupted during her Burst, therefore players do not have to worry about her Burst suddenly being disrupted. Her Burst can be used to fill in downtime within rotations.
   color: 16736660
   footer:
     text: 'Authored by: June'
-    icon_url: https://i.imgur.com/Ahw2p6j.png
+    icon_url: https://i.imgur.com/Kq5mUqF.png
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_E_Sigewinne_01.png
 
