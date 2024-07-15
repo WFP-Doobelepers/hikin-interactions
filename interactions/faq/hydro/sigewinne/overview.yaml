@@ -11,8 +11,8 @@ embeds:
     value: "<@209338139074887691>, irides"
   - name: 'Content Verification:'
     value: |-
-      Calculations: [tc staff user link]
-      Writing: [tc staff user link]
+      Calculations: <@366206663533002774>
+      Writing: <@183421612069093376>
   - name: 'Transcription:'
     value: "<@812178562822963210>"
   - name: 'Resources:'
