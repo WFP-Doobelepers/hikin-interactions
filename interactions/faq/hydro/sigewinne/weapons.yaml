@@ -4,7 +4,7 @@ embeds:
     __WEAPONS__
 
     **Silvershower Heartstrings**
-  description: Sigewinne’s Signature and best weapon. The high HP% from the secondary
+  description: Sigewinne’s signature and best weapon. The high HP% from the secondary
     benefits both her personal damage and A1 buff. The Elemental Burst CRIT Rate buff
     further increases Sigewinne’s damage. Sigewinne needs to pick up her Sourcewater
     Droplets to get the full passive.
@@ -33,8 +33,8 @@ embeds:
     url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Bow_Curve.png
 - title: "**Favonius Warbow**"
   description: Significantly worse than other bows for Sigewinne’s buff and personal
-    damage, but the extra energy it offers can outweigh those cons. The Energy substat
-    and passive usually more than satisfy her ER requirements.
+    damage, but the extra energy it offers can outweigh those cons. The Energy Recharge
+    substat and passive usually more than satisfy her Energy Recharge requirements.
   color: 16736660
   footer:
     text: 'Authored by: irides'

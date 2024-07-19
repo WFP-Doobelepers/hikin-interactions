@@ -35,7 +35,7 @@ embeds:
   description: |-
     > *When Sigewinne performs healing, she will increase the CRIT Rate and CRIT DMG of her Super Saturated Syringing based on her Max HP. Every 1,000 Max HP she has will increase CRIT Rate by 0.4% and CRIT DMG by 2.2% for 15s. The maximum increase achievable this way is 20% CRIT Rate and 110% CRIT DMG.*
 
-    When Sigewinne heals, her Burst gains a massive CRIT buff based on her Max HP which, along with the increased duration and additional Talent Levels from her 2 previous Constellations, significantly increases Sigewinne’s damage output.
+    Sigewinne’s Burst gains a massive CRIT buff based on her Max HP when she heals, which, along with the increased duration and additional Talent Levels from her 2 previous Constellations, significantly increases Sigewinne’s damage output. Sigewinne requires 50k Max HP for the maximum CRIT buff, which should be easy to achieve.
   color: 16736660
   fields:
   - name: "***DPS% Increase vs. C5:***"
@@ -46,7 +46,7 @@ embeds:
     value: 3/5
   footer:
     text: 'Authored by: June'
-    icon_url: https://i.imgur.com/Ahw2p6j.png
+    icon_url: https://i.imgur.com/Kq5mUqF.png
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_04.png
 

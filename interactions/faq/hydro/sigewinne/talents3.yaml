@@ -4,12 +4,13 @@ embeds:
     __Passives__
 
     **Ascension 1 Passive: Requires Appropriate Rest**
-  description: After using her Skill, Sigewinne gains 8% Hydro DMG Bonus and 10 stacks
-    of Convalescence that lasts for 18s. Convalescence stacks are consumed when teammates’
-    off-field Elemental Skills deal damage. Upon consuming a stack, Sigewinne grants
-    Additive DMG Bonus to off-field Elemental Skills. The Additive DMG Bonus Sigewinne
-    grants is based on her Max HP. For every 1000 HP she has that exceeds 30000 HP,
-    she gives 80 Flat DMG, capping at 2800.
+  description: A passive that buffs Sigewinne herself and her teammates. After using
+    her Skill, Sigewinne gains 8% Hydro DMG Bonus and 10 stacks of Convalescence that
+    lasts for 18s. Convalescence stacks are consumed when teammates’ off-field Elemental
+    Skills deal damage. Upon consuming a stack, Sigewinne grants Additive DMG Bonus
+    to off-field Elemental Skills. The Additive DMG Bonus Sigewinne grants is based
+    on her Max HP. For every 1000 HP she has that exceeds 30000 HP, she gives 80 Flat
+    DMG, capping at 2800.
   color: 16736660
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_05.png
@@ -22,12 +23,11 @@ embeds:
     url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_06.png
 - title: "**Utility Passive: Emergency Dose**"
   description: Sigewinne aids in underwater exploration by healing the active character
-    when their HP falls below 50%, although it also decreases the character’s Elemental
-    and Physical RES by 10%  for 10s.
+    when their HP falls below 50%.
   color: 16736660
   footer:
     text: 'Authored by: June'
-    icon_url: https://i.imgur.com/Ahw2p6j.png
+    icon_url: https://i.imgur.com/Kq5mUqF.png
   thumbnail:
     url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Sigewinne_07.png
 

@@ -1,0 +1,37 @@
+content: null
+embeds:
+- title: "**Hyperbloom/Burgeon**"
+  description: |-
+    ### Sigewinne | Dendro | Electro/Pyro | Hydro/Flex
+    Although Sigewinne’s Hydro application can not enable Hyperbloom or Burgeon on her own, she can support a second Hydro character and provide healing. As the only Hydro character, her low Hydro application allows Quicken to be maintained while she provides healing and her A1 buff.
+
+    __**Teammates**__
+
+    <:electro:1094545575992623115> **Electro options:**
+    - **Raiden:** She is the best Hyperbloom trigger due to her 100% uptime, Burst DMG% buff and energy generation.
+    - **Kuki:** A 4-star alternative to Raiden.
+    - **Electro Traveler:** They can trigger Hyperbloom using their Burst, but have very high ER requirements.
+    - **Dori:** The tether from her Burst can trigger Hyperbloom. Requires more finesse to play than other triggers.
+    - **Fischl:** She can trigger Blooms when Sigewinne is solo Hydro, but otherwise can not be a consistent Hyperbloom trigger. Brings her own personal damage.
+
+    <:pyro:1085111476584460328> **Pyro options:**
+    - **Thoma:** A consistent Burgeon trigger with his Burst.
+    - **Xiangling:** Triggers Burgeon and contributes some personal damage, but has high ER requirements. Her high Pyro application will result in Burning and Vaporize.
+
+    <:dendro:1094441547170316359> **Dendro options:** ***Nahida***, ***Alhaitham***, Dendro Traveler, Collei
+
+    <:hydro:1094545501493403709> **Hydro options:** ***Furina***, Xingqiu, Yelan
+
+    *Bold units are the preferred units for that slot.*
+  color: 16736660
+  footer:
+    text: 'Authored by: irides'
+    icon_url: https://i.imgur.com/bW6iLUf.jpeg
+  image:
+    url: https://i.imgur.com/SmSidZ2.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/sigewinne/teams3
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

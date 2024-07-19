@@ -1,0 +1,5 @@
+interaction: faq/hydro/sigewinne/main
+description: "Opens WFP resources on Sigewinne"
+emoji: <${EMOJIS.Sigewinne}>
+
+name: Sigewinne
