@@ -1,0 +1,4 @@
+interaction: faq/hydro/mualani/main
+description: "Opens WFP resources on Mualani"
+match: ${ TRIGGER_PREFIX }mualanifaq(?:\s|$)
+ignoreCase: true

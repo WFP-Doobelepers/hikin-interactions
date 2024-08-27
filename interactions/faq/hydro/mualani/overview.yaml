@@ -1,0 +1,36 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 7520767
+  fields:
+  - name: 'Lead:'
+    value: "<@366206663533002774>"
+  - name: 'Authors:'
+    value: "<@366206663533002774>, <@1104825453023342602>, <@148100838861176832>"
+  - name: 'Calculations:'
+    value: "<@1104825453023342602>, <@148100838861176832>"
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@366206663533002774>
+      Writing: <@812178562822963210>
+  - name: 'Transcription:'
+    value: "<@812178562822963210>"
+  - name: 'Resources:'
+    value: "[Mualani Mastersheet](https://docs.google.com/spreadsheets/d/1njFOowF1VkKtx51fYxF-mK9CQ74s_UbaDWMgzHLyaPY/edit?usp=sharing)"
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://i.imgur.com/LvhTV1i.jpeg
+- title: __OVERVIEW__
+  description: |-
+    Mualani is the first 5-star character from Natlan. She is a Hydro Catalyst whose kit revolves around managing Nightsoul points – a new mechanic from Natlan – to stack Wave Momentum and deal large Normal Attack damage that scales with her HP. Mualani’s Elemental Skill makes her enter the Nightsoul's Blessing state, where she mounts her Sharky Surfboard and, upon making contact with enemies, gains Wave Momentum stacks up to 3 times. She then uses her Normal Attack to deal damage. Mualani’s Elemental Burst is simply one large instance of Burst DMG.
+
+    Mualani will mainly be played as an on-field DPS in a Forward Vaporize team due to her slow yet strong damage output, or a Mono Hydro team where she can synergize with other Hydro teammates.
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Mualani.png

@@ -1,0 +1,43 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* HP% / EM
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* Hydro DMG% > HP%
+    <:circlet:1094559608581922966> *Circlet of Logos:* CRIT > HP%
+
+    With the new artifact set, 4pc Obsidian Codex, Mualani gains 40% CRIT Rate by just consuming Nightsoul points. Combined with her CRIT Rate Ascension Passive, she already effectively has more than 60% CRIT Rate, therefore it is very easy to overcap it.
+
+    **Substats:** CRIT > HP% > EM
+  color: 7520767
+- title: |-
+    __Artifact Sets__
+
+    **4pc Obsidian Codex**
+  description: The new Natlan artifact set is definitely the Best-in-Slot set for
+    Mualani, providing her with 40% CRIT Rate for basically the full uptime of her
+    Skill and Burst. Note that for this set, you generally want to use a CRIT DMG
+    Circlet to avoid overcapping your CRIT Rate.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15038_4.png
+- title: "**4pc Unfinished Reverie**"
+  description: Only viable in a Burning-Vaporize team, and it still underperforms
+    compared to 4pc Obsidian Codex.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15036_4.png
+- title: "**4pc Heart of Depth**"
+  description: Mualani can make use of the Hydro and Normal Attack DMG% Bonus. A bit
+    better than 2pc combos.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15016_4.png
+- title: "**2pc HP/EM/Hydro DMG% combos**"
+  description: The minimum baseline until you can get a good Obsidian Codex set.
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png
+  thumbnail:
+    url: https://i.imgur.com/Xr1Rh27.png

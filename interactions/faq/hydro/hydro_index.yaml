@@ -15,6 +15,11 @@ options:
     description: WFP resources on Furina!
     emoji: <${ EMOJIS.HYDRO}>
 
+  - label: Mualani
+    value: faq/hydro/mualani/main
+    description: WFP resources on Mualani!
+    emoji: <${ EMOJIS.HYDRO}>
+
   - label: Neuvillette
     value: faq/hydro/neuvillette/main
     description: WFP resources on Neuvillette!

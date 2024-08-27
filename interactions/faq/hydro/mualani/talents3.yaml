@@ -1,0 +1,51 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Heat-Resistant Freshwater Floater**
+  description: When Sharky's Surging Bite (3 stacks Sharky’s Bite) hits an enemy,
+    a Puffer will be generated nearby, generating up to 2 Puffers per instance of
+    Nightsoul's Blessing. Each Puffer, when picked up, will restore 20 Nightsoul points
+    to Mualani. This will ensure Mualani can consistently get up to 3 Sharky’s Surging
+    Bites per Skill in a single-target scenario.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mualani_05.png
+- title: "**Ascension 4 Passive: Natlan's Greatest Guide**"
+  description: "When a nearby party member triggers a Nightsoul Burst (a mechanic
+    wherein a Nightsoul Burst will be triggered if your party contains a character
+    from Natlan and a character deals Elemental DMG to an opponent), Mualani will
+    store 1 stack of Wavechaser's Exploits for 20 seconds, max 3 stacks. The stacks
+    will be consumed when Mualani uses her Burst, increasing its DMG. \n\nAt the current
+    time of writing, it is not recommended to stack multiple Natlan characters in
+    the team for the shorter cooldowns of Nightsoul Burst (Kinich, Kachina) due to
+    the lack of synergy between them."
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mualani_06.png
+- title: "**Night Realm's Gift: Crests and Troughs**"
+  description: |-
+    This is a special passive for Natlan characters, including Mualani, when they are exploring in Natlan. After her Nightsoul points are depleted, to maintain her Nightsoul's Blessing, Mualani will switch to consume Phlogiston, a special stamina bar that appears above the character’s HP bar exclusive to Natlan characters. Switching to Mualani while the active character is sprinting, swimming, moving due to certain Talents, or at a certain height within an area with Phlogiston Mechanics will cause her to enter in her Nightsoul’s Blessing state, gaining 40 Nightsoul points alongside it. This effect can be triggered once every 10s.
+
+    When Mualani surfs across water or Liquid Phlogiston in Natlan in her Nightsoul’s Blessing state, her Nightsoul point or Phlogiston consumption decreases by 75%. Outside of Natlan, her Nightsoul point consumption decreases by 35% instead.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mualani_07.png
+- title: "**Utility Passive: The Trick Is to Keep Smiling!**"
+  description: Mualani’s Utility Passive displays the location of Natlan’s local specialties
+    on the mini-map, aiding in material farming for Natlan characters. Aside from
+    that, whenever Mualani picks harvestable items in an area with Phlogiston Mechanics
+    within Natlan, she restores 15 Phlogiston.
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Kachina_08.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,71 @@
+content: null
+embeds:
+- title: A well-known guide in Natlan who owns a watersports shop, and expert in all
+    forms of wave-chasing.
+  color: 7520767
+  fields:
+  - name: Mualani Mastersheet by angel_on_fire, natc, and .athene.
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1njFOowF1VkKtx51fYxF-mK9CQ74s_UbaDWMgzHLyaPY/edit?usp=sharing)"
+  author:
+    name: Mualani FAQ
+    icon_url: https://i.imgur.com/lD8Evw1.png
+  image:
+    url: https://i.imgur.com/yKrypc9.png
+
+options: #dropdown
+    
+  - label: Overview
+    value: faq/hydro/mualani/overview
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: WFP Subjective Analysis
+    value: faq/hydro/mualani/analysis
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }    
+
+  - label: Talents
+    value: faq/hydro/mualani/talents1
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+  
+  - label: Constellations
+    value: faq/hydro/mualani/cons1
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+    
+  - label: ER Requirements
+    value: faq/hydro/mualani/erreqs
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Artifacts
+    value: faq/hydro/mualani/artifacts
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Weapons
+    value: faq/hydro/mualani/weapons1
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: Teambuilding
+    value: faq/hydro/mualani/teams1
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+  - label: External Links
+    value: faq/hydro/mualani/external
+    description: "WFP resources for Mualani FAQ."
+    emoji: ${ EMOJIS.HYDRO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/mualani
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/q/mualani-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

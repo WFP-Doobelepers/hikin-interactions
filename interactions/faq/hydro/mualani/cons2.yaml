@@ -1,0 +1,47 @@
+content: null
+embeds:
+- title: "**Constellation 3 - Surfing Atop Joyous Seas**"
+  description: |-
+    > *Increases the Level of Surfshark Wavebreaker by 3.
+    > Maximum upgrade level is 15.*
+
+    A straightforward damage increase. This Constellation increases the Talent Level of her Skill resulting in higher buff multipliers for her Sharky’s Surging Bites.
+  color: 7520767
+  fields:
+  - name: "***DPS% Increase vs. C2:***"
+    value: 12.97%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 74.51%
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Mualani_01.png
+- title: "**Constellation 4 - Sharky Eats Puffies**"
+  description: |-
+    > *Mualani regenerates 8 Energy when obtaining a Puffer. Must first unlock the Passive Talent "Heat-Resistant Freshwater Floater."
+    > Additionally, Boomsharka-laka deals 75% increased DMG.*
+
+    Mualani doesn’t require building a lot of Energy Recharge since her Burst overall is minor in damage contribution compared to her buffed Normal Attacks. Not recommended to pull for this Constellation specifically.
+  color: 7520767
+  fields:
+  - name: "***DPS% Increase vs. C3:***"
+    value: 5.75%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 84.55%
+  - name: "***Rating:***"
+    value: 1/5
+  footer:
+    text: 'Authored by: Lilith'
+    icon_url: https://i.imgur.com/ItctPOD.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mualani_03.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/cons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/mualani/cons3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
