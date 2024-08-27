@@ -1,0 +1,31 @@
+content: null
+embeds:
+- title: __TEAM BUILDING__
+  description: |-
+    Mualani is designed for a Forward Vaporize team (even emphasized in her Signature Weapon passive), due to her slow, no ICD, powerful Sharky’s Bites. Other team archetypes are usually a DPS loss compared to this.
+    Do note that the other new Artifact set, Scroll of the Hero of Cinder City, will give Mualani a 12% Hydro DMG buff when the wearer creates a reaction with Hydro, up to an additional 28% if the wearer is a Natlan character, therefore any support character can equip this artifact to further increase Mualani’s DMG.
+  color: 7520767
+- title: "**Forward Vaporize**"
+  description: |-
+    ### Mualani | Pyro | Dendro/Kazuha | Flex
+    As mentioned above, this is the primary team that Mualani wants to play in, in order to Vape her Sharky’s Bites. A Pyro character is required to provide Pyro aura (no way!!!). You want to have another character to support the Pyro aura (mainly Dendro, with Burning, and Kazuha with his Pyro-infused Burst). The last slot can be any character that can support Mualani, as long as the character does not interfere with the Pyro aura that Mualani needs to Vape all of her hits.
+
+    __**Teammates**__
+
+    <:pyro:1085111476584460328> **Pyro options:** Xiangling, Dehya, Xinyan, Thoma
+
+    <:dendro:1094441547170316359> **Dendro options:** Nahida, Emilie, Baizhu
+
+    <:flex:1094549077280169984> **Flex options:** Pyro/Dendro mentioned, Zhongli, Chiori, Kachina, Furina, Candace, Mona
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png
+  image:
+    url: https://i.imgur.com/WZnXqHm.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/teams2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

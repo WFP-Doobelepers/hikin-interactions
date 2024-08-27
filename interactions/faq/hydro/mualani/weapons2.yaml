@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: "**Tome of the Eternal Flow**"
+  description: Neuvillette’s Signature Weapon. Another massive CRITstick while providing
+    a bit of HP, but the secondary passive is non-existent for Mualani. Not recommended
+    to pull specifically for her, but is still better than The Widsith if you have
+    it.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Iudex.png
+- title: "**The Widsith / Ring of Yaxche R5**"
+  description: The first of the non-premium / BP options, The Widsith along with the
+    Ring of Yaxche both fare decently on paper for Mualani, with The Widsith coming
+    out on top ever so slightly. One thing to note though is that with The Widsith,
+    only two of the three buffs are actually useful for Mualani, with the Recitative
+    buff providing ATK% being completely useless for her damage. Hence, if you wish
+    for her damage to be more consistent, you might want to consider favoring the
+    Ring of Yaxche, which is not only craftable, but you can also obtain it immediately
+    after logging into the game in Version 5.0 as a collective reward from a Web Event.
+  color: 7520767
+  thumbnail:
+    url: https://i.imgur.com/CxcZ20Z.png
+- title: "**Ash-Graven Drinking Horn R5**"
+  description: The 5.0 flagship event weapon. On paper, this weapon performs similarly
+    to Ring of Yaxche R1, so if you have no billets to spare for refining the Ring
+    of Yaxche and need a weapon for Mualani, you can run with the Ash-Graven Drinking
+    Horn, which you should be able to max out by playing the 5.0 event.
+  color: 7520767
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://i.imgur.com/2Chf8FV.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_ConchSprayer.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/weapons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

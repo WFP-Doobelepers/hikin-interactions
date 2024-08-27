@@ -1,0 +1,54 @@
+content: null
+embeds:
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Cooling Treatment**
+  description: This Talent is irrelevant to her kit, despite her Sharky’s Bite being
+    considered as Normal Attack DMG, since Sharky’s Bite is upgraded through leveling
+    up her Elemental Skill. Her Normal Attack should only be used to set up the rotation
+    through applying Hydro.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_Catalyst_MD.png
+- title: "**Elemental Skill: Surfshark Wavebreaker**"
+  description: "*CD: **6s***\n\nMualani gains 60 Nightsoul points and enters Nightsoul's
+    Blessing state, which consumes Nightsoul points until they are depleted or when
+    the Skill is used again. In this state, she moves around on her Surfboard, and
+    upon hitting an enemy, it will not deal damage, but instead mark that enemy as
+    Prey and give Mualani 1 Wave Momentum stack, up to 3 stacks. 1 stack can be gained
+    from the same enemy every 0.7s. \n\nEach Wave Momentum stack will increase the
+    damage of her Enhanced Normal Attack – Sharky’s Bite. At 3 stacks, the Sharky
+    Bite’s MV will be further increased and become Sharky’s Surging Bite. After performing
+    a Normal Attack, the mark will be removed, and Mualani will fire Shark Missiles
+    at up to 5 nearby Prey, dealing Sharky's Bite Nightsoul-aligned DMG and clearing
+    the stack. If there is more than one target for either the Sharky’s Bite or Shark
+    Missiles, the damage will be reduced, by 14% at 2 targets, up to 28% at 3+ targets.\n\nIt
+    is recommended to always use Sharky’s Bite at full stacks (indicated by a bar
+    on the screen), not only for the larger damage, but it also extends the Nightsoul's
+    Blessing through her Ascension 1 Passive, which will be explained in its own section."
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_S_Mualani_01.png
+- title: "**Elemental Burst: Boomsharka-laka**"
+  description: |-
+    *CD: **15s***
+    *Energy cost: **60***
+
+    Mualani’s Elemental Burst simply deals a strong Nightsoul-aligned hit that scales with her HP.
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_E_Mualani_01.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/hydro/mualani/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

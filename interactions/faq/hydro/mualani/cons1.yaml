@@ -1,0 +1,44 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - The Leisurely "Meztli"...**
+  description: |-
+    > *The DMG dealt by the first Sharky's Surging Bite after Mualani enters Nightsoul's Blessing and the Shark Missiles it triggers is increased by 66% of Mualani's Max HP. This instance of increased DMG is subject to the diminishing DMG rules of Surfshark Wavebreaker.
+    > In addition, while out of combat, Mualani's Nightsoul's Blessing state consumes 30% less Phlogiston and Nightsoul points.*
+
+    Mualani’s first Constellation increases the damage of her first enhanced Normal Attack with 3 Wave Momentum stacks and Missiles, resulting in a noticeable damage increase. This is a valuable early Constellation and a good stopping point for F2P or low spenders. C1 will also aid Mualani in exploring Natlan by decreasing her Phlogiston consumption, allowing her to swim over liquid longer.
+  color: 7520767
+  fields:
+  - name: "***DPS% Increase vs. C0:***"
+    value: 26.47%
+  - name: "***Rating:***"
+    value: 4/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mualani_01.png
+- title: "**Constellation 2 - Mualani, Going All Out!**"
+  description: |-
+    > *Mualani gains 2 of Surfshark Wavebreaker's Wave Momentum stacks when she enters Nightsoul's Blessing state. She will gain 1 stack when obtaining a Puffer.
+    > In addition, whenever Mualani obtains 2 Puffers within a single instance of the Nightsoul's Blessing state, she will recover an additional 12 Nightsoul points over 2s. This effect requires the Passive Talent "Heat-Resistant Freshwater Floater" to be unlocked first.*
+
+    Another good Constellation that allows Mualani to perform 4 instances of Sharky's Surging Bites per Skill use.
+  color: 7520767
+  fields:
+  - name: "***DPS% Increase vs. C1:***"
+    value: 22.13%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 54.47%
+  - name: "***Rating:***"
+    value: 3.5/5
+  footer:
+    text: 'Authored by: Lilith'
+    icon_url: https://i.imgur.com/ItctPOD.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mualani_02.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/cons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

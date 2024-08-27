@@ -1,0 +1,12 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: |-
+    Mualani does not want to build ER since it’s better to focus on offensive stats, as it is not really worth Bursting every rotation, especially at the current time of writing where Mualani cannot utilize her Ascension 4 Passive well. At C4, she already has enough ER within KQMS to Burst every rotation by picking up her Puffer. For the players that do want to Burst every rotation, the tools below will help calculate the ER requirement based on the situation.
+
+    Mualani’s ER requirements will vary based on your team and rotation. For a more accurate estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).
+    For more details on how Favonius weapons will affect your team, please use Ac1d’s Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing).
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png

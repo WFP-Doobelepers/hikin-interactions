@@ -1,0 +1,22 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **Character Level = Elemental Skill > Elemental Burst**
+  description: |-
+    ## __Analysis__
+    - Mualani’s Sharky’s Bite, despite dealing Normal Attack DMG, does not scale with her Normal Attack MV but her Elemental Skill, therefore, it is recommended to prioritize leveling her Skill. There is no need to level her Normal Attack Talent.
+    - Both her Skill and Burst scale with HP, therefore leveling her up is also important.
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png
+  image:
+    url: https://i.imgur.com/P8I9i4a.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

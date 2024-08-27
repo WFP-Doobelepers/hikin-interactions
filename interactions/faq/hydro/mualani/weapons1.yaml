@@ -1,0 +1,52 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Surf’s Up**
+  description: Mualani’s Signature Weapon. Surf’s Up is a fantastic weapon that offers
+    Mualani everything she needs. Aside from a whopping 88.2% CDMG from leveling it
+    to Level 90, it also gives her 20% HP passively, as well as up to 48% Normal Attack
+    DMG at 4 stacks of Scorching Summer, which helps boost her damage even further.
+    If Mualani is being played in a Forward Vaporize team, she will easily maintain
+    her maximum stacks on the weapon, since the loss in stacks after an Normal Attack
+    is counteracted by the gain in a stack from triggering a Vaporize reaction. Hence,
+    if you wish to pull for her weapon, it is advised that you build a team focused
+    around the Forward Vaporize reaction to get maximum yield from it.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_MechaPufferfish.png
+- title: "**Sacrificial Jade**"
+  description: A very powerful option even at R1, this Battle Pass weapon also provides
+    plenty of stats desirable to Mualani, giving her up to 64% HP and 80 EM for 10s
+    after taking the field on top of a very noticeable 36.8% CR. If you don’t intend
+    to go for her sig, this is her second best option at R5, and is better than every
+    other 4-star option even at R1. The main caveat here is that with this weapon,
+    you might find it difficult to optimally gear her up when factoring in 4pc Obsidian
+    Codex as well as her CR% ascension, which puts her at an effective **101%** CR
+    before factoring in anything else. Hence, when it comes to Mualani’s best artifact
+    set with this weapon, CR% is essentially a dead stat, meaning that Mualani only
+    has CDMG%, HP%, EM and HP as desirable stats now.
+  color: 7520767
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Yue.png
+- title: "**A Thousand Floating Dreams**"
+  description: Nahida’s Signature Weapon. Since Mualani’s team is likely going to
+    comprise at least 2 team members that have differing elements, she will get 2
+    DMG stacks from this weapon, which is a helpful contributing factor to her damage.
+    Furthermore, since her favored playstyle is Forward Vaporize, having such a huge
+    burst of EM from the weapon really boosts her damage, making this weapon a surprisingly
+    good option if you have it on hand and are not using it on anybody else. Would
+    not recommend pulling this weapon specifically for Mualani though.
+  color: 7520767
+  footer:
+    text: 'Authored by: NatC'
+    icon_url: https://i.imgur.com/2Chf8FV.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Ayus.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/weapons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

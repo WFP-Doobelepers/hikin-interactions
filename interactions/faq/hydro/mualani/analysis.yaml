@@ -1,0 +1,34 @@
+content: null
+embeds:
+- title: __WFP SUBJECTIVE ANALYSIS__
+  description: |-
+    Being Natlan’s first 5-star character, Mualani does not disappoint the player by having a simple, straightforward, yet powerful kit. As an on-field, HP-scaling unit with interruption resistance, she is more comfortable facing enemies and tanking more hits, compared to other ATK-scaling characters.
+
+    However, at the current writing time, Mualani does not have many options for a Pyro applier/enabler, since she wants to Forward Vaporize all of her powerful hits. Some of the Pyro options are Xiangling, Dehya, Thoma, and Xinyan, which on their own, may not apply Pyro fast enough if there are other Elements reacting with Pyro, which means Mualani may not be Vaping her damage. This leads to her team needing another character that applies additional Pyro onto the enemies, mainly Dendro characters and/or Kazuha. Overall, this makes her team building very restricted.
+  color: 7520767
+  fields:
+  - name: Is she a replacement for Neuvillette?
+    value: The short answer is, no. Neuvi is still generally better with his AoE,
+      range, sustainability, and team flexibility. However,  Mualani does provide
+      powerful nukes that some players might find more appealing.
+  - name: Who should I pull, Kazuha or Mualani?
+    value: "Kazuha usually has a stronger pull value based on the utilities he provides
+      to almost every Pyro/Hydro/Electro/Cryo character: VV, DMG% buff, and grouping.
+      Nevertheless, if you desperately need an on-field DPS that is not Dendro/Geo/Anemo,
+      Mualani can be considered. \nOverall, it depends on the account."
+  - name: Should I pull Mualani?
+    value: "If you like her, yes. \nIf you want to play a Forward Vaporize team but
+      do not want to play around with the current Pyro roster, it would not be a bad
+      idea to wait for her rerun down the road to see how other characters will interact
+      with her, especially the Pyro Archon; so far, the Archons have been proven as
+      good units overall."
+  - name: Should I get C1 or R1?
+    value: With the new update from both the character and weapon banner, getting
+      her Signature weapon is potentially going to cost less than getting another
+      character copy. Both C1 and R1 increase her damage by ~20% (in the Vape scenario).
+      However, it is still not advised to pull on the weapon banner if you cannot
+      guarantee the weapon, because unlike the character banner, you will lose the
+      Fate Point when the banner goes away.
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png

@@ -1,0 +1,42 @@
+content: null
+embeds:
+- title: "**Constellation 5 - Same Style of Surfboard on Sale!**"
+  description: |-
+    > *Increases the Level of Boomsharka-laka by 3.
+    > Maximum upgrade level is 15.*
+
+    A Talent Level increase for her Burst resulting in a minor damage increase. Only recommended if going for C6, otherwise the first 3 Constellations are all a good stopping point.
+  color: 7520767
+  fields:
+  - name: "***DPS% Increase vs. C4:***"
+    value: 1.78%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 87.84%
+  - name: "***Rating:***"
+    value: 1/5
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Mualani_02.png
+- title: "**Constellation 6 - Spirit of the Springs' People**"
+  description: |-
+    > *The DMG increase from the Constellation "The Leisurely 'Meztli'..." is no longer limited to being triggered once every Nightsoul's Blessing.*
+
+    C6 gives all of Mualani’s hits buffs from her C1, compared to C1 buffing only the first hit with all 3 Wave Momentum stacks. A considerable damage increase over previous Constellations and C0 on paper but might prove to be less useful in actual combat due to Mualani being able to oneshot most enemies on this level of investment. The value of her C6 could slightly increase in multiwave but even then it’s unlikely to reach full potential.
+  color: 7520767
+  fields:
+  - name: "***DPS% Increase vs. C5:***"
+    value: 39.99%
+  - name: "***DPS% Increase vs. C0:***"
+    value: 162.96%
+  - name: "***Rating:***"
+    value: 3/5
+  footer:
+    text: 'Authored by: Lilith'
+    icon_url: https://i.imgur.com/ItctPOD.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mualani_04.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/cons2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

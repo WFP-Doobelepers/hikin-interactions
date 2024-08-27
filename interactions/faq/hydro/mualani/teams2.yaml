@@ -1,0 +1,26 @@
+content: null
+embeds:
+- title: "**Mono Hydro**"
+  description: |-
+    ### Mualani | Anemo | Hydro | Flex
+    Mualani does not have direct synergy with other Hydro units except for the Hydro Resonance. However, Mono Hydro is still a comfortable archetype to play where the Hydro character usually does not care about ER requirements as much. An Anemo teammate is usually needed to shred Hydro RES for Mualani and her teammates.
+
+    __**Teammates**__
+
+    <:hydro:1094545501493403709> **Hydro options:** Yelan, Furina, Candace, Sigewinne, Mona
+
+    <:anemo:1094545726748508250> **Anemo options:** Kazuha, any other Anemo
+
+    <:flex:1094549077280169984> **Flex options:** Hydro mentioned, Zhongli, Chiori, Kachina
+  color: 7520767
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png
+  image:
+    url: https://i.imgur.com/pQEsCm0.png
+
+buttons:
+- customId: liveInteraction#faq/hydro/mualani/teams1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
