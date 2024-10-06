@@ -1,0 +1,19 @@
+content: null
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 15120686
+  fields:
+  - name: Project Amber
+    value: "[Character Database](https://ambr.top/en/archive/avatar/10000091/navia)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credits to Leifa, Emiliabyss, Ac1d, Duckfero, and Whalien for the Navia
+      FAQ! || WFP Theorycrafting
+    icon_url: https://media.discordapp.net/attachments/1139854891729289246/1158154535596990504/GUTAAAAo5_-_mr1_thonk.png?ex=6591ddf6&is=657f68f6&hm=128777fd43160182dadbefbbc9cb67f01c6187bc38a6c69038816f4d94bd0822&width=468&height=468&
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1172068072673259530/image.png?ex=65965774&is=6583e274&hm=b8f8b2d5de8dd3158aa3b8c7eedcba21ff28b6de046d07a6714c2ed74cb751ea&width=777&height=468&

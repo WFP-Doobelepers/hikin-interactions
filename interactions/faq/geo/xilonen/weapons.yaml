@@ -1,0 +1,82 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Verdict**
+  description: Navia’s signature weapon and Best-in-Slot. Most signature weapons have
+    about a 10-15% advantage over other options, but for Navia, there are three competitors
+    within about 5% of this weapon. There’s nothing particularly interesting about
+    this weapon that will change your playstyle, so just consider it to be a good
+    stat stick.
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_GoldenVerdict.png?vh=2023121801
+- title: "**Serpent Spine (R5)**"
+  description: "Assumes max stacks, which is easy to accomplish in Spiral Abyss. Just
+    make Navia the party lead and wait for all the stacks to accumulate before hitting
+    start on the floor. Time and time again, Serpent Spine has shown itself to be
+    of impeccable value to Claymore-wielders, and even with the new Battle Pass options,
+    this reigns supreme over all other 4-star and 5-star options. \n\nMake sure to
+    use a CRIT  Rate hat, and not a CRIT DMG hat, since Navia’s CRIT DMG Ascension
+    stat compensates for the lack of CRIT DMG Hat. On most other characters, Serpent
+    Spine wants a CRIT DMG hat."
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Kione.png?vh=2023121801
+- title: "**Redhorn Stonethresher**"
+  description: A massive CRIT DMG stat stick with the added bonus of buffing her Normal
+    Attacks a small amount. There isn’t much else to say here. 88% CRIT DMG is hard
+    to ignore, and the numbers show. This weapon becomes better if you’re using the
+    Husk of Opulent Dreams artifact set.
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Itadorimaru.png?vh=2023122001
+- title: "**Beacon of the Reed Sea (One Passive Trigger)**"
+  description: Good due to its CRIT Rate stat and, at minimum, 20% ATK boost. It’s
+    important to note that the first Skill does not grant stacks. It has the potential
+    to surpass other weapons if she gets hit, but if you’re not perpetually shielded
+    with Navia, you have probably done something wrong in your gameplay to drop your
+    DPS in other ways.
+  color: 15120686
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Deshret.png?vh=2023121801
+- title: "**Wolf’s Gravestone / The Unforged**"
+  description: Both weapons are more than 10% less than Navia’s signature weapon,
+    and both have similar effects. Unforged assumes a shield at all times because
+    Navia also wants a shield at all times. If you end up not using Bennett on your
+    team, these weapons become much more valuable. Keep in mind that Wolf’s Gravestone
+    can buff teammates as well, even if that buff is not reliable.
+  color: 15120686
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1182343117953831114/95DnrQK4C4s3fTSqhuPQAAAABJRU5ErkJggg.png?ex=658d9456&is=657b1f56&hm=f765dd67a10fdee3aa7aebeb3149e76969068c1861740fe34f8afd35dc51594d&format=webp&quality=lossless&
+- title: '**Sacrificial Greatsword / "Ultimate Overlord’s Mega Magic Sword"**'
+  description: "These perform slightly better than craftable options, and the event
+    weapon is very easy to acquire. If you help all of the Melusines, the 48% ATK
+    boost is much appreciated. \n\nAs for Sacrificial Greatsword, its value skyrockets
+    if you can somehow get 18 stacks (6 for each Skill) per rotation, but without
+    any stacks active, the extra damage is insignificant, as it’s half the motion
+    value and can lengthen rotations. Current calculations assume no stacks on the
+    3rd Skill use."
+  color: 15120686
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1186177711908061304/wNdI3LBQcVfgAAAABJRU5ErkJggg.png?ex=65924d14&is=657fd814&hm=6ab79c1160c01ff12001fed9a3ebc2cd63f3b156c135b80c7a534f925a85d449&format=webp&quality=lossless&
+- title: |-
+    __Craftable Choices__
+
+    **Katsuragikiri Nagamasa / Tidal Shadow**
+  description: Tidal Shadow outshines Katsuragikiri if she starts her rotations at
+    less than full health, but this is hard to manage on the first floor of Spiral
+    Abyss and with Zhongli’s shield. Katsuragiri Nagamasa satisfies most of her Energy
+    Recharge requirements while being a more selfish version of a Favonius weapon;
+    she gains more energy, but only for herself. Katsuragikiri also buffs Navia’s
+    Skill damage, which is much-desired.
+  color: 15120686
+  thumbnail:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1182343641772064918/f77b297CEKGeHBpvpXEHf8PEXcADy3aNI4AAAAASUVORK5CYII.png?ex=658d94d3&is=657b1fd3&hm=544963c946436ec57463a36ed36c608c868401364582afea90155feb562ed9dd&format=webp&quality=lossless&
+- color: 15120686
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?format=webp&quality=lossless&width=448&height=448
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1187161342243786873/1WB07ZKkn7lvx7qHsyY22qRz59daRckagM-qA_cH_Nx9FDCYrjlyccp6djGQ4Wko.png?ex=6595e128&is=65836c28&hm=78fadb9cedb23ffbb357d37120f45ac608fcad3037953cca2602d7d5b14eb46a&format=webp&quality=lossless&width=1025&height=341&

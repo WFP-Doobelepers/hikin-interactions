@@ -1,0 +1,68 @@
+content: null
+embeds:
+- title: The current president of Spina di Rosula, who is lovely, dutiful, and a great
+    boss
+  color: 15120686
+  fields:
+  - name: Xilonen Mastersheet by sew, emiliabyss, _ac1d, natc, and duckfero
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1znCN_WT2ZaXxaVrSMi6CVpbGK3VR9ZEzWt3ymCn-0Z4/edit#gid=981902297)"
+  - name: Xilonen Frames Mastersheet by sirvaughan
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/17KdZSgcobUBFLfPhFOOGtg1_ES5zG2GutieU6UvmON4/edit#gid=0)"
+  author:
+    name: Xilonen FAQ
+    icon_url: https://media.discordapp.net/attachments/1139854891729289246/1172073208523001896/navia_091_side_icon.png?ex=658d21bc&is=657aacbc&hm=b2b9002f5a3d5ae93a320663631dd3193fd00a314e8a6d78867653f4c1f1ea3d&
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1172073270095396874/navia_091_gacha_splash.png?ex=658d21cb&is=657aaccb&hm=1743f78ec90e58bc2bc133143d026fefab649a4a1b64a3ccc27f1d668224033c&width=529&height=468&
+
+
+options: #dropdown
+  - label: Overview
+    value: faq/geo/xilonen/overview
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Talents
+    value: faq/geo/xilonen/talents
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Constellations
+    value: faq/geo/xilonen/constellations
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/geo/xilonen/errequire
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Artifacts
+    value: faq/geo/xilonen/artifacts
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Weapons
+    value: faq/geo/xilonen/weapons
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: Team Building
+    value: faq/geo/xilonen/teambuilding
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+  - label: External Links
+    value: faq/geo/xilonen/external
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/xilonen
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/q/xilonen-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK
