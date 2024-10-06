@@ -1,0 +1,53 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 15120686
+  fields:
+  - name: 'Leads:'
+    value: "<@293169816741740556>, <@360467745743175698>"
+  - name: 'Authors:'
+    value: "<@280016643558604800>, <@293169816741740556>, <@195955557591416833>, <@209338139074887691>,
+      <@420223525740216321>"
+  - name: 'Calculations:'
+    value: "<@360467745743175698>, <@293169816741740556>, <@195955557591416833>, <@148100838861176832>,
+      <@209338139074887691>"
+  - name: 'Framecounts:'
+    value: "<@377496350155079690>"
+  - name: 'Consulting:'
+    value: "<@360467745743175698>"
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@148100838861176832>
+      Writing: <@812178562822963210>
+  - name: 'Transcription:'
+    value: "<@812178562822963210>"
+  - name: 'Resources:'
+    value: |-
+      [Navia Mastersheet](https://docs.google.com/spreadsheets/d/1znCN_WT2ZaXxaVrSMi6CVpbGK3VR9ZEzWt3ymCn-0Z4/edit#gid=981902297)
+      [Navia Frames Mastersheet](https://docs.google.com/spreadsheets/d/17KdZSgcobUBFLfPhFOOGtg1_ES5zG2GutieU6UvmON4/edit#gid=0)
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://media.discordapp.net/attachments/1139854891729289246/1185777513184628786/30eaa250e466d961a3324db76bc17921_708217412529926205.jpg?ex=6590d85d&is=657e635d&hm=0881af6543428daa5a2142fe7d99ef013673eb37bb5f95449e1bdb373951c5a8&format=webp&width=831&height=467&
+- title: __OVERVIEW__
+  description: "Navia is a 5-star Geo Claymore character aligned with Ousia whose
+    kit revolves around gaining Crystal Shrapnel charges to strengthen her Elemental
+    Skill. Crystal Shrapnel charges can be gained from collecting Crystallize Shards
+    or periodically from her Elemental Burst, dealing damage frequently from off-field.
+    After using her Elemental Skill, Navia will gain a short Geo Infusion in order
+    to deal some extra damage whilst on-field. \n\nNavia can be played both as an
+    on-field DPS or as an off-field DPS. If used on-field, players can use Navia’s
+    infused Normal Attacks and treat her as a main carry. She can also be played as
+    an off-field DPS, where she ignores the infusion and relies solely on her Skill
+    and Burst to deal her damage with minimal field time. Preferably, she will be
+    played alongside Pyro, Electro, Cryo and Hydro teammates, due to her A4 Passive
+    granting an extra 20% ATK for each teammate of those elements, which can stack
+    up to two times."
+  color: 15120686
+  footer:
+    text: 'Authored by: Leifa'
+    icon_url: https://images-ext-1.discordapp.net/external/AyWSS5nbIb-WihUS9LjUg-rPAy3PwD7b339Xd-z-f4w/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/280016643558604800/022556166a75ccec51dc2f9ce53aadb9.png?format=webp&quality=lossless&width=468&height=468
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Navia.png?vh=2023121801

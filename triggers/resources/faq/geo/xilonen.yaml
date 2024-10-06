@@ -1,0 +1,4 @@
+interaction: faq/geo/xilonen/main
+description: "Opens Xilonen FAQ"
+match: ${ TRIGGER_PREFIX }Xilonenfaq(?:\s|$)
+ignoreCase: true
