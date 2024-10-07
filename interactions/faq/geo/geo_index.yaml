@@ -18,4 +18,4 @@ options:
   - label: Xilonen
     value: faq/geo/xilonen/main
     description: WFP resources on Xilonen!
-    emoji: <${ EMOJIS.GEO }>
+    emoji: <${ EMOJIS.XILONEN }>
