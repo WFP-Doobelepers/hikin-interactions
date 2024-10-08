@@ -1,0 +1,24 @@
+content: null
+embeds:
+- title: __WFP SUBJECTIVE ANALYSIS__
+  description: |-
+    As far as Geo units go, Xilonen surpasses all the expectations set for her. She provides about as much as Kazuha, who is widely regarded as one of the best and most universal buffers in the game. 
+    
+    Additionally, she also comes with healing and access to easy multi-Element RES Shred. She is also extraordinarily easy to build, requiring only a 4-piece set of the Scroll of the Hero of Cinder City artifact set, with no real need to level any of the pieces at base, except for perhaps the Sands of Eon piece for the increased Energy Recharge as well as a CRIT Rate Circlet if paired with the Favonius Sword. Her weapon options are also extremely simplistic, where aside from her Best-in-Slot(BiS)as well as Favonius Sword in teams where more ER is needed, running any other weapon (yes even Dull Blade) will not noticeably alter her performance.
+
+  color: 7520767
+  fields:
+  - name: Is she a replacement for Kazuha?
+    value: As with everything, it depends. While she provides almost the same magnitude of buffs along with healing, she lacks the AOE damage of Kazuha,  which cannot be overlooked. Additionally, she possesses no CC capabilities, giving Kazuha a huge edge in AOE scenarios.
+  - name: Should I pull for Xilonen?
+    value: If you like her, absolutely. 
+      If you don’t like her but feel like you need a buffer like her, yes.
+      If you only play Mono Anemo, Dendro-based, or Mono Geo teams, she will be of little use to you and you can afford to skip her easily.
+  - name: Should I get C1 or R1?
+    value: Since the Weapon banner is now less costly on average than the Character banner, pulling for a Character’s Signature Weapon is now easier than ever. In Xilonen’s case especially, her C1 provides marginal to no benefits at all aside from lengthening her fast movement state for exploration and slightly increasing the active character’s interruption resistance, while her Signature Weapon provides a solid buff for her team. Hence, pulling for her C1 should only be done if one wishes to pull for her C2 as well.  However, it is still not advised to pull on the weapon banner if you cannot guarantee the weapon, because unlike the character banner, you will lose the Fate Point when the banner goes away.
+  - name: Should I try to get C2?
+    value: C2 is generally a larger buff to the team than R1, but is also way more costly. Something else to consider is that spending a significant number of wishes this close to Natlan’s Archon release may not be a wise choice, especially if you do not have a surplus of Primogems. Additionally, Xilonen’s C2 provides no gameplay changes aside from larger damage numbers, making it “functionally boring” compared to other constellations.
+
+  footer:
+    text: 'Authored by: Athena'
+    icon_url: https://i.imgur.com/2cqceh7.png

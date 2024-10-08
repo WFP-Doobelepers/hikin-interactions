@@ -1,18 +1,15 @@
 content: null
 embeds:
-- title: The current president of Spina di Rosula, who is lovely, dutiful, and a great
-    boss
+- title: A Name Engraver of the Nanatzcayan, she is especially skilled at finding a good balance between the heavy responsibilities of her job and living well.
   color: 15120686
   fields:
-  - name: Xilonen Mastersheet by sew, emiliabyss, _ac1d, natc, and duckfero
-    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1znCN_WT2ZaXxaVrSMi6CVpbGK3VR9ZEzWt3ymCn-0Z4/edit#gid=981902297)"
-  - name: Xilonen Frames Mastersheet by sirvaughan
-    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/17KdZSgcobUBFLfPhFOOGtg1_ES5zG2GutieU6UvmON4/edit#gid=0)"
+  - name: Xilonen Mastersheet by _acid, Acacia, and angel_on_fire.
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1LcyE5WOMT3Wvati6n__TzNNLEJuADfSFUR1Dm4M-WIk/edit?gid=981902297#gid=981902297)"
   author:
     name: Xilonen FAQ
-    icon_url: https://media.discordapp.net/attachments/1139854891729289246/1172073208523001896/navia_091_side_icon.png?ex=658d21bc&is=657aacbc&hm=b2b9002f5a3d5ae93a320663631dd3193fd00a314e8a6d78867653f4c1f1ea3d&
+    icon_url: https://cdn.discordapp.com/attachments/1084532037194625034/1293253284651466833/xilonen_103_side_icon.png?ex=6706b37a&is=670561fa&hm=785b2cc9ded796314ee221a8b6df040ebc54f1933c042421a7beab8e894f231b&
   image:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1172073270095396874/navia_091_gacha_splash.png?ex=658d21cb&is=657aaccb&hm=1743f78ec90e58bc2bc133143d026fefab649a4a1b64a3ccc27f1d668224033c&width=529&height=468&
+    url: https://homdgcat.wiki/homdgcat-res/Gacha/UI_Gacha_AvatarImg_Xilonen.png
 
 
 options: #dropdown
@@ -20,7 +17,10 @@ options: #dropdown
     value: faq/geo/xilonen/overview
     description: "WFP resources for Xilonen FAQ."
     emoji: ${ EMOJIS.GEO_BOX }
-
+  - label: WFP Subjective Analysis
+    value: faq/geo/xilonen/analysis
+    description: "WFP resources for Xilonen FAQ."
+    emoji: ${ EMOJIS.GEO_BOX }   
   - label: Talents
     value: faq/geo/xilonen/talents
     description: "WFP resources for Xilonen FAQ."
