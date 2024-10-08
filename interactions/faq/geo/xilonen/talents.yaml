@@ -3,88 +3,101 @@ embeds:
 - title: |-
     __TALENT PRIORITY__
 
-    **On-field: Elemental Skill > Normal Attack > Elemental Burst**
+    **Elemental Skill > Elemental Burst**
   color: 15120686
   image:
     url: https://media.discordapp.net/attachments/1139854891729289246/1186169858883326003/FAQ_TALENT_PRIORITY-01.png?ex=659245c4&is=657fd0c4&hm=5d361992e7cb84b8b1ba79c2496f35d1fd138d9fda98b301a85ac2223f3941a3&format=webp&quality=lossless&
-- title: "**Quickswap: Elemental Skill > Elemental Burst >> Normal Attack**"
-  color: 15120686
-  image:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1186169858648461352/FAQ_TALENT_PRIORITY_1-01.png?ex=659245c4&is=657fd0c4&hm=286840a5cbe6cee66c56e73d9f4fa20172390e291b2cbd4d79b810908a9cf0c6&format=webp&quality=lossless&
+
 - title: __Analysis__
-  description: "- Navia’s kit revolves around using her Burst and Normal Attacks to
-    maximize the damage output of her Skill, which is a powerful shotgun blast to
-    the face of enemies. Her kit is overall synergistic with many ways to buff her
-    own damage. She is also one of the few Geo characters to effectively utilize Crystallize
-    reactions even when shielded by someone else like Zhongli, setting a new precedent
-    for Geo DPS characters."
+  description: "- The most important part of Xilonen's kit, the multi-Element RES Shred, 
+    is applied via her Elemental Skill, while the RES Shred scales off the Skill’s talent 
+    level, which should be prioritized over all her other talents. Next up are her healing 
+    capabilities, which is provided by her Burst. That being said, leveling her Burst is 
+    only a necessity if you desire more healing and / or want to improve her synergy with 
+    Furina. Leveling her Normal Attack is only a notable benefit if you are looking to 
+    build her to be an on-field DPS."
   color: 15120686
 - title: |-
     __TALENT OVERVIEW__
 
-    **Normal Attack: Blunt Refusal**
-  description: "- Four consecutive strikes; spinning Charged Attack\n\nNavia’s Normal
-    and Charged Attacks are buffed by her First Ascension Passive, offering an absolute
-    Geo infusion that cannot be overwritten and a large boost to her damage. \n\nThat
-    said, since Navia will need to utilize her Normal Attack Talent to maximize her
-    kit’s damage output, it’s recommended to level this Talent as high as possible,
-    but not before Navia’s Skill."
+    **Normal Attack: Ehecatl’s Roar**
+  description: "- Outside of her Nightsoul’s Blessing state, Xilonen's Normal Attacks 
+    are lackluster. Additionally, while her Normal and Plunging Attacks are infused 
+    with Geo while she is in the Nightsoul’s Blessing state, her damage does not warrant 
+    investing in it when she is not used as an on-field DPS. This however, changes when 
+    her C6 is unlocked, which greatly improves her personal DMG."
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/Skill_A_04.png?vh=2023100601
-- title: "**Elemental Skill: Ceremonial Crystalshot**"
-  description: "*CD: **9s***\n\n- Gains a stack (6 max) whenever anyone obtains a
-    Crystallize shard. On Skill use, she consumes all her stacks to hit the enemy
-    a number of times (5-11) based on her stacks (0-3). Each stack beyond the third
-    that’s consumed will each buff her Skill DMG by 15%, up to 45% max. Has two uses
-    per rotation.\n\nThe bread-and-butter of Navia’s kit. It’s easy to both acquire
-    max stacks for each Skill use and hit the enemy with every hit. As a Claymore-wielder
-    using Normal Attacks, you’re going to be in point-blank range with your enemy
-    anyways. \n\nNavia’s Skill is more than half of her damage output, which makes
-    this talent a top priority to maximize."
+    url: https://gi.yatta.moe/assets/UI/Skill_A_01.png?vh=2024100700
+- title: "**Elemental Skill: Yohual’s Scratch**"
+  description: "*CD: **7s***\n\n- Xilonen’s Elemental Skill is the highlight of her character kit, 
+    providing multi-Element RES Shred based on her team's Elemental composition. Xilonen's Elemental 
+    Skill gives her 3 Samplers which can sample the Element of her teammates. Initially, these samplers 
+    start as Geo, and when activated, reduce the Elemental RES of nearby enemies by 33% for the sampled Elements 
+    (at Talent Level 9, C0). 
+
+    \n \nAfter her Elemental Skill is used, she will gain 45 Nightsoul Points and enter the Nightsoul's 
+    Blessing state, which starts her samplers as Geo. When her team has at least 2 Pyro/Cryo/Electro/Hydro 
+    characters, her Ascension 1 Passive Talent allows her to gain 35 Nightsoul points after performing a Normal 
+    or Plunging Attack during her Nightsoul's Blessing state, with a maximum of 90 points. When her Nightsoul 
+    points reach 90 after two Normal/Plunging Attacks, she will consume all her Nightsoul points and activate 
+    her 3 Source Samplers, which decrease the Elemental RES shred of her enemies by 33% for each element from 
+    Pyro/Cryo/Electro/Hydro/Geo in her party. It is important to note that two Samplers of the same Element 
+    will not stack buffs."
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/Skill_S_Navia_01.png?vh=2023100601
-- title: "**Elemental Burst: As the Sunlit Sky's Singing Salute**"
+    url: https://gi.yatta.moe/assets/UI/Skill_S_Xilonen_01.png?vh=2024100700
+- title: "**Elemental Burst: Ocelotlicue Point!**"
   description: |-
-    *CD: **15s***
+    "*CD: **15s***
     *Energy cost: **60***
 
-    - One initial hit, 17 smaller hits over time. Hits from Burst generate one Crystal Shrapnel stack every 2.4 seconds.
-
-    One of Navia’s primary ways to gain stacks and generate Crystallize shards, which is especially valuable on her Best-in-Slot artifact set, Nighttime Whispers in the Echoing Woods.
-
-    While it offers plenty of utility, it is not an exceptional source of damage output, so this talent can be leveled last.
+    - The functionality of Xilonen's Elemental Burst is based on the state of her Source Samplers. 
+    Xilonen deals an initial instance of Nightsoul Aligned Geo DMG that scales off of her DEF. If 
+    at least 2 Source Samplers are sampling an Element from Pyro/Cryo/Electro/Hydro, Xilonen will 
+    heal the active character over time, the amount of healing increasing with her DEF. However, 
+    if less than 2 of the Samplers have their Elements changed from Geo, she will deal an additional 
+    instance of Nightsoul-aligned Geo DMG. Overall, this skill is good for ensuring survivability in
+     multi-Element team compositions and for some additional Geo DMG in Geo teams."
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/Skill_E_Navia_01.png?vh=2023100601
+    url: https://gi.yatta.moe/assets/UI/Skill_E_Xilonen_01.png?vh=2024100700
 - title: |-
     __Passives__
 
-    **Ascension 1 Passive: Undisclosed Distribution Channels**
+    **Ascension 1 Passive: Netotiliztli's Echoes**
   description: |-
-    - For four seconds after using her Skill, the Normal Attack Talent is infused with Geo and cannot be overridden. Additionally, attacks using her Normal Attack Talent gain a 40% DMG Bonus
-
-    This is the main reason to use Navia’s Normal Attacks. Without it, she would have the same boring Normal Attacks as a typical 4-Star Claymore wielder. Most of the time, you’ll be using Normal Attacks.
+    - Her A1 Passive allows her to consistently activate her Source Samplers to sample Elements outside 
+    Geo. Similar to her Elemental Burst, Xilonen's A1 Passive has two outcomes based on the state of her 
+    samplers. When Xilonen is in her Nightsoul's Blessing state with at least 2 samplers being Pyro/Cryo/Electro/Hydro, 
+    her Normal and Plunging Attacks give her 35 Nightsoul Points. If she has less than 2 samplers that have not 
+    switched Elements from Geo, she will gain a 30% Normal Attack Bonus.
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_05.png?vh=2023100601
-- title: "**Ascension 4 Passive: Mutual Assistance Network**"
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_05.png?vh=2024100700
+- title: "**Ascension 4 Passive: Portable Armored Sheath**"
   description: |-
-    - For each Pyro, Electro, Hydro, Or Cryo character in your party, Navia gains 20% ATK, maxing out at 40% (two different elements).
-
-    Another incentive to pair Navia with other non-Geo characters, which is recommended in order to maximize Crystallize generation.
+    - Her Ascension 4 Passive Talent allows her to trigger an additional Nightsoul Burst, 
+    which increases her DEF by 20% and can also trigger any Nightsoul Burst-related effects, 
+    such as the 2pc effect of the Scroll of the Hero of Cinder City artifact set.
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_06.png?vh=2023100601
-- title: "**Utility Passive: Painstaking Transaction**"
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_06.png?vh=2024100700
+- title: "**Night Realm's Gift: Blessing of Forge-Fire**"
   description: |-
-    - 20% more rewards on Fontaine expeditions.
-
-    You should probably just mine for ore instead, but there may be a non-zero number of cases where this comes in handy.
+    - This talent allows Xilonen to consume Phlogiston to extend her Nightsoul’s Blessing 
+    state for longer while exploring Natlan. Similar to Kachina, this talent also allows 
+    an active character that is sprinting/climbing to switch to Xilonen, which grants her 
+    20 Nightsoul points and activates her Nightsoul’s Blessing state.
+  color: 15120686
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_07.png?vh=2024100700
+- title: "**Utility Passive: Tour of Tepeilhuitl**"
+  description: |-
+    - This talent restores 15 Phlogiston when an active character switches to Xilonen based on the Night Realm’s Gift Talent.
   color: 15120686
   footer:
-    text: 'Authored by: Emiliabyss'
-    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?format=webp&quality=lossless&width=468&height=468
+    text: 'Authored by: snowclipsed'
+    icon_url: https://images-ext-1.discordapp.net/external/30JdClvbyh7A_T2kJyHhu0fo_prUOem9Im1Fv_JY024/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/651556217315000360/76295ea9a0b213f40f63c186268d6176.png?format=webp&quality=lossless&width=671&height=671
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_07.png?vh=2023100601
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_08.png?vh=2024100700

@@ -1,15 +1,15 @@
 content: null
 embeds:
-- title: |-
-    __TEAM BUILDING__
-
-    **On-field DPS**
+- title: __TEAM BUILDING__
   description: |-
-    ### Navia | Geo | Flex | Flex
-    Navia’s team building strategy focuses on having 2 Pyro/Electro/Cryo/Hydro units with her to activate her A4 passive which gives her up to 40 ATK%. In addition to the previous units, Navia heavily favors a second Geo unit to activate Geo Resonance, help with off-field Crystallize generation, and provide Energy.
+    In short, Xilonen’s role in teams is almost identical to that of Kazuha, minus the 
+    AOE damage and Crowd Control, but with the addition of strong healing and the ability 
+    to buff the Geo element. She can also be used as a Zhongli replacement when his Shielding 
+    capabilities aren’t needed for the interruption resistance since she provides more RES Shred 
+    as well as healing to sustain the team. Xilonen is also able to be used as an on-field DPS even 
+    at low Constellations, but that will often result in less damage than if she were to be used to buff another carry.
   color: 15120686
-  image:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1182344548949708821/Ro4U8i5tfShObafWIsjAZHjSjHLNUrLNFtsgRjyrRLkLV9C84650K4XA6fHiu7jujuS2PMaqvvJVfJrlCA1v6FF1w0NdiJXtn67BoMgY9zPk7XkiwZK7daVQWA1JSRdjnzgyDvfPG9WFXCGpIlODomKj3MbVSrnSnzeIOkchoBBQCCgEFAIKAYWAQkAhoBBQCHRF4P8BE1cv5Bty5sMAAAAASUVORK5CYII.png?ex=658d95ab&is=657b20ab&hm=7a4ffae9519f20c22625c7c0eb983dd1d029e70b688604f97ccac12637b2c35a&format=webp&quality=lossless&width=1025&height=236&
+  
 - description: |-
     **__Teammates__**
 
