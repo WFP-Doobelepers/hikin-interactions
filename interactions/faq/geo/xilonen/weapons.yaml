@@ -3,80 +3,67 @@ embeds:
 - title: |-
     __WEAPONS__
 
-    **Verdict**
-  description: Navia’s signature weapon and Best-in-Slot. Most signature weapons have
-    about a 10-15% advantage over other options, but for Navia, there are three competitors
-    within about 5% of this weapon. There’s nothing particularly interesting about
-    this weapon that will change your playstyle, so just consider it to be a good
-    stat stick.
+    **Peak Patrol Song**
+  description: Xilonen’s Best-in-Slot weapon increases both her personal and the 
+    entire team’s damage through its strong passive. While it is a guaranteed damage 
+    increase for the entire team over Favonius Sword, due to the nature of teams often 
+    appreciating the added help with their ER needs, the mileage you get out of this 
+    weapon will vary based on the ER needs of her teams, meaning that its effect will 
+    be most noticeable in teams that aren’t energy hungry.
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_GoldenVerdict.png?vh=2023121801
-- title: "**Serpent Spine (R5)**"
-  description: "Assumes max stacks, which is easy to accomplish in Spiral Abyss. Just
-    make Navia the party lead and wait for all the stacks to accumulate before hitting
-    start on the floor. Time and time again, Serpent Spine has shown itself to be
-    of impeccable value to Claymore-wielders, and even with the new Battle Pass options,
-    this reigns supreme over all other 4-star and 5-star options. \n\nMake sure to
-    use a CRIT  Rate hat, and not a CRIT DMG hat, since Navia’s CRIT DMG Ascension
-    stat compensates for the lack of CRIT DMG Hat. On most other characters, Serpent
-    Spine wants a CRIT DMG hat."
+    url: https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_XochitlsTube.png?vh=2024100700
+- title: "**Favonius Sword**"
+  description: "Her second best option overall, and definitely her best 4* Weapon, Favonius 
+    Sword is so beneficial to her teams overall that it is worth using over any weapon that 
+    focuses on increasing Xilonen’s pitifully low personal damage. It is recommended that 
+    players build enough CRIT Rate to consistently trigger its passive. Naturally, Favonius 
+     perform best on higher refinements, but for players that don’t have her Signature Weapon, 
+     there is no reason not to use Favonius Sword even on lower refinements."
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Kione.png?vh=2023121801
-- title: "**Redhorn Stonethresher**"
-  description: A massive CRIT DMG stat stick with the added bonus of buffing her Normal
-    Attacks a small amount. There isn’t much else to say here. 88% CRIT DMG is hard
-    to ignore, and the numbers show. This weapon becomes better if you’re using the
-    Husk of Opulent Dreams artifact set.
+    url: https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Zephyrus.png?vh=2024100700
+- title: "**Key of Khaj-Nisut**"
+  description: Key requires 3 Skill uses to activate its teamwide EM buff. With how her rotations 
+    line up, the Weapon can only have the buff active in the second rotation at the earliest, with 
+    some teams potentially taking three rotations for the Weapon passive to activate. In either case, 
+    the mediocre buff the weapon provides along with it encouraging Xilonen to build high HP, a stat 
+    she doesn’t normally favor, makes it hard to justify using this weapon over her other options, 
+    even for teams that favor EM buffs.
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Itadorimaru.png?vh=2023122001
-- title: "**Beacon of the Reed Sea (One Passive Trigger)**"
-  description: Good due to its CRIT Rate stat and, at minimum, 20% ATK boost. It’s
-    important to note that the first Skill does not grant stacks. It has the potential
-    to surpass other weapons if she gets hit, but if you’re not perpetually shielded
-    with Navia, you have probably done something wrong in your gameplay to drop your
-    DPS in other ways.
+    url: https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Deshret.png?vh=2024100700
+- title: "**Freedom-Sworn**"
+  description: In most of Xilonen’s teams, it will perform similarly, if not worse, than all options 
+    not listed here. While the buff might look good at first glance, Xilonen can have a hard time 
+    triggering the passive. Hence, even for teams that benefit fully from the buff it provides, it will 
+    not be consistent enough or last long enough to justify using Freedom-Sworn over her other options. 
+    In teams that heavily favor ATK buffs, such as Arlecchino or Navia teams, while equipping Freedom-Sworn 
+    on Xilonen theoretically results in very high damage for the on-field carries, the lack of team utility 
+    and adjusted rotations to accommodate its buff means that it might at times negatively affect uptime of 
+    other buffs and Bursts, making it fall behind her other options.
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_EquipIcon_Claymore_Deshret.png?vh=2023121801
-- title: "**Wolf’s Gravestone / The Unforged**"
-  description: Both weapons are more than 10% less than Navia’s signature weapon,
-    and both have similar effects. Unforged assumes a shield at all times because
-    Navia also wants a shield at all times. If you end up not using Bennett on your
-    team, these weapons become much more valuable. Keep in mind that Wolf’s Gravestone
-    can buff teammates as well, even if that buff is not reliable.
+    url: https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Widsith.png?vh=2024100700
+- title: "**Xiphos' Moonlight**"
+  description: In most of her teams, Xiphos will be a downgrade compared to her other options despite 
+    the ER it provides to the entire team. Xilonen herself doesn’t value the EM this weapon requires 
+    building in order to benefit from the passive, and even then ER it provides is significantly lower 
+    than what Favonius Sword can offer. This weapon should only be considered if you do not have an 
+    available Favonius Sword and your team really needs help with the Energy.
   color: 15120686
   thumbnail:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1182343117953831114/95DnrQK4C4s3fTSqhuPQAAAABJRU5ErkJggg.png?ex=658d9456&is=657b1f56&hm=f765dd67a10fdee3aa7aebeb3149e76969068c1861740fe34f8afd35dc51594d&format=webp&quality=lossless&
-- title: '**Sacrificial Greatsword / "Ultimate Overlord’s Mega Magic Sword"**'
-  description: "These perform slightly better than craftable options, and the event
-    weapon is very easy to acquire. If you help all of the Melusines, the 48% ATK
-    boost is much appreciated. \n\nAs for Sacrificial Greatsword, its value skyrockets
-    if you can somehow get 18 stacks (6 for each Skill) per rotation, but without
-    any stacks active, the extra damage is insignificant, as it’s half the motion
-    value and can lengthen rotations. Current calculations assume no stacks on the
-    3rd Skill use."
+    url: https://gi.yatta.moe/assets/UI/UI_EquipIcon_Sword_Pleroma.png?vh=2024100700
+- title: "**Wolf-Fang/Uraku Misugiri/Cinnabar Spindle/Dull Blade**"
+  description: "Xilonen’s personal damage is low even when she is built for damage, so all weapons 
+    that are focused on her personal damage over team buffs will perform similarly, with less than 
+    a 1% difference between them. If the team doesn’t require the help with ER and you don’t own 
+    her Signature Weapon, Dull Blade would unironically be a great option for her considering how 
+    close it is to other weapons, limited 5*s included, that could benefit other characters way more."
   color: 15120686
-  thumbnail:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1186177711908061304/wNdI3LBQcVfgAAAABJRU5ErkJggg.png?ex=65924d14&is=657fd814&hm=6ab79c1160c01ff12001fed9a3ebc2cd63f3b156c135b80c7a534f925a85d449&format=webp&quality=lossless&
-- title: |-
-    __Craftable Choices__
-
-    **Katsuragikiri Nagamasa / Tidal Shadow**
-  description: Tidal Shadow outshines Katsuragikiri if she starts her rotations at
-    less than full health, but this is hard to manage on the first floor of Spiral
-    Abyss and with Zhongli’s shield. Katsuragiri Nagamasa satisfies most of her Energy
-    Recharge requirements while being a more selfish version of a Favonius weapon;
-    she gains more energy, but only for herself. Katsuragikiri also buffs Navia’s
-    Skill damage, which is much-desired.
-  color: 15120686
-  thumbnail:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1182343641772064918/f77b297CEKGeHBpvpXEHf8PEXcADy3aNI4AAAAASUVORK5CYII.png?ex=658d94d3&is=657b1fd3&hm=544963c946436ec57463a36ed36c608c868401364582afea90155feb562ed9dd&format=webp&quality=lossless&
-- color: 15120686
   footer:
-    text: 'Authored by: Emiliabyss'
-    icon_url: https://images-ext-1.discordapp.net/external/BKH9EnubQD6FJ_pWkbR0OzUHILipwd4tunujyoF_7ZM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/413d811ce599ff8df0f9cbcfeb3c5bd9.png?format=webp&quality=lossless&width=448&height=448
-  image:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1187161342243786873/1WB07ZKkn7lvx7qHsyY22qRz59daRckagM-qA_cH_Nx9FDCYrjlyccp6djGQ4Wko.png?ex=6595e128&is=65836c28&hm=78fadb9cedb23ffbb357d37120f45ac608fcad3037953cca2602d7d5b14eb46a&format=webp&quality=lossless&width=1025&height=341&
+    text: 'Authored by: Lilith'
+    icon_url: https://images-ext-1.discordapp.net/external/ToiVYiMJbbOAfiMhTuhIWDbOa5MwlQmvlCDhh3lbUlQ/%3Fsize%3D4096/https/cdn.discordapp.com/guilds/791074691841523742/users/1104825453023342602/avatars/afb0fd750a96e300788581420f4ec911.png?format=webp&quality=lossless&width=671&height=671
+  thumbnail:
+    url: https://images-ext-1.discordapp.net/external/aD8901BNcZP6TWDdQKM_ZUXMG60SR4DaAdspYtjxvL8/https/i.postimg.cc/XJmbqjpt/Portraits-Wolf-Fang-Uraku-Misugiri-Cinnabar-Spindle-Dull-Blade-1.png?format=webp&quality=lossless
+  
