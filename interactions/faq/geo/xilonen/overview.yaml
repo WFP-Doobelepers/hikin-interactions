@@ -17,7 +17,7 @@ embeds:
     value: "<@148100838861176832>"
   - name: 'Resources:'
     value: |-
-      [Navia Mastersheet](https://docs.google.com/spreadsheets/d/1LcyE5WOMT3Wvati6n__TzNNLEJuADfSFUR1Dm4M-WIk/edit?gid=981902297#gid=981902297)
+      [Xilonen Mastersheet](https://docs.google.com/spreadsheets/d/1LcyE5WOMT3Wvati6n__TzNNLEJuADfSFUR1Dm4M-WIk/edit?gid=981902297#gid=981902297)
   - name: DISCLAIMER
     value: |-
       *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
@@ -34,4 +34,4 @@ embeds:
     text: 'Authored by: Ac1d'
     icon_url: https://cdn.discordapp.com/avatars/195955557591416833/3618aeda7a343a01f6330d4826b801c4.png?size=4096
   thumbnail:
-    url: https://gi.yatta.moe/en/archive/avatar/10000103/xilonen
+    url: https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xilonen.png?vh=2024100700
