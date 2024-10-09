@@ -2,80 +2,51 @@ content: null
 embeds:
 - title: __ARTIFACTS__
   description: |-
-    <:sands:1094559345364185119> *Sands of Eon:* ATK%
-    <:goblet:1094559512968581130> *Goblet of Eonothem:* Geo DMG%
-    <:circlet:1094559608581922966> *Circlet of Logos:* CRIT
+    <:sands:1094559345364185119> *Sands of Eon:* DEF% or ER
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* DEF%
+    <:circlet:1094559608581922966> *Circlet of Logos:* Healing Bonus% or DEF% or CR (If Fav)
 
     ER sands can be considered, especially if Navia is played as a quickswap unit.
 
-    **Substats:** ER until requirement > CRIT DMG = CRIT Rate > ATK%
+    **Substats:** ER% (until requirement) > CR (If Fav) > DEF%
   color: 15120686
 - title: |-
     __Artifact Sets__
 
-    **4PC Nighttime Whispers in the Echoing Woods**
-  description: BiS in practically every team except in a Mono Element team when Navia
-    is a sub DPS. It gives a decent amount of Geo DMG Bonus with the condition of
-    being shielded by a Crystallize reaction. However, it might not be easy to maintain
-    the shield against aggressive enemies because it is somewhat weak, and having
-    another shielder in the team doesn’t help since two shields cannot stack on top
-    of another (both shields will each take 100% of damage). Although, even if you
-    lose the effect for the last few Normal Attacks, this set is still Best-in-Slot.
+    **4pc Scroll of the Hero of Cinder City**
+  description: Xilonen’s undisputed BiS Artifact set. The 2pc lowers her ER requirements 
+    and the 4pc grants all party members a 40% Geo DMG bonus and an additional Elemental 
+    DMG Bonus depending on  the Element with which Crystallize is generated.
+
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15034_4.png?vh=2023100601
-- title: "**4PC Marechaussee Hunter**"
-  description: "Very competitive option with Nighttime Whispers set but Furina is
-    required in the team as the only reliable way to drain HP is through Furina’s
-    Skill. However, it is not as good as it looks, since you will likely have 0 or
-    1 stack of this set for Navia’s first Skill (since stacks can only be gained while
-    on-field, and stacks cannot be gained during a Burst animation due to i-frames).
-    This is still a very good option, just slightly behind the signature set even
-    if we consider this issue, especially if you don’t want to farm the other set.
-    \n\nIt is recommended to build less than 64% CRIT Rate to avoid overcapping, but
-    it’s better to have more than 55-60% CRIT Rate, because it would be a shame if
-    the first E has only 40% CRIT Rate after all."
+    url: https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15037_4.png?vh=2024100700
+- title: "**4pc Archaic Petra**"
+  description: Practically wasted 2pc effect because of Xilonen’s low multipliers. 
+    The 4pc effect provides a 35% dmg bonus, but it requires that a Crystallize shard 
+    be picked up, making it harder to utilize compared to Scroll while providing a lower buff, 
+    on top of not buffing Geo.
+
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15031_4.png?vh=2023100601
-- title: "**4PC Golden Troupe**"
-  description: Good option which is only slightly better than 2pc combos, because
-    it buffs the Elemental Skill, which is about 50% of her total DPS (on rotation
-    n°2). It is recommended to switch out between the 2 Skills to make sure both get
-    the 70% Damage Bonus. If you don’t, it’s only equal or below the 2pc combos. Furthermore,
-    make sure to switch out between Burst and Skill to guarantee the 70% Damage Bonus.
-    The set is a bit more competitive if you play Navia as a sub DPS, since a significant
-    portion of her damage comes from her Skill.
+    url: https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15014_4.png?vh=2024100700
+- title: "**4pc Instructor**"
+  description: Being a 4 Star Artifact Set, Xilonen holding Instructor will likely result in 
+    her overall stats being lower compared to other 5 star artifact sets, which in turn will 
+    lead to lower healing and buffing if she is holding her Signature Weapon. The buff provided 
+    is also worth less compared to Scroll and is only useful if her team members rely on Elemental Mastery.
+
   color: 15120686
   thumbnail:
-    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15032_4.png?vh=2023100601
-- title: "**2PC Skill/Geo/ATK/ER combos**"
-  description: 2pc combos are still a great option if you have good substats and don’t
-    want to farm Navia’s signature set. It is about 11-12% weaker than her best set.
-    The 2pc combos effects are also unconditional, unlike most 4pc sets. With  Bennett,
-    2pc Geo becomes better than 2pc ATK. Without Bennett, the 2pc ATK is better overall.
+    url: https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_10007_4.png?vh=2024100700
+- title: "**4pc Obsidian Codex**"
+  description: Xilonen’s best set for her personal damage because of the amount of buffs 
+    it provides for Natlanian characters. However, using Xilonen as a damage dealer at low 
+    Constellations is not recommended, with her supportive builds very much preferred.
+
   color: 15120686
   thumbnail:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1182340851863666699/LzSjDAjWxE8AAAAASUVORK5CYII.png?ex=658d9239&is=657b1d39&hm=b6727ec99ab243bfd3c01eb5de6cd991e927d36d5e99f16db5a78ba761e69788&format=webp&quality=lossless&
-- title: "**4PC Archaic Petra**"
-  description: This option is very competitive (sometimes Best-in-Slot) if you play
-    Navia as sub DPS in a Mono Element team. Although Navia loses about 20% of her
-    personal damage compared to her best set, it is still usually a gain in overall
-    team DPS in teams where Navia’s DPS contribution isn’t high.
-  color: 15120686
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/reliquary/UI_RelicIcon_15014_4.png?vh=2023100601
-- title: "**4PC Gladiator's Finale / 4PC Husk of Opulent Dreams / 4PC Vermillion Hereafter**"
-  description: These options are viable, but there is less than 1% difference between
-    them and a 2pc combo. They can still be considered if the substats are very good.
-    Keep in mind that the Vermillion set is only viable with Furina in the team because
-    her drain mechanic is required.
-  color: 15120686
-  thumbnail:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1182341073184505897/YECOgOwIXFAAmv7YIOMgK4IfK0AMPl19QMbYwQMQaCqADD5DfEFG2UEdEfgPAFg8uvuAzbICBiGwDkCwOQ3zA9smBEwBIGSADD5DcGfjTIChiJQLgAbADwJYBA2ywWy7ChI2PjjAAjoDkClZcAJAIvMPk1x50NMAKmQOAbE4FMMUoeBCPACGiCAAuAJrDyThmBSwOBLwH5F7T7FDfCwAAAABJRU5ErkJggg.png?ex=658d926e&is=657b1d6e&hm=2fa8d3e52e58a3797968d420bf3bd29db35b5055f24e946845cd34a2b3fef15a&format=webp&quality=lossless&
-- description: For more details with numbers for the artifacts sets, check the sheet
-    made by Duckfero [here](https://docs.google.com/spreadsheets/d/13YNzFRGfOMon8jwXp9rNLRZ5G2a8j4G0/edit#gid=165185985).
-  color: 15120686
+    url: hhttps://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15038_4.png?vh=2024100700
   footer:
-    text: 'Authored by: Duckfero'
-    icon_url: https://images-ext-1.discordapp.net/external/OVkJpP_cVucVNnn77BsVy1jo6ESAhLjSAcHS1lD35oI/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/209338139074887691/81c6ca5117a99f949f417ceb25101b3a.png?format=webp&quality=lossless
+    text: 'Authored by: Sew'
+    icon_url: https://images-ext-1.discordapp.net/external/tdiJptsUKg5nTMTVJHPTaYmfqZR_uIN4oi7e7wDrmX0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/360467745743175698/780fa592fbddc71537157d9e051cadb8.png?format=webp&quality=lossless

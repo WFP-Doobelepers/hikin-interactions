@@ -3,97 +3,109 @@ embeds:
 - title: |-
     __CONSTELLATIONS__
 
-    **Constellation 1 - A Lady's Rules for Keeping a Courteous Distance**
+    **Constellation 1 -  Sabbatical Phrase**
   description: |-
-    > *Each stack of Crystal Shrapnel consumed when Navia uses Ceremonial Crystalshot will restore 3 Energy to her and decrease the CD of As the Sunlit Sky's Singing Salute by 1s. Up to 9 Energy can be gained this way, and the CD of "As the Sunlit Sky's Singing Salute" can be decreased by up to 3s.*
+    > *Xilonen's Nightsoul point and Phlogiston consumption in her Nightsoul's Blessing state is decreased by 30%, and her Nightsoul point time limit is extended by 45%.
+    > Additionally, when Xilonen's Source Samples are active, she can also increase nearby active characters' interruption resistance.*
 
-    Completely fixes any ER  issues she might have in any possible team by effectively making her Burst a 42 energy cost from the original 60. Power depends on her original Energy Recharge needs at c0. More information about this Constellation can be found in the Energy Recharge section. *It is worth noting that this Constellation will not be a damage improvement if she can run 100% ER, but that requires  abundant enemy particles or running more than 1 extra geo character, which is not recommended.*
+    Xilonen’s first Constellation is a QoL constellation for both exploration and combat. The decreased Phlogiston consumption and increased Nightsoul limit helps her while exploring with her Skill. The Constellation also provides the active character 0.5 IR, which is as much as Hu Tao during her Elemental Skill infusion or Beidou during the duration of her Elemental Burst, when her Source Samples are active.
   color: 15120686
   fields:
-  - name: "***DPS% Increase vs. C0:***"
-    value: "~13%"
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "0%"
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_01.png?vh=2024100700
+- title: "**Constellation 2 - Chiucue Mix**"
+  description: |-
+    > *Xilonen's Geo Source Sample will always remain active. Additionally, when her Source Samples activate, all nearby party members will gain effects corresponding to the active Source Sample that matches their Elemental Type:
+    > · Geo: DMG +50%.
+    > · Pyro: ATK +45%.
+    > · Hydro: Max HP +45%.
+    > · Cryo: CRIT DMG +60%.
+    > · Electro: Restore 25 Energy, decrease Elemental Burst CD by 6s.*
+
+    Xilonen’s C2 is one of the best Constellations in the game. Considering how universal she is, increasing her buffing capabilities significantly makes the Constellation hold high value. In addition to the increased buffs, it enables her to shred Geo without the use of her Skill.
+  color: 15120686
+  fields:
+  - name: "***Team DPS% Increase vs. C1:***"
+    value: 13-16%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "13-16%"
   - name: "***Rating:***"
     value: 4/5
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_01.png?vh=2023100601
-- title: "**Constellation 2 - The President's Pursuit of Victory**"
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_02.png?vh=2024100700
+- title: "**Constellation 3 - Tonalpohualli's Loop**"
   description: |-
-    > *Each stack of Crystal Shrapnel consumed will increase the CRIT Rate of this Ceremonial Crystalshot instance by 12%. CRIT Rate can be increased by up to 36% in this way.
-    > In addition, when Ceremonial Crystalshot hits an opponent, one Cannon Fire Support shot from As the Sunlit Sky's Singing Salute will strike near the location of the hit. Up to one instance of Cannon Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by said Cannon Fire Support this way is considered Elemental Burst DMG.*
-
-    Provides 36% CRIT Rate for her Skill damage. However,  players will need to adjust her CRIT Rate to around 64%  in order to not surpass 100% CRIT Rate. It also adds 2 extra hits to her Burst, which will be a minor increase to her damage and may generate an extra stack of Crystal Shrapnel.
-  color: 15120686
-  fields:
-  - name: "***DPS% Increase vs. C1:***"
-    value: 14%
-  - name: "***DPS% Increase vs. C0:***"
-    value: "~29%"
-  - name: "***Rating:***"
-    value: 4/5
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_02.png?vh=2023100601
-- title: "**Constellation 3 - Businesswoman's Broad Vision**"
-  description: |-
-    > *Increases the Level of Ceremonial Crystalshot by 3.
+    > *Increases the Level of Yohual's Scratch by 3.
     > Maximum upgrade level is 15.*
 
-    Additional damage on Skill, which is her main source of damage.
+    Increases the level of  Xilonen’s Elemental Skill by 3, which increases her maximum RES Shred from 36% at TL 10 to 45% at TL13.
   color: 15120686
   fields:
-  - name: "***DPS% Increase vs. C2:***"
-    value: 10%
-  - name: "***DPS% Increase vs. C0:***"
-    value: "~42%"
+  - name: "***Team DPS% Increase vs. C2:***"
+    value: 3.5-4%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "17-21%"
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_U_Xilonen_01.png?vh=2024100700
+- title: "**Constellation 4 - Suchitl's Trance**"
+  description: |-
+    > *After Xilonen uses Yohual's Scratch, she will grant all nearby party members the Blooming Blessing effect for 15s.
+    > Characters with Blooming Blessing deal 65% of Xilonen's DEF as increased Normal, Charged, and Plunging Attack DMG. This effect will be removed after triggering 6 times or when the duration ends.
+    > When you hit more than one opponent, trigger counts will be consumed based on the number of opponents hit. The counts for each party member with Blooming Blessing are counted independently.*
+
+    Provides the team with 6 instances of added damage, similar to Shenhe and Yun Jin’s buffs, on their Normal, Charged and Plunging Attacks.
+  color: 15120686
+  fields:
+  - name: "***Team DPS% Increase vs. C3:***"
+    value: 7-13%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: 25-37%"
   - name: "***Rating:***"
     value: 3/5
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_U_Navia_01.png?vh=2023100601
-- title: "**Constellation 4 - The Oathsworn Never Capitulate**"
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_03.png?vh=2024100700
+- title: "**Constellation 5 - Tlaltecuhtli's Crossfade**"
   description: |-
-    > *When As the Sunlit Sky's Singing Salute hits an opponent, that opponent's Geo RES will be decreased by 20% for 8s.*
-
-    Buffs all her abilities. Combined with Geo Resonance’s effect, it simulates having Viridescent Venerer active but for Geo.
-  color: 15120686
-  fields:
-  - name: "***DPS% Increase vs. C3:***"
-    value: 9.5%
-  - name: "***DPS% Increase vs. C0:***"
-    value: "~55%"
-  - name: "***Rating:***"
-    value: 3/5
-  thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_03.png?vh=2023100601
-- title: "**Constellation 5 - Negotiator's Resolute Negotiations**"
-  description: |-
-    > *Increases the Level of As the Sunlit Sky's Singing Salute by 3.
+    > *Increases the Level of Ocelotlicue Point! by 3.
     > Maximum upgrade level is 15.*
 
-    This Constellation does not provide a sizable benefit due to Navia’s Burst being only a minor portion to her overall damage.
+    The added healing from this constellation is not very useful. The Constellation should only be pulled if going for C6.
   color: 15120686
   fields:
-  - name: "***DPS% Increase vs. C4:***"
-    value: 2.8%
-  - name: "***DPS% Increase vs. C0:***"
-    value: "~60%"
+  - name: "***Team DPS% Increase vs. C4:***"
+    value: 0%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "25-37%"
   - name: "***Rating:***"
     value: 1/5
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_U_Navia_02.png?vh=2023100601
-- title: "**Constellation 6 - The Flexible Finesse of the Spina's President**"
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_U_Xilonen_02.png?vh=2024100700
+- title: "**Constellation 6 - Imperishable Night Carnival**"
   description: |-
-    > *If more than 3 stacks of Crystal Shrapnel are consumed when using Ceremonial Crystalshot, each stack consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 45%, and any stacks consumed beyond the first 3 are returned to Navia.*
+    > *When Xilonen is in the Nightsoul's Blessing state, when she sprints, leaps, or uses Normal or Plunging Attacks, she will gain Imperishable Night's Blessing, ignoring the limitations of her Nightsoul's Blessing state and increasing the DMG dealt by her Normal and Plunging Attacks for 5s.
+    > During this time:
+    > · Her Nightsoul's Blessing time limit countdown will be paused. Xilonen's Nightsoul points, Phlogiston, and Stamina will not decrease, and when her Nightsoul points reach the maximum, her Nightsoul's Blessing state will not end either.
+    > · Xilonen deals 300% of her DEF as increased Normal and Plunging Attack DMG while in the Nightsoul's Blessing state.
+    > · She heals nearby party members for 120% of her DEF every 1.5s.
+    > She can gain 1 Imperishable Night's Blessing once every 15s.*
 
-    Navia’s strongest Constellation by far. It increases her Skill damage by about 40% if she has all 6 stacks of Crystal Shrapnel, which  enables her to deal massive amounts of damage in an instant, increasing her already substantial frontload.
+    This Constellation greatly enhances Xilonen’s personal damage in a frontloaded manner by giving her added damage on her Normal and Plunging attacks while also providing teamwide healing, enabling Furina much better compared to a lower Constellation Xilonen.
   color: 15120686
   fields:
   - name: "***DPS% Increase vs. C5:***"
-    value: 26%
+    value: 2-6%
   - name: "***DPS% Increase vs. C0:***"
-    value: "~93-100%"
+    value: "27-45%"
   - name: "***Rating:***"
-    value: 5/5
+    value: 3/5
   footer:
-    text: 'Authored by: Ac1d'
-    icon_url: https://images-ext-1.discordapp.net/external/hwKthYMcyrZMEpNQvBSezKuX1PFCrCpKb3VR6DeAras/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/195955557591416833/6db9931bba801c523c1b573f1f6f5839.png?format=webp&quality=lossless&width=468&height=468
+    text: 'Authored by: Sew'
+    icon_url: https://images-ext-1.discordapp.net/external/tdiJptsUKg5nTMTVJHPTaYmfqZR_uIN4oi7e7wDrmX0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/360467745743175698/780fa592fbddc71537157d9e051cadb8.png?format=webp&quality=lossless
   thumbnail:
-    url: https://api.ambr.top/assets/UI/UI_Talent_S_Navia_04.png?vh=2023100601
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_04.png?vh=2024100700

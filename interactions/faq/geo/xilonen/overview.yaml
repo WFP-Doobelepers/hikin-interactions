@@ -3,35 +3,43 @@ embeds:
 - title: __CREDITS__
   color: 15120686
   fields:
-  - name: 'Leads:'
+  - name: 'Lead:'
     value: "<@195955557591416833>"
   - name: 'Authors:'
     value: "<@195955557591416833>, <@1104825453023342602>, <@360467745743175698>"
+    value: "<@195955557591416833>, <@1104825453023342602>, <@360467745743175698>"
   - name: 'Calculations:'
-    value: "<@195955557591416833>, <@1104825453023342602>, Acacia"
+    value: "<@195955557591416833>, <@1104825453023342602>, <@972143886153699328>"
   - name: 'Content Verification:'
     value: |-
-      Calculations: "<@741732017040785509>, <@148100838861176832>"
+      Calculations: <@741732017040785509>, <@148100838861176832>
       Writing: <@148100838861176832>
   - name: 'Transcription:'
     value: "<@148100838861176832>"
+    value: "<@148100838861176832>"
   - name: 'Resources:'
     value: |-
-      [Xilonen Mastersheet](https://docs.google.com/spreadsheets/d/1LcyE5WOMT3Wvati6n__TzNNLEJuADfSFUR1Dm4M-WIk/edit?gid=981902297#gid=981902297)
+      [Xilonen Mastersheet](https://docs.google.com/spreadsheets/d/1LcyE5WOMT3Wvati6n__TzNNLEJuADfSFUR1Dm4M-WIk/edit?usp=sharing)
   - name: DISCLAIMER
     value: |-
       *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
       Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
   image:
-    url: https://images-ext-1.discordapp.net/external/0Vzp3X6VXDpKjkiLpHeP8vDG8GO0-T8A0Oi_lw6f7XU/https/i.postimg.cc/76g03x7J/e2a02d7c41f659b0f5eeb4d299ccf4b2-3620423195691713860.jpg?format=webp&width=1205&height=677
+    url: https://i.postimg.cc/76g03x7J/e2a02d7c41f659b0f5eeb4d299ccf4b2-3620423195691713860.jpg
 - title: __OVERVIEW__
-  description: Xilonen is a 5-star Geo Sword character from Natlan whose kit revolves around activating her samples, which are based on her teammates’ elements. These samples provide Geo, Pyro, Electro, Cryo or Hydro RES Shred. Xilonen’s Elemental Skill makes her enter the Nightsoul's Blessing state, during which, if there are at least 2 Pyro, Electro, Cryo or Hydro characters in the team,  she can use her Normal Attacks  to activate her samples and thus her RES Shred. In that team, Xilonen’s Elemental Burst heals the active character for an amount based on her DEF.
-
-    Xilonen is mainly a support for characters of the aforementioned element. That being said, when using her in a team where there is only one or less Pyro, Electro, Cryo or Hydro characters, she can be used as a damage dealer, using her Geo-infused Normal Attacks or Plunges and Elemental Burst to deal damage.
-
+  description: "Xilonen is a 5-star Geo Sword character from Natlan whose kit revolves around 
+    activating her samples, which are based on her teammates’ elements. These samples provide 
+    Geo, Pyro, Electro, Cryo or Hydro RES Shred. Xilonen’s Elemental Skill makes her enter the 
+    Nightsoul's Blessing state, during which, if there are at least 2 Pyro, Electro, Cryo or 
+    Hydro characters in the team,  she can use her Normal Attacks  to activate her samples and 
+    thus her RES Shred. In that team, Xilonen’s Elemental Burst heals the active character for 
+    an amount based on her DEF. \n\nXilonen is mainly a support for characters of the aforementioned 
+    element. That being said, when using her in a team where there is only one or less Pyro, Electro, 
+    Cryo or Hydro characters, she can be used as a damage dealer, using her Geo-infused Normal Attacks 
+    or Plunges and Elemental Burst to deal damage.
   color: 15120686
   footer:
     text: 'Authored by: Ac1d'
-    icon_url: https://cdn.discordapp.com/avatars/195955557591416833/3618aeda7a343a01f6330d4826b801c4.png?size=4096
+    icon_url: https://images-ext-1.discordapp.net/external/-P1QH7hK1duHx8-gj7_18UY5QN8Gg62iN-CssNh6z9s/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/195955557591416833/3618aeda7a343a01f6330d4826b801c4.png?format=webp&quality=lossless&width=671&height=671
   thumbnail:
-    url: https://gi.yatta.moe/assets/UI/UI_AvatarIcon_Xilonen.png?vh=2024100700
+    url: https://gensh.honeyhunterworld.com/img/xilonen_103_icon.webp?x41756
