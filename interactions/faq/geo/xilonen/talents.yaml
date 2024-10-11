@@ -5,8 +5,8 @@ embeds:
 
     **Elemental Skill > Elemental Burst**
   color: 15120686
-  image:
-    url: https://media.discordapp.net/attachments/1139854891729289246/1186169858883326003/FAQ_TALENT_PRIORITY-01.png?ex=659245c4&is=657fd0c4&hm=5d361992e7cb84b8b1ba79c2496f35d1fd138d9fda98b301a85ac2223f3941a3&format=webp&quality=lossless&
+  # image:
+  #   url: https://media.discordapp.net/attachments/1139854891729289246/1186169858883326003/FAQ_TALENT_PRIORITY-01.png?ex=659245c4&is=657fd0c4&hm=5d361992e7cb84b8b1ba79c2496f35d1fd138d9fda98b301a85ac2223f3941a3&format=webp&quality=lossless&
 
 - title: __Analysis__
   description: "- The most important part of Xilonen's kit, the multi-Element RES Shred, 

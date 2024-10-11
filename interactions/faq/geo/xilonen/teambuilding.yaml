@@ -2,20 +2,13 @@ content: null
 embeds:
 - title: __TEAM BUILDING__
   description: |-
-    In short, Xilonen’s role in teams is almost identical to that of Kazuha, minus the 
-    AOE damage and Crowd Control, but with the addition of strong healing and the ability 
-    to buff the Geo element. She can also be used as a Zhongli replacement when his Shielding 
-    capabilities aren’t needed for the interruption resistance since she provides more RES Shred 
-    as well as healing to sustain the team. Xilonen is also able to be used as an on-field DPS even 
-    at low Constellations, but that will often result in less damage than if she were to be used to buff another carry.
+    In short, Xilonen’s role in teams is almost identical to that of Kazuha, minus the AOE damage and Crowd Control, but with the addition of strong healing and the ability to buff the Geo element. She can also be used as a Zhongli replacement when his Shielding capabilities aren’t needed for the interruption resistance since she provides more RES Shred as well as healing to sustain the team. Xilonen is also able to be used as an on-field DPS even at low Constellations, but that will often result in less damage than if she were to be used to buff another carry.
   color: 15120686
   
 - title: "**Arlecchino Vaporize**"
   description: |-
     ### Arlecchino | Hydro | Bennett | Xilonen
-    As mentioned above, this team replaces Kazuha with Xilonen. However, since her healing doesn’t 
-    benefit Arlecchino and Kazuha can also easily provide RES Shred and DMG% for both Hydro and Pyro, 
-    she is not an upgrade unless dealing with multi-wave content where Kazuha cannot easily refresh his Res Shred.
+    As mentioned above, this team replaces Kazuha with Xilonen. However, since her healing doesn’t  benefit Arlecchino and Kazuha can also easily provide RES Shred and DMG% for both Hydro and Pyro, she is not an upgrade unless dealing with multi-wave content where Kazuha cannot easily refresh his Res Shred.
 
     __**Teammates**__
 
@@ -26,19 +19,14 @@ embeds:
 - title: "**Neuvillette Hypercarry**"
   description: |-
     ### Neuvilette | Furina | Kazuha | Xilonen
-    Neuvillette doesn’t have many decent options for his fourth slot in this team, and Xilonen fits perfectly 
-    here, providing almost a second Kazuha’s worth of buffs, with the addition of healing which offers more 
-    survivability and which Furina is able to utilize to gain more stacks for her Elemental Burst’s buff.
+    Neuvillette doesn’t have many decent options for his fourth slot in this team, and Xilonen fits perfectly here, providing almost a second Kazuha’s worth of buffs, with the addition of healing which offers more survivability and which Furina is able to utilize to gain more stacks for her Elemental Burst’s buff.
   color: 15120686
   image:
     url: https://i.postimg.cc/PqpWzLzt/Portraits-Neuvillette-Furina-Kaedehara-Kazuha-Xilonen2.png
 - title: "**Navia**"
   description: |-
     ### Navia | Furina/Fischl | Bennett | Xilonen
-    Navia benefits immensely from Xilonen since her other options for a second Geo slot were either Zhongli, 
-    who has lackluster particle generation and thus hinders Navia, or Chiori who while providing an excellent 
-    amount of particles, is not fully utilized in this team at Constellation 0 due to Navia’s lack of Geo Constructs. 
-    In addition to solving both issues while buffing Navia, Xilonen also provides a large amount of healing, enabling greater synergy with Furina.
+    Navia benefits immensely from Xilonen since her other options for a second Geo slot were either Zhongli,  who has lackluster particle generation and thus hinders Navia, or Chiori who while providing an excellent  amount of particles, is not fully utilized in this team at Constellation 0 due to Navia’s lack of Geo Constructs. In addition to solving both issues while buffing Navia, Xilonen also provides a large amount of healing, enabling greater synergy with Furina.
   color: 15120686
   footer:
     text: 'Authored by: Ac1d'
