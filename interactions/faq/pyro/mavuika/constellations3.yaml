@@ -1,0 +1,59 @@
+content: null
+embeds:
+- title: "**Constellation 5 - The Meaning of Truth**"
+  description: |-
+    > _Increases the Level of The Named Moment by 3._
+    > _Maximum upgrade level is 15._
+
+    A humble damage boost. It doesn’t really do anything but add more damage.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Mavuika_02.png
+  fields:
+  - name: "***Team DPS% Increase vs. C4:***"
+    value: 5.2%
+    inline: false
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: 78.9%
+    inline: false
+  - name: "***Rating:***"
+    value: 1/5
+    inline: false
+- title: "**Constellation 6 - “Humanity’s Name” Unfettered**"
+  description: "> _The All-Fire Armaments from the Elemental Skill The Named Moment
+    receive all-round improvements:_\n> _· Ring of Searing Radiance: When the Ring's
+    attacks hit opponents, a Flamestrider will crash into the struck opponent, dealing
+    200% of ATK as Nightsoul-aligned AoE Pyro DMG._\n> _· Flamestrider: When Mavuika
+    is riding the Flamestrider, she will also summon a Scorching Ring of Searing Radiance
+    to follow her, which will decrease nearby opponents' DEF by 20% and deal 500%
+    of ATK as Nightsoul-aligned AoE Pyro DMG to nearby opponents once every 3s. Mavuika's
+    terrain-crossing abilities will also be further improved._\n> \n> _Additionally,
+    when Mavuika is riding her Flamestrider and is not in combat, when her Nightsoul
+    points drop to 5, she will gain 80 Nightsoul points. This effect can trigger once
+    every 15s._\n\nThis constellation simply makes Mavuika better at everything she
+    does while on-field.  She deals more damage. She shreds DEF (a very rare debuff)
+    and deals additional instances of Pyro damage. Even in overworld exploration,
+    her motorcycle mode lasts  twice as long."
+  color: 15492423
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mavuika_04.png
+  fields:
+  - name: "***Team DPS% Increase vs. C5:***"
+    value: 23.5%
+    inline: false
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: 120.8%
+    inline: false
+  - name: "***Rating:***"
+    value: 4/5
+    inline: false
+
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/constellations2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

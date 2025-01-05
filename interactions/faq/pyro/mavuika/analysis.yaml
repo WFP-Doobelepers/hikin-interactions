@@ -1,0 +1,42 @@
+content: null
+embeds:
+- title: __WFP SUBJECTIVE ANALYSIS__
+  description: Mavuika being the Pyro Archon certainly sets high expectations, considering
+    the land of Pyro is also called the Nation of war, and she certainly delivers.
+    Taking the crown of the most powerful DPS in the game by a significant margin
+    while also having use as an off-field character or buffer, she is an extremely
+    versatile unit. These roles can be achieved by using either the Obsidian Codex
+    or Scroll of the Hero of Cinder City artifact sets for each role respectively.
+  color: 15492423
+  footer:
+    text: 'Authored by: Ac1d'
+    icon_url: https://images-ext-1.discordapp.net/external/2LzKnPiFBh18im0guuyNob6HxaS8WF4GC1OqshtKxuQ/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/195955557591416833/092c72c6daa541d632f5bf20e5e08f34.png?format=webp&quality=lossless&width=671&height=671
+  fields:
+  - name: Is my Arlecchino useless now?
+    value: While it is true that Mavuika is stronger than her, it is not to the point
+      where you should try to pull her just because of that fact. Arlecchino remains
+      a competent DPS, albeit a slightly worse option than Mavuika. Mavuika also prefers
+      and sometimes needs Natlan characters like Citlali or Xilonen to function, which
+      might require further investment that should be considered when pulling.
+    inline: false
+  - name: Should I pull for Mavuika?
+    value: |-
+      If you like her, yes.
+      If your dream is speeding around Teyvat on a motorcycle, yes.
+      If you don’t like her but feel like you need a Pyro damage dealer like her, yes.
+      If you don't have and are never planning on pulling on any Natlan unit other than her then she might not be a great option to pull.
+    inline: false
+  - name: Should I get C1 or R1?
+    value: It depends on your goals. If your goal is higher damage, her C1 offers
+      minimal levels compared to her R1  while other weapon options are significantly
+      behind it in damage, especially F2P options. Her weapon is also very good on
+      other Claymore users if you don’t mind sharing weapons between characters. If
+      on the other hand your goal is to have her motorcycle last for 50% longer, then
+      C1 will serve you well. It is worth noting that this increase will not affect
+      her flying, climbing or water driving modes maximum continuous use time limit.
+    inline: false
+  - name: Should I try to get C2?
+    value: C2 is a frankly ludicrous buff to her damage, so if you can afford it and
+      aren’t thinking of pulling any of the other characters releasing soon, it might
+      be a great pull.
+    inline: false

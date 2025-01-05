@@ -1,0 +1,40 @@
+content: null
+embeds:
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Flames Weave Life**
+  description: As said earlier, there is no reason to level her Normal Attack talent,
+    since they will be overridden by her Skill anyways.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_04.png
+- title: "**Elemental Skill: The Named Moment**"
+  description: |-
+    The tap version deals damage in two-second intervals and allows Mavuika to apply enough Pyro to help trigger forward vapes. The hold version of the Skill not only is great for overworld exploration, but also turns Mavuika into a formidable on-field DPS. Its Pyro-infusion allows Mavuika to forward-Melt or reverse-Vaporize her Normal, Charged, and Plunging attacks.
+
+    Generally, when using Mavuika as an on-field DPS, it is prudent to use her tap Skill at the beginning of the rotation to consume enough Nightsoul Points to enable her Burst.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_S_Mavuika_01.png
+- title: "**Elemental Burst: Hour of Burning Skies**"
+  description: |-
+    For 7s, Mavuika gains interruption resistance and a multiplier bonus to the Normal, Charged, and Plunging attacks on her motorcycle based on the amount of Fighting Spirit gathered. Her attacks will also not consume Nightsoul Points.
+
+    The Burst really helps take Mavuika’s damage over-the-top, allowing her DPS in teams to soar past many of the strongest previous teams in history, hence the emphasis on levelling this talent first.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_E_Mavuika_01.png
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/mavuika/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

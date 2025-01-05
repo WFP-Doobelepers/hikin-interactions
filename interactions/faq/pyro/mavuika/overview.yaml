@@ -1,0 +1,60 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 15492423
+  fields:
+  - name: 'Lead:'
+    value: ""
+  - name: 'Authors:'
+    value: "<@293169816741740556>, <@195955557591416833>"
+  - name: 'Calculations:'
+    value: "Acacia"
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@741732017040785509>
+      Writing: <@360467745743175698>
+  - name: 'Transcription:'
+    value: "<@148100838861176832>, <@812178562822963210>"
+  - name: 'Resources:'
+    value: "[Mavuika Mastersheet](https://docs.google.com/spreadsheets/d/1oU4sMrpdiS45P3nCGHk4jDAM8r5DYMGiKdQwLcDzT8g/edit?gid=1559725382#gid=1559725382)"
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  image:
+    url: https://i.ytimg.com/vi/XvjaIBaIOmY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBGXFWz7Rx8w1wbWgb5BB8RVNyE-g
+- title: __OVERVIEW__
+  description: "Mavuika is damage. Whether on-field or off-field, Mavuika is a high-end
+    DPS with her best teams outdamaging most others compared on similar standards..
+    Even as a support, while wielding the 4pc Cinder City set, she offers a series
+    of massive buffs alongside her Burst. The Pyro Archon requires no Energy Recharge.
+    This is because her Burst is fueled by Fighting Spirit instead of energy, which
+    is built up through the consumption of Nightsoul Points across the party. Since
+    energy is not a factor for Mavuika, she can build entirely offensive-focused stats.\n\nWhile
+    Mavuika appears exceptional as an on-field DPS, her off-field capabilities should
+    not be ignored. She is superior (some may argue ‘comparable’) to Xiangling in
+    terms of damage, though she doesn’t have the relentless Pyro application that
+    Xiangling does. However, Xiangling needs to build a truly difficult amount of
+    Energy Recharge, which many players sometimes struggle with in order for Xiangling
+    to function. Off-field, Mavuika is Xiangling on easy mode (as if Xiangling needed
+    an easy mode).\n\nWhere Mavuika struggles is team restrictions and weapon affordability.
+    The best options for these teammates are limited 5-star characters like Xilonen
+    and Citlali. Her weapons are also not budget friendly, and her best 4-star option,
+    Serpent Spine, requires a shielder to maintain its stacks. Citlali is the only
+    worthwhile Natlan character at time of writing that offers this while also improving
+    Mavuika’s damage, though the shield isn’t very durable. If you don’t have loose
+    5-star CRIT Claymores laying around, you’re basically choosing between her signature
+    weapon, Serpent Spine (Battle Pass), Talking Stick (Battle Pass), or an R5 Tidal
+    Shadow (Craftable). \n\nAs with all other archons, Mavuika is designed to be a
+    highly flexible unit with applications as wide as there are reactions… as long
+    as you have another Natlan teammate. Thanks to her high motion values, she can
+    ignore the mechanic and at least function on any team. However, since her forte
+    is ‘damage,’ it’s hard to give a clearer overview than “big numbers good, but
+    needing pricy characters and weapons less good.” You will, however, be rewarded
+    handsomely for your investment."
+  color: 15492423
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+  thumbnail:
+    url: https://api.ambr.top/assets/UI/UI_AvatarIcon_Arlecchino.png?vh=2024042201

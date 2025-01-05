@@ -1,0 +1,20 @@
+content: null
+embeds:
+- title: |-
+    __TALENT PRIORITY__
+
+    **Elemental Burst > Elemental Skill**
+  description: |-
+    ## __Analysis__
+
+    The Normal Attack talent is irrelevant, due to the Skill talent multipliers overriding the Normal Attack multipliers when she uses Normal Attack inputs. Mavuika’s Burst provides an enormous multiplier bonus when you are well-stocked on Fighting Spirit, incentivizing having at least one additional Natlan teammate, and contributes the most to her damage profile, while the Skill is almost as valuable for her damage.
+  color: 15492423
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/talents2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

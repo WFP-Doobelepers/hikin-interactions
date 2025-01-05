@@ -1,0 +1,4 @@
+interaction: faq/pyro/mavuika/main
+description: "Opens WFP resources on Mavuika"
+match: ${ TRIGGER_PREFIX }mavuikafaq(?:\s|$)
+ignoreCase: true

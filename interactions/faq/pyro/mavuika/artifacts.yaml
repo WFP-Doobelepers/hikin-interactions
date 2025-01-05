@@ -1,0 +1,39 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* EM > ATK%
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* Pyro DMG
+    <:circlet:1094559608581922966> *Circlet of Logos:* CRIT Rate / Dmg
+
+    **Substats:** CRIT > EM > ATK
+  color: 15492423
+- title: |-
+    __Artifact Sets__
+
+    **4pc Obsidian Codex**
+  description: |-
+    Every other artifact set is significantly worse than this one’s damage output by more than 10%. 4pc Crimson Witch is the next alternative, but it’s nearly 15% worse. It’s worth the resin to farm Obsidian Codex for Mavuika.
+
+    However, if you use Furina, it’ll be within 5% damage to use 4pc Marechaussee Hunter. No matter what, though, Codex wins every time.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15038_4.png
+- title: "**4pc Scroll of the Hero of Cinder City**"
+  description: This option is for off-field, non-dps focused Mavuika builds. This,
+    coupled with her Burst, adds tons of firepower to her team while still dealing
+    non-negligible damage.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15037_4.png
+- title: "**2pc Mixes**"
+  description: You’ll want Pyro DMG% most if you intend to resort to 2pc mix-and-match
+    sets, followed by EM, followed by ATK%. Pyro + EM is still nearly 17% below the
+    best option, so it is not recommended to utilize 2pc sets unless the substats
+    are exceptional.
+  color: 15492423
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+  thumbnail:
+    url: https://i.postimg.cc/TP4Q4Mkn/Portraits-Lavawalker-Gilded-Dreams-Gladiator-s-Finale-1.png
