@@ -1,0 +1,50 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* DEF% or ER
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* DEF%
+    <:circlet:1094559608581922966> *Circlet of Logos:* Healing Bonus% or DEF% or CR (If Fav)
+
+    **Substats:** ER% (until requirement) > CR (If Fav) > DEF%
+  color: 15120686
+- title: |-
+    __Artifact Sets__
+
+    **4pc Scroll of the Hero of Cinder City**
+  description: Xilonen’s undisputed BiS Artifact set. The 2pc lowers her ER requirements 
+    and the 4pc grants all party members a 40% Geo DMG bonus and an additional Elemental 
+    DMG Bonus depending on  the Element with which Crystallize is generated.
+
+  color: 15120686
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15037_4.png?vh=2024100700
+- title: "**4pc Archaic Petra**"
+  description: Practically wasted 2pc effect because of Xilonen’s low multipliers. 
+    The 4pc effect provides a 35% dmg bonus, but it requires that a Crystallize shard 
+    be picked up, making it harder to utilize compared to Scroll while providing a lower buff, 
+    on top of not buffing Geo.
+
+  color: 15120686
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15014_4.png?vh=2024100700
+- title: "**4pc Instructor**"
+  description: Being a 4 Star Artifact Set, Xilonen holding Instructor will likely result in 
+    her overall stats being lower compared to other 5 star artifact sets, which in turn will 
+    lead to lower healing and buffing if she is holding her Signature Weapon. The buff provided 
+    is also worth less compared to Scroll and is only useful if her team members rely on Elemental Mastery.
+
+  color: 15120686
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_10007_4.png?vh=2024100700
+- title: "**4pc Obsidian Codex**"
+  description: Xilonen’s best set for her personal damage because of the amount of buffs 
+    it provides for Natlanian characters. However, using Xilonen as a damage dealer at low 
+    Constellations is not recommended, with her supportive builds very much preferred.
+
+  color: 15120686
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/reliquary/UI_RelicIcon_15038_4.png?vh=2024100700
+  footer:
+    text: 'Authored by: Sew'
+    icon_url: https://images-ext-1.discordapp.net/external/tdiJptsUKg5nTMTVJHPTaYmfqZR_uIN4oi7e7wDrmX0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/360467745743175698/780fa592fbddc71537157d9e051cadb8.png?format=webp&quality=lossless

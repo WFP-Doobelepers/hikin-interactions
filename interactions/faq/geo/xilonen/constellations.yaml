@@ -1,0 +1,111 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 -  Sabbatical Phrase**
+  description: |-
+    > *Xilonen's Nightsoul point and Phlogiston consumption in her Nightsoul's Blessing state is decreased by 30%, and her Nightsoul point time limit is extended by 45%.
+    > Additionally, when Xilonen's Source Samples are active, she can also increase nearby active characters' interruption resistance.*
+
+    Xilonen’s first Constellation is a QoL constellation for both exploration and combat. The decreased Phlogiston consumption and increased Nightsoul limit helps her while exploring with her Skill. The Constellation also provides the active character 0.5 IR, which is as much as Hu Tao during her Elemental Skill infusion or Beidou during the duration of her Elemental Burst, when her Source Samples are active.
+  color: 15120686
+  fields:
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "0%"
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_01.png?vh=2024100700
+- title: "**Constellation 2 - Chiucue Mix**"
+  description: |-
+    > *Xilonen's Geo Source Sample will always remain active. Additionally, when her Source Samples activate, all nearby party members will gain effects corresponding to the active Source Sample that matches their Elemental Type:
+    > · Geo: DMG +50%.
+    > · Pyro: ATK +45%.
+    > · Hydro: Max HP +45%.
+    > · Cryo: CRIT DMG +60%.
+    > · Electro: Restore 25 Energy, decrease Elemental Burst CD by 6s.*
+
+    Xilonen’s C2 is one of the best Constellations in the game. Considering how universal she is, increasing her buffing capabilities significantly makes the Constellation hold high value. In addition to the increased buffs, it enables her to shred Geo without the use of her Skill.
+  color: 15120686
+  fields:
+  - name: "***Team DPS% Increase vs. C1:***"
+    value: 13-16%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "13-16%"
+  - name: "***Rating:***"
+    value: 4/5
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_02.png?vh=2024100700
+- title: "**Constellation 3 - Tonalpohualli's Loop**"
+  description: |-
+    > *Increases the Level of Yohual's Scratch by 3.
+    > Maximum upgrade level is 15.*
+
+    Increases the level of  Xilonen’s Elemental Skill by 3, which increases her maximum RES Shred from 36% at TL 10 to 45% at TL13.
+  color: 15120686
+  fields:
+  - name: "***Team DPS% Increase vs. C2:***"
+    value: 3.5-4%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "17-21%"
+  - name: "***Rating:***"
+    value: 2/5
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_U_Xilonen_01.png?vh=2024100700
+- title: "**Constellation 4 - Suchitl's Trance**"
+  description: |-
+    > *After Xilonen uses Yohual's Scratch, she will grant all nearby party members the Blooming Blessing effect for 15s.
+    > Characters with Blooming Blessing deal 65% of Xilonen's DEF as increased Normal, Charged, and Plunging Attack DMG. This effect will be removed after triggering 6 times or when the duration ends.
+    > When you hit more than one opponent, trigger counts will be consumed based on the number of opponents hit. The counts for each party member with Blooming Blessing are counted independently.*
+
+    Provides the team with 6 instances of added damage, similar to Shenhe and Yun Jin’s buffs, on their Normal, Charged and Plunging Attacks.
+  color: 15120686
+  fields:
+  - name: "***Team DPS% Increase vs. C3:***"
+    value: 7-13%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: 25-37%"
+  - name: "***Rating:***"
+    value: 3/5
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_03.png?vh=2024100700
+- title: "**Constellation 5 - Tlaltecuhtli's Crossfade**"
+  description: |-
+    > *Increases the Level of Ocelotlicue Point! by 3.
+    > Maximum upgrade level is 15.*
+
+    The added healing from this constellation is not very useful. The Constellation should only be pulled if going for C6.
+  color: 15120686
+  fields:
+  - name: "***Team DPS% Increase vs. C4:***"
+    value: 0%
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: "25-37%"
+  - name: "***Rating:***"
+    value: 1/5
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_U_Xilonen_02.png?vh=2024100700
+- title: "**Constellation 6 - Imperishable Night Carnival**"
+  description: |-
+    > *When Xilonen is in the Nightsoul's Blessing state, when she sprints, leaps, or uses Normal or Plunging Attacks, she will gain Imperishable Night's Blessing, ignoring the limitations of her Nightsoul's Blessing state and increasing the DMG dealt by her Normal and Plunging Attacks for 5s.
+    > During this time:
+    > · Her Nightsoul's Blessing time limit countdown will be paused. Xilonen's Nightsoul points, Phlogiston, and Stamina will not decrease, and when her Nightsoul points reach the maximum, her Nightsoul's Blessing state will not end either.
+    > · Xilonen deals 300% of her DEF as increased Normal and Plunging Attack DMG while in the Nightsoul's Blessing state.
+    > · She heals nearby party members for 120% of her DEF every 1.5s.
+    > She can gain 1 Imperishable Night's Blessing once every 15s.*
+
+    This Constellation greatly enhances Xilonen’s personal damage in a frontloaded manner by giving her added damage on her Normal and Plunging attacks while also providing teamwide healing, enabling Furina much better compared to a lower Constellation Xilonen.
+  color: 15120686
+  fields:
+  - name: "***DPS% Increase vs. C5:***"
+    value: 2-6%
+  - name: "***DPS% Increase vs. C0:***"
+    value: "27-45%"
+  - name: "***Rating:***"
+    value: 3/5
+  footer:
+    text: 'Authored by: Sew'
+    icon_url: https://images-ext-1.discordapp.net/external/tdiJptsUKg5nTMTVJHPTaYmfqZR_uIN4oi7e7wDrmX0/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/360467745743175698/780fa592fbddc71537157d9e051cadb8.png?format=webp&quality=lossless
+  thumbnail:
+    url: https://gi.yatta.moe/assets/UI/UI_Talent_S_Xilonen_04.png?vh=2024100700

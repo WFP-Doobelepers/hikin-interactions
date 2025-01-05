@@ -1,0 +1,23 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: "To sum this section up, Mavuika has zero Energy Recharge requirements.
+    While this statement usually comes with caveats for other characters, such as
+    using an Elemental Burst every other rotation, it surprisingly holds true for
+    Mavuika, who simply does not need energy to use her Elemental Burst and is currently
+    the only character in the game with this mechanic. She instead uses Fighting Spirit
+    stacks to activate her burst, a mechanic unaffected by the Energy Recharge stat,
+    which also enables her to use her Burst at half of its maximum capacity of 200
+    stacks, albeit resulting in less damage dealt. \n\nShe gains fighting spirit when
+    any character in the team consumes Nightsoul Points while in combat, including
+    herself, as well as a tiny amount when any character lands Normal Attacks.\n\nThat
+    being said, her Elemental Skill still produces 5 Pyro particles on activation,
+    so your teams will not suffer from lack of energy when she is part of them.\n\nYour
+    team’s ER requirements will vary based on your team and rotation. For a more accurate
+    estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).\nFor
+    more details on how Favonius weapons will affect your team, please use Ac1d’s
+    Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing)."
+  color: 15492423
+  footer:
+    text: 'Authored by: Ac1d'
+    icon_url: https://images-ext-1.discordapp.net/external/2LzKnPiFBh18im0guuyNob6HxaS8WF4GC1OqshtKxuQ/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/195955557591416833/092c72c6daa541d632f5bf20e5e08f34.png?format=webp&quality=lossless&width=671&height=671

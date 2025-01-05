@@ -1,0 +1,26 @@
+content: null
+embeds:
+- title: "**Navia**"
+  description: |-
+    ### Mavuika | Bennett | Navia | Xilonen
+    Mavuika replaces Xiangling as the Pyro damage dealer in this team as an off-field DPS. Xilonen is the natural fit for this team, being a Natlanian who can shred Geo and Pyro resistance. In a pinch, Xilonen can be replaced with Kachina, but this isn’t really recommended; the two aren’t comparable in performance, but Kachina can wear the same Artifact set and is Natlanian. Other options besides Xilonen fall off pretty hard.
+  color: 15492423
+  image:
+    url: https://i.postimg.cc/zDCXwnXF/Portraits-Mavuika-Bennett-Navia-Xilonen.png
+- title: "**Burning (Kinich)**"
+  description: |-
+    ### Mavuika | Bennett | Kinich | Emilie/Flex
+    An on-field Dendro DPS is preferred in this team composition to provide ample fuel for Burning. Kinich is the most likely choice due to being Natlanian, having inherent synergy with Mavuika. Emilie is a great choice for the fourth teammate due to her Burning damage reduction, which allows you to require less care in gameplay while also providing worthwhile damage.
+  color: 15492423
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+  image:
+    url: https://i.postimg.cc/WzBGPgCn/Portraits-Mavuika-Bennett-Kinich-Emilie-Fill-slot.png
+
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/teams2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

@@ -1,0 +1,21 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: "Xilonen’s ER requirements in order to Burst every rotation depend 
+    largely on her team, with teams which have additional Geo characters needing 
+    very little ER, while the opposite means her ER needs can shoot up to 230% ER, 
+    and that’s only if she catches her own particles. \n\nHer Burst does not contribute 
+    much damage and can be safely disregarded unless needed for every rotation for 
+    survivability and/or to provide healing for Furina’s drain to work. \n\nIt is 
+    worth noting that using her Burst every other rotation instead reduces her ER 
+    requirements by roughly half. \n\nXilonen’s
+    ER requirements will vary based on your team and rotation. For a more accurate
+    estimate, please use the Energy Recharge Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).\nFor
+    more details on how Favonius weapons will affect your team, please use Ac1d’s
+    Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing)."
+  color: 15120686
+  footer:
+    text: 'Authored by: Ac1d'
+    icon_url: https://images-ext-1.discordapp.net/external/-P1QH7hK1duHx8-gj7_18UY5QN8Gg62iN-CssNh6z9s/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/195955557591416833/3618aeda7a343a01f6330d4826b801c4.png?format=webp&quality=lossless&width=671&height=671
+  image:
+    url: https://images-ext-1.discordapp.net/external/ebDTnFUWxdApXTki8mUOYXyV35FEbKEF9bEPw16xYN8/https/i.postimg.cc/1R29ZpNB/Xilonen-ER.png?format=webp&quality=lossless

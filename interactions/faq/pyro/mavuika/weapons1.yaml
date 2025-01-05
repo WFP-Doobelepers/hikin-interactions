@@ -1,0 +1,38 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **A Thousand Blazing Suns**
+  description: Basically gives Mavuika +20% CRIT DMG and +28% ATK bonus for as long
+    as Mavuika is active on the field. In Nightsoul stance, both of these are raised
+    by 75%, making it a 35% CRIT DMG Bonus and 49% ATK bonus. This beats the next
+    *unconditional* weapon by 20% and pre-stacked R5 Serpent Spine by roughly 17%.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Claymore_RadianceSword.png
+- title: "**Serpent Spine R5 (Pre-Stacked)**"
+  description: The overall best 4-star Claymore for most wielders of the weapon. Citlali
+    provides a shield, so it won’t be too difficult to prevent the stacks from being
+    lost, but shielding options might be limited outside of her without taking some
+    major hit to team dps.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Claymore_Kione.png
+- title: "**Redhorn Stonethresher // Verdict // Beacon of the Reed Sea (without taking
+    damage)**"
+  description: These are mostly just good CRIT stat sticks with situationally useful
+    passives. They’re all within a percent or so of each other, so it’s appropriate
+    to put them all in one place here.
+  color: 15492423
+  thumbnail:
+    url: https://i.postimg.cc/pLYLCPL1/Portraits-Redhorn-Stonethresher-Verdict-Beacon-of-the-Reed-Sea.png
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/weapons2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

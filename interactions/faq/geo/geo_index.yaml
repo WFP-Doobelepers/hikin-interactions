@@ -14,3 +14,8 @@ options:
     value: faq/geo/navia/main
     description: WFP resources on Navia!
     emoji: <${ EMOJIS.GEO }>
+  
+  - label: Xilonen
+    value: faq/geo/xilonen/main
+    description: WFP resources on Xilonen!
+    emoji: <${ EMOJIS.XILONEN }>

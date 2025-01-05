@@ -1,0 +1,74 @@
+content: null
+embeds:
+- title: 'The leader of Natlan who inherited the Ancient Name of "Kiongozi." She made a vow to illuminate the future of the nation of war with the Sacred Flame.'
+  color: 15492423
+  fields:
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+  - name: Mavuika Mastersheet by Acacia.
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1oU4sMrpdiS45P3nCGHk4jDAM8r5DYMGiKdQwLcDzT8g/edit?usp=sharing)"
+  author:
+    name: Mavuika FAQ
+    icon_url: https://i.imgur.com/m2VEwoG.png
+  image:
+    url: https://i.imgur.com/LuPQAto.png
+
+
+options: #dropdown
+  - label: Overview
+    value: faq/pyro/mavuika/overview
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: WFP Subjective Analysis
+    value: faq/pyro/mavuika/analysis
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Talents
+    value: faq/pyro/mavuika/talents1
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Constellations
+    value: faq/pyro/mavuika/constellations1
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/pyro/mavuika/erreqs
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Artifacts
+    value: faq/pyro/mavuika/artifacts
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Weapons
+    value: faq/pyro/mavuika/weapons1
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: Team Building
+    value: faq/pyro/mavuika/teams1
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+  - label: External Links
+    value: faq/pyro/mavuika/external
+    description: "WFP resources for Mavuika FAQ."
+    emoji: ${ EMOJIS.PYRO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/mavuika
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/q/mavuika-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK

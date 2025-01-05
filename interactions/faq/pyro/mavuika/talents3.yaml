@@ -1,0 +1,42 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Gift of Flaming Flowers**
+  description: Any party member triggering a Nightsoul Burst grants Mavuika 30% ATK
+    for 10s. Since her damage window is about 7s, this will almost always be active
+    when it matters.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mavuika_05.png
+- title: "**Ascension 4 Passive: “Kiongozi”**"
+  description: A decaying buff on the active party with a maximum of 40% DMG Bonus
+    based on the Fighting Spirit present when using Mavuika’s Burst. It further incentivizes
+    growing Fighting Spirit to its maximum capacity.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mavuika_06.png
+- title: "**Night Realm's Gift: Exhaust Mode**"
+  description: This talent allows Mavuika to consume Phlogiston to extend her Nightsoul’s
+    Blessing state for longer while exploring Natlan. In Natlan, this significantly
+    positively impacts the duration of the motorcycle state and by extension Natlan
+    exploration.
+  color: 15492423
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mavuika_07.png
+- title: "**Utility Passive: Night-Shattering Radiance**"
+  description: Nightsoul Transmission CD is reduced by 20% across the party.
+  color: 15492423
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Citlali_07.png
+
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

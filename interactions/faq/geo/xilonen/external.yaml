@@ -1,0 +1,19 @@
+content: null
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 15120686
+  fields:
+  - name: Project Amber
+    value: "[Character Database](https://gi.yatta.moe/en/archive/avatar/10000103/xilonen?mode=profile)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://genshin.honeyhunterworld.com/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credits to Ac1d, Lilith and Acacia for the Xilonen
+      FAQ! || WFP Theorycrafting
+    icon_url: https://media.discordapp.net/attachments/1139854891729289246/1158154535596990504/GUTAAAAo5_-_mr1_thonk.png?ex=6591ddf6&is=657f68f6&hm=128777fd43160182dadbefbbc9cb67f01c6187bc38a6c69038816f4d94bd0822&width=468&height=468&
+  image:
+    url: https://images-ext-1.discordapp.net/external/mXpIL9GG3VBIYRx_LzgDGMsYAtq8IQxk3TDJZgaE-G8/https/i.postimg.cc/4dLnLGvX/Xilonen-Bust.jpg?format=webp&width=1193&height=671

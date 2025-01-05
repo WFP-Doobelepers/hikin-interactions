@@ -1,0 +1,37 @@
+content: null
+embeds:
+- title: "**Serpent Spine R1 (Pre-Stacked) // Talking Stick R5 **"
+  description: The Battle Pass weapon, even at R1, surpasses all other 4-star weapons
+    and all unnamed R1 5-star weapons. For those who want something less conditional,
+    R5 Talking Stick is great when your character has Pyro applied to them, like in
+    Bennett’s Burst circle. The damage output between these two weapons is roughly
+    the same.
+  color: 15492423
+  thumbnail:
+    url: https://i.postimg.cc/d02NDSnC/Portraits-Talking-Stick-Serpent-Spine.png
+- title: "**The Other R1 5-Stars (Besides Skyward Pride) // Mailed Flower R5 // Talking
+    Stick R1**"
+  description: Skyward Pride is useless on Mavuika since she doesn’t need Energy Recharge
+    at all. Other 5-star weapons are between 4-7% better than R5 Tidal Shadow, but
+    1-4% worse than R5 Talking Stick.
+  color: 15492423
+  thumbnail:
+    url: https://i.postimg.cc/sD56ggmX/Portraits-Wolf-s-Gravestone-The-Unforged-Mailed-Flower-Talking-Stick.png
+- title: "**Tidal Shadow R5**"
+  description: The craftable baseline. You’ll be married to the Bennett circle in
+    most cases with Mavuika, so she will usually be healing, and you’ll usually have
+    secondary healing from characters like Xilonen or Chevreuse. If neither of them
+    are on the team, Furina also tugs Mavuika’s HP below 70%, allowing her to get
+    healed by Bennett again while on-field.
+  color: 15492423
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Claymore_Vorpal.png
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/weapons1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

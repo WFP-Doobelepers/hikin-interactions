@@ -1,0 +1,29 @@
+content: null
+embeds:
+- title: "**Forward Vaporize**"
+  description: |-
+    ### Mavuika | Xilonen | Mualani | Flex
+    Mavuika as an off-field DPS provides Xiangling levels of damage and still applies Pyro enough for Mualani to Forward Vaporize her attacks, including her Burst. Even if off-field Mavuika is less damage than on-field, the lack of energy requirements is hard to overlook. With three Natlanians, it will also be easy to maximize her Fighting Spirit. The flex slot can go to whatever suits your team needs, whether it be healing, shielding, or more offense.
+  color: 15492423
+  image:
+    url: https://i.postimg.cc/FRfNJLC3/Portraits-Mavuika-Xilonen-Mualani-Kaedehara-Kazuha-Sucrose-Chiori-Emilie.png
+- title: "**Overloaded**"
+  description: |-
+    ### Mavuika | Bennett | Chevreuse | Flex
+    Mavuika replaces Xiangling as the Pyro damage dealer in this team, regardless of whether Mavuika is on-field or off-field DPS. This allows your Electro option to be fairly flexible, since you can use either an on-field or off-field DPS. Chevreuse provides buffs, unconditional healing, and Pyro + Electro RES-shred. Clorinde is a great on-field DPS choice if Mavuika opts for off-field play, and Fischl is like reliable 4-star off-fieldchoice for damage and simplicity of play. Ororon is the current Natlan option to raise Fighting Spirit.
+  color: 15492423
+  image:
+    url: https://i.postimg.cc/h4kTv8Z8/Portraits-Mavuika-Bennett-Chevreuse-Clorinde-Fischl-Ororon.png
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/teams1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/pyro/mavuika/teams3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

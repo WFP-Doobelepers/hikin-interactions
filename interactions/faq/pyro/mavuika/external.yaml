@@ -1,0 +1,18 @@
+content: null
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 15492423
+  fields:
+  - name: HomDGCat Wiki
+    value: "[Character Database and Asset Resources](https://homdgcat.wiki/gi/char?lang=EN#_Mavuika)"
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://gensh.honeyhunterworld.com/mavuika_106/?lang=EN)"
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+  footer:
+    text: Credits to Emiliabyss and Ac1d for the Mavuika FAQ! || WFP Theorycrafting
+    icon_url: https://i.imgur.com/WoAooLv.gif
+  image:
+    url: https://images2.minutemediacdn.com/image/upload/c_crop,w_750,h_421,x_0,y_0/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/video_games/01jdh6rv3tgepkd7chgt.jpg

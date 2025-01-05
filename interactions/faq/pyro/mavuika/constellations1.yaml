@@ -1,0 +1,49 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - The Night-Lord’s Explication**
+  description: |-
+    > _Mavuika's maximum Nightsoul points are increased to 120, and she gains Fighting Spirit 25% more efficiently. Additionally, she gains 40% ATK for 8s after gaining Fighting Spirit._
+
+    A nice quality-of-life upgrade to Mavuika, and reasonable, but not essential, for a C1. It also extends the bike form by 50% for exploration.
+  color: 15492423
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_Talent_S_Mavuika_01.webp
+  fields:
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: 10.7%
+    inline: false
+  - name: "***Rating:***"
+    value: 2.5/5
+    inline: false
+- title: "**Constellation 2 - The Ashen Price**"
+  description: |-
+    > _When in the Nightsoul's Blessing State, Mavuika's Base ATK is increased by 200, and she obtains the following effects based on All-Fire Armaments' form:_
+    > _· Ring of Searing Radiance: Nearby opponents' DEF decreased by 20%._
+    > _· Flamestrider: Mavuika's Normal Attacks, Charged Attacks, and her Sunfell Slice from the Elemental Burst Hour of Burning Skies deal 60%, 90%, and 120% of her ATK as increased DMG respectively._
+
+    Most of the time, you are spinning donuts with her Charged Attack while she is on-field, and 90% increased damage is massive. It’s basically just raw damage, no matter which form it takes, and not revolutionary like the C2 of other Archons. The DEF-shred is certainly welcome, but Mavuika may be strongest as an on-field DPS anyways. Nevertheless, it is one of the best Constellations to aim for if you intend to bring Mavuika up in constellations, and a fine stopping point as well.
+  color: 15492423
+  thumbnail:
+    url: https://api.hakush.in/gi/UI/UI_Talent_S_Mavuika_02.webp
+  fields:
+  - name: "***Team DPS% Increase vs. C1:***"
+    value: 31.2%
+    inline: false
+  - name: "***Team DPS% Increase vs. C0:***"
+    value: 45.3%
+    inline: false
+  - name: "***Rating:***"
+    value: 4.5/5
+    inline: false
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://images-ext-1.discordapp.net/external/VD8k1BSVmpeWAlftkXYSUegq7Dp57jIaYNlM1kj1IXw/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/293169816741740556/dd9096d01f388f26230c017937306287.png?format=webp&quality=lossless&width=671&height=671
+
+buttons:
+- customId: liveInteraction#faq/pyro/mavuika/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
