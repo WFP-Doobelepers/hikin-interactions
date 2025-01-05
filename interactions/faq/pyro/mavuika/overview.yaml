@@ -6,7 +6,7 @@ embeds:
     url: https://i.ytimg.com/vi/XvjaIBaIOmY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBGXFWz7Rx8w1wbWgb5BB8RVNyE-g
   fields:
   - name: 'Lead:'
-    value: ''
+    value: '-'
     inline: false
   - name: 'Authors:'
     value: |-
