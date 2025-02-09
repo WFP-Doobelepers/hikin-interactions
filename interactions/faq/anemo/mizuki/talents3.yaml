@@ -1,0 +1,32 @@
+content: null
+embeds:
+- title: |-
+    __Passives__
+
+    **Ascension 1 Passive: Bright Moon's Restless Voice**
+  description: Mizuki’s floating state from her Skill can be extended by up to 5s
+    by triggering Swirls during her floating Skill state.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mizuki_05.png
+- title: "**Ascension 4 Passive: Thoughts by Day Bring Dreams by Night**"
+  description: Teammates hitting enemies with Pyro, Electro, Cryo, and Hydro will
+    increase Mizuki’s EM in her floating state by 100.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mizuki_06.png
+- title: "**Utility Passive: All Ailments Banished**"
+  description: Based on friendship level, eating food will occasionally restore 30%
+    more health.
+  color: 13668276
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+
+
+
+buttons:
+- customId: liveInteraction#faq/anemo/mizuki/talents2
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"

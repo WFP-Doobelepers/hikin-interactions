@@ -1,0 +1,50 @@
+content: null
+embeds:
+- title: |-
+    __WEAPONS__
+
+    **Hakushin Ring (R5)**
+  description: If you team up with an Electro character, which is highly likely due
+    to scarce teammate compatibility outside of Fischl, Yae Miko, and some Archons,
+    this is the best option for team DPS. Since the weapon buff applies to multiple
+    elements at once and needs to be triggered on-field, not only does this feel made
+    for Mizuki, but it also packs quite a punch for a craftable weapon, allowing Mizuki
+    to buff nearly the entire team.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Bakufu.png
+- title: "**Favonius Codex**"
+  description: More particles are always welcome, and this weapon will also help solve
+    any energy requirements Mizuki might have. Since she’s spending 10s+ on-field,
+    she has many opportunities to CRIT, even with a low CRIT Rate stat.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Zephyrus.png
+- title: "**A Thousand Floating Dreams**"
+  description: Nahida’s signature weapon that provides a minor amount of EM to the
+    party. Only use if Hakushin doesn’t work for your Mizuki teams.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Ayus.png
+- title: "**Wandering Evenstar**"
+  description: Offers a negligible flat ATK buff based on Mizuki’s EM. Like A Thousand
+    Floating Dreams, this buff is not enough to outvalue Hakushin Ring
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_Pleroma.png
+- title: "**Sunny Morning Sleep-In**"
+  description: Just a ton of EM. Mizuki’s signature weapon. Good for personal DPS,
+    but team dps arguably matters more, and this requiring pulling on the weapon banner
+    makes this an unappealing choice.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Weapon/UI_EquipIcon_Catalyst_SakuraFan.png
+- title: "**EM Catalysts / TTDS**"
+  description: Even a 3-star will do. If you’re using Mizuki off-field, she can at
+    least wield Thrilling Tales to buff the actual on-field DPS, worst-case scenario.
+  color: 13668276
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+  thumbnail:
+    url: https://i.imgur.com/9I8RwA2.png

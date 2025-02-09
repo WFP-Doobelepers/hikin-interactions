@@ -1,0 +1,22 @@
+content: null
+embeds:
+- title: __EXTERNAL LINKS__
+  color: 13668276
+  footer:
+    text: Credits to Emiliabyss for the Mizuki FAQ! || WFP Theorycrafting
+    icon_url: https://i.imgur.com/WoAooLv.gif
+  image:
+    url: https://i.imgur.com/egJwm57.png
+  fields:
+  - name: HomDGCat Wiki
+    value: "[Character Database and Asset Resources](https://homdgcat.wiki/gi/char?lang=EN#_Mizuki)"
+    inline: false
+  - name: Honey Hunter World
+    value: "[Character Database and Asset Resources](https://gensh.honeyhunterworld.com/mizuki_109/?lang=EN)"
+    inline: false
+  - name: Genshin Impact JP Twitter
+    value: "[Asset Resources](https://twitter.com/Genshin_7)"
+    inline: false
+  - name: Genshin Impact EN Twitter
+    value: "[Asset Resources](https://twitter.com/GenshinImpact)"
+    inline: false

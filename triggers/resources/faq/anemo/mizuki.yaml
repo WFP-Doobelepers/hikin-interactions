@@ -1,0 +1,4 @@
+interaction: faq/anemo/mizuki/main
+description: "Opens WFP resources on Yumemizuki Mizuki"
+match: ${ TRIGGER_PREFIX }mizukifaq(?:\s|$)
+ignoreCase: true

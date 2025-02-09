@@ -1,0 +1,47 @@
+content: null
+embeds:
+- title: |-
+    __CONSTELLATIONS__
+
+    **Constellation 1 - In Mist-Like Waters**
+  description: |-
+    > _When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the "Twenty-Three Nights' Awaiting" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 900% of Mizuki's Elemental Mastery._
+
+    Mostly an occasional buff to her Swirl hits, but only one at a time. This can only trigger up to four times per Skill use. It’s a huge boost to her personal DPS, but her C2 remains superior for team DPS.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mizuki_01.png
+  fields:
+  - name: "***Personal DPS% Increase vs. C0:***"
+    value: 47.16%
+    inline: false
+  - name: "***Rating:***"
+    value: 3/5
+    inline: false
+- title: "**Constellation 2 - Your Echo I Meet in Dreams**"
+  description: |-
+    > _When entering the Dreamdrifter state, every Elemental Mastery point Yumemizuki Mizuki has will increase all nearby party members' Pyro, Hydro, Cryo, and Electro DMG Bonuses by 0.04% until the Dreamdrifter state ends._
+
+    Basically Kazuha’s Fourth Ascension Passive, but only active while Mizuki is in her Skill state and on-field. This is quite a powerful buff and is a solid place to stop if one isn’t aiming for C6.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mizuki_02.png
+  fields:
+  - name: "***Personal DPS% Increase vs. C1:***"
+    value: 1.49%
+    inline: false
+  - name: "***Personal DPS% Increase vs. C0:***"
+    value: 49.35%
+    inline: false
+  - name: "***Rating:***"
+    value: 3.5/5
+    inline: false
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/mizuki/constellations2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

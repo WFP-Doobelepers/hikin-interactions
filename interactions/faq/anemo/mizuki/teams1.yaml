@@ -1,0 +1,32 @@
+content: null
+embeds:
+- title: __TEAM BUILDING__
+  description: There are really only a few viable teammates for Mizuki, since she
+    requires off-field DPS’s who attack automatically, and not ones that trigger based
+    on Normal or Charged Attacks (since Mizuki can’t use these attacks in her Skill
+    state).
+  color: 13668276
+- title: "**Aggravate**"
+  description: |-
+    ### Mizuki | Fischl | Yae Miko/Ororon | Nahida
+
+    All of the teammates here deal damage over time without manual input besides setting the abilities up. Mizuki plays two roles as a healer and an Anemo support, and her taking the field can keep everyone else safe from harm. Ororon can deal decent damage from the backline, and Fischl will be the carry of the team.
+  color: 13668276
+  image:
+    url: https://i.imgur.com/XB5CNlI.png
+- title: "**Electro-Charged**"
+  description: |-
+    ### Mizuki | Fischl | Yae Miko/Ororon | Furina
+    A slightly more awkward rendition of the taser team. Mizuki’s healing synergizes with Furina in order to help Furina maximize her buffs she gives to the rest of the team. Ororon is also a great 4-star for this team due to the presence of Hydro, which enables some of his kit to be more effective.
+  color: 13668276
+  image:
+    url: https://i.imgur.com/Jpjbhjv.png
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/mizuki/teams2
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"
