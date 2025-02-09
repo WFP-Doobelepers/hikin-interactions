@@ -1,0 +1,42 @@
+content: null
+embeds:
+- title: |-
+    __TALENT OVERVIEW__
+
+    **Normal Attack: Pure Heart, Pure Dreams**
+  description: Don’t use it! The only reason you should is if you want to get one
+    Swirl hit as fast as possible and are switching off immediately. Don’t level this
+    either.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_A_Catalyst_MD.png
+- title: "**Elemental Skill: Aisa Utamakura Pilgrimage**"
+  description: |-
+    *CD: **15s***
+
+    The only purpose of levelling this talent is the EM-based Swirl bonus damage. Her ability to float and periodically attack enemies with Anemo is unaffected by Talent level. Remember that during the time Mizuki is floating, she cannot use Normal or Charged Attacks.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_S_Mizuki_01.png
+- title: "**Elemental Burst: Anraku Secret Spring Therapy**"
+  description: |-
+    *CD: **15s***
+    *Energy cost: **60***
+
+    For 12 seconds, Mizuki will occasionally drop treats that heal the active character if their HP is below 70%, or will detonate and deal Anemo damage. The initial cast of the Burst will also group enemies. The main reason to level this talent will be to enhance the healing efficacy.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/Skill_E_Mizuki_01.png
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/mizuki/talents1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/anemo/mizuki/talents3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

@@ -1,0 +1,32 @@
+content: null
+embeds:
+- title: __WFP SUBJECTIVE ANALYSIS__
+  description: Mizuki is a bit of a letdown; as a 5-star, she does nothing importantly
+    different than Jean, another standard-banner 5-star. Mizuki also falls behind
+    in crowd-control, damage potential, and team flexibility compared to 4-stars like
+    Sucrose, Heizou, or even Sayu, without any of these 4-stars having constellations.
+    Lynette and Anemo Traveler, two free characters, also have greater flexibility
+    than Mizuki.
+  color: 13668276
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+  fields:
+  - name: Should I pull for Mizuki?
+    value: |-
+      If you like her design, lore, or personality, and think she’s neat, **sure**.
+      If you have absolutely no Anemo characters on your account, and your Traveler is occupied with another element, **sure**. However, at time of release, it’s more so recommended to just grab  Anemo shielder Lan Yan as the free 4-star character from Lantern Rite.
+      If you want an Anemo on-field DPS, no. Just pick Chasca or Wanderer.
+      If you want an EM based Anemo support for your team, no. Just pick Sucrose.
+    inline: false
+  - name: Should I pull for her signature weapon?
+    value: |
+      If the intent is to make Mizuki as strong as possible, maybe, but only if personal damage on her is the only thing that matters for you. If you want the best team DPS, the craftable Hakushin Ring or Nahida’s signature weapon, A Thousand Floating Dreams, are both better.
+      If the intent is to put it on some other character, it could be useful on Sucrose, but is it worth the primos? Probably not.
+    inline: false
+  - name: I really like Mizuki! Should I get her Constellations?
+    value: 'C2 grants a buff similar to Kazuha’s A4 for as long as she’s on the field,
+      which is quite useful. Otherwise, it is not advised to shoot for specific constellations
+      before C6. However, since she is now a standard banner unit, you will probably
+      lose a 50/50 to her a few times anyways. '
+    inline: false

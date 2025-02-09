@@ -1,0 +1,18 @@
+content: null
+embeds:
+- title: __ENERGY RECHARGE REQUIREMENTS__
+  description: "It’s not reasonable to expect Mizuki to Burst reliably in Xiangling
+    teams or Overvape teams, as the recharge needs go beyond 200%. Mizuki struggles
+    maintaining a serviceable DPS even on 100% Energy Recharge, so building to Burst
+    in these teams is not worth it. \n\nEssentially, Mizuki is married to C6 Fischl
+    for energy to be manageable.\n\nYour team’s ER requirements will vary based on
+    your team and rotation. For a more accurate estimate, please use the Energy Recharge
+    Calculator linked [here](https://docs.google.com/spreadsheets/d/1-vkmgp5n0bI9pvhUg110Aza3Emb2puLWdeoCgrxDlu4/copy).\nFor
+    more details on how Favonius weapons will affect your team, please use Ac1d’s
+    Favonius Mastersheet linked [here](https://docs.google.com/spreadsheets/d/1mOnUdJJUaS9fRXXueP28inXWDoDxtUaQ-Ww6LipAuAE/edit?usp=sharing)."
+  color: 13668276
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+  image:
+    url: https://i.imgur.com/8bU9rDm.png

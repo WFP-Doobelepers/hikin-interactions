@@ -1,0 +1,65 @@
+content: null
+embeds:
+- title: __CREDITS__
+  color: 13668276
+  image:
+    url: https://i.imgur.com/S4GqZru.png
+  fields:
+  - name: 'Lead:'
+    value: "<@293169816741740556>"
+    inline: false
+  - name: 'Author:'
+    value: "<@293169816741740556>"
+    inline: false
+  - name: 'Calculations:'
+    value: "<@360467745743175698>, <@195955557591416833>"
+    inline: false
+  - name: 'Consultation:'
+    value: "<@583034255794503697> (Writing)"
+    inline: false
+  - name: 'Content Verification:'
+    value: |-
+      Calculations: <@148100838861176832>
+      Writing: <@94978723341668352>
+    inline: false
+  - name: 'Transcription:'
+    value: "<@812178562822963210>"
+    inline: false
+  - name: 'Resources:'
+    value: "[Mizuki Mastersheet](https://docs.google.com/spreadsheets/d/1eVOJNFSixEkdqqboqIlzcaaDSqFeKJ8pO9ES8asmWKs/edit?usp=sharing)"
+    inline: false
+  - name: DISCLAIMER
+    value: |-
+      *Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+      Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt.*
+    inline: false
+- title: __OVERVIEW__
+  description: "Mizuki is a 5-star Anemo Catalyst wielder whose method for dealing
+    damage is buffing and creating Swirl reactions while on-field. In addition to
+    this, she can heal the active party and heal herself twice as effectively. \n\nMost
+    of her damage is dealt during her Skill state that she enters on input, allowing
+    her to float around and periodically hit enemies while swirling elements and healing.
+    Since many of her abilities scale with Elemental mastery, it will be essential
+    to not only equip her with the 4pc Viridescent Venerer artifact set, but also
+    getting EM mainstats and substats.\n\nThis leaves Mizuki with limited, but budget-friendly
+    weapon and artifact options; VV has been around since the beginning of the game,
+    and since EM is the only stat that matters to Mizuki, throwing nearly any Elemental
+    Mastery catalyst on Mizuki will get the job done in terms of personal damage.
+    However, one of her biggest drawbacks is her team restrictions, synergizing only
+    with Pyro, Hydro, Electro, or Cryo characters that automatically attack from off
+    field on their own. This leaves options for teammates pretty limited.\n\nAlternatively,
+    Mizuki can be played as an off-field DPS with a buffing weapon like Hakushin Ring
+    so another character can play the role of the on-field DPS, but Mizuki’s abilities
+    are pretty constrained like this; her only job would be to Swirl and then leave
+    the battlefield. Considering the Skill only grants particles while she is on the
+    field, this is unwise unless you have lots of ER and energy-supportive teammates.\n\nHer
+    Burst is mostly used for healing, but is also used for incremental damage when
+    the healing isn’t used. It’s advised to make sure she can Burst, but you’ll likely
+    want a teammate like Fischl to ensure Burst ability without hampering Mizuki’s
+    potential Elemental Mastery.\n"
+  color: 13668276
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Avatar/UI_AvatarIcon_Mizuki.png

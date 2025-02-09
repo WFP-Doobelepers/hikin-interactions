@@ -1,0 +1,25 @@
+content: null
+embeds:
+- title: __ARTIFACTS__
+  description: |-
+    <:sands:1094559345364185119> *Sands of Eon:* EM or ER, depending on needs
+    <:goblet:1094559512968581130> *Goblet of Eonothem:* EM
+    <:circlet:1094559608581922966> *Circlet of Logos:* EM
+
+    **Substats:** ER (until requirement) > EM
+  color: 13668276
+- title: |-
+    __Artifact Sets__
+
+    **4pc Viridescent Venerer**
+  description: The ability to shred resistances to Pyro, Electro, Cryo, and Hydro
+    damage by 40% is the hallmark trait that nearly every Anemo unit cherishes. There
+    are simply no comparable options, since there are so few other sources of RES
+    shred besides Xilonen, Zhongli and Chevreuse (which disallows Anemo units in her
+    teams anyways).
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/Relic/UI_RelicIcon_15002_4.png
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png

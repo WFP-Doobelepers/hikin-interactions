@@ -1,0 +1,52 @@
+content: null
+embeds:
+- title: "**Constellation 3 - Till Dawn's Moon Ends Night**"
+  description: |-
+    > _Increases the Level of Aisa Utamakura Pilgrimage by 3.
+    > Maximum upgrade level is 15._
+
+    It’s just more damage. There’s not much to say here. It’s worse than C1 due to lack of quality-of-life, but comparable damage increase.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_U_Mizuki_01.png
+  fields:
+  - name: "***Personal DPS% Increase vs. C2:***"
+    value: 3.9%
+    inline: false
+  - name: "***Personal DPS% Increase vs. C0:***"
+    value: 55.17%
+    inline: false
+  - name: "***Rating:***"
+    value: 1/5
+    inline: false
+- title: "**Constellation 4 - Buds Warm Lucid Springs**"
+  description: |-
+    > _Picking up a Yumemi Style Special Snack from the Elemental Burst Anraku Secret Spring Therapy will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per Anraku Secret Spring Therapy duration._
+
+    This is more of a quality-of-life upgrade than anything. It puts a huge dent in any ER requirements she might have, but maybe not good enough for a fourth constellation.
+  color: 13668276
+  thumbnail:
+    url: https://homdgcat.wiki/homdgcat-res/AvatarSkill/UI_Talent_S_Mizuki_03.png
+  fields:
+  - name: "***Personal DPS% Increase vs. C3:***"
+    value: 0%
+    inline: false
+  - name: "***Personal DPS% Increase vs. C0:***"
+    value: 55.17%
+    inline: false
+  - name: "***Rating:***"
+    value: 2/5
+    inline: false
+  footer:
+    text: 'Authored by: Emiliabyss'
+    icon_url: https://i.imgur.com/j4XCJ0u.png
+
+buttons:
+- customId: liveInteraction#faq/anemo/mizuki/constellations1
+  label: Previous
+  style: PRIMARY
+  emoji: "◀️"
+- customId: liveInteraction#faq/anemo/mizuki/constellations3
+  label: Next
+  style: PRIMARY
+  emoji: "▶️"

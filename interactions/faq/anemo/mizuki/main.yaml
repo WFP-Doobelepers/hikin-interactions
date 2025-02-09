@@ -1,0 +1,75 @@
+content: null
+embeds:
+- title: A shareholder of Aisa Bathhouse, a baku, and a clinical psychologist. Dedicated
+    to the dispersal of nightmares, and to bringing people peace of mind.
+  description: |-
+    **DISCLAIMER**
+    _Pre-TC is volatile and, as always, perpetually subject to change until release (and sometimes later!). Please note that these are theoretical suggestions.
+    Everything described in this FAQ is a good faith analysis based on the little information about the character’s kit that we know. Team calcs, additionally, are not established yet, and as with everything in TC, the content in this FAQ should be taken with a grain of salt._
+  color: 13668276
+  image:
+    url: https://i.imgur.com/kuXEsvO.png
+  author:
+    name: Mizuki FAQ
+    icon_url: https://i.imgur.com/xxksq3t.png
+  fields:
+  - name: Mizuki Mastersheet by sew.
+    value: "[Google Sheet](https://docs.google.com/spreadsheets/d/1eVOJNFSixEkdqqboqIlzcaaDSqFeKJ8pO9ES8asmWKs/edit?usp=sharing)"
+
+
+options: #dropdown
+  - label: Overview
+    value: faq/anemo/mizuki/overview
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: WFP Subjective Analysis
+    value: faq/anemo/mizuki/analysis
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Talents
+    value: faq/anemo/mizuki/talents1
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Constellations
+    value: faq/anemo/mizuki/constellations1
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Energy Recharge Requirements
+    value: faq/anemo/mizuki/erreqs
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Artifacts
+    value: faq/anemo/mizuki/artifacts
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Weapons
+    value: faq/anemo/mizuki/weapons
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: Team Building
+    value: faq/anemo/mizuki/teams1
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+  - label: External Links
+    value: faq/anemo/mizuki/external
+    description: "WFP resources for Mizuki FAQ."
+    emoji: ${ EMOJIS.ANEMO_BOX }
+
+buttons:
+  - label: WFP FAQ
+    url: https://wangshengfp.org/faq/mizuki
+    emoji: ${ EMOJIS.WFP_LOGO }
+    style: LINK
+
+  - label: KQM Guide
+    url: https://keqingmains.com/q/mizuki-quickguide/
+    emoji: :logont:945530991240421386
+    style: LINK
