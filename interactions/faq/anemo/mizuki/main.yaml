@@ -19,49 +19,49 @@ embeds:
 
 options: #dropdown
   - label: Overview
-    value: faq/pyro/mizuki/overview
+    value: faq/anemo/mizuki/overview
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: WFP Subjective Analysis
-    value: faq/pyro/mizuki/analysis
+    value: faq/anemo/mizuki/analysis
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Talents
-    value: faq/pyro/mizuki/talents1
+    value: faq/anemo/mizuki/talents1
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Constellations
-    value: faq/pyro/mizuki/constellations1
+    value: faq/anemo/mizuki/constellations1
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Energy Recharge Requirements
-    value: faq/pyro/mizuki/erreqs
+    value: faq/anemo/mizuki/erreqs
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Artifacts
-    value: faq/pyro/mizuki/artifacts
+    value: faq/anemo/mizuki/artifacts
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Weapons
-    value: faq/pyro/mizuki/weapons
+    value: faq/anemo/mizuki/weapons
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: Team Building
-    value: faq/pyro/mizuki/teams1
+    value: faq/anemo/mizuki/teams1
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
   - label: External Links
-    value: faq/pyro/mizuki/external
+    value: faq/anemo/mizuki/external
     description: "WFP resources for Mizuki FAQ."
-    emoji: ${ EMOJIS.PYRO_BOX }
+    emoji: ${ EMOJIS.ANEMO_BOX }
 
 buttons:
   - label: WFP FAQ
